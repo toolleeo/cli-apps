@@ -79,17 +79,19 @@ apps:
         -
             name: classifier
             url: https://github.com/bhrigu123/classifier
-            description: "Organize files in your current directory,
+            description: |
+                Organize files in your current directory,
                 by classifying them into folders of music, pdfs,
-                images, etc."
+                images, etc.
     encryption:
         -
             name: titan
             url: https://www.byteptr.com/titan/
-            description: "Password management belongs to the
+            description: |
+                Password management belongs to the
                 command line, deep into the Unix heartland,
                 the shell. Titan is written in C and is available
-                under the MIT license."
+                under the MIT license.
     organizers:
         -
             name: khard
