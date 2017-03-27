@@ -32,7 +32,12 @@ apps:
             name: sc-im
             url: https://github.com/andmarti1424/sc-im
             description: Spreadsheet Calculator Improvised -- An
-                ncurses spreadsheet program for terminal.
+                ncurses spreadsheet program for terminal. It is rich
+                in functionalities, but the syntax of functions and
+                other details are different from the common spreadsheets
+                such as Excel and Calc, making difficult to "re-cycle"
+                existing knowledge on these programs to work proficiently
+                with sc-im. Neverthless, a nice piece of software.
         -
             name: rtop
             url: http://www.rtop-monitor.org/
