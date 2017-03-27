@@ -36,7 +36,7 @@ apps:
         -
             name: rtop
             url: http://www.rtop-monitor.org/
-            decription: rtop is a simple, agent-less, remote
+            description: rtop is a simple, agent-less, remote
                 server monitoring tool that works over plain SSH.
                 Written in golang, it does not need any software
                 to be installed on the server that you want to
