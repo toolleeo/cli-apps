@@ -1,5 +1,9 @@
 categories:
     -
+        label: utility
+        name: Utilities
+        description:
+    -
         label: encryption
         name: Encryption
         description: Cyphers, encryption and password managers
@@ -11,8 +15,859 @@ categories:
         label: file-managers
         name: File management
         description:
+    -
+        label: transfer
+        name: Data transfer
+        description:
+    -
+        label: chat
+        name: Chat and instant messaging (IM)
+        description:
+    -
+        label: email
+        name: Email
+        description: Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization
+    -
+        label: browser
+        name: Web browser
+        description:
+    -
+        label: webdev
+        name: Web development
+        description: static site generators ([staticgen.com](https://www.staticgen.com/) reports a comprehensive list of available options), load test tools.
+    -
+        label: games
+        name: Games and funny
+        description:
+    -
+        label: funny
+        name: Funny tools
+        description:
+    -
+        label: file-system
+        name: File and file system management
+        description: file managers, tagging, bookmarking, directory traversal
+    -
+        label: backup
+        name: Backup
+        description:
+    -
+        label: conversion
+        name: Conversion
+        description:
+    -
+        label: file-manager
+        name: File manager
+        description:
+    -
+        label: file-systems
+        name: File systems
+        description:
+    -
+        label: versioning
+        name: Versioning
+        description:
+    -
+        label: graphics
+        name: Graphics
+        description:
+    -
+        label: music
+        name: Sound and music
+        description:
+    -
+        label: viewers
+        name: Viewers
+        description:
+    -
+        label: productivity
+        name: Productivity
+        description:
+    -
+        label: organizers
+        name: Organizers and calendars
+        description: Todo managers, calendar managers
+    -
+        label: presentations
+        name: Presentations
+        description:
+    -
+        label: spreadsheet
+        name: Spreadsheet
+        description:
+    -
+        label: security
+        name: Security
+        description: cryptography, ciphered archive managers, encrypted file-systems
+    -
+        label: system
+        name: System tools
+        description:
+    -
+        label: shells
+        name: Shells
+        description:
+    -
+        label: monitor
+        name: System monitoring
+        description:
+    -
+        label: terminals
+        name: Terminals
+        description:
+    -
+        label: editors
+        name: Editors
+        description:
+    -
+        label: font
+        name: Font management
+        description:
+    -
+        label: text-processing
+        name: Text processing
+        description:
+    -
+        label: text-search
+        name: Text search
+        description:
 
 apps:
+    text-search:
+        -
+            name: ack
+            url: http://beyondgrep.com/
+            description: |
+                A tool like `grep` optimized for programmers; written in Perl, it speeds up searches thanks to skipping non-interesting directories, such as `.git`.
+        -
+            name: ag
+            url: https://github.com/ggreer/the_silver_searcher
+            description: |
+                (The silver searcher) is a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster.
+        -
+            name: paragrep
+            url: http://software.clapper.org/paragrep/
+            description: |
+                Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions; a paragraph is defined as a block of text delimited by an empty or blank line; fully customizable via command line parameters.
+        -
+            name: sift
+            url: https://sift-tool.org/
+            description: |
+                Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text.
+    text-processing:
+        -
+            name: ccat
+            url: https://github.com/jingweno/ccat
+            description: |
+                A `cat` command with colorized output.
+        -
+            name: fzf
+            url: https://github.com/junegunn/fzf
+            description: |
+                (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities; good integration with `vim`.
+        -
+            name: grc
+            url: https://github.com/pengwynn/grc
+            description: |
+                (Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.
+        -
+            name: jq
+            url: https://stedolan.github.io/jq/
+            description: |
+                (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
+        -
+            name: percol
+            url: https://github.com/mooz/percol
+            description: |
+                A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
+        -
+            name: q
+            url: http://harelba.github.io/q/
+            description: |
+                Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
+    font:
+        -
+            name: FIGlet
+            url: http://www.figlet.org/
+            description: |
+                Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
+        -
+            name: toilet
+            url: http://caca.zoy.org/wiki/toilet
+            description: |
+                A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
+    editors:
+        -
+            name: Emacs
+            url: https://www.gnu.org/software/emacs/
+            description: |
+                One of the godfathers of text editors; free long-standing software project; tons of extensions and funcionalities; the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed. 
+        -
+            name: jed
+            url: http://www.jedsoft.org/jed/index.html
+            description: |
+                A text editor with a drop-down menu facility that make it especially user-friendly.
+        -
+            name: joe
+            url: http://joe-editor.sourceforge.net/
+            description: |
+                (Joe's Own Editor) is a compact text editor written in C; a detailed list of features and missing ones is explicitly reported in the website; this editor is mentioned in several web sources for its capability in handling large files.
+        -
+            name: nano
+            url: https://www.nano-editor.org/
+            description: |
+                Easy to use, lightweigth text editor; no complex keybindings to remember.
+        -
+            name: neovim
+            url: https://neovim.io/
+            description: |
+                A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity and maintainability; it has chances to become the next choice of vim users.
+        -
+            name: slap
+            url: https://github.com/slap-editor/slap
+            description: |
+                Text editor inspired by [Sublime Text](https://www.sublimetext.com/) written in NodeJS; extedable in Javascript.
+        -
+            name: vai
+            url: https://github.com/stefanoborini/vai
+            description: |
+                A text editor similar to `vim` written in Python; many feature are nicely replicated, some are still missing; however, the advantage of this implementation is its simplicity, maintainability and extensibility, thanks to the Python implementation.
+        -
+            name: vim
+            url: http://www.vim.org/
+            description: |
+                Historically one of the preferred text editors; behavior based on editing modes; plenty of plugins and tips to address every possible editing problem. <span class="label label-success">Tool's choice</span>
+        -
+            name: vis
+            url: https://github.com/martanne/vis
+            description: |
+                "a modern, legacy free, simple yet efficient vim-like editor", and more: "The intention is not to be bug for bug compatible with vim, instead a similar editing experience should be provided. The goal could thus be summarized as 80% of vim's features implemented in roughly 1% of the code"; the editor is scriptable in LUA and supports editing large files.
+        -
+            name: WordGrinder
+            url: https://cowlark.com/wordgrinder/
+            description: |
+                From the website: "WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type."
+
+
+    terminals:
+        -
+            name: byobu
+            url: http://byobu.co/
+            description: |
+                A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
+        -
+            name: screen
+            url: https://www.gnu.org/software/screen/
+            description: |
+                Terminal multiplexer that split a physical terminal between several processes, typically interactive shells. <span class="label label-success">Tool's choice</span>
+        -
+            name: tmux
+            url: https://tmux.github.io/
+            description: |
+                Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more.
+    monitor:
+        -
+            name: cv
+            url: https://github.com/Xfennec/progress
+            description: |
+                (Coreutils Progress Viewer) "looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput".
+        -
+            name: glances
+            url: https://nicolargo.github.io/glances/
+            description: |
+                A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
+        -
+            name: GoTTY
+            url: https://github.com/yudai/gotty
+            description: |
+                A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
+        -
+            name: inxi
+            url: http://smxi.org/docs/inxi.htm
+            description: |
+                A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script.
+        -
+            name: iotop
+            url: http://guichaz.free.fr/iotop/
+            description: |
+                "A Python program with a top like UI used to show of behalf of which process is the I/O going on".
+        -
+            name: htop
+            url: http://hisham.hm/htop/
+            description: |
+                An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors. <span class="label label-primary">recommended</span>
+        -
+            name: multitail
+            url: https://www.vanheusden.com/multitail/
+            description: |
+                A command to open multiple log files in a single terminal window and monitor them in real-time.
+        -
+            name: ngrep
+            url: http://ngrep.sourceforge.net/
+            description: |
+                (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
+        -
+            name: progress
+            url: https://github.com/Xfennec/progress
+            description: |
+                A tool to monitor the progress of common Coreutils command-line tools (cp, mv, dd, tar, rsync, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
+        -
+            name: powertop
+            url: https://01.org/powertop
+            description: |
+                A `top`-like utility to monitor the sources of power consumption; allows to turn on/off many components; quite useful to track possible power-related issues.
+        -
+            name: smem
+            url: https://www.selenic.com/smem/
+            description: |
+                Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation.
+        -
+            name: top
+            url: http://www.unixtop.org/
+            description: |
+                The classical Unix utility that provides a rolling display of top cpu using processes.
+        -
+            name: watch
+            url: http://www.linfo.org/watch.html
+            description: |
+                Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
+    shells:
+        -
+            name: Bash
+            url: https://www.gnu.org/software/bash/
+            description: |
+                (Bourne Again SHell) The most widespread system shell to date. <span class="label label-success">Tool's choice</span>
+        -
+            name: Fish
+            url: https://fishshell.com/
+            description: |
+                "A command line shell for the 90s"; focused on user-friendliness, with powerful autosuggestions, colors, "sane scripting" (w.r.t. to Bash).
+        -
+            name: Zsh
+            url: http://www.zsh.org/
+            description: |
+                Alternative shell designed for interactive use.
+    system:
+        -
+            name: hstr
+            url: https://github.com/dvorka/hstr
+            description: |
+                A tool for managing the history; powerful visual search and execution of previous commands; history editing capabilities.
+        -
+            name: parallel
+            url: https://www.gnu.org/software/parallel/
+            description: |
+                A shell tool from GNU for executing jobs in parallel using one or more computers; it can split the input and pipe it into commands in parallel.
+    security:
+        -
+            name: encfs
+            url: http://www.arg0.net/#!encfs/c1awt
+            description: |
+                Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE); mounts an encrypted directory into a clear one.
+        -
+            name: LUKS
+            url: https://guardianproject.info/code/luks/
+            description: |
+                Hard disk encryption tool; it stores all setup information in the partition header, enabling easy data transport or migration.
+        -
+            name: safe.sh
+            url: https://github.com/windowsrefund/safe
+            description: |
+                Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html). <span class="label label-success">Tool's choice</span>
+    spreadsheet:
+        -
+            name: Teapot
+            url: https://www.syntax-k.de/projekte/teapot/
+            description: |
+                Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
+    presentations:
+        -
+            name: tpp
+            url: http://www.ngolde.de/tpp.html
+            description: |
+                (text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
+    organizers:
+        -
+            name: gcalcli
+            url: https://github.com/insanum/gcalcli
+            description: |
+                CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events.
+        -
+            name: khal
+            url: https://github.com/pimutils/khal
+            description: |
+                CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
+        -
+            name: khard
+            url: https://github.com/lucc/khard
+            description: |
+                Console carddav client written in Pyhton.
+        -
+            name: iKog
+            url: https://sites.google.com/site/henspace/ikog/
+            description: |
+                A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
+        -
+            name: Yokadi
+            url: https://yokadi.github.io/
+            description: |
+                Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.
+        -
+            name: Org mode
+            url: http://orgmode.org/
+            description: |
+                Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format. <span class="label label-success">Tool's choice</span>
+        -
+            name: pal
+            url: http://palcal.sourceforge.net/
+            description: |
+                Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
+        -
+            name: Remind
+            url: https://www.roaringpenguin.com/products/remind
+            description: |
+                Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format.
+        -
+            name: TaskWarrior
+            url: https://taskwarrior.org/
+            description: |
+                Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.
+        -
+            name: todo.txt
+            url: https://ginatrapani.github.io/todo.txt-cli/
+            description: |
+                Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a chell script.
+        -
+            name: todolist
+            url: http://todolist.site/
+            description: |
+                A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them.
+        -
+            name: TuDu
+            url: https://code.meskio.net/tudu/
+            description: |
+                A comand line interface to manage hierarchical todos. Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities.
+        -
+            name: Wyrd
+            url: http://freecode.com/projects/wyrd/
+            description: |
+                Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.
+    productivity:
+        -
+            name: arbtt
+            url: http://arbtt.nomeata.de/
+            description: |
+                (automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
+        -
+            name: ledger
+            url: http://ledger-cli.org/
+            description: |
+                A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
+        -
+            name: Qalculate
+            url: https://qalculate.github.io/
+            description: |
+                Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
+        -
+            name: Translate Shell
+            url: https://www.soimort.org/translate-shell/
+            description: |
+                Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+    viewers:
+        -
+            name: cacaview
+            url: http://caca.zoy.org/wiki/libcaca
+            description: |
+                A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
+        -
+            name: feh
+            url: https://feh.finalrewind.org/
+            description: |
+                "X11 image viewer aimed mostly at console users" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions.
+        -
+            name: mupdf
+            url: http://mupdf.com/
+            description: |
+                Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.
+        -
+            name: mplayer
+            url: http://www.mplayerhq.hu/design7/news.html
+            description: |
+                One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.
+        -
+            name: zathura
+            url: https://pwmt.org/projects/zathura/
+            description: |
+                Plugin based document file visualizer (PDF, DejaVu, PS); strongly key-based control. <span class="label label-success">Tool's choice</span>
+    music:
+        -
+            name: Alsamixer
+            url: http://www.alsa-project.org/main/index.php/Main_Page
+            description: |
+                ALSA mixer with curses interfaces. <span class="label label-success">Tool's choice</span>
+        -
+            name: cmus
+            url: https://cmus.github.io/
+            description: |
+                A fast and lightweight audio player with configurable keybindings and playlist support.
+        -
+            name: MOC
+            url: https://moc.daper.net/
+            description: |
+                (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard. <span class="label label-success">Tool's choice</span>
+        -
+            name: mpg123
+            url: http://mpg123.org/
+            description: |
+                Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files.
+        -
+            name: mps-youtube
+            url: https://github.com/mps-youtube/mps-youtube
+            description: |
+                A curses player for music tracks from Youtube; it allows to search for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters. <span class="label label-primary">recommended</span>
+        -
+            name: ogg123
+            url: https://www.xiph.org/downloads/
+            description: |
+                Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
+    graphics:
+        -
+            name: ImageMagick
+            url: http://www.imagemagick.org/script/index.php
+            description: |
+                Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves".
+        -
+            name: scrot
+            url: https://github.com/dreamer/scrot
+            description: |
+                A simple CLI tool to capture screenshots.
+    versioning:
+        -
+            name: git
+            url: https://git-scm.com/
+            description: |
+                The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend. <span class="label label-success">Tool's choice</span>
+        -
+            name: git-annex
+            url: https://git-annex.branchable.com/
+            description: |
+                Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
+        -
+            name: Mercurial
+            url: https://www.mercurial-scm.org/
+            description: |
+                Free, distributed source control management tool.
+        -
+            name: tig
+            url: https://github.com/jonas/tig
+            description: |
+                An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level.
+    file-systems:
+        -
+            name: sshfs
+            url: https://github.com/libfuse/sshfs
+            description: |
+                Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.
+        -
+            name: TMSU
+            url: http://tmsu.org/
+            description: |
+                A tool for tagging files; it provides a simple command-line tool for applying tags and a virtual filesystem so that you can get a tag-based view of your files from within any other program.
+    file-manager:
+        -
+            name: lfm
+            url: https://inigo.katxi.org/devel/lfm/
+            description: |
+                (Last File Manager) is a file manager written in Python; it comes lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, serch in files, customizable keybindings and themes. <span class="label label-primary">recommended</span>
+        -
+            name: Midnight Commander
+            url: http://www.midnight-commander.org/
+            description: |
+                a visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
+        -
+            name: ncursesFM
+            url: https://github.com/FedeDP/ncursesFM
+            description: |
+                File manager written in C; rather complete in terms of features; especially lightweight and responsive.
+        -
+            name: ranger
+            url: http://ranger.nongnu.org/
+            description: |
+                Console file manager with vi key bindings; curses interface with a view on the directory hierarchy; comes a file launcher that automatically finds out which program to use for a given file type.
+        -
+            name: vifm
+            url: https://vifm.info/
+            description: |
+                "ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt" (cit.).
+    conversion:
+        -
+            name: catdoc
+            url: http://www.wagner.pp.ru/~vitus/software/catdoc/
+            description: |
+                Command line converter from Microsoft Word to plain text; output is sent to the standard output.
+        -
+            name: Pandoc
+            url: http://pandoc.org/
+            description: |
+                Universal document file converter; handles input/output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
+        -
+            name: xls2csv
+            url: http://www.wagner.pp.ru/~vitus/software/catdoc/
+            description: |
+                Command line converter from Excel to CSV file format.
+    backup:
+        -
+            name: borg
+            url: https://github.com/borgbackup
+            description: |
+                Encrypted backups with a clean and simple interface; easy to use and set up; possibility to mount the backup archive with FUSE and inspect it as a regular file system. <span class="label label-success">Tool's choice</span>
+        -
+            name: duplicity
+            url: http://duplicity.nongnu.org/
+            description: |
+                Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers.
+        -
+            name: Duply
+            url: http://duply.net/
+            description: |
+                Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.
+    file-system:
+        -
+            name: detox
+            url: http://detox.sourceforge.net/
+            description: |
+                A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP-1252) characters with more handy ones.
+        -
+            name: dtrx
+            url: https://brettcsmith.org/2007/dtrx/
+            description: |
+                (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formatsl supports tar, zip, deb, rpm, 7z, rar, gz, bz2, xz; supports recursive extraction (files into file) and extracts files into dedicated directories.
+        -
+            name: rename
+            url: https://www.kernel.org/pub/linux/utils/util-linux/
+            description: |
+                Included in `util-linux`, allows bulk rename of files with regex support. <span class="label label-primary">recommended</span>
+        -
+            name: renameutils
+            url: http://www.nongnu.org/renameutils/
+            description: |
+                A set of programs to change file and directory names by editing them inplace; I find `imv` especially useful to edit a filename at the program prompt.
+        -
+            name: rmlint
+            url: https://github.com/sahib/rmlint/
+            description: |
+                A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.
+        -
+            name: PathPicker
+            url: https://facebook.github.io/PathPicker/
+            description: |
+                A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories.
+        -
+            name: tree
+            url: http://mama.indstate.edu/users/ice/tree/
+            description: |
+                "Recursive directory listing command that produces a depth indented listing of files". <span class="label label-primary">recommended</span>
+    funny:
+        -
+            name: cmatrix
+            url: http://www.asty.org/cmatrix/
+            description: |
+                ncurses program that display the scrolling lines found in the movie `The matrix`.
+        -
+            name: cowsay
+            url: https://en.wikipedia.org/wiki/Cowsay
+            description: |
+                A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
+        -
+            name: cowthink
+            url: https://en.wikipedia.org/wiki/Cowsay
+            description: |
+                Same as `cowsay`, but uses a "think" bubble instead of a speech bubble.
+        -
+            name: fortune
+            url: http://software.clapper.org/fortune/
+            description: |
+                Generates random messages feched from a quotation database.
+        -
+            name: Steam Locomotive
+            url: http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html
+            description: |
+                A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.
+    games:
+        -
+            name: bastet
+            url: http://fph.altervista.org/prog/bastet.html
+            description: |
+                (Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.
+        -
+            name: Dwarf fortress
+            url: http://www.bay12games.com/dwarves/
+            description: |
+                A fantasy game using ASCII art graphical representation of the game environment; it features a rich environment with many options and possibilities.
+        -
+            name: freesweep
+            url: http://www.upl.cs.wisc.edu/~hartmann/sweep/
+            description: |
+                A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns (up to 1024x1024!), percentage of bombs, colors and also has a highscores table.
+        -
+            name: Nethack
+            url: http://nethack.org/
+            description: |
+                Single player rogue-like dungeon exploration game; I'm currently addicted to [Pixel Dungeon](http://pixeldungeon.watabou.ru/) and its derivatives (Android apps), thus I find nethack a little bit too graphically poor.
+        -
+            name: Oldrunner
+            url: http://culot.org/public/Code/oldrunner.html
+            description: |
+                Character-based remake of Lode Runner; includes all the original 150 levels.
+        -
+            name: Slash'EM
+            url: http://slashem.sourceforge.net/
+            description: |
+                Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version.
+        -
+            name: Typespeed
+            url: http://typespeed.sourceforge.net/
+            description: |
+                Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words. <span class="label label-primary">recommended</span>
+    webdev:
+        -
+            name: Metalsmith
+            url: http://www.metalsmith.io/
+            description: |
+                An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.
+        -
+            name: nanoc
+            url: http://nanoc.ws/
+            description: |
+                Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content. <span class="label label-success">Tool's choice</span>
+        -
+            name: siege
+            url: https://www.joedog.org/siege-home/
+            description: |
+                An http load testing and benchmarking utility designed to let web developers stress their code.
+        -
+            name: Tsung
+            url: http://tsung.erlang-projects.org/
+            description: |
+                A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
+    browser:
+        -
+            name: Links
+            url: http://www.jikos.cz/~mikulas/links//
+            description: |
+                A textual Web browser with tables and frames.
+        -
+            name: Elinks
+            url: http://elinks.cz/
+            description: |
+                "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
+        -
+            name: Linx
+            url: http://lynx.invisible-island.net/
+            description: |
+                A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.
+        -
+            name: w3m
+            url: http://w3m.sourceforge.net/
+            description: |
+                A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.
+    email:
+        -
+            name: alpine
+            url: http://www.washington.edu/alpine/
+            description: |
+                Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
+        -
+            name: alot
+            url: https://github.com/pazz/alot
+            description: |
+                MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend; MailDir format support.
+        -
+            name: mbsync
+            url: http://isync.sourceforge.net/mbsync.html
+            description: |
+                Mailboxes synchronization tool; allows to download email locally; MailDir format supported.
+        -
+            name: Mutt
+            url: http://www.mutt.org/
+            description: |
+                Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
+        -
+            name: sup
+            url: http://sup-heliotrope.github.io/
+            description: |
+                MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
+    transfer:
+        -
+            name: aria2
+            url: https://github.com/aria2/aria2
+            description: |
+                Lightweight and easy-to-use download utility; it
+                supports HTTP/HTTPS, FTP, SFTP, BitTorrent,
+                Metalink and multiple sources; cross-platform.
+        -
+            name: curl
+            url: https://curl.haxx.se/
+            description: |
+                A tool and library for transferring data with URL syntax; supports a lot of protocols.
+        -
+            name: Deluge
+            url: http://deluge-torrent.org/
+            description: |
+                A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads. <span class="label label-success">Tool's choice</span>
+        -
+            name: lftp
+            url: https://lftp.yar.ru/
+            description: |
+                "Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols"; support for bookmarks and mirroring features.
+        -
+            name: rsync
+            url: https://download.samba.org/pub/rsync/rsync.html
+            description: |
+                Mirror directories across networked machines; handles diffs/changed files; works across SSH; plenty of parameters. <span class="label label-success">Tool's choice</span>
+        -
+            name: sitecopy
+            url: http://www.manyfish.co.uk/sitecopy/
+            description: |
+                Synchronizes a local copy of a website with a remote copy on a server; does not use SSH/scp but FTP for file copy; useful when the remote server does not support secure copy. <span class="label label-success">Tool's choice</span>
+        -
+            name: stftp
+            url: http://stftp.sourceforge.net/
+            description: |
+                (simple terminal FTP) aims to be a "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
+        -
+            name: Woof
+            url: http://www.home.unix-ag.org/simon/woof.html
+            description: |
+                (Web Offer One File) sets up an HTTP webserver to serve files from a given local directory; all the users connected to the network can see and download the files.
+        -
+            name: youtube-dl
+            url: http://rg3.github.io/youtube-dl/
+            description: |
+                Downloads videos from [YouTube](https://www.youtube.com/) and some other sites; useful for automated bulk downloads.
+    chat:
+        -
+            name: finch
+            url: http://www.pidgin.im/
+            description: IM program supporting many protocols, 
+                including Yahoo!, AIM, IRC, or WLM; comes with
+                the `Pidgin` project.
+        -
+            name: irssi
+            url: http://www.irssi.org
+            description: The most popular IRC client for the
+                command-line; a flexible program, with many 
+                options and supporting many protocols.
+        -
+            name: RainbowStream
+            url: http://www.rainbowstream.org/
+            description: Twitter client for the terminal; allows
+                almost all the operations that can be done from
+                GUI and Web clients.
+        -
+            name: WeeChat
+            url: http://weechat.org/
+            description: A "fast, light and extensible chat client".
     misc-or-to-classify:
         -
             name: PSSH
@@ -75,6 +930,22 @@ apps:
             url: https://github.com/busyloop/lolcat
             description: Ruby Gem to colorize the output of the
                 cat command.
+    utility:
+        -
+            name: termsaver
+            url: http://termsaver.brunobraga.net/
+            description: |
+                termsaver to enjoy fancy ASCII screensavers like
+                matrix, clock, starwars, and a couple of
+                not-safe-for-work screens.
+        -
+            name: dateutils
+            url: http://www.fresse.org/dateutils/
+            description: |
+                Dateutils are a bunch of tools that revolve around
+                fiddling with dates and times in the command line
+                with a strong focus on use cases that arise when
+                dealing with large amounts of financial data.
     file-managers:
         -
             name: classifier
@@ -93,6 +964,13 @@ apps:
                 the shell. Titan is written in C and is available
                 under the MIT license.
     organizers:
+        -
+            name: calendar
+            url:
+            description: |
+                /usr/bin/calendar on Debian/Ubuntu is a modification
+                of the BSD calendar, but it omits the moon and sun phases.
+                It retains multiple calendars.
         -
             name: khard
             url: https://github.com/lucc/khard
