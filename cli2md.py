@@ -1,8 +1,37 @@
 from yaml import load
 
+summary = """
+# Summary
 
-def print_app(app):
-    print("* [{}]({}) - {}".format(app["name"], app["url"], app["description"]))
+To date, **{}** apps/tools covered, divided in **{}** categories; **8** related sites reviewed and listed:
+
+# Index
+
+{}
+Some links to [related resources](#resources).
+
+I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
+"""
+
+def fmt_app(app):
+    descr = ''.join(c if c != '\n' else ' ' for c in app["description"])
+    return("#### [{}]({})\n\n{}\n".format(app["name"], app["url"], descr))
+
+
+def print_apps(cats, apps):
+    for cat_item in cats:
+        category = cat_item["label"]
+        print('## <a name="{}"></a>{}\n'.format(category, cat_item["name"]))
+        for app in apps[category]:
+            print(fmt_app(app))
+
+
+def fmt_cats(cats):
+    st = []
+    for cat_item in cats:
+        category = cat_item["label"]
+        st.append("* [{}](#{})\n".format(cat_item["name"], cat_item["label"]))
+    return ''.join(st)
 
 
 def count_apps(apps):
@@ -11,12 +40,11 @@ def count_apps(apps):
         tot += len(apps[cat])
     return tot
 
+
 with open('cli-apps.yaml', 'r') as yf:
     data = load(yf)
     # print(data)
     apps = data["apps"]
-    for cat in apps:
-        print("\n{}\n".format(cat))
-        for app in apps[cat]:
-            print_app(app)
-    print("\nTotal: {} apps.".format(count_apps(apps)))
+    cats = data["categories"]
+    print(summary.format(count_apps(apps), len(cats), fmt_cats(cats)))
+    print_apps(cats, apps)
