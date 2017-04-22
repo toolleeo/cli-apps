@@ -4,10 +4,6 @@ categories:
         name: Utilities
         description:
     -
-        label: encryption
-        name: Encryption
-        description: Cyphers, encryption and password managers
-    -
         label: organizers
         name: Organizers and calendars
         description: Todo managers, calendar managers
@@ -100,8 +96,8 @@ categories:
         description:
     -
         label: security
-        name: Security
-        description: cryptography, ciphered archive managers, encrypted file-systems
+        name: Security and encryption
+        description: cryptography, ciphered archive managers, encrypted file-systems, password managers
     -
         label: system
         name: System tools
@@ -493,6 +489,14 @@ apps:
                 clean; uses [gnugpg](https://gnupg.org/) for
                 encryption/decryption, thus can leverage tools like
                 [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html).
+        -
+            name: titan
+            url: https://www.byteptr.com/titan/
+            description: |
+                Password management belongs to the
+                command line, deep into the Unix heartland,
+                the shell. Titan is written in C and is available
+                under the MIT license.
     spreadsheet:
         -
             name: Teapot
@@ -1260,15 +1264,6 @@ apps:
                 Organize files in your current directory,
                 by classifying them into folders of music, pdfs,
                 images, etc.
-    encryption:
-        -
-            name: titan
-            url: https://www.byteptr.com/titan/
-            description: |
-                Password management belongs to the
-                command line, deep into the Unix heartland,
-                the shell. Titan is written in C and is available
-                under the MIT license.
 
 resources:
     -
