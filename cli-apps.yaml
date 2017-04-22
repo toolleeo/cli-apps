@@ -91,10 +91,6 @@ categories:
         name: Productivity
         description:
     -
-        label: organizers
-        name: Organizers and calendars
-        description: Todo managers, calendar managers
-    -
         label: presentations
         name: Presentations
         description:
@@ -1273,34 +1269,6 @@ apps:
                 command line, deep into the Unix heartland,
                 the shell. Titan is written in C and is available
                 under the MIT license.
-    organizers:
-        -
-            name: calendar
-            url:
-            description: |
-                /usr/bin/calendar on Debian/Ubuntu is a modification
-                of the BSD calendar, but it omits the moon and sun phases.
-                It retains multiple calendars.
-        -
-            name: khard
-            url: https://github.com/lucc/khard
-            description: Console carddav client written in Pyhton.
-        -
-            name: TuDu
-            url: https://code.meskio.net/tudu/
-            description: A comand line interface to manage
-                hierarchical todos. Each task has a title,
-                a long text description, a deadline (tudu
-                warns you when the date is close), and a
-                scheduled date. There are categories and
-                priorities.
-        -
-            name: TaskWarrior
-            url: https://taskwarrior.org/
-            description: Todo manager with advanced features;
-                dedicated synchronization server available;
-                many plugins and related tools;
-                healthy software project.
 
 resources:
     -
