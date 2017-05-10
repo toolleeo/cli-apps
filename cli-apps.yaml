@@ -398,7 +398,7 @@ apps:
             url: https://github.com/Xfennec/progress
             description: |
                 A tool to monitor the progress of common Coreutils
-                command-line tools (cp, mv, dd, tar, rsync, etc.); it
+                command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it
                 uses an ncurses interface to display the percentage of
                 data copied; it works by reading from system files and
                 retrieving the necessary information for the estimation.
@@ -1182,7 +1182,7 @@ apps:
             url: http://www.manyfish.co.uk/sitecopy/
             description: |
                 Synchronizes a local copy of a website with a remote
-                copy on a server; does not use SSH/scp but FTP for
+                copy on a server; does not use SSH/`scp` but FTP for
                 file copy; useful when the remote server does not
                 support secure copy.
         -
@@ -1298,7 +1298,7 @@ apps:
             name: gcp
             url: https://github.com/petronny/gcp
             description: |
-                gcp (Goffi’s cp) is an advanced file copier tool,
+                `gcp` (Goffi’s cp) is an advanced file copier tool,
                 heavily inspired from the traditional `cp` command
                 utility, but with some additional features: Displays
                 the copy progress indicator, with estimated time,
