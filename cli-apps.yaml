@@ -453,6 +453,19 @@ apps:
                 Alternative shell designed for interactive use.
     system:
         -
+            name: task-spooler
+            url: http://vicerveza.homeunix.net/~viric/soft/ts/
+            description: |
+                As the name implies, Task spooler is a Unix batch system 
+                that can be used to add the Linux commands to the queue
+                and execute them one after the other in numerical order
+                (ascending order, to be precise). This can be very useful
+                when you have to run a lots of commands, but you don't want
+                to waste time waiting for one command to finish and run the
+                next command. You can queue it all up and Task Spooler will
+                execute them one by one. In the mean time, you can do other
+                activities.
+        -
             name: ttyload
             url: http://www.daveltd.com/src/util/ttyload/
             description: |
