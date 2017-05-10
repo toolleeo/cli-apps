@@ -1250,6 +1250,16 @@ apps:
                 cat command.
     utility:
         -
+            name: gcp
+            url: https://github.com/petronny/gcp
+            description: |
+                gcp (Goffi’s cp) is an advanced file copier tool,
+                heavily inspired from the traditional `cp` command
+                utility, but with some additional features: Displays
+                the copy progress indicator, with estimated time,
+                current file speed; logs of all actions; resume of
+                interrupted copy processes.
+        -
             name: termsaver
             url: http://termsaver.brunobraga.net/
             description: |
