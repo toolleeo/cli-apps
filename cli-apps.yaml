@@ -453,6 +453,15 @@ apps:
                 Alternative shell designed for interactive use.
     system:
         -
+            name: Ntfy
+            url: https://github.com/dschep/ntfy
+            description: |
+                Ntfy is a simple yet serviceable cross-platform Python
+                utility that enables you to automatically get desktop
+                notifications on demand or when long running commands
+                complete. It can as well send push notifications to
+                your phone once a particular command completes.
+        -
             name: task-spooler
             url: http://vicerveza.homeunix.net/~viric/soft/ts/
             description: |
