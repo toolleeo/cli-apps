@@ -1230,6 +1230,11 @@ apps:
             name: WeeChat
             url: http://weechat.org/
             description: A "fast, light and extensible chat client".
+        -
+            name: ssh-chat
+            url: https://github.com/shazow/ssh-chat
+            description: "Custom SSH server written in Go. Instead of a
+                shell, you get a chat prompt."
     misc-or-to-classify:
         -
             name: PSSH
