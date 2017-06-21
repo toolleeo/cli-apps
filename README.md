@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **163** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **164** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -538,6 +538,10 @@ Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](http
 Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license. 
 
 ## <a name="system"></a>System tools
+
+#### [conspy](http://conspy.sourceforge.net/)
+
+"Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 
 #### [Ntfy](https://github.com/dschep/ntfy)
 

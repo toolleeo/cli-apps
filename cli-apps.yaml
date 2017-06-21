@@ -460,6 +460,12 @@ apps:
                 Alternative shell designed for interactive use.
     system:
         -
+            name: conspy
+            url: http://conspy.sourceforge.net/
+            description: |
+                "Conspy allows a (possibly remote) user to see what is displayed
+                on a Linux virtual console, and send keystrokes to it."
+        -
             name: Ntfy
             url: https://github.com/dschep/ntfy
             description: |
