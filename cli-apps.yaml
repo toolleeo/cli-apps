@@ -757,6 +757,12 @@ apps:
                 ability to browse and add files from outside of MPD
                 music directory.
         -
+            name: espeak
+            url: http://espeak.sourceforge.net/
+            description: |
+                "a compact open source software speech synthesizer for English
+                and other languages."
+        -
             name: Alsamixer
             url: http://www.alsa-project.org/main/index.php/Main_Page
             description: |

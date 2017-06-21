@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **165** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **166** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -434,6 +434,10 @@ A simple CLI tool to capture screenshots.
 #### [ncmpcpp](https://rybczak.net/ncmpcpp/)
 
 NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory. 
+
+#### [espeak](http://espeak.sourceforge.net/)
+
+"a compact open source software speech synthesizer for English and other languages." 
 
 #### [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page)
 
