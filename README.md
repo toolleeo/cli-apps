@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **160** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **161** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -512,6 +512,10 @@ Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in fu
 Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software.
 
 ## <a name="security"></a>Security and encryption
+
+#### [hashcat](https://hashcat.net/hashcat/)
+
+A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash. 
 
 #### [encfs](http://www.arg0.net/#!encfs/c1awt)
 
