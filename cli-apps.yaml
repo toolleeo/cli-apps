@@ -1000,6 +1000,11 @@ apps:
                 depth indented listing of files".
     funny:
         -
+            name: asciiacquarium
+            url: http://www.robobunny.com/projects/asciiquarium/html/
+            description: |
+                Enjoy the mysteries of the sea from the safety of your own terminal!
+        -
             name: cmatrix
             url: http://www.asty.org/cmatrix/
             description: |

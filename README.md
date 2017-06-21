@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **164** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **165** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -286,6 +286,10 @@ Rogue-like game derived from `nethack` offering extra features, monsters, and it
 Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words. 
 
 ## <a name="funny"></a>Funny tools
+
+#### [asciiacquarium](http://www.robobunny.com/projects/asciiquarium/html/)
+
+Enjoy the mysteries of the sea from the safety of your own terminal! 
 
 #### [cmatrix](http://www.asty.org/cmatrix/)
 
