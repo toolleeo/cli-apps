@@ -259,6 +259,13 @@ apps:
                 Easy to use, lightweigth text editor; no complex
                 keybindings to remember.
         -
+            name: micro
+            url: https://github.com/zyedidia/micro/
+            description: |
+                A terminal-based text editor written in Go that aims to be easy to use
+                and intuitive, while also taking advantage of the full capabilities of
+                modern terminals. 
+        -
             name: neovim
             url: https://neovim.io/
             description: |

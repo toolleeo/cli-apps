@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **161** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **162** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -654,6 +654,10 @@ A text editor with a drop-down menu facility that make it especially user-friend
 #### [nano](https://www.nano-editor.org/)
 
 Easy to use, lightweigth text editor; no complex keybindings to remember. 
+
+#### [micro](https://github.com/zyedidia/micro/)
+
+A terminal-based text editor written in Go that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.  
 
 #### [neovim](https://neovim.io/)
 
