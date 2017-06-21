@@ -3,7 +3,7 @@ from yaml import load
 summary = """
 # Summary
 
-To date, **{}** apps/tools covered, divided in **{}** categories; **8** related sites reviewed and listed:
+To date, **{}** apps/tools covered, divided in **{}** categories; **8** related sites reviewed and listed.
 
 # Index
 
