@@ -566,6 +566,13 @@ apps:
                 CLI and terminal calendar program, able to synchronize
                 with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
         -
+            name: ppl addressbook
+            url: http://ppladdressbook.org/
+            description: |
+                "``ppl`` is free software made out of other free software.
+                It's built on top of Ruby and Git, and the completely free
+                vcard address book format."
+        -
             name: khard
             url: https://github.com/lucc/khard
             description: |

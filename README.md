@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **159** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **160** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -82,6 +82,10 @@ CLI to access Google Calendars; allows to do the main tasks: create, delete, and
 #### [khal](https://github.com/pimutils/khal)
 
 CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer). 
+
+#### [ppl addressbook](http://ppladdressbook.org/)
+
+"``ppl`` is free software made out of other free software. It's built on top of Ruby and Git, and the completely free vcard address book format." 
 
 #### [khard](https://github.com/lucc/khard)
 
