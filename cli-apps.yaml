@@ -727,6 +727,10 @@ apps:
                 characters) in the shell; provides a GUI for graphical
                 visualization.
         -
+            name: mpv
+            url: https://mpv.io/
+            description: |
+                A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
             name: zathura
             url: https://pwmt.org/projects/zathura/
             description: |
