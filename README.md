@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **166** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **167** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -256,6 +256,10 @@ An http load testing and benchmarking utility designed to let web developers str
 A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers. 
 
 ## <a name="games"></a>Games and funny
+
+#### [StarWars vision](None)
+
+See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``. 
 
 #### [bastet](http://fph.altervista.org/prog/bastet.html)
 

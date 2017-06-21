@@ -1043,6 +1043,11 @@ apps:
                 left if `sl` is typed instead of `ls`.
     games:
         -
+            name: StarWars vision
+            url:
+            description: |
+                See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``.
+        -
             name: bastet
             url: http://fph.altervista.org/prog/bastet.html
             description: |
