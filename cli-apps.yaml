@@ -498,6 +498,13 @@ apps:
                 and pipe it into commands in parallel.
     security:
         -
+            name: hashcat
+            url: https://hashcat.net/hashcat/
+            description: |
+                A robust and efficient password cracking tool that can help
+                you recover lost passwords, audit password security, benchmark,
+                or just figure out what data is stored in a hash.
+        -
             name: encfs
             url: http://www.arg0.net/#!encfs/c1awt
             description: |
