@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **162** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **163** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -472,6 +472,10 @@ Lightweight graphical PDF visualizer; strong key-based control; fast and accurat
 #### [mplayer](http://www.mplayerhq.hu/design7/news.html)
 
 One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization. 
+
+#### [mpv](https://mpv.io/)
+
+A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources. 
 
 #### [zathura](https://pwmt.org/projects/zathura/)
 
