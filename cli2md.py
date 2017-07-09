@@ -26,12 +26,12 @@ def print_apps(cats, apps):
             print(fmt_app(app))
 
 
-def fmt_cats(cats):
+def fmt_cats(cats, apps):
     newlist = sorted(cats, key=lambda k: k['name'])
     st = []
     for cat_item in newlist:
         category = cat_item["label"]
-        st.append("[{}](#{})".format(cat_item["name"], cat_item["label"]))
+        st.append("[{}](#{}) ({})".format(cat_item["name"], cat_item["label"], len(apps[cat_item["label"]])))
     return ' | '.join(st)
 
 
@@ -47,5 +47,5 @@ with open('cli-apps.yaml', 'r') as yf:
     # print(data)
     apps = data["apps"]
     cats = data["categories"]
-    print(summary.format(count_apps(apps), len(cats), fmt_cats(cats)))
+    print(summary.format(count_apps(apps), len(cats), fmt_cats(cats, apps)))
     print_apps(cats, apps)
