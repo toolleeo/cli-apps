@@ -27,7 +27,7 @@ To date, **169** apps/tools covered, divided in **31** categories; **8** related
 * [Email](#email)
 * [Web browser](#browser)
 * [Web development](#webdev)
-* [Games and funny](#games)
+* [Games](#games)
 * [Funny tools](#funny)
 * [File and file system management](#file-system)
 * [Backup](#backup)
@@ -259,7 +259,7 @@ An http load testing and benchmarking utility designed to let web developers str
 
 A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers. 
 
-## <a name="games"></a>Games and funny
+## <a name="games"></a>Games
 
 #### [StarWars vision](None)
 
