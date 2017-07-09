@@ -27,11 +27,12 @@ def print_apps(cats, apps):
 
 
 def fmt_cats(cats):
+    newlist = sorted(cats, key=lambda k: k['name'])
     st = []
-    for cat_item in cats:
+    for cat_item in newlist:
         category = cat_item["label"]
-        st.append("* [{}](#{})\n".format(cat_item["name"], cat_item["label"]))
-    return ''.join(st)
+        st.append("[{}](#{})".format(cat_item["name"], cat_item["label"]))
+    return ' | '.join(st)
 
 
 def count_apps(apps):
