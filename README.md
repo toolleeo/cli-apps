@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **168** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **169** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -532,6 +532,10 @@ Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in fu
 Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software.
 
 ## <a name="security"></a>Security and encryption
+
+#### [cipher](https://github.com/ash-shell/cipher)
+
+An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories. 
 
 #### [hashcat](https://hashcat.net/hashcat/)
 

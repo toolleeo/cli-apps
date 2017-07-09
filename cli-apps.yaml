@@ -511,6 +511,17 @@ apps:
                 and pipe it into commands in parallel.
     security:
         -
+            name: cipher
+            url: https://github.com/ash-shell/cipher
+            description: |
+                An Ash module that makes it easy to perform aes-256-cbc
+                encryption for files and directories.
+            articles:
+                -
+                    title: Linux-how-to by Alain Francois (posted June 27, 2017)
+                    url: https://linoxide.com/linux-how-to/cipher-command-line-tool-encrypt-decrypt-files-directories/
+                    date: 2017-07-09
+        -
             name: hashcat
             url: https://hashcat.net/hashcat/
             description: |
