@@ -15,7 +15,7 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **167** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **168** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
 
 # Index
 
@@ -154,6 +154,10 @@ A lightweight, Free Software, cross-platform BitTorrent client; a terminal curse
 #### [lftp](https://lftp.yar.ru/)
 
 "Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols"; support for bookmarks and mirroring features. 
+
+#### [Magic Wormhole](https://github.com/warner/magic-wormhole)
+
+The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes. 
 
 #### [rsync](https://download.samba.org/pub/rsync/rsync.html)
 

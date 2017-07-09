@@ -1219,6 +1219,14 @@ apps:
                 program supporting a number of network protocols";
                 support for bookmarks and mirroring features.
         -
+            name: Magic Wormhole
+            url: https://github.com/warner/magic-wormhole
+            description: |
+                The program allows transfer arbitrary-sized files and
+                directories (or short pieces of text) from one computer to another
+                The two endpoints are identified by using identical
+                human-readable codes.
+        -
             name: rsync
             url: https://download.samba.org/pub/rsync/rsync.html
             description: |
