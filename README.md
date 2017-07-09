@@ -20,6 +20,7 @@ To date, **169** apps/tools covered, divided in **31** categories; **8** related
 # Index
 
 [Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system management](#file-system) (7) | [File management](#file-managers) (1) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Organizers and calendars](#organizers) (14) | [Presentations](#presentations) (1) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [Spreadsheet](#spreadsheet) (2) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (4) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+
 Some links to [related resources](#resources).
 
 I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
