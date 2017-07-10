@@ -289,6 +289,9 @@ A steam locomotive traverses the screen from right to left if `sl` is typed inst
 
 Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc. 
 
+References
+* [Automatically Organize Your Downloads Folder In Linux Using Classifier](http://www.webupd8.org/2017/03/automatically-organize-your-downloads.html?m=1) (rev. 2017-07-10) - My downloads folder is pretty messy but I can't just delete things because I still need most of the stuff I download. To "fix" this, I was looking for an app that can automatically organize my downloads, and I stumbled upon Classifier, an easy to use command line tool that can organize files in any directory.
+
 #### [detox](http://detox.sourceforge.net/)
 
 A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones. 
@@ -528,6 +531,9 @@ Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](http
 
 Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license. 
 
+References
+* [A Command line Password Manager For Linux](https://www.ostechnix.com/titan-command-line-password-manager-linux/) (rev. 2017-07-10) - There are plethora of GUI based password managers. A quick google search will lead you to pick one suitable for you. But the command line password managers are very few. The one today we talk about is Titan. It is written using C programming language. It uses SQlite.
+
 ## <a name="system"></a>System tools
 
 #### [conspy](http://conspy.sourceforge.net/)
@@ -621,6 +627,9 @@ The classical Unix utility that provides a rolling display of top cpu using proc
 #### [watch](http://www.linfo.org/watch.html)
 
 Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs. 
+
+References
+* [Watch command to execute script/shell command repeatedly](http://kerneltalks.com/commands/watch-command-to-execute-scriptshell-command-repeatedly/) (rev. 2017-07-10) - “watch” command is small utility using which you can execute shell command or script repetitively and after every n seconds. Its helpful in automation or monitoring.
 
 ## <a name="terminals"></a>Terminals
 
