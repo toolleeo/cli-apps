@@ -61,7 +61,7 @@ with open('resources.yaml', 'r') as yf:
     res = load(yf)
     md_res = ''
     for r in res['resources']:
-        md_res += '[{}](#{}) - {}\n\n'.format(r['title'], r['url'], r['description'])
+        md_res += '[{}]({}) - {}\n\n'.format(r['title'], r['url'], r['description'])
 
 
 print(summary.format(count_apps(apps), len(cats), fmt_cats(cats, apps)))
