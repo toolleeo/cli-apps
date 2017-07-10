@@ -15,7 +15,7 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 """
 
 resources = """
-# <a name="#resources"></a>Related resources
+# <a name="resources"></a>Related resources
 
 A list of some online resoures that contribute interesting links to apps and info.
 

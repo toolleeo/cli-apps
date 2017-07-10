@@ -734,7 +734,7 @@ Greps regular expressions in a text file(s) and prints out the paragraphs contai
 Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text. 
 
 
-# <a name="#resources"></a>Related resources
+# <a name="resources"></a>Related resources
 
 A list of some online resoures that contribute interesting links to apps and info.
 
