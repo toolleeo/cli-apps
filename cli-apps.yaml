@@ -446,6 +446,15 @@ apps:
                 easy to check differences between the output of two
                 subsequent commands; it provides "diff" functionality
                 to highlight the changing characters between outputs.
+            articles:
+                -
+                    title: "Watch command to execute script/shell command repeatedly"
+                    date: 2017-07-10
+                    url: http://kerneltalks.com/commands/watch-command-to-execute-scriptshell-command-repeatedly/
+                    description: “watch” command is small utility using which
+                        you can execute shell command or script repetitively
+                        and after every n seconds. Its helpful in automation
+                        or monitoring.
     shells:
         -
             name: Bash
@@ -564,6 +573,16 @@ apps:
                 command line, deep into the Unix heartland,
                 the shell. Titan is written in C and is available
                 under the MIT license.
+            articles:
+                -
+                    title: "A Command line Password Manager For Linux"
+                    url: https://www.ostechnix.com/titan-command-line-password-manager-linux/
+                    date: 2017-07-10
+                    description: There are plethora of GUI based password managers.
+                        A quick google search will lead you to pick one suitable for
+                        you. But the command line password managers are very few.
+                        The one today we talk about is Titan. It is written using
+                        C programming language. It uses SQlite.
     spreadsheet:
         -
             name: Teapot
@@ -973,6 +992,17 @@ apps:
                 Organize files in your current directory,
                 by classifying them into folders of music, pdfs,
                 images, etc.
+            articles:
+                -
+                    title: "Automatically Organize Your Downloads Folder In Linux Using Classifier"
+                    url: http://www.webupd8.org/2017/03/automatically-organize-your-downloads.html?m=1
+                    date: 2017-07-10
+                    description: My downloads folder is pretty messy but I
+                        can't just delete things because I still need most
+                        of the stuff I download. To "fix" this, I was looking
+                        for an app that can automatically organize my downloads,
+                        and I stumbled upon Classifier, an easy to use command line
+                        tool that can organize files in any directory.
         -
             name: detox
             url: http://detox.sourceforge.net/
@@ -1323,6 +1353,17 @@ apps:
                 and related tools. Included are pssh, pscp, prsync,
                 pnuke, and pslurp. The project includes psshlib which
                 can be used within custom applications.
+            articles:
+                -
+                    title: "PSSH - Execute Commands on Multiple Linux Servers in Parallel"
+                    url: http://www.2daygeek.com/pssh-parallel-ssh-run-execute-commands-on-multiple-linux-servers/
+                    date: 2017-07-10
+                    description: By default everyone prefers openSSH to connect
+                        remote Linux servers. openSSH is one of the best tool
+                        to connect remote server securely and doing the job perfectly
+                        but it doesn’t have the features to execute commands on multiple
+                        Linux servers simultaneously, this is where Parallel SSH came
+                        to picture.
         -
             name: powerline
             url: https://github.com/powerline/powerline
@@ -1340,12 +1381,31 @@ apps:
                 monitor. It works by establishing an SSH session,
                 and running commands on the remote server to collect
                 system metrics.
+            articles:
+                -
+                    title: "rtop - A Nifty Tool to Monitor Remote Server Over SSH"
+                    url: http://www.2daygeek.com/rtop-monitor-remote-linux-server-over-ssh/#
+                    date: 2017-07-10
+                    description: rtop is a simple, agent-less, remote server
+                        monitoring tool that works over SSH. It doesn’t
+                        required any other software to be installed on
+                        remote machine, except openSSH server package &
+                        remote server credentials.
         -
             name: geoiplookup
             url: https://github.com/maxmind/geoip-api-c
             description: a little application to find geographical
                 and network information of an IP address based no
                 the geoip C API.
+            articles:
+                -
+                    title: "How To Find The Geolocation Of An IP Address From Commandline"
+                    url: https://www.ostechnix.com/find-geolocation-ip-address-commandline/
+                    date: 2017-07-10
+                    description: geoiplookup is a command line utility that
+                        can be used to find the Country that an IP address
+                        or hostname originates from. It uses the GeoIP library
+                        and database to collect the details of an IP address.
         -
             name: quickserve
             url: https://github.com/charliesome/quickserve
@@ -1355,6 +1415,12 @@ apps:
                 opening a port in your firewall if you have one,
                 quickserve requires no set-up and should work with
                 no hassle.
+            articles:
+                -
+                    title: "quickserve"
+                    url: https://xyne.archlinux.ca/projects/quickserve/
+                    date: 2017-07-10
+                    description: A simple HTTP server for quickly sharing files.
         -
             name: goobook
             url: https://gitlab.com/goobook/goobook
@@ -1362,11 +1428,29 @@ apps:
                 it possible to use your Google Contacts from
                 the command-line and from MUAs such as Mutt.
                 It can be used from Mutt the same way as abook.
+            articles:
+                -
+                    title: "GooBook - Access Your Google Contacts From Commandline In Linux"
+                    url: https://www.ostechnix.com/goobook-access-google-contacts-commandline-linux/
+                    date: 2017-07-10
+                    description: Here is an useful and handy utility called
+                        GooBook that allows you to access your Google contacts
+                        from commandline. The main purpose of Goobook is to access
+                        google contacts from commandline or a command line Email
+                        client like Mutt.
         -
             name: lolcat
             url: https://github.com/busyloop/lolcat
             description: Ruby Gem to colorize the output of the
                 cat command.
+            articles:
+                -
+                    title: "lolcat : tool to rainbow color linux terminal"
+                    url: http://kerneltalks.com/linux/lolcat-tool-to-rainbow-color-linux-terminal/
+                    date: 2017-07-10
+                    description: Paint your command outputs with rainbow color!
+                        Use lolcat (Ruby gem) tool and add some spice to black
+                        putty terminal!
     utility:
         -
             name: fasd
@@ -1407,77 +1491,12 @@ apps:
 
 articles:
     -
-        ref: titan
-        title: "A Command line Password Manager For Linux"
-        url: https://www.ostechnix.com/titan-command-line-password-manager-linux/
-        description: There are plethora of GUI based password managers.
-            A quick google search will lead you to pick one suitable for
-            you. But the command line password managers are very few.
-            The one today we talk about is Titan. It is written using
-            C programming language. It uses SQlite ...
-    -
-        ref: classifier
-        title: "Automatically Organize Your Downloads Folder In Linux Using Classifier"
-        url: http://www.webupd8.org/2017/03/automatically-organize-your-downloads.html?m=1
-        description: My downloads folder is pretty messy but I
-            can't just delete things because I still need most
-            of the stuff I download. To "fix" this, I was looking
-            for an app that can automatically organize my downloads,
-            and I stumbled upon Classifier, an easy to use command line
-            tool that can organize files in any directory.
-    -
-        ref: watch
-        title: "Watch command to execute script/shell command repeatedly"
-        url: http://kerneltalks.com/commands/watch-command-to-execute-scriptshell-command-repeatedly/
-        description: “watch” command is small utility using which
-            you can execute shell command or script repetitively
-            and after every n seconds. Its helpful in automation
-            or monitoring.
-    -
         ref: file-conversion
         title: "Command-line document conversion tools for writers"
         url: https://opensource.com/article/17/3/document-conversion-tools-writers
         decription: Find out how Markdown with Pandoc and Org-mode
             make writing documents a lot easier.
         rating: poor-information
-    -
-        ref: lolcat
-        title: "lolcat : tool to rainbow color linux terminal"
-        url: http://kerneltalks.com/linux/lolcat-tool-to-rainbow-color-linux-terminal/
-        description: Paint your command outputs with rainbow color!
-            Use lolcat (Ruby gem) tool and add some spice to black
-            putty terminal!
-    -
-        ref: goobook
-        title: "GooBook - Access Your Google Contacts From Commandline In Linux"
-        url: https://www.ostechnix.com/goobook-access-google-contacts-commandline-linux/
-        description: Here is an useful and handy utility called
-            GooBook that allows you to access your Google contacts
-            from commandline. The main purpose of Goobook is to access
-            google contacts from commandline or a command line Email
-            client like Mutt.
-    -
-        ref: quickserve
-        title: "quickserve"
-        url: https://xyne.archlinux.ca/projects/quickserve/
-        description: A simple HTTP server for quickly sharing files.
-    -
-        ref: geoiplookup
-        title: "How To Find The Geolocation Of An IP Address From Commandline"
-        url: https://www.ostechnix.com/find-geolocation-ip-address-commandline/
-        description: geoiplookup is a command line utility that
-            can be used to find the Country that an IP address
-            or hostname originates from. It uses the GeoIP library
-            and database to collect the details of an IP address.
-    -
-        ref: rtop
-        title: "rtop - A Nifty Tool to Monitor Remote Server Over SSH"
-        url: http://www.2daygeek.com/rtop-monitor-remote-linux-server-over-ssh/#
-        description: rtop is a simple, agent-less, remote server
-            monitoring tool that works over SSH. It doesn’t
-            required any other software to be installed on
-            remote machine, except openSSH server package &
-            remote server credentials.
     -
         ref: battery-tools
         title: "Linux Laptop: Display Battery Status And Thermal Temperature From Command Line"
@@ -1487,16 +1506,6 @@ articles:
             other information from the command prompt?
             How can I check battery status using the terminal
             on Linux?
-    -
-        ref: PSSH
-        title: "PSSH - Execute Commands on Multiple Linux Servers in Parallel"
-        url: http://www.2daygeek.com/pssh-parallel-ssh-run-execute-commands-on-multiple-linux-servers/
-        description: By default everyone prefers openSSH to connect
-            remote Linux servers. openSSH is one of the best tool
-            to connect remote server securely and doing the job perfectly
-            but it doesn’t have the features to execute commands on multiple
-            Linux servers simultaneously, this is where Parallel SSH came
-            to picture.
 
 tools:
     - Deluge
