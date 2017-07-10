@@ -12,15 +12,6 @@ make
 ```
 
 to build the latest version of ``README.md``.
-{'description': 'A wonderful summary from Joshua Levy regarding command line (Bash in particular) tools, programs, tips and tricks; contains many pointers to resources and repositories, in the form of "to do this you must know that", which gives great pointers but requires further investigation from different sources; translated in many languages.', 'title': 'The Art of Command Line', 'url': 'https://github.com/jlevy/the-art-of-command-line'}
-{'description': '"Adventures with lightweight and minimalist software for Linux": reviews of many command-line programs; many programs reviewed (400+, at least), with screenshots and animated GIFs; the style of presentation is ironic and funny, but requires some effort to figure out the real contribution of a program.\n', 'title': 'Inconsolation blog', 'url': 'https://inconsolation.wordpress.com/'}
-{'description': 'A long list of CLI apps from Jared Bernard; some are quite outdated; pros: some CLI apps are put side-by-side with GUI counterparts; cons: no comments to the apps.\n', 'title': 'CLIapps blog table', 'url': 'http://www.jaredandcoralee.com/CLIapps.html'}
-{'description': '"Some are little-known, some are just too useful to miss, some are pure obscure..." from Kristof Kovacs; nice list with screenshot; mostly oriented to system administration; unfortunately there are no clickable links.\n', 'title': 'A little collection of cool unix terminal/console/curses tools', 'url': 'https://kkovacs.eu/cool-but-obscure-unix-tools'}
-{'description': 'Focused on UNIX shell tools.', 'title': 'Caleb Xu shell awesome', 'url': 'https://github.com/alebcay/awesome-shell'}
-{'description': 'Nice list of tools; somehow too much Javascript/Node.js-centered for my tastes.', 'title': 'Adam Harris awesome CLI apps', 'url': 'https://github.com/aharris88/awesome-cli-apps'}
-{'description': 'Nice up-to-date list of useful tools.', 'title': 'Marcel Bischoff awesome commandd line apps', 'url': 'https://github.com/herrbischoff/awesome-command-line-apps'}
-{'description': 'A site that aims at collecting and organizing CLI apps information from user contributions; considering its social-oriented nature, it misses several mainstream apps.', 'title': 'CLI-Apps', 'url': 'http://cli-apps.org/'}
-{'description': 'Relatively short list with short descriptions; with some original entries.', 'title': 'Awesome CLI by sintaxi', 'url': 'https://github.com/sintaxi/awesome-cli/blob/master/README.md'}
 
 # Summary
 
