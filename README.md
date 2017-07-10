@@ -15,11 +15,11 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **169** apps/tools covered, divided in **30** categories; **8** related sites reviewed and listed.
+To date, **169** apps/tools covered, divided in **29** categories; **8** related sites reviewed and listed.
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system handling](#file-handling) (8) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Organizers and calendars](#organizers) (14) | [Presentations](#presentations) (1) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [Spreadsheet](#spreadsheet) (2) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (4) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system handling](#file-handling) (8) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (4) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
@@ -486,13 +486,7 @@ Multi-purpose calculator with customizable functions, units, arbitrary precision
 
 Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. 
 
-## <a name="presentations"></a>Presentations
-
-#### [tpp](http://www.ngolde.de/tpp.html)
-
-(text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language. 
-
-## <a name="spreadsheet"></a>Spreadsheet
+## <a name="office"></a>Office tools
 
 #### [Teapot](https://www.syntax-k.de/projekte/teapot/)
 
@@ -501,6 +495,10 @@ Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in fu
 #### [sc-im](https://github.com/andmarti1424/sc-im)
 
 Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software.
+
+#### [tpp](http://www.ngolde.de/tpp.html)
+
+(text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language. 
 
 ## <a name="security"></a>Security and encryption
 

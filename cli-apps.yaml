@@ -83,13 +83,9 @@ categories:
         name: Productivity
         description:
     -
-        label: presentations
-        name: Presentations
-        description:
-    -
-        label: spreadsheet
-        name: Spreadsheet
-        description:
+        label: office
+        name: Office tools
+        description: spreadsheet and presentations
     -
         label: security
         name: Security and encryption
@@ -583,7 +579,7 @@ apps:
                         you. But the command line password managers are very few.
                         The one today we talk about is Titan. It is written using
                         C programming language. It uses SQlite.
-    spreadsheet:
+    office:
         -
             name: Teapot
             url: https://www.syntax-k.de/projekte/teapot/
@@ -600,7 +596,6 @@ apps:
                 such as Excel and Calc, making difficult to "re-cycle"
                 existing knowledge on these programs to work proficiently
                 with sc-im. Neverthless, a nice piece of software.
-    presentations:
         -
             name: tpp
             url: http://www.ngolde.de/tpp.html
