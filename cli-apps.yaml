@@ -8,10 +8,6 @@ categories:
         name: Organizers and calendars
         description: Todo managers, calendar managers
     -
-        label: file-managers
-        name: File management
-        description:
-    -
         label: transfer
         name: Data transfer
         description:
@@ -961,6 +957,13 @@ apps:
                 by keeping clean configuration files to automate the backup.
     file-system:
         -
+            name: classifier
+            url: https://github.com/bhrigu123/classifier
+            description: |
+                Organize files in your current directory,
+                by classifying them into folders of music, pdfs,
+                images, etc.
+        -
             name: detox
             url: http://detox.sourceforge.net/
             description: |
@@ -1391,14 +1394,6 @@ apps:
                 fiddling with dates and times in the command line
                 with a strong focus on use cases that arise when
                 dealing with large amounts of financial data.
-    file-managers:
-        -
-            name: classifier
-            url: https://github.com/bhrigu123/classifier
-            description: |
-                Organize files in your current directory,
-                by classifying them into folders of music, pdfs,
-                images, etc.
 
 resources:
     -
