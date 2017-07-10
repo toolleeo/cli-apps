@@ -24,7 +24,15 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 def fmt_app(app):
     descr = ''.join(c if c != '\n' else ' ' for c in app["description"])
-    return("#### [{}]({})\n\n{}\n".format(app["name"], app["url"], descr))
+    st = "#### [{}]({})\n\n{}\n".format(app["name"], app["url"], descr)
+    if 'articles' in app:
+        st += '\nReferences\n'
+        for art in app['articles']:
+            st += "* [{}]({}) (rev. {})".format(art['title'], art['url'], art['date'])
+            if 'description' in art:
+                st += ' - ' + art['description']
+        st += '\n'
+    return(st)
 
 
 def print_apps(cats, apps):
