@@ -14,6 +14,14 @@ Some links to [related resources](#resources).
 I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
 """
 
+resources = """
+# <a name="#resources"></a>Related resources
+
+A list of some online resoures that contribute interesting links to apps and info.
+
+{}
+"""
+
 def fmt_app(app):
     descr = ''.join(c if c != '\n' else ' ' for c in app["description"])
     return("#### [{}]({})\n\n{}\n".format(app["name"], app["url"], descr))
@@ -48,5 +56,15 @@ with open('cli-apps.yaml', 'r') as yf:
     # print(data)
     apps = data["apps"]
     cats = data["categories"]
-    print(summary.format(count_apps(apps), len(cats), fmt_cats(cats, apps)))
-    print_apps(cats, apps)
+
+with open('resources.yaml', 'r') as yf:
+    res = load(yf)
+    md_res = ''
+    for r in res['resources']:
+        md_res += '[{}](#{}) - {}\n\n'.format(r['title'], r['url'], r['description'])
+        print(r)
+
+
+print(summary.format(count_apps(apps), len(cats), fmt_cats(cats, apps)))
+print_apps(cats, apps)
+print(resources.format(md_res))
