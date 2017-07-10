@@ -313,6 +313,16 @@ apps:
                 styles. What it does do is words. It's designed for
                 writing text. It gets out of your way and lets you
                 type."
+            articles:
+                -
+                    title: "WordGrinder: Distraction-Free Writing From the Command Line"
+                    url: http://fossforce.com/2017/03/wordgrinder-distraction-free-writing-command-line/
+                    date: 2017-07-10
+                    description: WordGrinder is an old fashioned command line
+                        program that doesn’t try to do a lot of things. Its
+                        purpose is to get the job done, and stay out of the
+                        user’s way while doing it.
+
     terminals:
         -
             name: byobu
@@ -1396,14 +1406,6 @@ apps:
                 dealing with large amounts of financial data.
 
 articles:
-    -
-        ref: wordgrinder
-        title: "WordGrinder: Distraction-Free Writing From the Command Line"
-        url: http://fossforce.com/2017/03/wordgrinder-distraction-free-writing-command-line/
-        description: WordGrinder is an old fashioned command line
-            program that doesn’t try to do a lot of things. Its
-            purpose is to get the job done, and stay out of the
-            user’s way while doing it.
     -
         ref: titan
         title: "A Command line Password Manager For Linux"
