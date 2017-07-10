@@ -43,8 +43,8 @@ categories:
         name: Funny tools
         description:
     -
-        label: file-system
-        name: File and file system management
+        label: file-handling
+        name: File and file system handling
         description: file managers, tagging, bookmarking, directory traversal
     -
         label: backup
@@ -955,7 +955,7 @@ apps:
             description: |
                 Simplifies the use of [duplicity](http://duplicity.nongnu.org/)
                 by keeping clean configuration files to automate the backup.
-    file-system:
+    file-handling:
         -
             name: classifier
             url: https://github.com/bhrigu123/classifier
