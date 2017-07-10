@@ -505,6 +505,9 @@ Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 
 An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories. 
 
+References
+* [Linux-how-to by Alain Francois (posted June 27, 2017)](https://linoxide.com/linux-how-to/cipher-command-line-tool-encrypt-decrypt-files-directories/) (rev. 2017-07-09)
+
 #### [hashcat](https://hashcat.net/hashcat/)
 
 A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash. 
@@ -678,6 +681,9 @@ Historically one of the preferred text editors; behavior based on editing modes;
 #### [WordGrinder](https://cowlark.com/wordgrinder/)
 
 From the website: "WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type." 
+
+References
+* [WordGrinder: Distraction-Free Writing From the Command Line](http://fossforce.com/2017/03/wordgrinder-distraction-free-writing-command-line/) (rev. 2017-07-10) - WordGrinder is an old fashioned command line program that doesn’t try to do a lot of things. Its purpose is to get the job done, and stay out of the user’s way while doing it.
 
 ## <a name="font"></a>Font management
 
