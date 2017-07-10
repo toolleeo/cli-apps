@@ -15,11 +15,11 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **169** apps/tools covered, divided in **31** categories; **8** related sites reviewed and listed.
+To date, **169** apps/tools covered, divided in **30** categories; **8** related sites reviewed and listed.
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system management](#file-system) (7) | [File management](#file-managers) (1) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Organizers and calendars](#organizers) (14) | [Presentations](#presentations) (1) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [Spreadsheet](#spreadsheet) (2) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (4) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system handling](#file-handling) (8) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Organizers and calendars](#organizers) (14) | [Presentations](#presentations) (1) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [Spreadsheet](#spreadsheet) (2) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (4) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
@@ -100,12 +100,6 @@ A comand line interface to manage hierarchical todos. Each task has a title, a l
 #### [Wyrd](http://freecode.com/projects/wyrd/)
 
 Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table. 
-
-## <a name="file-managers"></a>File management
-
-#### [classifier](https://github.com/bhrigu123/classifier)
-
-Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc. 
 
 ## <a name="transfer"></a>Data transfer
 
@@ -289,7 +283,11 @@ Generates random messages feched from a quotation database.
 
 A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`. 
 
-## <a name="file-system"></a>File and file system management
+## <a name="file-handling"></a>File and file system handling
+
+#### [classifier](https://github.com/bhrigu123/classifier)
+
+Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc. 
 
 #### [detox](http://detox.sourceforge.net/)
 
