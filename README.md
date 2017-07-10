@@ -709,7 +709,7 @@ A `cat` command with colorized output.
 
 #### [percol](https://github.com/mooz/percol)
 
-A Python script that "1) receives input lines from  stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands. 
+A Python script that "1) receives input lines from  stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to stdout"; can be used to add interactivity to many regular shell commands. 
 
 #### [q](http://harelba.github.io/q/)
 
