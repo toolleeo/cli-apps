@@ -1017,6 +1017,17 @@ apps:
                 supports recursive extraction (files into file) and
                 extracts files into dedicated directories.
         -
+            name: fasd
+            url: https://github.com/clvv/fasd
+            description: |
+                A Commandline Tool That Offers Quick Access to
+                Files and Directories. Fasd (pronounced similar to "fast")
+                is a command-line productivity booster. Fasd offers
+                quick access to files and directories for POSIX shells.
+                It is inspired by tools like autojump, z and v. Fasd
+                keeps track of files and directories you have accessed,
+                so that you can quickly reference them in the command line.
+        -
             name: rename
             url: https://www.kernel.org/pub/linux/utils/util-linux/
             description: |
@@ -1038,6 +1049,16 @@ apps:
                 and save the list of files in JSON format; it produce
                 a shell script that can be inspected before running it
                 to delete the desire files.
+        -
+            name: gcp
+            url: https://github.com/petronny/gcp
+            description: |
+                `gcp` (Goffi’s cp) is an advanced file copier tool,
+                heavily inspired from the traditional `cp` command
+                utility, but with some additional features: Displays
+                the copy progress indicator, with estimated time,
+                current file speed; logs of all actions; resume of
+                interrupted copy processes.
         -
             name: PathPicker
             url: https://facebook.github.io/PathPicker/
@@ -1447,27 +1468,6 @@ apps:
                         Use lolcat (Ruby gem) tool and add some spice to black
                         putty terminal!
     utility:
-        -
-            name: fasd
-            url: https://github.com/clvv/fasd
-            description: |
-                A Commandline Tool That Offers Quick Access to
-                Files and Directories. Fasd (pronounced similar to "fast")
-                is a command-line productivity booster. Fasd offers
-                quick access to files and directories for POSIX shells.
-                It is inspired by tools like autojump, z and v. Fasd
-                keeps track of files and directories you have accessed,
-                so that you can quickly reference them in the command line.
-        -
-            name: gcp
-            url: https://github.com/petronny/gcp
-            description: |
-                `gcp` (Goffi’s cp) is an advanced file copier tool,
-                heavily inspired from the traditional `cp` command
-                utility, but with some additional features: Displays
-                the copy progress indicator, with estimated time,
-                current file speed; logs of all actions; resume of
-                interrupted copy processes.
         -
             name: termsaver
             url: http://termsaver.brunobraga.net/

@@ -19,21 +19,13 @@ To date, **169** apps/tools covered, divided in **29** categories; **8** related
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system handling](#file-handling) (8) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (4) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system handling](#file-handling) (10) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (2) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
 I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
 
 ## <a name="utility"></a>Utilities
-
-#### [fasd](https://github.com/clvv/fasd)
-
-A Commandline Tool That Offers Quick Access to Files and Directories. Fasd (pronounced similar to "fast") is a command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line. 
-
-#### [gcp](https://github.com/petronny/gcp)
-
-`gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes. 
 
 #### [termsaver](http://termsaver.brunobraga.net/)
 
@@ -300,6 +292,10 @@ A utility designed to easily clean up filenames; it replaces characters like spa
 
 (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formatsl supports tar, zip, deb, rpm, 7z, rar, gz, bz2, xz; supports recursive extraction (files into file) and extracts files into dedicated directories. 
 
+#### [fasd](https://github.com/clvv/fasd)
+
+A Commandline Tool That Offers Quick Access to Files and Directories. Fasd (pronounced similar to "fast") is a command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line. 
+
 #### [rename](https://www.kernel.org/pub/linux/utils/util-linux/)
 
 Included in `util-linux`, allows bulk rename of files with regex support. 
@@ -311,6 +307,10 @@ A set of programs to change file and directory names by editing them inplace; I 
 #### [rmlint](https://github.com/sahib/rmlint/)
 
 A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files. 
+
+#### [gcp](https://github.com/petronny/gcp)
+
+`gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes. 
 
 #### [PathPicker](https://facebook.github.io/PathPicker/)
 
