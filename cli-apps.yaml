@@ -1017,6 +1017,20 @@ apps:
                 supports recursive extraction (files into file) and
                 extracts files into dedicated directories.
         -
+            name: exa
+            url: https://the.exa.website/
+            description: |
+                Replacement for 'ls' written in Rust, with colors and several additional "views".
+            articles:
+                -
+                    title: "exa a modern replacement for ls written in rust for Linux/Unix"
+                    url: https://www.cyberciti.biz/open-source/command-line-hacks/exa-a-modern-replacement-for-ls-written-in-rust-for-linuxunix/
+                    date: 2017-08-09
+                    description: ls is a command to show files in Linux and Unix-like operating
+                        systems. A ls command first appeared in a version of AT&T UNIX as well as
+                        in Multics. BSD and GNU Coreutils package provides the ls command with
+                        minor syntax changes. There is now third alternative named exa ...
+        -
             name: fasd
             url: https://github.com/clvv/fasd
             description: |
