@@ -342,6 +342,11 @@ apps:
                 client-server architecture, `vi` and `emacs`
                 key-bindings, search in window feature and many
                 more.
+        -
+            name: warp
+            url: https://github.com/spolu/warp
+            description: |
+                Secure and simple terminal sharing.
     monitor:
         -
             name: cv
