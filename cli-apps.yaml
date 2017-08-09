@@ -1469,6 +1469,19 @@ apps:
                         putty terminal!
     utility:
         -
+            name: pdd
+            url: https://github.com/jarun/pdd
+            description: |
+                Tiny date, time diff calculator.
+            articles:
+                -
+                    title: "pdd - Tool to find Date and Time Difference in Linux Command Line"
+                    url: https://linoxide.com/linux-how-to/pdd-tool-date-time-difference-linux-command-line/
+                    date: 2017-08-09
+                    description: In some occasions where you want to check by how many years someone older
+                        than you, how old you are (in days, years or months), the countdown to an event or
+                        the next flash sale. There is a python-based command line application ...
+        -
             name: termsaver
             url: http://termsaver.brunobraga.net/
             description: |
