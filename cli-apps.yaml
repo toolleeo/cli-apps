@@ -1483,6 +1483,19 @@ apps:
                         putty terminal!
     utility:
         -
+            name: arch-wiki
+            url: https://github.com/deadhead420/arch-wiki
+            description: |
+                Search the Arch Wiki anywhere from the command line.
+            articles:
+                -
+                    title: "How To Search The Arch Wiki Website Right From Terminal"
+                    url: http://www.2daygeek.com/search-arch-wiki-website-command-line-terminal/#
+                    date: 2017-08-09
+                    description: Whenever you search anything about Arch Linux in web browser, I
+                        damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch
+                        wiki is an ideal place to get solution for most of the arch Linux issues ...
+        -
             name: pdd
             url: https://github.com/jarun/pdd
             description: |
