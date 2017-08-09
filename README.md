@@ -15,17 +15,35 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **169** apps/tools covered, divided in **29** categories; **8** related sites reviewed and listed.
+To date, **176** apps/tools covered, divided in **29** categories; **8** related sites reviewed and listed.
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (5) | [File and file system handling](#file-handling) (10) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (3) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (2) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (11) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (4) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (5) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
 I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
 
 ## <a name="utility"></a>Utilities
+
+#### [dasht](http://sunaku.github.io/dasht/man/man0/README.html)
+
+Search API docs offline, in your terminal or browser. 
+
+#### [arch-wiki](https://github.com/deadhead420/arch-wiki)
+
+Search the Arch Wiki anywhere from the command line. 
+
+References
+* [How To Search The Arch Wiki Website Right From Terminal](http://www.2daygeek.com/search-arch-wiki-website-command-line-terminal/#) (rev. 2017-08-09) - Whenever you search anything about Arch Linux in web browser, I damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch wiki is an ideal place to get solution for most of the arch Linux issues ...
+
+#### [pdd](https://github.com/jarun/pdd)
+
+Tiny date, time diff calculator. 
+
+References
+* [pdd - Tool to find Date and Time Difference in Linux Command Line](https://linoxide.com/linux-how-to/pdd-tool-date-time-difference-linux-command-line/) (rev. 2017-08-09) - In some occasions where you want to check by how many years someone older than you, how old you are (in days, years or months), the countdown to an event or the next flash sale. There is a python-based command line application ...
 
 #### [termsaver](http://termsaver.brunobraga.net/)
 
@@ -159,6 +177,10 @@ Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
 
 ## <a name="email"></a>Email
 
+#### [Newsbeuter](http://newsbeuter.org/)
+
+"The Mutt of RSS Feed Readers": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. It runs on Linux, FreeBSD, Mac OS X and other Unix-like operating systems. Newsbeuter's great configurability and vast number of features make it a perfect choice for people that need a slick and fast feed reader that can be completely controlled via keyboard. 
+
 #### [alpine](http://www.washington.edu/alpine/)
 
 Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users". 
@@ -291,6 +313,13 @@ A utility designed to easily clean up filenames; it replaces characters like spa
 #### [dtrx](https://brettcsmith.org/2007/dtrx/)
 
 (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formatsl supports tar, zip, deb, rpm, 7z, rar, gz, bz2, xz; supports recursive extraction (files into file) and extracts files into dedicated directories. 
+
+#### [exa](https://the.exa.website/)
+
+Replacement for 'ls' written in Rust, with colors and several additional "views". 
+
+References
+* [exa a modern replacement for ls written in rust for Linux/Unix](https://www.cyberciti.biz/open-source/command-line-hacks/exa-a-modern-replacement-for-ls-written-in-rust-for-linuxunix/) (rev. 2017-08-09) - ls is a command to show files in Linux and Unix-like operating systems. A ls command first appeared in a version of AT&T UNIX as well as in Multics. BSD and GNU Coreutils package provides the ls command with minor syntax changes. There is now third alternative named exa ...
 
 #### [fasd](https://github.com/clvv/fasd)
 
@@ -488,6 +517,10 @@ Command-line translator using Google Translate, Bing Translator, Yandex.Translat
 
 ## <a name="office"></a>Office tools
 
+#### [trino](https://github.com/eneserdogan/trino)
+
+Quick and easy translation of words and phrases entered in the command line.  
+
 #### [Teapot](https://www.syntax-k.de/projekte/teapot/)
 
 Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions. 
@@ -642,6 +675,10 @@ Terminal multiplexer that split a physical terminal between several processes, t
 #### [tmux](https://tmux.github.io/)
 
 Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more. 
+
+#### [warp](https://github.com/spolu/warp)
+
+Secure and simple terminal sharing. 
 
 ## <a name="editors"></a>Editors
 
