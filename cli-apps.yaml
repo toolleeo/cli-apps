@@ -586,6 +586,11 @@ apps:
                         C programming language. It uses SQlite.
     office:
         -
+            name: trino
+            url: https://github.com/eneserdogan/trino
+            description: |
+                Quick and easy translation of words and phrases entered in the command line. 
+        -
             name: Teapot
             url: https://www.syntax-k.de/projekte/teapot/
             description: |
