@@ -1493,6 +1493,11 @@ apps:
                         putty terminal!
     utility:
         -
+            name: dasht
+            url: http://sunaku.github.io/dasht/man/man0/README.html
+            description: |
+                Search API docs offline, in your terminal or browser.
+        -
             name: arch-wiki
             url: https://github.com/deadhead420/arch-wiki
             description: |
