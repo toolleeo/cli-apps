@@ -1046,6 +1046,16 @@ apps:
                         systems. A ls command first appeared in a version of AT&T UNIX as well as
                         in Multics. BSD and GNU Coreutils package provides the ls command with
                         minor syntax changes. There is now third alternative named exa ...
+                -
+                    title: "Exa – A Modern And Colorful Replacement For LS Command Written In Rust"
+                    url: https://www.2daygeek.com/exa-a-modern-replacement-for-ls-command-linux/
+                    date: 2017-10-07
+                    description: |
+                        ls is one of the very basic & essential Linux command for
+                        administrator that can be used in most of the actions (in other
+                        hands, Linux administrator can’t live without ls command). Exa is
+                        a small, fast, portable, modern and colorful replacement for
+                        ls command which was written in rust language.
         -
             name: fasd
             url: https://github.com/clvv/fasd
