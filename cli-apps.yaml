@@ -1620,6 +1620,23 @@ apps:
                         Use lolcat (Ruby gem) tool and add some spice to black
                         putty terminal!
         -
+            name: neofetch
+            url: https://github.com/dylanaraps/neofetch
+            description: |
+                Neofetch is a CLI system information tool written
+                in BASH. Neofetch displays information about
+                your system next to an image, your OS logo,
+                or any ASCII file of your choice.
+            articles:
+                -
+                    title: "Display Linux Distribution Logo in ASCII Art in Terminal"
+                    url: https://itsfoss.com/display-linux-logo-in-ascii/
+                    date: 2017-10-07
+                    description: |
+                        ... You might have seen people sharing such desktop screenshot
+                        with terminal showing the logo of the Linux distribution used in
+                        ASCII art.
+        -
             name: pdd
             url: https://github.com/jarun/pdd
             description: |
