@@ -195,6 +195,13 @@ apps:
                 the selected line(s) to `stdout`"; can be used to add
                 interactivity to many regular shell commands.
         -
+            name: pick
+            url: https://github.com/calleerlandsson/pick
+            description: |
+                Utility that allows users to choose one option from a
+                set of choices using an interface with fuzzy search
+                functionality.
+        -
             name: q
             url: http://harelba.github.io/q/
             description: |

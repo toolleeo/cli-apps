@@ -15,11 +15,11 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **176** apps/tools covered, divided in **29** categories; **8** related sites reviewed and listed.
+To date, **179** apps/tools covered, divided in **29** categories; **8** related sites reviewed and listed.
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (11) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (4) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (5) | [Versioning](#versioning) (4) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (13) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (4) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (5) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
@@ -319,7 +319,12 @@ A utility designed to easily clean up filenames; it replaces characters like spa
 Replacement for 'ls' written in Rust, with colors and several additional "views". 
 
 References
-* [exa a modern replacement for ls written in rust for Linux/Unix](https://www.cyberciti.biz/open-source/command-line-hacks/exa-a-modern-replacement-for-ls-written-in-rust-for-linuxunix/) (rev. 2017-08-09) - ls is a command to show files in Linux and Unix-like operating systems. A ls command first appeared in a version of AT&T UNIX as well as in Multics. BSD and GNU Coreutils package provides the ls command with minor syntax changes. There is now third alternative named exa ...
+* [exa a modern replacement for ls written in rust for Linux/Unix](https://www.cyberciti.biz/open-source/command-line-hacks/exa-a-modern-replacement-for-ls-written-in-rust-for-linuxunix/) (rev. 2017-08-09) - ls is a command to show files in Linux and Unix-like operating systems. A ls command first appeared in a version of AT&T UNIX as well as in Multics. BSD and GNU Coreutils package provides the ls command with minor syntax changes. There is now third alternative named exa ...* [Exa – A Modern And Colorful Replacement For LS Command Written In Rust](https://www.2daygeek.com/exa-a-modern-replacement-for-ls-command-linux/) (rev. 2017-10-07) - ls is one of the very basic & essential Linux command for
+administrator that can be used in most of the actions (in other
+hands, Linux administrator can’t live without ls command). Exa is
+a small, fast, portable, modern and colorful replacement for
+ls command which was written in rust language.
+
 
 #### [fasd](https://github.com/clvv/fasd)
 
@@ -341,9 +346,17 @@ A tool to recursively scan a directory tree looking for duplicate and broken fil
 
 `gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes. 
 
+#### [nnn](https://github.com/jarun/nnn)
+
+"The missing terminal file browser for X". Provides only diretory traversal and file visualization. No delete/move operations are supported. 
+
 #### [PathPicker](https://facebook.github.io/PathPicker/)
 
 A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories. 
+
+#### [alder](https://github.com/aweary/alder)
+
+"A minimal implementation of the UNIX tree command with colors!" 
 
 #### [tree](http://mama.indstate.edu/users/ice/tree/)
 
@@ -418,6 +431,10 @@ The winner across all the existing file versioning tools; distributed versioning
 #### [git-annex](https://git-annex.branchable.com/)
 
 Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files. 
+
+#### [git-stats](hhttps://github.com/IonicaBizau/git-stats)
+
+"Local git statistics including GitHub-like contributions calendars." 
 
 #### [Mercurial](https://www.mercurial-scm.org/)
 
