@@ -130,6 +130,19 @@ categories:
 apps:
     networking:
         -
+            name: ipcalc
+            url: http://jodies.de/ipcalc
+            description: |
+                "ipcalc takes an IP address and netmask and calculates the
+                resulting broadcast, network, Cisco wildcard mask, and host range."
+            articles:
+                -
+                    title: "How to Calculate Network Addresses with ipcalc"
+                    url: https://www.linux.com/learn/intro-to-linux/2017/8/how-calculate-network-addresses-ipcalc
+                    date: 2017-10-07
+                    description: |
+                        The math behind IP addresses is convoluted...
+        -
             name: PSSH
             url: https://code.google.com/archive/p/parallel-ssh/
             description: PSSH provides parallel versions of OpenSSH
