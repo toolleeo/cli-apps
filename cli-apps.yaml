@@ -1100,6 +1100,12 @@ apps:
                 interactively selected files or to move across
                 directories.
         -
+            name: alder
+            url: https://github.com/aweary/alder
+            description: |
+                "A minimal implementation of the UNIX tree command with
+                colors!"
+        -
             name: tree
             url: http://mama.indstate.edu/users/ice/tree/
             description: |
