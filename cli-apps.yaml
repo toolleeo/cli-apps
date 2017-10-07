@@ -1563,19 +1563,6 @@ apps:
                         from commandline. The main purpose of Goobook is to access
                         google contacts from commandline or a command line Email
                         client like Mutt.
-        -
-            name: lolcat
-            url: https://github.com/busyloop/lolcat
-            description: Ruby Gem to colorize the output of the
-                cat command.
-            articles:
-                -
-                    title: "lolcat : tool to rainbow color linux terminal"
-                    url: http://kerneltalks.com/linux/lolcat-tool-to-rainbow-color-linux-terminal/
-                    date: 2017-07-10
-                    description: Paint your command outputs with rainbow color!
-                        Use lolcat (Ruby gem) tool and add some spice to black
-                        putty terminal!
     utility:
         -
             name: dasht
@@ -1595,6 +1582,19 @@ apps:
                     description: Whenever you search anything about Arch Linux in web browser, I
                         damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch
                         wiki is an ideal place to get solution for most of the arch Linux issues ...
+        -
+            name: lolcat
+            url: https://github.com/busyloop/lolcat
+            description: Ruby Gem to colorize the output of the
+                cat command.
+            articles:
+                -
+                    title: "lolcat : tool to rainbow color linux terminal"
+                    url: http://kerneltalks.com/linux/lolcat-tool-to-rainbow-color-linux-terminal/
+                    date: 2017-07-10
+                    description: Paint your command outputs with rainbow color!
+                        Use lolcat (Ruby gem) tool and add some spice to black
+                        putty terminal!
         -
             name: pdd
             url: https://github.com/jarun/pdd
