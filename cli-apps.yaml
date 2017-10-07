@@ -1596,6 +1596,25 @@ apps:
                         than you, how old you are (in days, years or months), the countdown to an event or
                         the next flash sale. There is a python-based command line application ...
         -
+            name: socli
+            url: https://github.com/gautamkrishnar/socli
+            description: |
+                Stack overflow command line client written in Python.
+                Search and browse stack overflow without leaving the terminal
+            articles:
+                -
+                    title: "SoCLI - A Tool to Search Stack Overflow from Linux Terminal"
+                    url: https://linoxide.com/linux-how-to/socli-tool-access-stack-overflow-linux-terminal/
+                    date: 2017-10-07
+                    description: |
+                        In this article, I am going to show you how
+                        to install Stack Overflow command line interface
+                        (SoCLI) on Linux.  Stack Overflow is a question
+                        and answer website on the topic of computer programming.
+                        We can use command line interface to get any information
+                        from Linux terminal without using the graphical web
+                        interface or terminal browser.
+        -
             name: termsaver
             url: http://termsaver.brunobraga.net/
             description: |
