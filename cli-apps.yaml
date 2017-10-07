@@ -879,6 +879,12 @@ apps:
                 contents into git; very useful to manage large/binary
                 files.
         -
+            name: git-stats
+            url: hhttps://github.com/IonicaBizau/git-stats
+            description: |
+                "Local git statistics including GitHub-like contributions
+                calendars."
+        -
             name: Mercurial
             url: https://www.mercurial-scm.org/
             description: |
