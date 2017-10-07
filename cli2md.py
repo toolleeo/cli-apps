@@ -52,10 +52,12 @@ def fmt_cats(cats, apps):
     return ' | '.join(st)
 
 
-def count_apps(apps):
+def count_apps(apps, cats):
     tot = 0
+    cats_labels = [x['label'] for x in cats]
     for cat in apps:
-        tot += len(apps[cat])
+        if cat in cats_labels:   # does not consider labels that are not listed in the "summary"
+            tot += len(apps[cat])
     return tot
 
 
@@ -72,6 +74,6 @@ with open('resources.yaml', 'r') as yf:
         md_res += '[{}]({}) - {}\n\n'.format(r['title'], r['url'], r['description'])
 
 
-print(summary.format(count_apps(apps), len(cats), fmt_cats(cats, apps)))
+print(summary.format(count_apps(apps, cats), len(cats), fmt_cats(cats, apps)))
 print_apps(cats, apps)
 print(resources.format(md_res))
