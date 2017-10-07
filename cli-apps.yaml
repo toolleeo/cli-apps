@@ -425,6 +425,25 @@ apps:
                 Terminal multiplexer that split a physical terminal
                 between several processes, typically interactive shells.
         -
+            name: Tmate
+            url: https://tmate.io/
+            description: |
+                A fork of tmux that allows to share the terminal with other users. AFAIK,
+                it connects to a centralized server to establish the connection. Someone
+                may see this inconvenient for privacy issues.
+            articles:
+                -
+                    title: "Tmate - Share Your Terminal Instantly To Anyone From Anywhere"
+                    url: https://www.ostechnix.com/tmate-share-terminal-instantly-anyone-anywhere/
+                    date: 2017-10-07
+                    description: |
+                        There are several popular remote desktop
+                        sharing programs (such as Teamviewer, Guacamole, and
+                        TigerVNC etc) you can use when you need to share your screen
+                        to your coworkers or friends. These programs are used to
+                        share your entire screen to others. But, if it’s only the
+                        Terminal, you can just use Tmate.
+        -
             name: tmux
             url: https://tmux.github.io/
             description: |
