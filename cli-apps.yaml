@@ -201,6 +201,16 @@ apps:
                 Utility that allows users to choose one option from a
                 set of choices using an interface with fuzzy search
                 functionality.
+            articles:
+                -
+                    title: "Pick - A Commandline Fuzzy Search Tool For Linux"
+                    date: 2017-10-07
+                    url: https://www.ostechnix.com/pick-commandline-fuzzy-search-tool-linux/
+                    description: |
+                        The Pick utility can be helpful in certain situations
+                        where you wanted to search for a folder or file that contains
+                        a non-English characters in their name. You don’t have to learn
+                        how to type the non-english characters.
         -
             name: q
             url: http://harelba.github.io/q/
@@ -430,6 +440,23 @@ apps:
                 A `top`-like utility to monitor the sources of power
                 consumption; allows to turn on/off many components;
                 quite useful to track possible power-related issues.
+        -
+            name: sysdig
+            url: https://www.sysdig.org/
+            description: |
+                Sysdig captures system calls and events from the Linux kernel. 
+                You can save, filter, and analyze the data with our CLI or our desktop app. 
+                Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system.
+            articles:
+                -
+                    title: "Sysdig – Linux System Exploration/Diagnostic And Troubleshooting Tool"
+                    date: 2017-10-07
+                    url: https://www.2daygeek.com/sysdig-linux-system-diagnostic-monitor-troubleshoot-tool/
+                    description: |
+                        Sysdig is an open source, system exploration/diagnosing
+                        and troubleshooting tool for Linux with native container
+                        support. It is capture system state and activity from a
+                        running Linux instance, then save, filter and analyze.
         -
             name: smem
             url: https://www.selenic.com/smem/
