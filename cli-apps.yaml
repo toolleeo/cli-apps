@@ -1084,6 +1084,13 @@ apps:
                 current file speed; logs of all actions; resume of
                 interrupted copy processes.
         -
+            name: nnn
+            url: https://github.com/jarun/nnn
+            description: |
+                "The missing terminal file browser for X". Provides
+                only diretory traversal and file visualization.
+                No delete/move operations are supported.
+        -
             name: PathPicker
             url: https://facebook.github.io/PathPicker/
             description: |
