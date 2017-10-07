@@ -1,5 +1,9 @@
 categories:
     -
+        label: networking
+        name: Networking
+        description: Programs to deal with networks and communication
+    -
         label: utility
         name: Utilities
         description:
@@ -124,6 +128,60 @@ categories:
         description:
 
 apps:
+    networking:
+        -
+            name: PSSH
+            url: https://code.google.com/archive/p/parallel-ssh/
+            description: PSSH provides parallel versions of OpenSSH
+                and related tools. Included are pssh, pscp, prsync,
+                pnuke, and pslurp. The project includes psshlib which
+                can be used within custom applications.
+            articles:
+                -
+                    title: "PSSH - Execute Commands on Multiple Linux Servers in Parallel"
+                    url: http://www.2daygeek.com/pssh-parallel-ssh-run-execute-commands-on-multiple-linux-servers/
+                    date: 2017-07-10
+                    description: By default everyone prefers openSSH to connect
+                        remote Linux servers. openSSH is one of the best tool
+                        to connect remote server securely and doing the job perfectly
+                        but it doesn’t have the features to execute commands on multiple
+                        Linux servers simultaneously, this is where Parallel SSH came
+                        to picture.
+        -
+            name: rtop
+            url: http://www.rtop-monitor.org/
+            description: rtop is a simple, agent-less, remote
+                server monitoring tool that works over plain SSH.
+                Written in golang, it does not need any software
+                to be installed on the server that you want to
+                monitor. It works by establishing an SSH session,
+                and running commands on the remote server to collect
+                system metrics.
+            articles:
+                -
+                    title: "rtop - A Nifty Tool to Monitor Remote Server Over SSH"
+                    url: http://www.2daygeek.com/rtop-monitor-remote-linux-server-over-ssh/#
+                    date: 2017-07-10
+                    description: rtop is a simple, agent-less, remote server
+                        monitoring tool that works over SSH. It doesn’t
+                        required any other software to be installed on
+                        remote machine, except openSSH server package &
+                        remote server credentials.
+        -
+            name: geoiplookup
+            url: https://github.com/maxmind/geoip-api-c
+            description: a little application to find geographical
+                and network information of an IP address based no
+                the geoip C API.
+            articles:
+                -
+                    title: "How To Find The Geolocation Of An IP Address From Commandline"
+                    url: https://www.ostechnix.com/find-geolocation-ip-address-commandline/
+                    date: 2017-07-10
+                    description: geoiplookup is a command line utility that
+                        can be used to find the Country that an IP address
+                        or hostname originates from. It uses the GeoIP library
+                        and database to collect the details of an IP address.
     text-search:
         -
             name: ack
@@ -1478,59 +1536,6 @@ apps:
             description: "Custom SSH server written in Go. Instead of a
                 shell, you get a chat prompt."
     misc-or-to-classify:
-        -
-            name: PSSH
-            url: https://code.google.com/archive/p/parallel-ssh/
-            description: PSSH provides parallel versions of OpenSSH
-                and related tools. Included are pssh, pscp, prsync,
-                pnuke, and pslurp. The project includes psshlib which
-                can be used within custom applications.
-            articles:
-                -
-                    title: "PSSH - Execute Commands on Multiple Linux Servers in Parallel"
-                    url: http://www.2daygeek.com/pssh-parallel-ssh-run-execute-commands-on-multiple-linux-servers/
-                    date: 2017-07-10
-                    description: By default everyone prefers openSSH to connect
-                        remote Linux servers. openSSH is one of the best tool
-                        to connect remote server securely and doing the job perfectly
-                        but it doesn’t have the features to execute commands on multiple
-                        Linux servers simultaneously, this is where Parallel SSH came
-                        to picture.
-        -
-            name: rtop
-            url: http://www.rtop-monitor.org/
-            description: rtop is a simple, agent-less, remote
-                server monitoring tool that works over plain SSH.
-                Written in golang, it does not need any software
-                to be installed on the server that you want to
-                monitor. It works by establishing an SSH session,
-                and running commands on the remote server to collect
-                system metrics.
-            articles:
-                -
-                    title: "rtop - A Nifty Tool to Monitor Remote Server Over SSH"
-                    url: http://www.2daygeek.com/rtop-monitor-remote-linux-server-over-ssh/#
-                    date: 2017-07-10
-                    description: rtop is a simple, agent-less, remote server
-                        monitoring tool that works over SSH. It doesn’t
-                        required any other software to be installed on
-                        remote machine, except openSSH server package &
-                        remote server credentials.
-        -
-            name: geoiplookup
-            url: https://github.com/maxmind/geoip-api-c
-            description: a little application to find geographical
-                and network information of an IP address based no
-                the geoip C API.
-            articles:
-                -
-                    title: "How To Find The Geolocation Of An IP Address From Commandline"
-                    url: https://www.ostechnix.com/find-geolocation-ip-address-commandline/
-                    date: 2017-07-10
-                    description: geoiplookup is a command line utility that
-                        can be used to find the Country that an IP address
-                        or hostname originates from. It uses the GeoIP library
-                        and database to collect the details of an IP address.
         -
             name: quickserve
             url: https://github.com/charliesome/quickserve
