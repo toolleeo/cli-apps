@@ -182,6 +182,21 @@ apps:
                         can be used to find the Country that an IP address
                         or hostname originates from. It uses the GeoIP library
                         and database to collect the details of an IP address.
+        -
+            name: quickserve
+            url: https://github.com/charliesome/quickserve
+            description: Quickserve is a very simple HTTP server
+                written in Python that is intended for quickly
+                sharing files on an ad-hoc basis. Aside from
+                opening a port in your firewall if you have one,
+                quickserve requires no set-up and should work with
+                no hassle.
+            articles:
+                -
+                    title: "quickserve"
+                    url: https://xyne.archlinux.ca/projects/quickserve/
+                    date: 2017-07-10
+                    description: A simple HTTP server for quickly sharing files.
     text-search:
         -
             name: ack
@@ -1536,21 +1551,6 @@ apps:
             description: "Custom SSH server written in Go. Instead of a
                 shell, you get a chat prompt."
     misc-or-to-classify:
-        -
-            name: quickserve
-            url: https://github.com/charliesome/quickserve
-            description: Quickserve is a very simple HTTP server
-                written in Python that is intended for quickly
-                sharing files on an ad-hoc basis. Aside from
-                opening a port in your firewall if you have one,
-                quickserve requires no set-up and should work with
-                no hassle.
-            articles:
-                -
-                    title: "quickserve"
-                    url: https://xyne.archlinux.ca/projects/quickserve/
-                    date: 2017-07-10
-                    description: A simple HTTP server for quickly sharing files.
         -
             name: goobook
             url: https://gitlab.com/goobook/goobook
