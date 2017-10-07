@@ -444,8 +444,8 @@ apps:
             name: sysdig
             url: https://www.sysdig.org/
             description: |
-                Sysdig captures system calls and events from the Linux kernel. 
-                You can save, filter, and analyze the data with our CLI or our desktop app. 
+                Sysdig captures system calls and events from the Linux kernel.
+                You can save, filter, and analyze the data with our CLI or our desktop app.
                 Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system.
             articles:
                 -
