@@ -516,6 +516,26 @@ apps:
                 "Conspy allows a (possibly remote) user to see what is displayed
                 on a Linux virtual console, and send keystrokes to it."
         -
+            name: lshw
+            url: http://www.ezix.org/project/wiki/HardwareLiSter
+            description: |
+                A small tool to provide detailed information on the hardware
+                configuration of the machine. It can report exact memory configuration,
+                firmware version, mainboard configuration, CPU version and speed,
+                cache configuration, bus speed, etc. 
+            articles:
+                -
+                    title: "LSHW (Hardware Lister) – A Nifty Tool To Get A Hardware Information On Linux"
+                    url: https://www.2daygeek.com/lshw-find-check-system-hardware-information-details-linux/
+                    date: 2017-10-07
+                    description: |
+                        lshw (stands for Hardware Lister) is a small nifty
+                        tool that generates detailed reports about various hardware
+                        components on the machine such as memory configuration,
+                        firmware version, mainboard configuration, CPU version
+                        and speed, cache configuration, usb, network card, graphics
+                        cards, multimedia, printers, bus speed, etc.
+        -
             name: Ntfy
             url: https://github.com/dschep/ntfy
             description: |
