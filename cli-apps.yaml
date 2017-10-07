@@ -1497,13 +1497,6 @@ apps:
                         Linux servers simultaneously, this is where Parallel SSH came
                         to picture.
         -
-            name: powerline
-            url: https://github.com/powerline/powerline
-            description: Powerline is a statusline plugin
-                for vim, and provides statuslines and prompts
-                for several other applications, including zsh,
-                bash, tmux, IPython, Awesome and Qtile.
-        -
             name: rtop
             url: http://www.rtop-monitor.org/
             description: rtop is a simple, agent-less, remote
@@ -1615,6 +1608,13 @@ apps:
                     description: In some occasions where you want to check by how many years someone older
                         than you, how old you are (in days, years or months), the countdown to an event or
                         the next flash sale. There is a python-based command line application ...
+        -
+            name: powerline
+            url: https://github.com/powerline/powerline
+            description: Powerline is a statusline plugin
+                for vim, and provides statuslines and prompts
+                for several other applications, including zsh,
+                bash, tmux, IPython, Awesome and Qtile.
         -
             name: socli
             url: https://github.com/gautamkrishnar/socli
