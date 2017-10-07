@@ -15,15 +15,53 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **179** apps/tools covered, divided in **29** categories; **8** related sites reviewed and listed.
+To date, **185** apps/tools covered, divided in **30** categories; **8** related sites reviewed and listed.
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (13) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (13) | [System tools](#system) (6) | [Terminals](#terminals) (4) | [Text processing](#text-processing) (6) | [Text search](#text-search) (4) | [Utilities](#utility) (5) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (13) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (14) | [System tools](#system) (7) | [Terminals](#terminals) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (9) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
 I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
+
+## <a name="networking"></a>Networking
+
+#### [ipcalc](http://jodies.de/ipcalc)
+
+"ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range." 
+
+References
+* [How to Calculate Network Addresses with ipcalc](https://www.linux.com/learn/intro-to-linux/2017/8/how-calculate-network-addresses-ipcalc) (rev. 2017-10-07) - The math behind IP addresses is convoluted...
+
+
+#### [PSSH](https://code.google.com/archive/p/parallel-ssh/)
+
+PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
+
+References
+* [PSSH - Execute Commands on Multiple Linux Servers in Parallel](http://www.2daygeek.com/pssh-parallel-ssh-run-execute-commands-on-multiple-linux-servers/) (rev. 2017-07-10) - By default everyone prefers openSSH to connect remote Linux servers. openSSH is one of the best tool to connect remote server securely and doing the job perfectly but it doesn’t have the features to execute commands on multiple Linux servers simultaneously, this is where Parallel SSH came to picture.
+
+#### [rtop](http://www.rtop-monitor.org/)
+
+rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
+
+References
+* [rtop - A Nifty Tool to Monitor Remote Server Over SSH](http://www.2daygeek.com/rtop-monitor-remote-linux-server-over-ssh/#) (rev. 2017-07-10) - rtop is a simple, agent-less, remote server monitoring tool that works over SSH. It doesn’t required any other software to be installed on remote machine, except openSSH server package & remote server credentials.
+
+#### [geoiplookup](https://github.com/maxmind/geoip-api-c)
+
+a little application to find geographical and network information of an IP address based no the geoip C API.
+
+References
+* [How To Find The Geolocation Of An IP Address From Commandline](https://www.ostechnix.com/find-geolocation-ip-address-commandline/) (rev. 2017-07-10) - geoiplookup is a command line utility that can be used to find the Country that an IP address or hostname originates from. It uses the GeoIP library and database to collect the details of an IP address.
+
+#### [quickserve](https://github.com/charliesome/quickserve)
+
+Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle.
+
+References
+* [quickserve](https://xyne.archlinux.ca/projects/quickserve/) (rev. 2017-07-10) - A simple HTTP server for quickly sharing files.
 
 ## <a name="utility"></a>Utilities
 
@@ -38,12 +76,47 @@ Search the Arch Wiki anywhere from the command line.
 References
 * [How To Search The Arch Wiki Website Right From Terminal](http://www.2daygeek.com/search-arch-wiki-website-command-line-terminal/#) (rev. 2017-08-09) - Whenever you search anything about Arch Linux in web browser, I damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch wiki is an ideal place to get solution for most of the arch Linux issues ...
 
+#### [lolcat](https://github.com/busyloop/lolcat)
+
+Ruby Gem to colorize the output of the cat command.
+
+References
+* [lolcat : tool to rainbow color linux terminal](http://kerneltalks.com/linux/lolcat-tool-to-rainbow-color-linux-terminal/) (rev. 2017-07-10) - Paint your command outputs with rainbow color! Use lolcat (Ruby gem) tool and add some spice to black putty terminal!
+
+#### [neofetch](https://github.com/dylanaraps/neofetch)
+
+Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice. 
+
+References
+* [Display Linux Distribution Logo in ASCII Art in Terminal](https://itsfoss.com/display-linux-logo-in-ascii/) (rev. 2017-10-07) - ... You might have seen people sharing such desktop screenshot
+with terminal showing the logo of the Linux distribution used in
+ASCII art.
+
+
 #### [pdd](https://github.com/jarun/pdd)
 
 Tiny date, time diff calculator. 
 
 References
 * [pdd - Tool to find Date and Time Difference in Linux Command Line](https://linoxide.com/linux-how-to/pdd-tool-date-time-difference-linux-command-line/) (rev. 2017-08-09) - In some occasions where you want to check by how many years someone older than you, how old you are (in days, years or months), the countdown to an event or the next flash sale. There is a python-based command line application ...
+
+#### [powerline](https://github.com/powerline/powerline)
+
+Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+
+#### [socli](https://github.com/gautamkrishnar/socli)
+
+Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal 
+
+References
+* [SoCLI - A Tool to Search Stack Overflow from Linux Terminal](https://linoxide.com/linux-how-to/socli-tool-access-stack-overflow-linux-terminal/) (rev. 2017-10-07) - In this article, I am going to show you how
+to install Stack Overflow command line interface
+(SoCLI) on Linux.  Stack Overflow is a question
+and answer website on the topic of computer programming.
+We can use command line interface to get any information
+from Linux terminal without using the graphical web
+interface or terminal browser.
+
 
 #### [termsaver](http://termsaver.brunobraga.net/)
 
@@ -588,6 +661,19 @@ References
 
 "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 
+#### [lshw](http://www.ezix.org/project/wiki/HardwareLiSter)
+
+A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.  
+
+References
+* [LSHW (Hardware Lister) – A Nifty Tool To Get A Hardware Information On Linux](https://www.2daygeek.com/lshw-find-check-system-hardware-information-details-linux/) (rev. 2017-10-07) - lshw (stands for Hardware Lister) is a small nifty
+tool that generates detailed reports about various hardware
+components on the machine such as memory configuration,
+firmware version, mainboard configuration, CPU version
+and speed, cache configuration, usb, network card, graphics
+cards, multimedia, printers, bus speed, etc.
+
+
 #### [Ntfy](https://github.com/dschep/ntfy)
 
 Ntfy is a simple yet serviceable cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes. 
@@ -664,6 +750,17 @@ A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv
 
 A `top`-like utility to monitor the sources of power consumption; allows to turn on/off many components; quite useful to track possible power-related issues. 
 
+#### [sysdig](https://www.sysdig.org/)
+
+Sysdig captures system calls and events from the Linux kernel. You can save, filter, and analyze the data with our CLI or our desktop app. Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system. 
+
+References
+* [Sysdig – Linux System Exploration/Diagnostic And Troubleshooting Tool](https://www.2daygeek.com/sysdig-linux-system-diagnostic-monitor-troubleshoot-tool/) (rev. 2017-10-07) - Sysdig is an open source, system exploration/diagnosing
+and troubleshooting tool for Linux with native container
+support. It is capture system state and activity from a
+running Linux instance, then save, filter and analyze.
+
+
 #### [smem](https://www.selenic.com/smem/)
 
 Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation. 
@@ -688,6 +785,19 @@ A text-based window manager and terminal multiplexer; it features enhanced profi
 #### [screen](https://www.gnu.org/software/screen/)
 
 Terminal multiplexer that split a physical terminal between several processes, typically interactive shells. 
+
+#### [Tmate](https://tmate.io/)
+
+A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. 
+
+References
+* [Tmate - Share Your Terminal Instantly To Anyone From Anywhere](https://www.ostechnix.com/tmate-share-terminal-instantly-anyone-anywhere/) (rev. 2017-10-07) - There are several popular remote desktop
+sharing programs (such as Teamviewer, Guacamole, and
+TigerVNC etc) you can use when you need to share your screen
+to your coworkers or friends. These programs are used to
+share your entire screen to others. But, if it’s only the
+Terminal, you can just use Tmate.
+
 
 #### [tmux](https://tmux.github.io/)
 
@@ -777,6 +887,17 @@ A `cat` command with colorized output.
 #### [percol](https://github.com/mooz/percol)
 
 A Python script that "1) receives input lines from  `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands. 
+
+#### [pick](https://github.com/calleerlandsson/pick)
+
+Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality. 
+
+References
+* [Pick - A Commandline Fuzzy Search Tool For Linux](https://www.ostechnix.com/pick-commandline-fuzzy-search-tool-linux/) (rev. 2017-10-07) - The Pick utility can be helpful in certain situations
+where you wanted to search for a folder or file that contains
+a non-English characters in their name. You don’t have to learn
+how to type the non-english characters.
+
 
 #### [q](http://harelba.github.io/q/)
 
