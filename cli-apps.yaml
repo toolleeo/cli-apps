@@ -1655,6 +1655,21 @@ apps:
                         damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch
                         wiki is an ideal place to get solution for most of the arch Linux issues ...
         -
+            name: googler
+            url: https://github.com/jarun/googler
+            description: |
+                Google Search, Google Site Search, Google News from the terminal.
+            last-access: 2017-12-04
+            articles:
+                -
+                    title: "Googler A Command Line Tool To Search Google"
+                    url: http://www.linuxandubuntu.com/home/googler-a-command-line-tool-to-search-google
+                    date: 2017-08-09
+                    description: Looking for information on the web has become something
+                        that we do day in and day out. Whether it is support you are
+                        looking for, looking for a product or news about a particular
+                        topic, all you have to do is search on the web.
+        -
             name: lolcat
             url: https://github.com/busyloop/lolcat
             description: Ruby Gem to colorize the output of the
