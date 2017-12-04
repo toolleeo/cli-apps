@@ -225,6 +225,21 @@ apps:
                 (The silver searcher) is a text search utility
                 targeted to source code; it skips versioning systems
                 data directories; it is inspired by `ack`, but faster.
+            articles:
+                -
+                    title: "How to supercharge string search through a directory hierarchy on a Linux/Unix"
+                    url: https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/
+                    date: 2017-12-04
+                    description: |
+                        Usually, I use the grep command for code
+                        searching on my box. Recently, I come across another
+                        cool tool called ag. It is an attempt to make
+                        something better than ack, which itself is better
+                        than grep command. Let us see how to install and
+                        use the ag tool on Unix-like operating systems.
+
+                        The ag command can recursively search for PATTERN
+                        in PATH. Like grep or ack, but faster.
         -
             name: paragrep
             url: http://software.clapper.org/paragrep/
