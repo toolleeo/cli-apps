@@ -15,11 +15,11 @@ to build the latest version of ``README.md``.
 
 # Summary
 
-To date, **185** apps/tools covered, divided in **30** categories; **8** related sites reviewed and listed.
+To date, **188** apps/tools covered, divided in **30** categories; **8** related sites reviewed and listed.
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (10) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (13) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (14) | [System tools](#system) (7) | [Terminals](#terminals) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (9) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (11) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (14) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (14) | [System tools](#system) (7) | [Terminals](#terminals) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
@@ -75,6 +75,13 @@ Search the Arch Wiki anywhere from the command line.
 
 References
 * [How To Search The Arch Wiki Website Right From Terminal](http://www.2daygeek.com/search-arch-wiki-website-command-line-terminal/#) (rev. 2017-08-09) - Whenever you search anything about Arch Linux in web browser, I damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch wiki is an ideal place to get solution for most of the arch Linux issues ...
+
+#### [googler](https://github.com/jarun/googler)
+
+Google Search, Google Site Search, Google News from the terminal. 
+
+References
+* [Googler A Command Line Tool To Search Google](http://www.linuxandubuntu.com/home/googler-a-command-line-tool-to-search-google) (rev. 2017-08-09) - Looking for information on the web has become something that we do day in and day out. Whether it is support you are looking for, looking for a product or news about a particular topic, all you have to do is search on the web.
 
 #### [lolcat](https://github.com/busyloop/lolcat)
 
@@ -205,6 +212,20 @@ A lightweight, Free Software, cross-platform BitTorrent client; a terminal curse
 #### [Magic Wormhole](https://github.com/warner/magic-wormhole)
 
 The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes. 
+
+#### [OnionShare](https://onionshare.org/)
+
+"An open source tool that lets you securely and anonymously share a file of any size." 
+
+References
+* [OnionShare - A Tool To Share Any Size Of Files Securely And Anonymously](https://www.2daygeek.com/onionshare-secure-way-to-share-files-sharing-tool-linux/) (rev. 2017-12-04) - When we wrote an article about file sharing
+utilities such as Magic Womhole & transfer.sh most of the
+users asked is it secure? and where the files are stored.
+So, we decided to bring one of the best utility that stores
+and share files securely over the Internet. When we dig on
+that, we came to know about OnionShare which fulfill all
+this requirements.
+
 
 #### [rsync](https://download.samba.org/pub/rsync/rsync.html)
 
@@ -402,6 +423,10 @@ ls command which was written in rust language.
 #### [fasd](https://github.com/clvv/fasd)
 
 A Commandline Tool That Offers Quick Access to Files and Directories. Fasd (pronounced similar to "fast") is a command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line. 
+
+#### [fd](https://github.com/sharkdp/fd)
+
+A simple, fast and user-friendly alternative to find. Written in Rust. 
 
 #### [rename](https://www.kernel.org/pub/linux/utils/util-linux/)
 
@@ -912,6 +937,18 @@ A tool like `grep` optimized for programmers; written in Perl, it speeds up sear
 #### [ag](https://github.com/ggreer/the_silver_searcher)
 
 (The silver searcher) is a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster. 
+
+References
+* [How to supercharge string search through a directory hierarchy on a Linux/Unix](https://www.cyberciti.biz/open-source/command-line-hacks/ag-supercharge-string-search-through-directory-hierarchy/) (rev. 2017-12-04) - Usually, I use the grep command for code
+searching on my box. Recently, I come across another
+cool tool called ag. It is an attempt to make
+something better than ack, which itself is better
+than grep command. Let us see how to install and
+use the ag tool on Unix-like operating systems.
+
+The ag command can recursively search for PATTERN
+in PATH. Like grep or ack, but faster.
+
 
 #### [paragrep](http://software.clapper.org/paragrep/)
 
