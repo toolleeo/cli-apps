@@ -30,7 +30,7 @@ def fmt_app(app):
         for art in app['articles']:
             st += "* [{}]({}) (rev. {})".format(art['title'], art['url'], art['date'])
             if 'description' in art:
-                st += ' - ' + art['description']
+                st += ' - ' + art['description'] + '\n'
         st += '\n'
     return(st)
 
