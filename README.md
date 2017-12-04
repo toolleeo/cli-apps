@@ -35,12 +35,14 @@ References
 * [How to Calculate Network Addresses with ipcalc](https://www.linux.com/learn/intro-to-linux/2017/8/how-calculate-network-addresses-ipcalc) (rev. 2017-10-07) - The math behind IP addresses is convoluted...
 
 
+
 #### [PSSH](https://code.google.com/archive/p/parallel-ssh/)
 
 PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 
 References
 * [PSSH - Execute Commands on Multiple Linux Servers in Parallel](http://www.2daygeek.com/pssh-parallel-ssh-run-execute-commands-on-multiple-linux-servers/) (rev. 2017-07-10) - By default everyone prefers openSSH to connect remote Linux servers. openSSH is one of the best tool to connect remote server securely and doing the job perfectly but it doesn’t have the features to execute commands on multiple Linux servers simultaneously, this is where Parallel SSH came to picture.
+
 
 #### [rtop](http://www.rtop-monitor.org/)
 
@@ -49,6 +51,7 @@ rtop is a simple, agent-less, remote server monitoring tool that works over plai
 References
 * [rtop - A Nifty Tool to Monitor Remote Server Over SSH](http://www.2daygeek.com/rtop-monitor-remote-linux-server-over-ssh/#) (rev. 2017-07-10) - rtop is a simple, agent-less, remote server monitoring tool that works over SSH. It doesn’t required any other software to be installed on remote machine, except openSSH server package & remote server credentials.
 
+
 #### [geoiplookup](https://github.com/maxmind/geoip-api-c)
 
 a little application to find geographical and network information of an IP address based no the geoip C API.
@@ -56,12 +59,14 @@ a little application to find geographical and network information of an IP addre
 References
 * [How To Find The Geolocation Of An IP Address From Commandline](https://www.ostechnix.com/find-geolocation-ip-address-commandline/) (rev. 2017-07-10) - geoiplookup is a command line utility that can be used to find the Country that an IP address or hostname originates from. It uses the GeoIP library and database to collect the details of an IP address.
 
+
 #### [quickserve](https://github.com/charliesome/quickserve)
 
 Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle.
 
 References
 * [quickserve](https://xyne.archlinux.ca/projects/quickserve/) (rev. 2017-07-10) - A simple HTTP server for quickly sharing files.
+
 
 ## <a name="utility"></a>Utilities
 
@@ -76,6 +81,7 @@ Search the Arch Wiki anywhere from the command line.
 References
 * [How To Search The Arch Wiki Website Right From Terminal](http://www.2daygeek.com/search-arch-wiki-website-command-line-terminal/#) (rev. 2017-08-09) - Whenever you search anything about Arch Linux in web browser, I damn sure the first link would be Arch Wiki. Am i right? Yes, since Arch wiki is an ideal place to get solution for most of the arch Linux issues ...
 
+
 #### [googler](https://github.com/jarun/googler)
 
 Google Search, Google Site Search, Google News from the terminal. 
@@ -83,12 +89,14 @@ Google Search, Google Site Search, Google News from the terminal.
 References
 * [Googler A Command Line Tool To Search Google](http://www.linuxandubuntu.com/home/googler-a-command-line-tool-to-search-google) (rev. 2017-08-09) - Looking for information on the web has become something that we do day in and day out. Whether it is support you are looking for, looking for a product or news about a particular topic, all you have to do is search on the web.
 
+
 #### [lolcat](https://github.com/busyloop/lolcat)
 
 Ruby Gem to colorize the output of the cat command.
 
 References
 * [lolcat : tool to rainbow color linux terminal](http://kerneltalks.com/linux/lolcat-tool-to-rainbow-color-linux-terminal/) (rev. 2017-07-10) - Paint your command outputs with rainbow color! Use lolcat (Ruby gem) tool and add some spice to black putty terminal!
+
 
 #### [neofetch](https://github.com/dylanaraps/neofetch)
 
@@ -100,12 +108,14 @@ with terminal showing the logo of the Linux distribution used in
 ASCII art.
 
 
+
 #### [pdd](https://github.com/jarun/pdd)
 
 Tiny date, time diff calculator. 
 
 References
 * [pdd - Tool to find Date and Time Difference in Linux Command Line](https://linoxide.com/linux-how-to/pdd-tool-date-time-difference-linux-command-line/) (rev. 2017-08-09) - In some occasions where you want to check by how many years someone older than you, how old you are (in days, years or months), the countdown to an event or the next flash sale. There is a python-based command line application ...
+
 
 #### [powerline](https://github.com/powerline/powerline)
 
@@ -123,6 +133,7 @@ and answer website on the topic of computer programming.
 We can use command line interface to get any information
 from Linux terminal without using the graphical web
 interface or terminal browser.
+
 
 
 #### [termsaver](http://termsaver.brunobraga.net/)
@@ -225,6 +236,7 @@ So, we decided to bring one of the best utility that stores
 and share files securely over the Internet. When we dig on
 that, we came to know about OnionShare which fulfill all
 this requirements.
+
 
 
 #### [rsync](https://download.samba.org/pub/rsync/rsync.html)
@@ -400,6 +412,7 @@ Organize files in your current directory, by classifying them into folders of mu
 References
 * [Automatically Organize Your Downloads Folder In Linux Using Classifier](http://www.webupd8.org/2017/03/automatically-organize-your-downloads.html?m=1) (rev. 2017-07-10) - My downloads folder is pretty messy but I can't just delete things because I still need most of the stuff I download. To "fix" this, I was looking for an app that can automatically organize my downloads, and I stumbled upon Classifier, an easy to use command line tool that can organize files in any directory.
 
+
 #### [detox](http://detox.sourceforge.net/)
 
 A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones. 
@@ -413,11 +426,13 @@ A utility designed to easily clean up filenames; it replaces characters like spa
 Replacement for 'ls' written in Rust, with colors and several additional "views". 
 
 References
-* [exa a modern replacement for ls written in rust for Linux/Unix](https://www.cyberciti.biz/open-source/command-line-hacks/exa-a-modern-replacement-for-ls-written-in-rust-for-linuxunix/) (rev. 2017-08-09) - ls is a command to show files in Linux and Unix-like operating systems. A ls command first appeared in a version of AT&T UNIX as well as in Multics. BSD and GNU Coreutils package provides the ls command with minor syntax changes. There is now third alternative named exa ...* [Exa – A Modern And Colorful Replacement For LS Command Written In Rust](https://www.2daygeek.com/exa-a-modern-replacement-for-ls-command-linux/) (rev. 2017-10-07) - ls is one of the very basic & essential Linux command for
+* [exa a modern replacement for ls written in rust for Linux/Unix](https://www.cyberciti.biz/open-source/command-line-hacks/exa-a-modern-replacement-for-ls-written-in-rust-for-linuxunix/) (rev. 2017-08-09) - ls is a command to show files in Linux and Unix-like operating systems. A ls command first appeared in a version of AT&T UNIX as well as in Multics. BSD and GNU Coreutils package provides the ls command with minor syntax changes. There is now third alternative named exa ...
+* [Exa – A Modern And Colorful Replacement For LS Command Written In Rust](https://www.2daygeek.com/exa-a-modern-replacement-for-ls-command-linux/) (rev. 2017-10-07) - ls is one of the very basic & essential Linux command for
 administrator that can be used in most of the actions (in other
 hands, Linux administrator can’t live without ls command). Exa is
 a small, fast, portable, modern and colorful replacement for
 ls command which was written in rust language.
+
 
 
 #### [fasd](https://github.com/clvv/fasd)
@@ -680,6 +695,7 @@ Password management belongs to the command line, deep into the Unix heartland, t
 References
 * [A Command line Password Manager For Linux](https://www.ostechnix.com/titan-command-line-password-manager-linux/) (rev. 2017-07-10) - There are plethora of GUI based password managers. A quick google search will lead you to pick one suitable for you. But the command line password managers are very few. The one today we talk about is Titan. It is written using C programming language. It uses SQlite.
 
+
 ## <a name="system"></a>System tools
 
 #### [conspy](http://conspy.sourceforge.net/)
@@ -697,6 +713,7 @@ components on the machine such as memory configuration,
 firmware version, mainboard configuration, CPU version
 and speed, cache configuration, usb, network card, graphics
 cards, multimedia, printers, bus speed, etc.
+
 
 
 #### [Ntfy](https://github.com/dschep/ntfy)
@@ -786,6 +803,7 @@ support. It is capture system state and activity from a
 running Linux instance, then save, filter and analyze.
 
 
+
 #### [smem](https://www.selenic.com/smem/)
 
 Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation. 
@@ -800,6 +818,7 @@ Periodically runs a command in the console while temporarily clearing the screen
 
 References
 * [Watch command to execute script/shell command repeatedly](http://kerneltalks.com/commands/watch-command-to-execute-scriptshell-command-repeatedly/) (rev. 2017-07-10) - “watch” command is small utility using which you can execute shell command or script repetitively and after every n seconds. Its helpful in automation or monitoring.
+
 
 ## <a name="terminals"></a>Terminals
 
@@ -822,6 +841,7 @@ TigerVNC etc) you can use when you need to share your screen
 to your coworkers or friends. These programs are used to
 share your entire screen to others. But, if it’s only the
 Terminal, you can just use Tmate.
+
 
 
 #### [tmux](https://tmux.github.io/)
@@ -881,6 +901,7 @@ From the website: "WordGrinder is a word processor for processing words. It is n
 References
 * [WordGrinder: Distraction-Free Writing From the Command Line](http://fossforce.com/2017/03/wordgrinder-distraction-free-writing-command-line/) (rev. 2017-07-10) - WordGrinder is an old fashioned command line program that doesn’t try to do a lot of things. Its purpose is to get the job done, and stay out of the user’s way while doing it.
 
+
 ## <a name="font"></a>Font management
 
 #### [FIGlet](http://www.figlet.org/)
@@ -924,6 +945,7 @@ a non-English characters in their name. You don’t have to learn
 how to type the non-english characters.
 
 
+
 #### [q](http://harelba.github.io/q/)
 
 Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`). 
@@ -948,6 +970,7 @@ use the ag tool on Unix-like operating systems.
 
 The ag command can recursively search for PATTERN
 in PATH. Like grep or ack, but faster.
+
 
 
 #### [paragrep](http://software.clapper.org/paragrep/)
