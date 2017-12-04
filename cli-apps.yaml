@@ -1518,6 +1518,26 @@ apps:
                 The two endpoints are identified by using identical
                 human-readable codes.
         -
+            name: OnionShare
+            url: https://onionshare.org/
+            description: |
+                "An open source tool that lets you securely and anonymously share
+                a file of any size."
+            last-access: 2017-12-04
+            articles:
+                -
+                    title: "OnionShare - A Tool To Share Any Size Of Files Securely And Anonymously"
+                    url: https://www.2daygeek.com/onionshare-secure-way-to-share-files-sharing-tool-linux/
+                    date: 2017-12-04
+                    description: |
+                        When we wrote an article about file sharing
+                        utilities such as Magic Womhole & transfer.sh most of the
+                        users asked is it secure? and where the files are stored.
+                        So, we decided to bring one of the best utility that stores
+                        and share files securely over the Internet. When we dig on
+                        that, we came to know about OnionShare which fulfill all
+                        this requirements.
+        -
             name: rsync
             url: https://download.samba.org/pub/rsync/rsync.html
             description: |
