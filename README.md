@@ -19,7 +19,7 @@ To date, **189** apps/tools covered, divided in **30** categories; **8** related
 
 # Index
 
-[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (11) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (14) | [File manager](#file-manager) (6) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (14) | [System tools](#system) (7) | [Terminals](#terminals) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
+[Backup](#backup) (3) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data transfer](#transfer) (11) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-systems) (2) | [Font management](#font) (2) | [Funny tools](#funny) (6) | [Games](#games) (8) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (14) | [System tools](#system) (7) | [Terminals](#terminals) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web browser](#browser) (4) | [Web development](#webdev) (4)
 
 Some links to [related resources](#resources).
 
@@ -405,6 +405,10 @@ A steam locomotive traverses the screen from right to left if `sl` is typed inst
 
 ## <a name="file-handling"></a>File and file system handling
 
+#### [ncdu](https://dev.yorhel.nl/ncdu)
+
+"A disk usage analyzer with an ncurses interface. It is designed to find space hogs on a remote server where you don't have an entire graphical setup available, but it is a useful tool even on regular desktop systems. Ncdu aims to be fast, simple and easy to use, and should be able to run in any minimal POSIX-like environment with ncurses installed." 
+
 #### [classifier](https://github.com/bhrigu123/classifier)
 
 Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc. 
@@ -504,10 +508,6 @@ Universal document file converter; handles input output from/to a number of form
 Command line converter from Excel to CSV file format. 
 
 ## <a name="file-manager"></a>File manager
-
-#### [ncdu](https://dev.yorhel.nl/ncdu)
-
-"A disk usage analyzer with an ncurses interface. It is designed to find space hogs on a remote server where you don't have an entire graphical setup available, but it is a useful tool even on regular desktop systems. Ncdu aims to be fast, simple and easy to use, and should be able to run in any minimal POSIX-like environment with ncurses installed." 
 
 #### [lfm](https://inigo.katxi.org/devel/lfm/)
 

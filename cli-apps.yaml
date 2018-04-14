@@ -1088,17 +1088,6 @@ apps:
                 from within any other program.
     file-manager:
         -
-            name: ncdu
-            url: https://dev.yorhel.nl/ncdu
-            description: |
-                "A disk usage analyzer with an ncurses interface.
-                It is designed to find space hogs on a remote server where
-                you don't have an entire graphical setup available, but
-                it is a useful tool even on regular desktop systems.
-                Ncdu aims to be fast, simple and easy to use, and should
-                be able to run in any minimal POSIX-like environment
-                with ncurses installed."
-        -
             name: lfm
             url: https://inigo.katxi.org/devel/lfm/
             description: |
@@ -1181,6 +1170,17 @@ apps:
                 Simplifies the use of [duplicity](http://duplicity.nongnu.org/)
                 by keeping clean configuration files to automate the backup.
     file-handling:
+        -
+            name: ncdu
+            url: https://dev.yorhel.nl/ncdu
+            description: |
+                "A disk usage analyzer with an ncurses interface.
+                It is designed to find space hogs on a remote server where
+                you don't have an entire graphical setup available, but
+                it is a useful tool even on regular desktop systems.
+                Ncdu aims to be fast, simple and easy to use, and should
+                be able to run in any minimal POSIX-like environment
+                with ncurses installed."
         -
             name: classifier
             url: https://github.com/bhrigu123/classifier
