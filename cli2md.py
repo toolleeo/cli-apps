@@ -11,7 +11,7 @@ To date, **{n_apps}** apps/tools covered, divided in **{n_cats}** categories.
 
 Some links to [related resources](#resources).
 
-I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
+If you have any suggestion or want your project listed here, drop me an email at `toolleeo@gmail.com`.
 """
 
 resources_template = """
@@ -62,8 +62,8 @@ def count_apps(apps, categories):
         c = a['category']
         if c in categories:
             categories[c]['count'] += 1
-        else:
-            print('Category {} does not have any app'.format(c))
+        #else:
+        #    print('Category {} does not have any app'.format(c))
     return categories
 
 

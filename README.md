@@ -10,7 +10,6 @@ To build `README.md` run (`python3` is required for building):
 ```
 make
 ```
-Category misc-to-classify does not have any app
 
 # Summary
 
@@ -22,7 +21,7 @@ To date, **207** apps/tools covered, divided in **32** categories.
 
 Some links to [related resources](#resources).
 
-I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
+If you have any suggestion or want your project listed here, drop me an email at `toolleeo@gmail.com`.
 
 ## <a name="backup"></a>Backup
 
