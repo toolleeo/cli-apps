@@ -1,20 +1,20 @@
-from yaml import load
+import csv
 
-summary = """
+summary_template = """
 # Summary
 
-To date, **{}** apps/tools covered, divided in **{}** categories; **8** related sites reviewed and listed.
+To date, **{n_apps}** apps/tools covered, divided in **{n_cats}** categories.
 
 # Index
 
-{}
+{cats}
 
 Some links to [related resources](#resources).
 
 I'm always interested to new tools, so if you have any suggestion please drop me an email at `toolleeo@gmail.com`.
 """
 
-resources = """
+resources_template = """
 # <a name="resources"></a>Related resources
 
 A list of some online resoures that contribute interesting links to apps and info.
@@ -22,58 +22,73 @@ A list of some online resoures that contribute interesting links to apps and inf
 {}
 """
 
+
+def load_csv(file_name):
+    with open(file_name, 'r') as infile:
+        csv_reader = csv.DictReader(infile, delimiter=',')
+        fields = csv_reader.fieldnames
+        data = []
+        for item in csv_reader:
+           data.append(item)
+    return fields, data
+
+
 def fmt_app(app):
-    descr = ''.join(c if c != '\n' else ' ' for c in app["description"])
-    st = "#### [{}]({})\n\n{}\n".format(app["name"], app["url"], descr)
-    if 'articles' in app:
-        st += '\nReferences\n'
-        for art in app['articles']:
-            st += "* [{}]({}) (rev. {})".format(art['title'], art['url'], art['date'])
-            if 'description' in art:
-                st += ' - ' + art['description'] + '\n'
-        st += '\n'
+    descr = ''.join(c if c != '\n' else ' ' for c in app['description'])
+    st = '* [{}]({}) - {}'.format(app['name'], app['url'], descr)
     return(st)
 
 
 def print_apps(cats, apps):
-    for cat_item in cats:
-        category = cat_item["label"]
-        print('## <a name="{}"></a>{}\n'.format(category, cat_item["name"]))
-        for app in apps[category]:
+    for c in cats:
+        cat_item = cats[c]
+        print('## <a name="{}"></a>{}\n'.format(c, cat_item['name']))
+        apps_in_cat = [a for a in apps if a['category'] == c]
+        for app in apps_in_cat:
             print(fmt_app(app))
+        print()
 
-
-def fmt_cats(cats, apps):
-    newlist = sorted(cats, key=lambda k: k['name'])
+def fmt_categories(cats):
     st = []
-    for cat_item in newlist:
-        category = cat_item["label"]
-        st.append("[{}](#{}) ({})".format(cat_item["name"], cat_item["label"], len(apps[cat_item["label"]])))
+    for c in cats:
+        st.append("[{}](#{}) ({})".format(cats[c]['name'], c, cats[c]['count']))
     return ' | '.join(st)
 
 
-def count_apps(apps, cats):
-    tot = 0
-    cats_labels = [x['label'] for x in cats]
-    for cat in apps:
-        if cat in cats_labels:   # does not consider labels that are not listed in the "summary"
-            tot += len(apps[cat])
-    return tot
+def count_apps(apps, categories):
+    for c in categories:
+        categories[c]['count'] = 0
+    for a in apps:
+        c = a['category']
+        if c in categories:
+            categories[c]['count'] += 1
+        else:
+            print('Category {} does not have any app'.format(c))
+    return categories
 
 
-with open('cli-apps.yaml', 'r') as yf:
-    data = load(yf)
-    # print(data)
-    apps = data["apps"]
-    cats = data["categories"]
+def categories_list_to_dict(category_list):
+    d = {}
+    for c in category_list:
+        d[c['label']] = {'name': c['name'], 'description': c['description']}
+    return d
 
-with open('resources.yaml', 'r') as yf:
-    res = load(yf)
+
+def main():
+    _, apps = load_csv('apps.csv')
+    _, categories = load_csv('categories.csv')
+    _, resources = load_csv('resources.csv')
+    categories = categories_list_to_dict(categories)
+    categories = count_apps(apps, categories)
+
     md_res = ''
-    for r in res['resources']:
+    for r in resources:
         md_res += '[{}]({}) - {}\n\n'.format(r['title'], r['url'], r['description'])
 
+    print(summary_template.format(n_apps=len(apps), n_cats=len(categories), cats=fmt_categories(categories)))
+    print_apps(categories, apps)
+    print(resources_template.format(md_res))
 
-print(summary.format(count_apps(apps, cats), len(cats), fmt_cats(cats, apps)))
-print_apps(cats, apps)
-print(resources.format(md_res))
+
+if __name__ == '__main__':
+    main()
