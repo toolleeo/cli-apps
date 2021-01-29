@@ -14,11 +14,11 @@ Category misc-to-classify does not have any app
 
 # Summary
 
-To date, **188** apps/tools covered, divided in **30** categories.
+To date, **207** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (3) | [Web browser](#browser) (4) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (5) | [Games](#games) (8) | [Graphics](#graphics) (2) | [System monitoring](#monitor) (14) | [Sound and music](#music) (8) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (14) | [Productivity](#productivity) (4) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Data transfer](#transfer) (11) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (6) | [Web development](#webdev) (4)
+[Backup](#backup) (8) | [Web browser](#browser) (4) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (2) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (9) | [Graphics](#graphics) (2) | [System monitoring](#monitor) (16) | [Sound and music](#music) (8) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (15) | [Productivity](#productivity) (4) | [Programming](#programming) (1) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Data transfer](#transfer) (13) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -29,6 +29,11 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 * [borg](https://github.com/borgbackup) - Encrypted backups with a clean and simple interface; easy to use and set up; possibility to mount the backup archive with FUSE and inspect it as a regular file system.  
 * [duplicity](http://duplicity.nongnu.org/) - Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers.
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
+* [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper
+* [rclone](https://rclone.org/) - Rclone manages file synchronization on cloud storage.
+* [rsync](https://rsync.samba.org/) - Popular file synchornization tool.
+* [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
+* [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories
 
 ## <a name="browser"></a>Web browser
 
@@ -50,6 +55,11 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text; output is sent to the standard output.  
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
 * [xls2csv](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Excel to CSV file format.  
+
+## <a name="data-management"></a>Data management
+
+* [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
+* [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
 
 ## <a name="editors"></a>Editors
 
@@ -112,16 +122,19 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 
 ## <a name="funny"></a>Funny tools
 
-* [asciiacquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!  " funny,cmatrix,http://www.asty.org/cmatrix/,"ncurses program that display the scrolling lines found in the movie `The matrix`.
+* [asciiacquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
+* [cmatrix](http://www.asty.org/cmatrix/) - ncurses program that display the scrolling lines found in the movie `The matrix`.
 * [cowsay](https://en.wikipedia.org/wiki/Cowsay) - A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).  
 * [cowthink](https://en.wikipedia.org/wiki/Cowsay) - Same as `cowsay`, but uses a "think" bubble instead of a speech bubble.
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages feched from a quotation database.  
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
+* [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
 
 ## <a name="games"></a>Games
 
 * [StarWars vision]() - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``.  
 * [bastet](http://fph.altervista.org/prog/bastet.html) - (Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.  
+* [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
 * [Dwarf fortress](http://www.bay12games.com/dwarves/) - A fantasy game using ASCII art graphical representation of the game environment; it features a rich environment with many options and possibilities.  
 * [freesweep](http://www.upl.cs.wisc.edu/~hartmann/sweep/) - A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors and also has a highscores table.
 * [Nethack](http://nethack.org/) - Single player rogue-like dungeon exploration game; I'm currently addicted to [Pixel Dungeon](http://pixeldungeon.watabou.ru/) and its derivatives (Android apps), thus I find nethack a little bit too graphically poor.
@@ -136,6 +149,7 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 
 ## <a name="monitor"></a>System monitoring
 
+* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
 * [cv](https://github.com/Xfennec/progress) - (Coreutils Progress Viewer) "looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput".
 * [glances](https://nicolargo.github.io/glances/) - A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
 * [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
@@ -150,6 +164,7 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 * [smem](https://www.selenic.com/smem/) - Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation.
 * [top](http://www.unixtop.org/) - The classical Unix utility that provides a rolling display of top cpu using processes.  
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
+* [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 
 ## <a name="music"></a>Sound and music
 
@@ -181,6 +196,7 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 * [gcalcli](https://github.com/insanum/gcalcli) - CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events.
 * [khal](https://github.com/pimutils/khal) - CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 * [ppl addressbook](http://ppladdressbook.org/) - "``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format." 
+* [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
 * [iKog](https://sites.google.com/site/henspace/ikog/) - A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
 * [Yokadi](https://yokadi.github.io/) - Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
@@ -199,6 +215,10 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+
+## <a name="programming"></a>Programming
+
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 
 ## <a name="security"></a>Security and encryption
 
@@ -253,11 +273,13 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 ## <a name="transfer"></a>Data transfer
 
 * [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+* [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 * [curl](https://curl.haxx.se/) - A tool and library for transferring data with URL syntax; supports a lot of protocols.  
 * [Deluge](http://deluge-torrent.org/) - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
 * [lftp](https://lftp.yar.ru/) - "Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols"; support for bookmarks and mirroring features.
 * [Magic Wormhole](https://github.com/warner/magic-wormhole) - The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.  
 * [OnionShare](https://onionshare.org/) - "An open source tool that lets you securely and anonymously share a file of any size." 
+* [qrcp](https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html) - Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
 * [rsync](https://download.samba.org/pub/rsync/rsync.html) - Mirror directories across networked machines; handles diffs/changed files; works across SSH; plenty of parameters.  
 * [sitecopy](http://www.manyfish.co.uk/sitecopy/) - Synchronizes a local copy of a website with a remote copy on a server; does not use SSH/`scp` but FTP for file copy; useful when the remote server does not support secure copy.  
 * [stftp](http://stftp.sourceforge.net/) - (simple terminal FTP) aims to be a "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
@@ -288,7 +310,9 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 ## <a name="viewers"></a>Viewers
 
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
+* [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz!
 * [feh](https://feh.finalrewind.org/) - "X11 image viewer aimed mostly at console users" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions.
+* [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer for the terminal.
 * [mupdf](http://mupdf.com/) - Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.  
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
@@ -296,6 +320,7 @@ I'm always interested to new tools, so if you have any suggestion please drop me
 
 ## <a name="webdev"></a>Web development
 
+* [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.  
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.  
 * [siege](https://www.joedog.org/siege-home/) - An http load testing and benchmarking utility designed to let web developers stress their code.  
