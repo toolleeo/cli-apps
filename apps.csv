@@ -33,6 +33,7 @@ terminal,screen,https://www.gnu.org/software/screen/,"Terminal multiplexer that 
 terminal,Tmate,https://tmate.io/,"A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues."
 terminal,tmux,https://tmux.github.io/,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
 terminal,warp,https://github.com/spolu/warp,Secure and simple terminal sharing.  
+monitor,bpytop,https://github.com/aristocratos/bpytop,Linux/OSX/FreeBSD resource monitor with a nice interface.
 monitor,cv,https://github.com/Xfennec/progress,"(Coreutils Progress Viewer) ""looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput""."
 monitor,glances,https://nicolargo.github.io/glances/,"A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
 monitor,GoTTY,https://github.com/yudai/gotty,"A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
@@ -47,6 +48,7 @@ monitor,sysdig,https://www.sysdig.org/,"Sysdig captures system calls and events 
 monitor,smem,https://www.selenic.com/smem/,"Python program that reports memory usage; it can report the ""proportional set size"" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation."
 monitor,top,http://www.unixtop.org/,The classical Unix utility that provides a rolling display of top cpu using processes.  
 monitor,watch,http://www.linfo.org/watch.html,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
+monitor,wtf,https://github.com/wtfutil/wtf,The personal information dashboard for your terminal.
 shells,Bash,https://www.gnu.org/software/bash/,(Bourne Again SHell) The most widespread system shell to date.  
 shells,Fish,https://fishshell.com/,"""A command line shell for the 90s""; focused on user-friendliness, with powerful autosuggestions, colors, ""sane scripting"" (w.r.t. to Bash)."
 shells,Zsh,http://www.zsh.org/,Alternative shell designed for interactive use.  
@@ -69,6 +71,7 @@ office,sc-im,https://github.com/andmarti1424/sc-im,"Spreadsheet Calculator Impro
 organizers,gcalcli,https://github.com/insanum/gcalcli,"CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events."
 organizers,khal,https://github.com/pimutils/khal,"CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer)."
 organizers,ppl addressbook,http://ppladdressbook.org/,"""``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."" "
+organizers,kb,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 organizers,khard,https://github.com/lucc/khard,Console carddav client written in Pyhton.  
 organizers,iKog,https://sites.google.com/site/henspace/ikog/,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
 organizers,Yokadi,https://yokadi.github.io/,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
@@ -85,7 +88,9 @@ productivity,ledger,http://ledger-cli.org/,"A powerful, double-entry accounting 
 productivity,Qalculate,https://qalculate.github.io/,"Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI)."
 productivity,Translate Shell,https://www.soimort.org/translate-shell/,"Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc."
 viewers,cacaview,http://caca.zoy.org/wiki/libcaca,"A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters."
+viewers,glow,https://github.com/charmbracelet/glow,"Render markdown on the CLI, with pizzazz!"
 viewers,feh,https://feh.finalrewind.org/,"""X11 image viewer aimed mostly at console users"" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions."
+viewers,Terminal Markdown Viewer,https://github.com/axiros/terminal_markdown_viewer,Python based Markdown viewer for the terminal.
 viewers,mupdf,http://mupdf.com/,Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.  
 viewers,mplayer,http://www.mplayerhq.hu/design7/news.html,One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
 viewers,mpv,https://mpv.io/,"A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources."
@@ -118,6 +123,11 @@ conversion,xls2csv,http://www.wagner.pp.ru/~vitus/software/catdoc/,Command line 
 backup,borg,https://github.com/borgbackup,Encrypted backups with a clean and simple interface; easy to use and set up; possibility to mount the backup archive with FUSE and inspect it as a regular file system.  
 backup,duplicity,http://duplicity.nongnu.org/,"Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers."
 backup,Duply,http://duply.net/,Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
+backup,paperbackup,https://github.com/intra2net/paperbackup,Create a pdf with barcodes to backup text files on paper
+backup,rclone,https://rclone.org/,Rclone manages file synchronization on cloud storage.
+backup,rsync,https://rsync.samba.org/,Popular file synchornization tool.
+backup,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,File synchronizer.
+backup,Zaloha.sh,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories
 file-handling,ncdu,https://dev.yorhel.nl/ncdu,"""A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
 file-handling,classifier,https://github.com/bhrigu123/classifier,"Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc."
 file-handling,detox,http://detox.sourceforge.net/,A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
@@ -133,20 +143,23 @@ file-handling,nnn,https://github.com/jarun/nnn,"""The missing terminal file brow
 file-handling,PathPicker,https://facebook.github.io/PathPicker/,A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories.  
 file-handling,alder,https://github.com/aweary/alder,"""A minimal implementation of the UNIX tree command with colors!"" "
 file-handling,tree,http://mama.indstate.edu/users/ice/tree/,"""Recursive directory listing command that produces a depth indented listing of files""."
-funny,asciiacquarium,http://www.robobunny.com/projects/asciiquarium/html/,"Enjoy the mysteries of the sea from the safety of your own terminal!  ""
-funny,cmatrix,http://www.asty.org/cmatrix/,""ncurses program that display the scrolling lines found in the movie `The matrix`."
+funny,asciiacquarium,http://www.robobunny.com/projects/asciiquarium/html/,Enjoy the mysteries of the sea from the safety of your own terminal!
+funny,cmatrix,http://www.asty.org/cmatrix/,ncurses program that display the scrolling lines found in the movie `The matrix`.
 funny,cowsay,https://en.wikipedia.org/wiki/Cowsay,A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).  
 funny,cowthink,https://en.wikipedia.org/wiki/Cowsay,"Same as `cowsay`, but uses a ""think"" bubble instead of a speech bubble."
 funny,fortune,http://software.clapper.org/fortune/,Generates random messages feched from a quotation database.  
 funny,Steam Locomotive,http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html,A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
+funny,ternimal,https://github.com/p-e-w/ternimal,Simulate a lifeform in the terminal.
 games,StarWars vision,,See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``.  
 games,bastet,http://fph.altervista.org/prog/bastet.html,(Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.  
+games,Cataclysm: Dark Days Ahead,https://cataclysmdda.org/,Open source turn-based survival RPG development project.
 games,Dwarf fortress,http://www.bay12games.com/dwarves/,A fantasy game using ASCII art graphical representation of the game environment; it features a rich environment with many options and possibilities.  
 games,freesweep,http://www.upl.cs.wisc.edu/~hartmann/sweep/,"A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors and also has a highscores table."
 games,Nethack,http://nethack.org/,"Single player rogue-like dungeon exploration game; I'm currently addicted to [Pixel Dungeon](http://pixeldungeon.watabou.ru/) and its derivatives (Android apps), thus I find nethack a little bit too graphically poor."
 games,Oldrunner,http://culot.org/public/Code/oldrunner.html,Character-based remake of Lode Runner; includes all the original 150 levels.  
 games,Slash'EM,http://slashem.sourceforge.net/,"Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version."
 games,Typespeed,http://typespeed.sourceforge.net/,"Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words."
+webdev,Hugo,https://gohugo.io/,The world’s fastest framework for building websites.
 webdev,Metalsmith,http://www.metalsmith.io/,An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.  
 webdev,nanoc,http://nanoc.ws/,Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.  
 webdev,siege,https://www.joedog.org/siege-home/,An http load testing and benchmarking utility designed to let web developers stress their code.  
@@ -162,11 +175,13 @@ email,mbsync,http://isync.sourceforge.net/mbsync.html,Mailboxes synchronization 
 email,Mutt,http://www.mutt.org/,"Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats."
 email,sup,http://sup-heliotrope.github.io/,"MUA written in Ruby; specifically developed for accounts with ""a lot of emails""; nice thread-based presentation."
 transfer,aria2,https://github.com/aria2/aria2,"Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform."
+transfer,croc,https://github.com/schollz/croc,Easily and securely send things from one computer to another.
 transfer,curl,https://curl.haxx.se/,A tool and library for transferring data with URL syntax; supports a lot of protocols.  
 transfer,Deluge,http://deluge-torrent.org/,"A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads."
 transfer,lftp,https://lftp.yar.ru/,"""Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols""; support for bookmarks and mirroring features."
 transfer,Magic Wormhole,https://github.com/warner/magic-wormhole,The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.  
 transfer,OnionShare,https://onionshare.org/,"""An open source tool that lets you securely and anonymously share a file of any size."" "
+transfer,qrcp,https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html,Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
 transfer,rsync,https://download.samba.org/pub/rsync/rsync.html,Mirror directories across networked machines; handles diffs/changed files; works across SSH; plenty of parameters.  
 transfer,sitecopy,http://www.manyfish.co.uk/sitecopy/,Synchronizes a local copy of a website with a remote copy on a server; does not use SSH/`scp` but FTP for file copy; useful when the remote server does not support secure copy.  
 transfer,stftp,http://stftp.sourceforge.net/,"(simple terminal FTP) aims to be a ""easy-to-use and unbloated client for the UNIX (and UNIX-like) console""."
@@ -188,3 +203,6 @@ utility,powerline,https://github.com/powerline/powerline,"Powerline is a statusl
 utility,socli,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 utility,termsaver,http://termsaver.brunobraga.net/,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
 utility,dateutils,http://www.fresse.org/dateutils/,Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
+data-management,VisiData,https://www.visidata.org/,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
+data-management,csvkit,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
+programming,gdb-dashboard,https://github.com/cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python.

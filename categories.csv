@@ -3,6 +3,7 @@ backup,Backup,
 browser,Web browser,
 chat,Chat and instant messaging (IM),
 conversion,Conversion,
+data-management,Data management,
 editors,Editors,
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
 file-handling,File and file system handling,"File managers, tagging, bookmarking, directory traversal"
@@ -18,6 +19,7 @@ networking,Networking,Programs to deal with networks and communication
 office,Office tools,Spreadsheet and presentations
 organizers,Organizers and calendars,"Todo managers, calendar managers"
 productivity,Productivity,
+programming,Programming,
 security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems, password managers"
 shells,Shells,
 system,System tools,
