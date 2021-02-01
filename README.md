@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **207** apps/tools covered, divided in **32** categories.
+To date, **212** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (2) | [Data transfer](#transfer) (13) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (9) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (15) | [Productivity](#productivity) (4) | [Programming](#programming) (1) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (16) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (4) | [Web development](#webdev) (5)
+[Backup](#backup) (8) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (2) | [Data transfer](#transfer) (13) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (9) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (15) | [Productivity](#productivity) (4) | [Programming](#programming) (1) | [Security and encryption](#security) (11) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (16) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (4) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -206,6 +206,11 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [LUKS](https://guardianproject.info/code/luks/) - Hard disk encryption tool; it stores all setup information in the partition header, enabling easy data transport or migration.
 * [safe.sh](https://github.com/windowsrefund/safe) - Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html).
 * [titan](https://www.byteptr.com/titan/) - Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license.
+* [hide](https://github.com/whatl3y/hide) - AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
+* [kpcli](http://kpcli.sourceforge.net/) - A command line interface for KeePass
+* [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
+* [pass](https://www.passwordstore.org/) - With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities.
+* [dpg](https://github.com/62726164/dpg) - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
 
 ## <a name="shells"></a>Shells
 
