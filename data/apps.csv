@@ -241,3 +241,39 @@ data-management,TSV Utilities,https://github.com/eBay/tsv-utils,"Command line to
 graphics,pastel,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
 utility,asciinema,https://github.com/asciinema/asciinema,Terminal session recorder.
 file-handling,alder,https://github.com/aweary/alder,Directory tree visualizer.
+text-processing,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
+text-processing,ripgrep-all,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
+text-processing,ripgrep,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.
+utility,pmenu,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.
+editors,eon,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim."
+data-management,datadash,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.
+music,Mp3blaster,http://www.mp3blaster.org/?m=1,Audio player for the text console.
+viewers,jqview,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.
+transfer,ytmdl,https://github.com/deepjyoti30/ytmdl,Get songs from Youtube in mp3 format.
+funny,sha256-animation,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.
+browser,cli-arxiv,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.
+conversion,mdBook,https://github.com/rust-lang/mdBook,Create book from markdown files.
+security,SpicyPass,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.
+viewers,jc,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.
+music,muCLIar,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.
+office,translate-shell,https://github.com/soimort/translate-shell,Command-line translator using Google Translate or other online services.
+office,wikit,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.
+networking,mitmproxy,https://mitmproxy.org/,An interactive HTTPS proxy.
+music,yt-audio,https://github.com/pseudoroot/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio"
+games,Language-games,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors
+data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,Doing a SQL join with CSV files
+networking,bandwhich,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool
+monitor,dmidecode,https://www.nongnu.org/dmidecode/,System information utility
+versioning,forgit,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively
+office,scholarref,https://adamsgaard.dk/scholarref.html,Tools to never deal with journal webpages again
+games,crappybird-py,https://github.com/JonPizza/crappybird-py,Flappy bird
+office,conrad,https://github.com/vinayak-mehta/conrad,Track conferences and meetups
+productivity,dn,https://github.com/tomlockwood/dn,Daily notes command line tool
+versioning,onefetch,https://github.com/o2sh/onefetch,Git repository summary on your terminal
+data-management,jtc,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation
+email,NeoMutt,https://neomutt.org/,Patched and up-to-dated mutt fork
+utility,kmdr-cli,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal
+utility,Starship,https://starship.rs/,The cross-shell prompt for astronauts
+organizers,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt
+games,usolitaire,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal
+file-handling,gcp,https://code.lm7.fr/petronny/gcp,"Advanced file copier tool, heavily inspired from the traditional cp command utility, but with some additional features"
