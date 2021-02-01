@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **242** apps/tools covered, divided in **32** categories.
+To date, **241** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (4) | [Data transfer](#transfer) (15) | [Editors](#editors) (12) | [Email](#email) (6) | [File and file system handling](#file-handling) (20) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (8) | [Games](#games) (12) | [Graphics](#graphics) (5) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (16) | [Productivity](#productivity) (7) | [Programming](#programming) (1) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (17) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (9) | [Text search](#text-search) (4) | [Utilities](#utility) (14) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (5) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (4) | [Data transfer](#transfer) (15) | [Editors](#editors) (12) | [Email](#email) (6) | [File and file system handling](#file-handling) (20) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (12) | [Graphics](#graphics) (5) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (16) | [Productivity](#productivity) (7) | [Programming](#programming) (1) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (17) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (9) | [Text search](#text-search) (4) | [Utilities](#utility) (14) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (5) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -148,7 +148,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages feched from a quotation database.  
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 * [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
-* [ASCIIQuarium](https://www.linuxlinks.com/linux-candy-asciiquarium-embrace-marine-life-terminal/) - Embrace marine life from the terminal.
 
 ## <a name="games"></a>Games
 

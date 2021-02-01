@@ -238,6 +238,5 @@ browser,Graphene,https://github.com/atsepkov/Graphene,A text-based web browser t
 utility,navi,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
 data-management,TSV Utilities,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
 graphics,pastel,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
-funny,ASCIIQuarium,https://www.linuxlinks.com/linux-candy-asciiquarium-embrace-marine-life-terminal/,Embrace marine life from the terminal.
 utility,asciinema,https://github.com/asciinema/asciinema,Terminal session recorder.
 file-handling,alder,https://github.com/aweary/alder,Directory tree visualizer.
