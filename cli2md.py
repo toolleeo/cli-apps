@@ -75,9 +75,9 @@ def categories_list_to_dict(category_list):
 
 
 def main():
-    _, apps = load_csv('apps.csv')
-    _, categories = load_csv('categories.csv')
-    _, resources = load_csv('resources.csv')
+    _, apps = load_csv('data/apps.csv')
+    _, categories = load_csv('data/categories.csv')
+    _, resources = load_csv('data/resources.csv')
     categories = categories_list_to_dict(categories)
     categories = count_apps(apps, categories)
 
