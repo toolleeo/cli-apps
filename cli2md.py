@@ -44,6 +44,7 @@ def print_apps(cats, apps):
         cat_item = cats[c]
         print('## <a name="{}"></a>{}\n'.format(c, cat_item['name']))
         apps_in_cat = [a for a in apps if a['category'] == c]
+        apps_in_cat = sorted(apps_in_cat, key = lambda i: i['name'].upper())
         for app in apps_in_cat:
             print(fmt_app(app))
         print()
