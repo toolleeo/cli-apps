@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **241** apps/tools covered, divided in **32** categories.
+To date, **242** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (4) | [Data transfer](#transfer) (15) | [Editors](#editors) (12) | [Email](#email) (6) | [File and file system handling](#file-handling) (20) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (12) | [Graphics](#graphics) (5) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (16) | [Productivity](#productivity) (7) | [Programming](#programming) (1) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (17) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (9) | [Text search](#text-search) (4) | [Utilities](#utility) (14) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (5) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (4) | [Data transfer](#transfer) (15) | [Editors](#editors) (12) | [Email](#email) (6) | [File and file system handling](#file-handling) (20) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (12) | [Graphics](#graphics) (5) | [Networking](#networking) (5) | [Office tools](#office) (4) | [Organizers and calendars](#organizers) (16) | [Productivity](#productivity) (7) | [Programming](#programming) (1) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (17) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (9) | [Text search](#text-search) (4) | [Utilities](#utility) (14) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (5) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -184,7 +184,8 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 * [trino](https://github.com/eneserdogan/trino) - Quick and easy translation of words and phrases entered in the command line.  
 * [Teapot](https://www.syntax-k.de/projekte/teapot/) - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
-* [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software." office,tpp,http://www.ngolde.de/tpp.html,"(text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
+* [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
+* [tpp](http://www.ngolde.de/tpp.html) - (text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
 
 ## <a name="organizers"></a>Organizers and calendars
 
