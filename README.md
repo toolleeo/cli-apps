@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **212** apps/tools covered, divided in **32** categories.
+To date, **242** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (2) | [Data transfer](#transfer) (13) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (9) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (15) | [Productivity](#productivity) (4) | [Programming](#programming) (1) | [Security and encryption](#security) (11) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (16) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (4) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (4) | [Data transfer](#transfer) (15) | [Editors](#editors) (12) | [Email](#email) (6) | [File and file system handling](#file-handling) (20) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (8) | [Games](#games) (12) | [Graphics](#graphics) (5) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (16) | [Productivity](#productivity) (7) | [Programming](#programming) (1) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (17) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (9) | [Text search](#text-search) (4) | [Utilities](#utility) (14) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (5) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -30,11 +30,12 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper
 * [rclone](https://rclone.org/) - Rclone manages file synchronization on cloud storage.
-* [rsync](https://rsync.samba.org/) - Popular file synchornization tool.
+* [rsync](https://rsync.samba.org/) - Popular file synchronization tool.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
 * [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories
+* [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 
-## <a name="chat"></a>Chat and instant messaging (IM)
+## <a name="chat"></a>Chat and instant messaging
 
 * [finch](http://www.pidgin.im/) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
 * [irssi](http://www.irssi.org) - The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols.
@@ -52,6 +53,8 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
+* [GNU Recutils](https://www.gnu.org/software/recutils/manual/) - Set of tools and libraries to access human-editable, text-based databases called recfiles.
+* [TSV Utilities](https://github.com/eBay/tsv-utils) - Command line tools for large, tabular data files.
 
 ## <a name="transfer"></a>Data transfer
 
@@ -68,6 +71,8 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [stftp](http://stftp.sourceforge.net/) - (simple terminal FTP) aims to be a "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
 * [Woof](http://www.home.unix-ag.org/simon/woof.html) - (Web Offer One File) sets up an HTTP webserver to serve files from a given local directory; all the users connected to the network can see and download the files.  
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - Downloads videos from [YouTube](https://www.youtube.com/) and some other sites; useful for automated bulk downloads.  
+* [yt-splitter](https://github.com/redsolver/yt-splitter) - Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
+* [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.
 
 ## <a name="editors"></a>Editors
 
@@ -82,6 +87,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [vim](http://www.vim.org/) - Historically one of the preferred text editors; behavior based on editing modes; plenty of plugins and tips to address every possible editing problem.  
 * [vis](https://github.com/martanne/vis) - "a modern, legacy free, simple yet efficient vim-like editor", and more: "The intention is not to be bug for bug compatible with vim, instead a similar editing experience should be provided. The goal could thus be summarized as 80% of vim's features implemented in roughly 1% of the code"; the editor is scriptable in LUA and supports editing large files.
 * [WordGrinder](https://cowlark.com/wordgrinder/) - From the website: "WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type." 
+* [vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
 
 ## <a name="email"></a>Email
 
@@ -105,14 +111,19 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [renameutils](http://www.nongnu.org/renameutils/) - A set of programs to change file and directory names by editing them inplace; I find `imv` especially useful to edit a filename at the program prompt.  
 * [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
 * [gcp](https://github.com/petronny/gcp) - `gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
-* [nnn](https://github.com/jarun/nnn) - "The missing terminal file browser for X". Provides only diretory traversal and file visualization.  No delete/move operations are supported.
+* [nnn](https://github.com/jarun/nnn) - "The missing terminal file browser for X". Provides only directory traversal and file visualization.  No delete/move operations are supported.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories.  
 * [alder](https://github.com/aweary/alder) - "A minimal implementation of the UNIX tree command with colors!" 
 * [tree](http://mama.indstate.edu/users/ice/tree/) - "Recursive directory listing command that produces a depth indented listing of files".
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
+* [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
+* [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+* [broot](https://dystroy.org/broot/) - A new way to navigate directory trees on linux, made in rust.
+* [alder](https://github.com/aweary/alder) - Directory tree visualizer.
 
 ## <a name="file-manager"></a>File manager
 
-* [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, serch in files, customizable keybindings and themes.
+* [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
 * [Midnight Commander](http://www.midnight-commander.org/) - a visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
 * [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C; rather complete in terms of features; especially lightweight and responsive.  
 * [ranger](http://ranger.nongnu.org/) - Console file manager with vi key bindings; curses interface with a view on the directory hierarchy; comes a file launcher that automatically finds out which program to use for a given file type.  
@@ -137,6 +148,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages feched from a quotation database.  
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 * [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
+* [ASCIIQuarium](https://www.linuxlinks.com/linux-candy-asciiquarium-embrace-marine-life-terminal/) - Embrace marine life from the terminal.
 
 ## <a name="games"></a>Games
 
@@ -149,11 +161,17 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Oldrunner](http://culot.org/public/Code/oldrunner.html) - Character-based remake of Lode Runner; includes all the original 150 levels.  
 * [Slash'EM](http://slashem.sourceforge.net/) - Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version.
 * [Typespeed](http://typespeed.sourceforge.net/) - Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words.
+* [terminal_board_games](https://github.com/salt-die/terminally_bored_terminal_board_games) - Board games for the terminal.
+* [minesweeper](https://github.com/gazpachoking/minesweeper) - Cross-platform terminal based minesweeper.
+* [Terminal Phase](https://dustycloud.org/blog/terminal-phase-1.0/) - A space shooter game you can play in your terminal.
 
 ## <a name="graphics"></a>Graphics
 
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves".
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.  
+* [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
+* [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21st century.
+* [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 
 ## <a name="networking"></a>Networking
 
@@ -186,6 +204,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [todolist](http://todolist.site/) - A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them.
 * [TuDu](https://code.meskio.net/tudu/) - A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities.
 * [Wyrd](http://freecode.com/projects/wyrd/) - Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.  
+* [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
 
 ## <a name="productivity"></a>Productivity
 
@@ -193,6 +212,9 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+* [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
+* [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
+* [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
 
 ## <a name="programming"></a>Programming
 
@@ -211,6 +233,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 * [pass](https://www.passwordstore.org/) - With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities.
 * [dpg](https://github.com/62726164/dpg) - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
+* [kpcli](http://kpcli.sourceforge.net/) - A command line interface for KeePass.
 
 ## <a name="shells"></a>Shells
 
@@ -247,6 +270,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [top](http://www.unixtop.org/) - The classical Unix utility that provides a rolling display of top cpu using processes.  
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
 * [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+* [whowatch](https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/) - Monitor Linux Users and Processes in Real Time.
 
 ## <a name="system"></a>System tools
 
@@ -275,6 +299,8 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
 * [pick](https://github.com/calleerlandsson/pick) - Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
 * [q](http://harelba.github.io/q/) - Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
+* [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
+* [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff.
 
 ## <a name="text-search"></a>Text search
 
@@ -295,6 +321,10 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 * [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
 * [dateutils](http://www.fresse.org/dateutils/) - Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
+* [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
+* [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+* [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 
 ## <a name="versioning"></a>Versioning
 
@@ -321,6 +351,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
 * [Linx](http://lynx.invisible-island.net/) - A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.  
 * [w3m](http://w3m.sourceforge.net/) - A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.  
+* [Graphene](https://github.com/atsepkov/Graphene) - A text-based web browser that's a joy to use.
 
 ## <a name="webdev"></a>Web development
 
