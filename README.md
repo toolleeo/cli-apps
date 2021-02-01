@@ -17,7 +17,7 @@ To date, **207** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Web browser](#browser) (4) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (2) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (9) | [Graphics](#graphics) (2) | [System monitoring](#monitor) (16) | [Sound and music](#music) (8) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (15) | [Productivity](#productivity) (4) | [Programming](#programming) (1) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Data transfer](#transfer) (13) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web development](#webdev) (5)
+[Backup](#backup) (8) | [Chat and instant messaging (IM)](#chat) (5) | [Conversion](#conversion) (3) | [Data management](#data-management) (2) | [Data transfer](#transfer) (13) | [Editors](#editors) (11) | [Email](#email) (6) | [File and file system handling](#file-handling) (15) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (7) | [Games](#games) (9) | [Graphics](#graphics) (2) | [Networking](#networking) (5) | [Office tools](#office) (3) | [Organizers and calendars](#organizers) (15) | [Productivity](#productivity) (4) | [Programming](#programming) (1) | [Security and encryption](#security) (6) | [Shells](#shells) (3) | [Sound and music](#music) (8) | [System monitoring](#monitor) (16) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (7) | [Text search](#text-search) (4) | [Utilities](#utility) (10) | [Versioning](#versioning) (5) | [Viewers](#viewers) (8) | [Web browser](#browser) (4) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -33,13 +33,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [rsync](https://rsync.samba.org/) - Popular file synchornization tool.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
 * [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories
-
-## <a name="browser"></a>Web browser
-
-* [Links](http://www.jikos.cz/~mikulas/links//) - A textual Web browser with tables and frames.  
-* [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
-* [Linx](http://lynx.invisible-island.net/) - A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.  
-* [w3m](http://w3m.sourceforge.net/) - A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.  
 
 ## <a name="chat"></a>Chat and instant messaging (IM)
 
@@ -59,6 +52,22 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
+
+## <a name="transfer"></a>Data transfer
+
+* [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+* [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
+* [curl](https://curl.haxx.se/) - A tool and library for transferring data with URL syntax; supports a lot of protocols.  
+* [Deluge](http://deluge-torrent.org/) - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
+* [lftp](https://lftp.yar.ru/) - "Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols"; support for bookmarks and mirroring features.
+* [Magic Wormhole](https://github.com/warner/magic-wormhole) - The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.  
+* [OnionShare](https://onionshare.org/) - "An open source tool that lets you securely and anonymously share a file of any size." 
+* [qrcp](https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html) - Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
+* [rsync](https://download.samba.org/pub/rsync/rsync.html) - Mirror directories across networked machines; handles diffs/changed files; works across SSH; plenty of parameters.  
+* [sitecopy](http://www.manyfish.co.uk/sitecopy/) - Synchronizes a local copy of a website with a remote copy on a server; does not use SSH/`scp` but FTP for file copy; useful when the remote server does not support secure copy.  
+* [stftp](http://stftp.sourceforge.net/) - (simple terminal FTP) aims to be a "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
+* [Woof](http://www.home.unix-ag.org/simon/woof.html) - (Web Offer One File) sets up an HTTP webserver to serve files from a given local directory; all the users connected to the network can see and download the files.  
+* [youtube-dl](http://rg3.github.io/youtube-dl/) - Downloads videos from [YouTube](https://www.youtube.com/) and some other sites; useful for automated bulk downloads.  
 
 ## <a name="editors"></a>Editors
 
@@ -146,36 +155,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves".
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.  
 
-## <a name="monitor"></a>System monitoring
-
-* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
-* [cv](https://github.com/Xfennec/progress) - (Coreutils Progress Viewer) "looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput".
-* [glances](https://nicolargo.github.io/glances/) - A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
-* [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
-* [inxi](http://smxi.org/docs/inxi.htm) - A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script.
-* [iotop](http://guichaz.free.fr/iotop/) - "A Python program with a top like UI used to show of behalf of which process is the I/O going on".
-* [htop](http://hisham.hm/htop/) - An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors.
-* [multitail](https://www.vanheusden.com/multitail/) - A command to open multiple log files in a single terminal window and monitor them in real-time.  
-* [ngrep](http://ngrep.sourceforge.net/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
-* [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
-* [powertop](https://01.org/powertop) - A `top`-like utility to monitor the sources of power consumption; allows to turn on/off many components; quite useful to track possible power-related issues.  
-* [sysdig](https://www.sysdig.org/) - Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system.
-* [smem](https://www.selenic.com/smem/) - Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation.
-* [top](http://www.unixtop.org/) - The classical Unix utility that provides a rolling display of top cpu using processes.  
-* [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
-* [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
-
-## <a name="music"></a>Sound and music
-
-* [ncmpcpp](https://rybczak.net/ncmpcpp/) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
-* [espeak](http://espeak.sourceforge.net/) - "a compact open source software speech synthesizer for English and other languages." 
-* [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.  
-* [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.  
-* [MOC](https://moc.daper.net/) - (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.  
-* [mpg123](http://mpg123.org/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files.
-* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A curses player for music tracks from Youtube; it allows to search for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters.
-* [ogg123](https://www.xiph.org/downloads/) - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
-
 ## <a name="networking"></a>Networking
 
 * [ipcalc](http://jodies.de/ipcalc) - "ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range." 
@@ -234,6 +213,36 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Fish](https://fishshell.com/) - "A command line shell for the 90s"; focused on user-friendliness, with powerful autosuggestions, colors, "sane scripting" (w.r.t. to Bash).
 * [Zsh](http://www.zsh.org/) - Alternative shell designed for interactive use.  
 
+## <a name="music"></a>Sound and music
+
+* [ncmpcpp](https://rybczak.net/ncmpcpp/) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
+* [espeak](http://espeak.sourceforge.net/) - "a compact open source software speech synthesizer for English and other languages." 
+* [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.  
+* [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.  
+* [MOC](https://moc.daper.net/) - (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.  
+* [mpg123](http://mpg123.org/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files.
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A curses player for music tracks from Youtube; it allows to search for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters.
+* [ogg123](https://www.xiph.org/downloads/) - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
+
+## <a name="monitor"></a>System monitoring
+
+* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
+* [cv](https://github.com/Xfennec/progress) - (Coreutils Progress Viewer) "looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput".
+* [glances](https://nicolargo.github.io/glances/) - A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
+* [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
+* [inxi](http://smxi.org/docs/inxi.htm) - A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script.
+* [iotop](http://guichaz.free.fr/iotop/) - "A Python program with a top like UI used to show of behalf of which process is the I/O going on".
+* [htop](http://hisham.hm/htop/) - An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors.
+* [multitail](https://www.vanheusden.com/multitail/) - A command to open multiple log files in a single terminal window and monitor them in real-time.  
+* [ngrep](http://ngrep.sourceforge.net/) - (Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces.
+* [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
+* [powertop](https://01.org/powertop) - A `top`-like utility to monitor the sources of power consumption; allows to turn on/off many components; quite useful to track possible power-related issues.  
+* [sysdig](https://www.sysdig.org/) - Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system.
+* [smem](https://www.selenic.com/smem/) - Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation.
+* [top](http://www.unixtop.org/) - The classical Unix utility that provides a rolling display of top cpu using processes.  
+* [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
+* [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+
 ## <a name="system"></a>System tools
 
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
@@ -269,22 +278,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [paragrep](http://software.clapper.org/paragrep/) - Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions; a paragraph is defined as a block of text delimited by an empty or blank line; fully customizable via command line parameters.  
 * [sift](https://sift-tool.org/) - Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text.
 
-## <a name="transfer"></a>Data transfer
-
-* [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
-* [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
-* [curl](https://curl.haxx.se/) - A tool and library for transferring data with URL syntax; supports a lot of protocols.  
-* [Deluge](http://deluge-torrent.org/) - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
-* [lftp](https://lftp.yar.ru/) - "Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols"; support for bookmarks and mirroring features.
-* [Magic Wormhole](https://github.com/warner/magic-wormhole) - The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.  
-* [OnionShare](https://onionshare.org/) - "An open source tool that lets you securely and anonymously share a file of any size." 
-* [qrcp](https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html) - Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
-* [rsync](https://download.samba.org/pub/rsync/rsync.html) - Mirror directories across networked machines; handles diffs/changed files; works across SSH; plenty of parameters.  
-* [sitecopy](http://www.manyfish.co.uk/sitecopy/) - Synchronizes a local copy of a website with a remote copy on a server; does not use SSH/`scp` but FTP for file copy; useful when the remote server does not support secure copy.  
-* [stftp](http://stftp.sourceforge.net/) - (simple terminal FTP) aims to be a "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
-* [Woof](http://www.home.unix-ag.org/simon/woof.html) - (Web Offer One File) sets up an HTTP webserver to serve files from a given local directory; all the users connected to the network can see and download the files.  
-* [youtube-dl](http://rg3.github.io/youtube-dl/) - Downloads videos from [YouTube](https://www.youtube.com/) and some other sites; useful for automated bulk downloads.  
-
 ## <a name="utility"></a>Utilities
 
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
@@ -316,6 +309,13 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
 * [zathura](https://pwmt.org/projects/zathura/) - Plugin based document file visualizer (PDF, DejaVu, PS); strongly key-based control.
+
+## <a name="browser"></a>Web browser
+
+* [Links](http://www.jikos.cz/~mikulas/links//) - A textual Web browser with tables and frames.  
+* [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
+* [Linx](http://lynx.invisible-island.net/) - A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.  
+* [w3m](http://w3m.sourceforge.net/) - A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.  
 
 ## <a name="webdev"></a>Web development
 

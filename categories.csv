@@ -1,9 +1,9 @@
 label,name,description
 backup,Backup,
-browser,Web browser,
 chat,Chat and instant messaging (IM),
 conversion,Conversion,
 data-management,Data management,
+transfer,Data transfer,
 editors,Editors,
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
 file-handling,File and file system handling,"File managers, tagging, bookmarking, directory traversal"
@@ -13,8 +13,6 @@ font,Font management,
 funny,Funny tools,
 games,Games,
 graphics,Graphics,
-monitor,System monitoring,
-music,Sound and music,
 networking,Networking,Programs to deal with networks and communication
 office,Office tools,Spreadsheet and presentations
 organizers,Organizers and calendars,"Todo managers, calendar managers"
@@ -22,12 +20,14 @@ productivity,Productivity,
 programming,Programming,
 security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems, password managers"
 shells,Shells,
+music,Sound and music,
+monitor,System monitoring,
 system,System tools,
 terminal,Terminals,
 text-processing,Text processing,
 text-search,Text search,
-transfer,Data transfer,
 utility,Utilities,
 versioning,Versioning,
 viewers,Viewers,
+browser,Web browser,
 webdev,Web development,"Static site generators ([staticgen.com](https://www.staticgen.com/) reports a comprehensive list of available options), load test tools."
