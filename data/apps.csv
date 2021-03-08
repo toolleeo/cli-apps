@@ -206,7 +206,6 @@ data-management,VisiData,https://www.visidata.org/,"Interactive multitool for ta
 data-management,csvkit,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
 programming,gdb-dashboard,https://github.com/cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python.
 security,hide,https://github.com/whatl3y/hide,AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
-security,kpcli,http://kpcli.sourceforge.net/,A command line interface for KeePass
 security,gopass,https://www.gopass.pw/,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 security,pass,https://www.passwordstore.org/,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
 security,dpg,https://github.com/62726164/dpg,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
