@@ -277,3 +277,18 @@ utility,Starship,https://starship.rs/,The cross-shell prompt for astronauts
 organizers,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt
 games,usolitaire,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal
 file-handling,gcp,https://code.lm7.fr/petronny/gcp,"Advanced file copier tool, heavily inspired from the traditional cp command utility, but with some additional features"
+editors,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger
+funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree"
+data-management,Dolt,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository"
+transfer,ytfzf,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+text-processing,Graphtage,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files"
+file-system,duf,https://github.com/muesli/duf,Disk Usage/Free Utility
+productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers
+music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems
+office,Ticker,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker
+transfer,xh,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
+versioning,git-peek,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
+file-system,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine
+file-system,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
+music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications
+graphics,imgcat,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea
