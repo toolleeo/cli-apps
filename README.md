@@ -17,7 +17,7 @@ To date, **293** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (18) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (21) | [File manager](#file-manager) (5) | [File systems](#file-system) (5) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (9) | [Organizers and calendars](#organizers) (17) | [Productivity](#productivity) (9) | [Programming](#programming) (1) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (4) | [Utilities](#utility) (17) | [Versioning](#versioning) (8) | [Viewers](#viewers) (10) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (18) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (24) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (9) | [Organizers and calendars](#organizers) (17) | [Productivity](#productivity) (9) | [Programming](#programming) (1) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (4) | [Utilities](#utility) (17) | [Versioning](#versioning) (8) | [Viewers](#viewers) (10) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -117,12 +117,14 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
 * [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
+* [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 * [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".
 * [fasd](https://github.com/clvv/fasd) - A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.  Written in Rust.
 * [gcp](https://github.com/petronny/gcp) - `gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
 * [gcp](https://code.lm7.fr/petronny/gcp) - Advanced file copier tool, heavily inspired from the traditional cp command utility, but with some additional features
+* [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge.
 * [ncdu](https://dev.yorhel.nl/ncdu) - "A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."
 * [nnn](https://github.com/jarun/nnn) - "The missing terminal file browser for X". Provides only directory traversal and file visualization.  No delete/move operations are supported.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories.  
@@ -131,6 +133,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
 * [tree](http://mama.indstate.edu/users/ice/tree/) - "Recursive directory listing command that produces a depth indented listing of files".
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
+* [vizex](https://github.com/bexxmodd/vizex) - Visualize the disk space usage for every partition and media on the user's machine
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
 ## <a name="file-manager"></a>File manager
@@ -143,11 +146,8 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 ## <a name="file-system"></a>File systems
 
-* [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
-* [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge.
 * [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.  
 * [TMSU](http://tmsu.org/) - A tool for tagging files; it provides a simple command line tool for applying tags and a virtual filesystem so that you can get a tag-based view of your files from within any other program.  
-* [vizex](https://github.com/bexxmodd/vizex) - Visualize the disk space usage for every partition and media on the user's machine
 
 ## <a name="font"></a>Font management
 
