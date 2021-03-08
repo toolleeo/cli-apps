@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **293** apps/tools covered, divided in **32** categories.
+To date, **292** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (18) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (24) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (9) | [Organizers and calendars](#organizers) (17) | [Productivity](#productivity) (9) | [Programming](#programming) (1) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (4) | [Utilities](#utility) (17) | [Versioning](#versioning) (8) | [Viewers](#viewers) (10) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (18) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (5) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (9) | [Organizers and calendars](#organizers) (17) | [Productivity](#productivity) (9) | [Programming](#programming) (1) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (4) | [Utilities](#utility) (17) | [Versioning](#versioning) (8) | [Viewers](#viewers) (10) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -123,7 +123,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [fasd](https://github.com/clvv/fasd) - A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.  Written in Rust.
 * [gcp](https://github.com/petronny/gcp) - `gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
-* [gcp](https://code.lm7.fr/petronny/gcp) - Advanced file copier tool, heavily inspired from the traditional cp command utility, but with some additional features
 * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge.
 * [ncdu](https://dev.yorhel.nl/ncdu) - "A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."
 * [nnn](https://github.com/jarun/nnn) - "The missing terminal file browser for X". Provides only directory traversal and file visualization.  No delete/move operations are supported.
