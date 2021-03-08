@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **292** apps/tools covered, divided in **32** categories.
+To date, **290** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (18) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (22) | [File manager](#file-manager) (6) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (9) | [Organizers and calendars](#organizers) (17) | [Productivity](#productivity) (9) | [Programming](#programming) (1) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (4) | [Utilities](#utility) (17) | [Versioning](#versioning) (8) | [Viewers](#viewers) (10) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (18) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (21) | [File manager](#file-manager) (6) | [File systems](#file-system) (2) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (9) | [Organizers and calendars](#organizers) (17) | [Productivity](#productivity) (9) | [Programming](#programming) (1) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (4) | [Utilities](#utility) (17) | [Versioning](#versioning) (8) | [Viewers](#viewers) (10) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -31,7 +31,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper
 * [rclone](https://rclone.org/) - Rclone manages file synchronization on cloud storage.
-* [rsync](https://rsync.samba.org/) - Popular file synchronization tool.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
 * [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories
 
@@ -111,7 +110,6 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 ## <a name="file-handling"></a>File and file system handling
 
-* [alder](https://github.com/aweary/alder) - "A minimal implementation of the UNIX tree command with colors!" 
 * [alder](https://github.com/aweary/alder) - Directory tree visualizer.
 * [broot](https://dystroy.org/broot/) - A new way to navigate directory trees on linux, made in rust.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
