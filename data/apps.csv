@@ -274,7 +274,7 @@ utility,kmdr-cli,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI 
 utility,Starship,https://starship.rs/,The cross-shell prompt for astronauts
 organizers,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt
 games,usolitaire,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal
-editors,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger
+file-manager,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger
 funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree"
 data-management,Dolt,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository"
 transfer,ytfzf,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
