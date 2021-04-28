@@ -288,3 +288,10 @@ file-handling,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space u
 file-handling,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
 music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications
 graphics,imgcat,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea
+office,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk
+programming,rr,https://rr-project.org/,"Debug the recording, deterministically, as many times as you want"
+programming,nbterm,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal
+transfer,qr-filetransfer,https://github.com/sdushantha/qr-filetransfer,Transfer files over WiFi between your computer and your smartphone from the terminal
+utility,element,https://github.com/gennaro-tedesco/element,Periodic table on the command line
+viewers,termv,https://github.com/Roshan-R/termv,A terminal iptv player written in bash
+utility,rofi,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement"
