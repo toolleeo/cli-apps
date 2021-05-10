@@ -295,3 +295,9 @@ transfer,qr-filetransfer,https://github.com/sdushantha/qr-filetransfer,Transfer 
 utility,element,https://github.com/gennaro-tedesco/element,Periodic table on the command line
 viewers,termv,https://github.com/Roshan-R/termv,A terminal iptv player written in bash
 utility,rofi,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement"
+file-handling,F2,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely
+organizers,grit,https://github.com/climech/grit,A multitree-based personal task manager
+organizers,dstask,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+file-system,wutag,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags
+file-handling,xplr,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf"
+utility,eg,https://github.com/srsudar/eg,Useful examples at the command line
