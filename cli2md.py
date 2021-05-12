@@ -35,7 +35,10 @@ def load_csv(file_name):
 
 def fmt_app(app):
     descr = ''.join(c if c != '\n' else ' ' for c in app['description'])
-    st = '* [{}]({}) - {}'.format(app['name'], app['url'], descr)
+    if app['url'] != '':
+        st = '* [{}]({}) - {}'.format(app['name'], app['url'], descr)
+    else:
+        st = '* {} - {}'.format(app['name'], descr)
     return(st)
 
 
