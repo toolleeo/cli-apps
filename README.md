@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **303** apps/tools covered, divided in **32** categories.
+To date, **305** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (19) | [Editors](#editors) (13) | [Email](#email) (7) | [File and file system handling](#file-handling) (22) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (19) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (20) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (19) | [Editors](#editors) (13) | [Email](#email) (7) | [File and file system handling](#file-handling) (22) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (20) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (20) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -189,6 +189,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21st century.
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves".
 * [imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal. Built with bubbletea.
+* [imgp](https://github.com/jarun/imgp) - A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.  
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
@@ -218,6 +219,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 ## <a name="organizers"></a>Organizers and calendars
 
+* [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
 * [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
 * [gcalcli](https://github.com/insanum/gcalcli) - CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events.
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
