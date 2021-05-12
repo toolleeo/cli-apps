@@ -256,48 +256,48 @@ music,muCLIar,https://github.com/aayush1205/muCLIar,YouTube automator bringing y
 office,translate-shell,https://github.com/soimort/translate-shell,Command-line translator using Google Translate or other online services.
 office,wikit,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.
 networking,mitmproxy,https://mitmproxy.org/,An interactive HTTPS proxy.
-music,yt-audio,https://github.com/pseudoroot/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio"
-games,Language-games,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors
-data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,Doing a SQL join with CSV files
-networking,bandwhich,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool
-monitor,dmidecode,https://www.nongnu.org/dmidecode/,System information utility
-versioning,forgit,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively
-office,scholarref,https://adamsgaard.dk/scholarref.html,Tools to never deal with journal webpages again
-games,crappybird-py,https://github.com/JonPizza/crappybird-py,Flappy bird
-office,conrad,https://github.com/vinayak-mehta/conrad,Track conferences and meetups
-productivity,dn,https://github.com/tomlockwood/dn,Daily notes command line tool
-versioning,onefetch,https://github.com/o2sh/onefetch,Git repository summary on your terminal
-data-management,jtc,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation
-email,NeoMutt,https://neomutt.org/,Patched and up-to-dated mutt fork
-utility,kmdr-cli,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal
-utility,Starship,https://starship.rs/,The cross-shell prompt for astronauts
-organizers,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt
-games,usolitaire,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal
-file-manager,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger
-funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree"
-data-management,Dolt,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository"
-transfer,ytfzf,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
-text-processing,Graphtage,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files"
-file-handling,duf,https://github.com/muesli/duf,Disk Usage/Free Utility
-productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers
-music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems
-office,Ticker,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker
+music,yt-audio,https://github.com/pseudoroot/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio."
+games,Language-games,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.
+data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,Doing a SQL join with CSV files.
+networking,bandwhich,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.
+monitor,dmidecode,https://www.nongnu.org/dmidecode/,System information utility.
+versioning,forgit,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.
+office,scholarref,https://adamsgaard.dk/scholarref.html,Tools to never deal with journal webpages again.
+games,crappybird-py,https://github.com/JonPizza/crappybird-py,Flappy bird.
+office,conrad,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
+productivity,dn,https://github.com/tomlockwood/dn,Daily notes command line tool.
+versioning,onefetch,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
+data-management,jtc,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
+email,NeoMutt,https://neomutt.org/,Patched and up-to-dated mutt fork.
+utility,kmdr-cli,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal.
+utility,Starship,https://starship.rs/,The cross-shell prompt for astronauts.
+organizers,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt.
+games,usolitaire,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
+file-manager,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
+funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
+data-management,Dolt,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
+transfer,ytfzf,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
+text-processing,Graphtage,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
+file-handling,duf,https://github.com/muesli/duf,Disk Usage/Free Utility.
+productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
+music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems.
+office,Ticker,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
 versioning,git-peek,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
-file-handling,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine
+file-handling,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.
 file-handling,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
-music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications
-graphics,imgcat,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea
-office,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk
-programming,rr,https://rr-project.org/,"Debug the recording, deterministically, as many times as you want"
-programming,nbterm,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal
-transfer,qr-filetransfer,https://github.com/sdushantha/qr-filetransfer,Transfer files over WiFi between your computer and your smartphone from the terminal
-utility,element,https://github.com/gennaro-tedesco/element,Periodic table on the command line
-viewers,termv,https://github.com/Roshan-R/termv,A terminal iptv player written in bash
-utility,rofi,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement"
-file-handling,F2,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely
-organizers,grit,https://github.com/climech/grit,A multitree-based personal task manager
-organizers,dstask,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task
-file-system,wutag,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags
-file-handling,xplr,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf"
-utility,eg,https://github.com/srsudar/eg,Useful examples at the command line
+music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications.
+graphics,imgcat,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea.
+office,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.
+programming,rr,https://rr-project.org/,"Debug the recording, deterministically, as many times as you want."
+programming,nbterm,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal.
+transfer,qr-filetransfer,https://github.com/sdushantha/qr-filetransfer,Transfer files over WiFi between your computer and your smartphone from the terminal.
+utility,element,https://github.com/gennaro-tedesco/element,Periodic table on the command line.
+viewers,termv,https://github.com/Roshan-R/termv,A terminal iptv player written in bash.
+utility,rofi,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement."
+file-handling,F2,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely.
+organizers,grit,https://github.com/climech/grit,A multitree-based personal task manager.
+organizers,dstask,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
+file-system,wutag,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags.
+file-handling,xplr,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
+utility,eg,https://github.com/srsudar/eg,Useful examples at the command line.
