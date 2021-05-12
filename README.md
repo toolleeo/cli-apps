@@ -410,7 +410,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
 * [Graphene](https://github.com/atsepkov/Graphene) - A text-based web browser that's a joy to use.
 * [Links](http://www.jikos.cz/~mikulas/links//) - A textual Web browser with tables and frames.  
-* [Linx](http://lynx.invisible-island.net/) - A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.  
+* [Lynx](http://lynx.invisible-island.net/) - A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.  
 * [w3m](http://w3m.sourceforge.net/) - A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.  
 
 ## <a name="webdev"></a>Web development
