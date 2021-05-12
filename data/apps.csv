@@ -301,3 +301,4 @@ organizers,dstask,https://github.com/naggie/dstask,Single binary terminal-based 
 file-system,wutag,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags.
 file-handling,xplr,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
 utility,eg,https://github.com/srsudar/eg,Useful examples at the command line.
+viewers,mdt,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.

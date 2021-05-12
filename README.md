@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **302** apps/tools covered, divided in **32** categories.
+To date, **303** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (19) | [Editors](#editors) (13) | [Email](#email) (7) | [File and file system handling](#file-handling) (22) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (19) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (20) | [Versioning](#versioning) (8) | [Viewers](#viewers) (11) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (19) | [Editors](#editors) (13) | [Email](#email) (7) | [File and file system handling](#file-handling) (22) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (6) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (19) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (12) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (5) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (20) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -397,6 +397,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz!
 * [jc](https://github.com/kellyjonbrazil/jc) - Serializes the output of command line tools to JSON.
 * [jqview](https://github.com/fiatjaf/jqview) - Simplest possible native GUI for inspecting JSON.
+* [mdt](https://github.com/robolab-pavia/mdt) - MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
 * [mupdf](http://mupdf.com/) - Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.  
