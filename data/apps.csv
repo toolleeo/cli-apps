@@ -304,3 +304,9 @@ utility,eg,https://github.com/srsudar/eg,Useful examples at the command line.
 viewers,mdt,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
 organizers,buku,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.
 graphics,imgp,https://github.com/jarun/imgp,"A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage."
+backup,zbackup,http://zbackup.org/,"A globally-deduplicating backup tool, based on the ideas found in rsync."
+transfer,Transmission,https://transmissionbt.com/,"Fast, easy and free bittorrent client."
+transfer,rtorrent,https://github.com/rakshasa/rtorrent,"Bittorrent client uses ncurses and is ideal for use with tmux, screen or dtach."
+terminal,dtach,https://github.com/crigler/dtach,A program written in C that emulates the detach feature of screen.
+file-handling,vidir,https://github.com/trapd00r/vidir,vidir allows editing of the contents of a directory in a text editor.
+security,Firejail,https://firejail.wordpress.com/,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
