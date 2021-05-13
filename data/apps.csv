@@ -310,3 +310,4 @@ transfer,rtorrent,https://github.com/rakshasa/rtorrent,"Bittorrent client uses n
 terminal,dtach,https://github.com/crigler/dtach,A program written in C that emulates the detach feature of screen.
 file-handling,vidir,https://github.com/trapd00r/vidir,vidir allows editing of the contents of a directory in a text editor.
 security,Firejail,https://firejail.wordpress.com/,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+editors,Kakoune,http://kakoune.org/,"Modal editor, faster as in less keystrokes, multiple selections, orthogonal design."
