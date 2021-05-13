@@ -32,7 +32,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper.
 * [rclone](https://rclone.org/) - Rclone manages file synchronization on cloud storage.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
-* [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories
+* [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories.
 * [zbackup](http://zbackup.org/) - A globally-deduplicating backup tool, based on the ideas found in rsync.
 
 ## <a name="chat"></a>Chat and instant messaging
@@ -180,7 +180,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [freesweep](http://www.upl.cs.wisc.edu/~hartmann/sweep/) - A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors and also has a highscores table.
 * [Language-games](https://github.com/Hellisotherpeople/Language-games) - Dead simple games made with word vectors.
 * [minesweeper](https://github.com/gazpachoking/minesweeper) - Cross-platform terminal based minesweeper.
-* [Nethack](http://nethack.org/) - Single player rogue-like dungeon exploration game; I'm currently addicted to [Pixel Dungeon](http://pixeldungeon.watabou.ru/) and its derivatives (Android apps), thus I find nethack a little bit too graphically poor.
+* [Nethack](http://nethack.org/) - Single player rogue-like dungeon exploration game.
 * [Oldrunner](http://culot.org/public/Code/oldrunner.html) - Character-based remake of Lode Runner; includes all the original 150 levels.  
 * [Slash'EM](http://slashem.sourceforge.net/) - Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version.
 * StarWars vision - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``.  

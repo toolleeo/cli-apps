@@ -127,7 +127,7 @@ backup,Duply,http://duply.net/,Simplifies the use of [duplicity](http://duplicit
 backup,paperbackup,https://github.com/intra2net/paperbackup,Create a pdf with barcodes to backup text files on paper.
 backup,rclone,https://rclone.org/,Rclone manages file synchronization on cloud storage.
 backup,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,File synchronizer.
-backup,Zaloha.sh,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories
+backup,Zaloha.sh,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories.
 file-handling,ncdu,https://dev.yorhel.nl/ncdu,"""A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
 file-handling,classifier,https://github.com/bhrigu123/classifier,"Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc."
 file-handling,detox,http://detox.sourceforge.net/,A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
@@ -154,7 +154,7 @@ games,bastet,http://fph.altervista.org/prog/bastet.html,(Bastard Tetris) impleme
 games,Cataclysm: Dark Days Ahead,https://cataclysmdda.org/,Open source turn-based survival RPG development project.
 games,Dwarf fortress,http://www.bay12games.com/dwarves/,A fantasy game using ASCII art graphical representation of the game environment; it features a rich environment with many options and possibilities.  
 games,freesweep,http://www.upl.cs.wisc.edu/~hartmann/sweep/,"A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors and also has a highscores table."
-games,Nethack,http://nethack.org/,"Single player rogue-like dungeon exploration game; I'm currently addicted to [Pixel Dungeon](http://pixeldungeon.watabou.ru/) and its derivatives (Android apps), thus I find nethack a little bit too graphically poor."
+games,Nethack,http://nethack.org/,Single player rogue-like dungeon exploration game.
 games,Oldrunner,http://culot.org/public/Code/oldrunner.html,Character-based remake of Lode Runner; includes all the original 150 levels.  
 games,Slash'EM,http://slashem.sourceforge.net/,"Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version."
 games,Typespeed,http://typespeed.sourceforge.net/,"Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words."
