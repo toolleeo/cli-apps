@@ -124,7 +124,7 @@ conversion,xls2csv,http://www.wagner.pp.ru/~vitus/software/catdoc/,Command line 
 backup,borg,https://github.com/borgbackup,Encrypted backups with a clean and simple interface; easy to use and set up; possibility to mount the backup archive with FUSE and inspect it as a regular file system.  
 backup,duplicity,http://duplicity.nongnu.org/,"Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers."
 backup,Duply,http://duply.net/,Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
-backup,paperbackup,https://github.com/intra2net/paperbackup,Create a pdf with barcodes to backup text files on paper
+backup,paperbackup,https://github.com/intra2net/paperbackup,Create a pdf with barcodes to backup text files on paper.
 backup,rclone,https://rclone.org/,Rclone manages file synchronization on cloud storage.
 backup,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,File synchronizer.
 backup,Zaloha.sh,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories

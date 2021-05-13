@@ -29,7 +29,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 * [duplicity](http://duplicity.nongnu.org/) - Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers.
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
-* [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper
+* [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper.
 * [rclone](https://rclone.org/) - Rclone manages file synchronization on cloud storage.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
 * [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories
