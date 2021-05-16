@@ -440,8 +440,6 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [Inconsolation blog](https://inconsolation.wordpress.com/) - "Adventures with lightweight and minimalist software for Linux": reviews of many command-line programs; many programs reviewed (400+, at least), with screenshots and animated GIFs; the style of presentation is ironic and funny, but requires some effort to figure out the real contribution of a program.
 
-[CLIapps blog table](http://www.jaredandcoralee.com/CLIapps.html) - A long list of CLI apps from Jared Bernard; some are quite outdated; pros: some CLI apps are put side-by-side with GUI counterparts; cons: no comments to the apps.
-
 [A little collection of cool unix terminal/console/curses tools](https://kkovacs.eu/cool-but-obscure-unix-tools) - "Some are little-known, some are just too useful to miss, some are pure obscure..." from Kristof Kovacs; nice list with screenshot; mostly oriented to system administration; unfortunately there are no clickable links.
 
 [Caleb Xu shell awesome](https://github.com/alebcay/awesome-shell) - Focused on UNIX shell tools.
@@ -449,8 +447,6 @@ A list of some online resoures that contribute interesting links to apps and inf
 [Adam Harris awesome CLI apps](https://github.com/aharris88/awesome-cli-apps) - Nice list of tools; somehow too much Javascript/Node.js-centered for my tastes.
 
 [Marcel Bischoff awesome commandd line apps](https://github.com/herrbischoff/awesome-command-line-apps) - Nice up-to-date list of useful tools.
-
-[CLI-Apps](http://cli-apps.org/) - A site that aims at collecting and organizing CLI apps information from user contributions; considering its social-oriented nature, it misses several mainstream apps.
 
 [Awesome CLI by sintaxi](https://github.com/sintaxi/awesome-cli/blob/master/README.md) - Relatively short list with short descriptions; with some original entries.
 
