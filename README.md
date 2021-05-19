@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **312** apps/tools covered, divided in **32** categories.
+To date, **313** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (20) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (20) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (15) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (20) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -371,6 +371,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
 * [dateutils](http://www.fresse.org/dateutils/) - Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
+* [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (html version) from the terminal.
 * [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 * [element](https://github.com/gennaro-tedesco/element) - Periodic table on the command line.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.

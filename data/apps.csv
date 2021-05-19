@@ -311,3 +311,4 @@ terminal,dtach,https://github.com/crigler/dtach,A program written in C that emul
 file-handling,vidir,https://github.com/trapd00r/vidir,vidir allows editing of the contents of a directory in a text editor.
 security,Firejail,https://firejail.wordpress.com/,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 editors,Kakoune,http://kakoune.org/,"Modal editor, faster as in less keystrokes, multiple selections, orthogonal design."
+utility,ddgr,https://github.com/jarun/ddgr,A command line utility to search DuckDuckGo (html version) from the terminal.
