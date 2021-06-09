@@ -312,3 +312,4 @@ file-handling,vidir,https://github.com/trapd00r/vidir,vidir allows editing of th
 security,Firejail,https://firejail.wordpress.com/,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 editors,Kakoune,http://kakoune.org/,"Modal editor, faster as in less keystrokes, multiple selections, orthogonal design."
 utility,ddgr,https://github.com/jarun/ddgr,A command line utility to search DuckDuckGo (html version) from the terminal.
+games,chs,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.
