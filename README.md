@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **314** apps/tools covered, divided in **32** categories.
+To date, **316** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (7) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (16) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (20) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (16) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (20) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -110,6 +110,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [Mutt](http://www.mutt.org/) - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
 * [NeoMutt](https://neomutt.org/) - Patched and up-to-dated mutt fork.
 * [Newsbeuter](http://newsbeuter.org/) - "The Mutt of RSS Feed Readers": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard.
+* [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
 * [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 
 ## <a name="file-handling"></a>File and file system handling
@@ -140,6 +141,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 ## <a name="file-manager"></a>File manager
 
+* [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
 * [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
 * [Midnight Commander](http://www.midnight-commander.org/) - a visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
 * [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C; rather complete in terms of features; especially lightweight and responsive.  
