@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **316** apps/tools covered, divided in **32** categories.
+To date, **321** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (5) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (16) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (20) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (13) | [Shells](#shells) (3) | [Sound and music](#music) (13) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (16) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -39,8 +39,10 @@ If you have any suggestion or want your project listed here, drop me an email at
 
 * [finch](http://www.pidgin.im/) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
 * [irssi](http://www.irssi.org) - The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols.
+* [matterhorn](https://github.com/matterhorn-chat/matterhorn) - A terminal client for the Mattermost chat system.
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal; allows almost all the operations that can be done from GUI and Web clients.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
+* [tiny](https://github.com/osa1/tiny) - tiny is an IRC client written in Rust.
 * [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
 
 ## <a name="conversion"></a>Conversion
@@ -228,6 +230,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 ## <a name="organizers"></a>Organizers and calendars
 
 * [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
+* [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
 * [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
 * [gcalcli](https://github.com/insanum/gcalcli) - CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events.
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
@@ -272,6 +275,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [dpg](https://github.com/62726164/dpg) - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
 * [encfs](http://www.arg0.net/#!encfs/c1awt) - Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE); mounts an encrypted directory into a clear one.  
 * [Firejail](https://firejail.wordpress.com/) - A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+* [GnuPG](https://gnupg.org/) - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 * [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 * [hashcat](https://hashcat.net/hashcat/) - A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash.
 * [hide](https://github.com/whatl3y/hide) - AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
@@ -291,6 +295,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 ## <a name="music"></a>Sound and music
 
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.  
+* [castero](https://github.com/xgi/castero) - A TUI podcast client for the terminal.
 * [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.  
 * [espeak](http://espeak.sourceforge.net/) - "a compact open source software speech synthesizer for English and other languages." 
 * [kord](https://github.com/synestematic/kord) - A python framework that provides programmers with a simple api for the creation of music-based applications.

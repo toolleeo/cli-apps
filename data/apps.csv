@@ -315,3 +315,8 @@ utility,ddgr,https://github.com/jarun/ddgr,A command line utility to search Duck
 games,chs,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.
 file-manager,clifm,https://github.com/leo-arch/clifm,"A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell."
 email,nmail,https://github.com/d99kris/nmail,nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
+chat,matterhorn,https://github.com/matterhorn-chat/matterhorn,A terminal client for the Mattermost chat system.
+organizers,calcurse,https://calcurse.org/,"A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks."
+music,castero,https://github.com/xgi/castero,A TUI podcast client for the terminal.
+security,GnuPG,https://gnupg.org/,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
+chat,tiny,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
