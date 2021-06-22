@@ -10,3 +10,9 @@ To build `README.md` run (`python3` is required for building):
 ```
 make
 ```
+
+# How to contribute
+
+If you have any suggestion or want your project listed here, drop me an email at `toolleeo@gmail.com`.
+
+If you want to contribute through a pull request, make sure to add new entries to the correct `.csv` file under the `data/` directory.

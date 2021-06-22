@@ -10,8 +10,6 @@ To date, **{n_apps}** apps/tools covered, divided in **{n_cats}** categories.
 {cats}
 
 Some links to [related resources](#resources).
-
-If you have any suggestion or want your project listed here, drop me an email at `toolleeo@gmail.com`.
 """
 
 resources_template = """
