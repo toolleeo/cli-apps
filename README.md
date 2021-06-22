@@ -13,11 +13,11 @@ make
 
 # Summary
 
-To date, **321** apps/tools covered, divided in **32** categories.
+To date, **322** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (16) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (9) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (16) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (10) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (18) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (8) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (5)
 
 Some links to [related resources](#resources).
 
@@ -260,6 +260,7 @@ If you have any suggestion or want your project listed here, drop me an email at
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
+* [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 
