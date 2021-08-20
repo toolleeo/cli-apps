@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **329** apps/tools covered, divided in **32** categories.
+To date, **330** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (23) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (17) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (10) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (15) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (9) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (6)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (8) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (24) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (17) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (10) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (15) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (9) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (6)
 
 Some links to [related resources](#resources).
 
@@ -126,6 +126,7 @@ Some links to [related resources](#resources).
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
 * [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
+* [dua](https://github.com/Byron/dua-cli) - Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 * [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
 * [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".
