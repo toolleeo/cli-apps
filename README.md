@@ -23,7 +23,7 @@ To date, **333** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (10) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (25) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (17) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (22) | [Productivity](#productivity) (10) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (6) | [Utilities](#utility) (21) | [Versioning](#versioning) (9) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (6)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (10) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (25) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (17) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (11) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (13) | [Text search](#text-search) (6) | [Utilities](#utility) (21) | [Versioning](#versioning) (9) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (6)
 
 Some links to [related resources](#resources).
 
@@ -245,7 +245,6 @@ Some links to [related resources](#resources).
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
 * [grit](https://github.com/climech/grit) - A multitree-based personal task manager.
 * [iKog](https://sites.google.com/site/henspace/ikog/) - A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
-* [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
 * [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 * [khal](https://github.com/pimutils/khal) - CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
@@ -267,6 +266,7 @@ Some links to [related resources](#resources).
 * [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
+* [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
