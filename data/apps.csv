@@ -134,7 +134,7 @@ file-handling,detox,http://detox.sourceforge.net/,A utility designed to easily c
 file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,"(Do The Right eXtraction) aims at taking ""all the hassle out of extracting archives""; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories."
 file-handling,exa,https://the.exa.website/,"Replacement for 'ls' written in Rust, with colors and several additional ""views""."
 file-handling,fasd,https://github.com/clvv/fasd,"A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line."
-text-search,fd,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find.  Written in Rust."
+file-handling,fd,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find. Written in Rust."
 file-handling,rename,https://www.kernel.org/pub/linux/utils/util-linux/,"Included in `util-linux`, allows bulk rename of files with regex support."
 file-handling,renameutils,http://www.nongnu.org/renameutils/,A set of programs to change file and directory names by editing them inplace; I find `imv` especially useful to edit a filename at the program prompt.  
 file-handling,rmlint,https://github.com/sahib/rmlint/,A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
@@ -239,8 +239,8 @@ graphics,pastel,https://github.com/sharkdp/pastel,"A command-line tool to genera
 utility,asciinema,https://github.com/asciinema/asciinema,Terminal session recorder.
 file-handling,alder,https://github.com/aweary/alder,Directory tree visualizer.
 text-processing,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
-text-processing,ripgrep-all,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
-text-processing,ripgrep,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.
+text-search,ripgrep-all,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
+text-search,ripgrep,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.
 utility,pmenu,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.
 editors,eon,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim."
 data-management,datadash,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.
