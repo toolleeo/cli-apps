@@ -80,7 +80,7 @@ organizers,Org mode,http://orgmode.org/,"Super-powerful [Emacs](https://www.gnu.
 organizers,pal,http://palcal.sourceforge.net/,"Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional."
 organizers,Remind,https://www.roaringpenguin.com/products/remind,"Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format."
 organizers,TaskWarrior,https://taskwarrior.org/,Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
-organizers,todo.txt,https://ginatrapani.github.io/todo.txt-cli/,Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
+organizers,todo.txt,http://todotxt.org/,Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
 organizers,todolist,http://todolist.site/,"A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them."
 organizers,TuDu,https://code.meskio.net/tudu/,"A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities."
 organizers,Wyrd,http://freecode.com/projects/wyrd/,Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.  
