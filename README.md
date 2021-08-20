@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **331** apps/tools covered, divided in **32** categories.
+To date, **332** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (9) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (24) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (17) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (10) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (15) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (9) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (6)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (9) | [Data transfer](#transfer) (21) | [Editors](#editors) (14) | [Email](#email) (8) | [File and file system handling](#file-handling) (24) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (17) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (22) | [Productivity](#productivity) (10) | [Programming](#programming) (3) | [Security and encryption](#security) (14) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (6) | [Text processing](#text-processing) (15) | [Text search](#text-search) (5) | [Utilities](#utility) (21) | [Versioning](#versioning) (9) | [Viewers](#viewers) (12) | [Web browser](#browser) (6) | [Web development](#webdev) (6)
 
 Some links to [related resources](#resources).
 
@@ -243,6 +243,7 @@ Some links to [related resources](#resources).
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
 * [grit](https://github.com/climech/grit) - A multitree-based personal task manager.
 * [iKog](https://sites.google.com/site/henspace/ikog/) - A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
+* [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
 * [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 * [khal](https://github.com/pimutils/khal) - CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
