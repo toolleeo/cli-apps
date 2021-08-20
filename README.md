@@ -412,7 +412,7 @@ Some links to [related resources](#resources).
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 * [git-annex](https://git-annex.branchable.com/) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
 * [git-peek](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
-* [git-stats](hhttps://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
+* [git-stats](https://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
 * [Mercurial](https://www.mercurial-scm.org/) - Free, distributed source control management tool.
 * [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 * [tig](https://github.com/jonas/tig) - An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level.
