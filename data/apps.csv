@@ -331,3 +331,4 @@ games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dunge
 file-handling,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
 organizers,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
+data-management,tabview,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
