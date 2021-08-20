@@ -323,6 +323,6 @@ chat,tiny,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
 productivity,Standard Unix Notes,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
 monitor,below,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
 monitor,lfs,https://github.com/Canop/lfs,A thing to get information on your mounted disks
-webdev,ain,https://github.com/jonaslu/ain,An HTTP API client for the terminal
-text-processing,BaFi,https://mmalcek.github.io/bafi/,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates"
-text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone
+webdev,ain,https://github.com/jonaslu/ain,An HTTP API client for the terminal.
+text-processing,BaFi,https://mmalcek.github.io/bafi/,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates."
+text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone.

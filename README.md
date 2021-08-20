@@ -358,14 +358,14 @@ Some links to [related resources](#resources).
 
 ## <a name="text-processing"></a>Text processing
 
-* [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates
+* [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
 * [ccat](https://github.com/jingweno/ccat) - A `cat` command with colorized output.  
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable instead of machine readable.
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities; good integration with `vim`.  
 * [Graphtage](https://github.com/trailofbits/graphtage) - Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.
 * [grc](https://github.com/pengwynn/grc) - (Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.  
-* [hck](https://github.com/sstadick/hck) - A sharp cut clone
+* [hck](https://github.com/sstadick/hck) - A sharp cut clone.
 * [jq](https://stedolan.github.io/jq/) - (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
 * [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
 * [pick](https://github.com/calleerlandsson/pick) - Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
@@ -443,7 +443,7 @@ Some links to [related resources](#resources).
 
 ## <a name="webdev"></a>Web development
 
-* [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
+* [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
 * [Hugo](https://gohugo.io/) - The world’s fastest framework for building websites.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.  
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.  
