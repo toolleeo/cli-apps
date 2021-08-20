@@ -322,3 +322,4 @@ security,GnuPG,https://gnupg.org/,GnuPG is a complete and free implementation of
 chat,tiny,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
 productivity,Standard Unix Notes,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
 monitor,below,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
+monitor,lfs,https://github.com/Canop/lfs,A thing to get information on your mounted disks
