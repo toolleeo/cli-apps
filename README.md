@@ -245,7 +245,7 @@ Some links to [related resources](#resources).
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
 * [Org mode](http://orgmode.org/) - Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format.
 * [pal](http://palcal.sourceforge.net/) - Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
-* [ppl addressbook](http://ppladdressbook.org/) - "``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format." 
+* [ppl addressbook](http://ppladdressbook.org/) - ``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format.
 * [Remind](https://www.roaringpenguin.com/products/remind) - Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format.
 * [TaskWarrior](https://taskwarrior.org/) - Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
 * [todo.txt](https://ginatrapani.github.io/todo.txt-cli/) - Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
@@ -302,7 +302,7 @@ Some links to [related resources](#resources).
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.  
 * [castero](https://github.com/xgi/castero) - A TUI podcast client for the terminal.
 * [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.  
-* [espeak](http://espeak.sourceforge.net/) - "a compact open source software speech synthesizer for English and other languages." 
+* [espeak](http://espeak.sourceforge.net/) - A compact open source software speech synthesizer for English and other languages.
 * [kord](https://github.com/synestematic/kord) - A python framework that provides programmers with a simple api for the creation of music-based applications.
 * [MOC](https://moc.daper.net/) - (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.  
 * [Mp3blaster](http://www.mp3blaster.org/?m=1) - Audio player for the text console.
@@ -412,7 +412,7 @@ Some links to [related resources](#resources).
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 * [git-annex](https://git-annex.branchable.com/) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
 * [git-peek](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
-* [git-stats](hhttps://github.com/IonicaBizau/git-stats) - "Local git statistics including GitHub-like contributions calendars." 
+* [git-stats](hhttps://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
 * [Mercurial](https://www.mercurial-scm.org/) - Free, distributed source control management tool.
 * [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 * [tig](https://github.com/jonas/tig) - An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level.

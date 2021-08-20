@@ -71,7 +71,7 @@ office,sc-im,https://github.com/andmarti1424/sc-im,"Spreadsheet Calculator Impro
 office,tpp,http://www.ngolde.de/tpp.html,(text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
 organizers,gcalcli,https://github.com/insanum/gcalcli,"CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events."
 organizers,khal,https://github.com/pimutils/khal,"CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer)."
-organizers,ppl addressbook,http://ppladdressbook.org/,"""``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."" "
+organizers,ppl addressbook,http://ppladdressbook.org/,"``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."
 organizers,kb,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 organizers,khard,https://github.com/lucc/khard,Console carddav client written in Pyhton.  
 organizers,iKog,https://sites.google.com/site/henspace/ikog/,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
@@ -97,7 +97,7 @@ viewers,mplayer,http://www.mplayerhq.hu/design7/news.html,One of the most popula
 viewers,mpv,https://mpv.io/,"A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources."
 viewers,zathura,https://pwmt.org/projects/zathura/,"Plugin based document file visualizer (PDF, DejaVu, PS); strongly key-based control."
 music,ncmpcpp,https://rybczak.net/ncmpcpp/,"NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory."
-music,espeak,http://espeak.sourceforge.net/,"""a compact open source software speech synthesizer for English and other languages."" "
+music,espeak,http://espeak.sourceforge.net/,A compact open source software speech synthesizer for English and other languages.
 music,Alsamixer,http://www.alsa-project.org/main/index.php/Main_Page,ALSA mixer with curses interfaces.  
 music,cmus,https://cmus.github.io/,A fast and lightweight audio player with configurable keybindings and playlist support.  
 music,MOC,https://moc.daper.net/,(music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.  
@@ -108,7 +108,7 @@ graphics,ImageMagick,http://www.imagemagick.org/script/index.php,"Software suite
 graphics,scrot,https://github.com/dreamer/scrot,A simple CLI tool to capture screenshots.  
 versioning,git,https://git-scm.com/,The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 versioning,git-annex,https://git-annex.branchable.com/,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
-versioning,git-stats,hhttps://github.com/IonicaBizau/git-stats,"""Local git statistics including GitHub-like contributions calendars."" "
+versioning,git-stats,hhttps://github.com/IonicaBizau/git-stats,Local git statistics including GitHub-like contributions calendars.
 versioning,Mercurial,https://www.mercurial-scm.org/,"Free, distributed source control management tool."
 versioning,tig,https://github.com/jonas/tig,"An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level."
 file-system,sshfs,https://github.com/libfuse/sshfs,Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.  
