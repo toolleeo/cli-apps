@@ -329,3 +329,4 @@ text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone.
 versioning,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the comfort of a git GUI but right in your terminal
 games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
 file-handling,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
+data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
