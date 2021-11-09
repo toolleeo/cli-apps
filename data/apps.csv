@@ -343,3 +343,4 @@ productivity,Watson,https://github.com/TailorDev/Watson,Time tracking CLI to kno
 data-management,WOPR,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations and infographic."
 games,Angband,https://rephial.org/,"Angband is a free, single-player dungeon exploration game."
 utility,grex,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.
+browser,Amfora,https://github.com/makeworld-the-better-one/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
