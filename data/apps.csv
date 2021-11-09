@@ -332,3 +332,14 @@ file-handling,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn ab
 data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
 productivity,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
 data-management,tabview,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
+versioning,Bazaar,http://bazaar.canonical.com/en/,"Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical."
+versioning,grv,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered."
+versioning,fossil,https://fossil-scm.org/,"A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more."
+editors,Diakonos,https://github.com/Pistos/diakonos,A powerful editor with “standard” keybindings and several advanced features.
+utility,yank,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
+terminal,mtm,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer."
+text-processing,sd,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI; a possible replacement for sed.
+productivity,Watson,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
+data-management,WOPR,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations and infographic."
+games,Angband,https://rephial.org/,"Angband is a free, single-player dungeon exploration game."
+utility,grex,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.
