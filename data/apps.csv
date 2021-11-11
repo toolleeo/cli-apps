@@ -345,3 +345,12 @@ games,Angband,https://rephial.org/,"Angband is a free, single-player dungeon exp
 utility,grex,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.
 browser,Amfora,https://github.com/makeworld-the-better-one/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
 browser,Bombardillo,https://bombadillo.colorfield.space/,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher."
+file-handling,pycp,https://github.com/dmerejkowsky/pycp,cp and mv with a progressbar.
+utility,bcal,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
+utility,viddy,https://github.com/sachaos/viddy,A modern watch command with time machine and pager etc.
+security,cpass,https://github.com/OliverLew/cpass,Another console UI for pass.
+file-handling,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
+editors,ash,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings."
+versioning,gee,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.
+file-handling,cobib,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool."
+file-handling,doppelganger,https://github.com/witchard/doppelganger,Save and load your shell environment to create doppelganger shells!
