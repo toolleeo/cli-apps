@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **355** apps/tools covered, divided in **32** categories.
+To date, **356** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (11) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (29) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (12) | [Programming](#programming) (3) | [Security and encryption](#security) (15) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (7) | [Text processing](#text-processing) (14) | [Text search](#text-search) (6) | [Utilities](#utility) (25) | [Versioning](#versioning) (13) | [Viewers](#viewers) (12) | [Web browser](#browser) (8) | [Web development](#webdev) (6)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (11) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (29) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (7) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (12) | [Programming](#programming) (3) | [Security and encryption](#security) (15) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (7) | [Text processing](#text-processing) (14) | [Text search](#text-search) (6) | [Utilities](#utility) (26) | [Versioning](#versioning) (13) | [Viewers](#viewers) (12) | [Web browser](#browser) (8) | [Web development](#webdev) (6)
 
 Some links to [related resources](#resources).
 
@@ -421,6 +421,7 @@ Some links to [related resources](#resources).
 * [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 * [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
 * [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
 * [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.

@@ -354,3 +354,4 @@ editors,ash,https://github.com/akashnag/ash,"A simple and clean terminal-based t
 versioning,gee,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.
 file-handling,cobib,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool."
 file-handling,doppelganger,https://github.com/witchard/doppelganger,Save and load your shell environment to create doppelganger shells!
+utility,screenFetch,https://github.com/KittyKatt/screenFetch,It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
