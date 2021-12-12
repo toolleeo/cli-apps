@@ -369,4 +369,73 @@ productivity,gdir,https://github.com/pafoster/gdir,A command line tool which que
 webdev,Mycorrhiza Wiki,https://sr.ht/~handlerug/mycorrhiza/,A lightweight file-system wiki engine that uses Git for keeping history.
 text-processing,ov,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.
 text-processing,fastmod,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
-browser,Awesome CLI,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+viewers,Awesome CLI,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+file-handling,watchexec,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
+text-processing,yq,https://github.com/mikefarah/yq,Portable command-line YAML processor.
+text-processing,squeeze,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
+text-processing,amber,https://github.com/dalance/amber,Code search / replace tool.
+file-handling,mmv,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
+webdev,linkchecker,https://github.com/linkchecker/linkchecker,Check links in web documents or full websites.
+text-processing,brok,https://github.com/smallhadroncollider/brok,Find broken links in text documents.
+utility,chars,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and unicode) characters / code points.
+file-handling,diskus,https://github.com/sharkdp/diskus,"Minimal, fast alternative to du -sh."
+programming,dtool,https://github.com/guoxbin/dtool,Collection of development tools.
+viewers,viu,https://github.com/learn-anything/command-line-tools,Command-line application to view images from the terminal written in Rust.
+utility,tealdeer,https://github.com/dbrgn/tealdeer,Very fast implementation of tldr in Rust.
+file-handling,xcp,https://github.com/tarka/xcp,Extended cp.
+file-handling,pazi,https://github.com/euank/pazi,Fast autojump helper.
+file-manager,hunter,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.
+monitor,ytop,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.
+monitor,noti,https://github.com/variadico/noti,Monitor a process and trigger a notification.
+productivity,cowyo,https://github.com/schollz/cowyo,Feature rich wiki webserver for minimalists.
+system,docker,https://docs.docker.com/,Self-sufficient runtime for containers.
+file-handling,friendly-find,https://github.com/sjl/friendly-find,Usable replacement for find.
+text-processing,fzy,https://github.com/jhawthorn/fzy,Better fuzzy finder.
+graphics,GraphicsMagick,http://www.graphicsmagick.org/,Swiss army knife of image processing.
+viewers,hexyl,https://github.com/sharkdp/hexyl,Command-line hex viewer.
+programming,temci,https://github.com/parttimenerd/temci,Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
+utility,just,https://github.com/casey/just,Handy way to save and run project-specific commands.
+programming,license-up,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.
+system,mackup,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux).
+file-handling,massren,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.
+programming,scons,https://github.com/SCons/scons,Software construction tool.
+text-processing,skim,https://github.com/lotabout/skim,Fuzzy Finder in rust.
+webdev,snallygaster,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.
+graphics,svgcleaner,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.
+security,wifi-password,https://github.com/rauchg/wifi-password,Get wifi pass.
+productivity,habitctl,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.
+programming,kickstart,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.
+programming,scc,https://github.com/boyter/scc,Very fast accurate code counter with complexity calculations and COCOMO estimates.
+file-handling,nomino,https://github.com/yaa110/nomino,Batch rename utility for developers.
+text-processing,luneta,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
+text-search,jiq,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
+versioning,sad,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
+file-handling,wfh,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.
+text-processing,teip,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.
+text-processing,espanso,https://github.com/federico-terzi/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.
+text-processing,huniq,https://github.com/koraa/huniq,"Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates."
+file-handling,nat,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.
+data-management,csvq,https://github.com/mithrandie/csvq,SQL-like query language for csv.
+file-handling,FClones,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.
+data-management,dasel,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.
+programming,Proji,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
+utility,pbgopy,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
+data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,Generate two and three dimensional plots of data.
+file-handling,conan,https://github.com/mirage/conan,Find clue about the type of the file.
+text-processing,Difftastic,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
+utility,Gaze,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
+text-search,todocheck,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
+browser,s,https://github.com/zquestz/s,Web search from the terminal. Just opens in your browser.
+text-processing,anew,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates."
+data-management,TV,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
+programming,hors,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
+monitor,Viddy,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
+utility,kalk,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
+utility,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
+data-management,sq,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
+data-management,Graphtage,https://github.com/trailofbits/graphtage,"Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV."
+file-handling,rip,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
+text-processing,vgrep,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
+webdev,urlhunter,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
+webdev,lychee,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust."
+networking,Rustcat,https://github.com/robiot/rustcat,Netcat Alternative in Rust.
