@@ -360,3 +360,4 @@ programming,pvcheck,https://github.com/claudio-unipv/pvcheck,"A tool to apply au
 file-handling,Jmp,https://github.com/gholmes829/Jmp,Change directory with smart searching of the path specified through regex.
 file-handling,llama,https://github.com/antonmedv/llama,Minimalistic file opener and directory changer focused on fuzzy searching the path.
 versioning,Gitea,https://gitea.com/,Single binary self-hosted Git service.
+versioning,Soft Serve,https://github.com/charmbracelet/soft-serve,Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
