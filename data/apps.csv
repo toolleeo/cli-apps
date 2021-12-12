@@ -357,3 +357,4 @@ file-handling,doppelganger,https://github.com/witchard/doppelganger,Save and loa
 utility,screenFetch,https://github.com/KittyKatt/screenFetch,It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
 graphics,inklayers,https://github.com/toolleeo/inklayers,A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.
 programming,pvcheck,https://github.com/claudio-unipv/pvcheck,"A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes."
+file-handling,Jmp,https://github.com/gholmes829/Jmp,Change directory with smart searching of the path specified through regex.
