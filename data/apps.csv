@@ -368,3 +368,4 @@ productivity,Bartib,https://github.com/nikolassv/bartib,Easy to use time trackin
 productivity,gdir,https://github.com/pafoster/gdir,A command line tool which queries Google Directions. The tool displays results as human-readable text.
 webdev,Mycorrhiza Wiki,https://sr.ht/~handlerug/mycorrhiza/,A lightweight file-system wiki engine that uses Git for keeping history.
 text-processing,ov,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.
+text-processing,fastmod,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."

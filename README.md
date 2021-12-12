@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **369** apps/tools covered, divided in **32** categories.
+To date, **370** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (11) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (8) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (14) | [Programming](#programming) (4) | [Security and encryption](#security) (15) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (16) | [Text search](#text-search) (6) | [Utilities](#utility) (26) | [Versioning](#versioning) (15) | [Viewers](#viewers) (12) | [Web browser](#browser) (8) | [Web development](#webdev) (7)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (11) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (8) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (14) | [Programming](#programming) (4) | [Security and encryption](#security) (15) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (17) | [Text search](#text-search) (6) | [Utilities](#utility) (26) | [Versioning](#versioning) (15) | [Viewers](#viewers) (12) | [Web browser](#browser) (8) | [Web development](#webdev) (7)
 
 Some links to [related resources](#resources).
 
@@ -388,6 +388,7 @@ Some links to [related resources](#resources).
 * [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable instead of machine readable.
+* [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities; good integration with `vim`.  
 * [Graphtage](https://github.com/trailofbits/graphtage) - Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.
 * [grc](https://github.com/pengwynn/grc) - (Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.  
