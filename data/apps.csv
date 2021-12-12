@@ -366,3 +366,4 @@ file-handling,SmartCd,https://github.com/CodesOfRishi/smartcd,"A cd command with
 terminal,mx,https://gitlab.com/lpireyn/mx,A tmux session manager written as a single Bash script.
 productivity,Bartib,https://github.com/nikolassv/bartib,Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 productivity,gdir,https://github.com/pafoster/gdir,A command line tool which queries Google Directions. The tool displays results as human-readable text.
+webdev,Mycorrhiza Wiki,https://sr.ht/~handlerug/mycorrhiza/,A lightweight file-system wiki engine that uses Git for keeping history.
