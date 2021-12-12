@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **357** apps/tools covered, divided in **32** categories.
+To date, **358** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (11) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (29) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (8) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (12) | [Programming](#programming) (3) | [Security and encryption](#security) (15) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (7) | [Text processing](#text-processing) (14) | [Text search](#text-search) (6) | [Utilities](#utility) (26) | [Versioning](#versioning) (13) | [Viewers](#viewers) (12) | [Web browser](#browser) (8) | [Web development](#webdev) (6)
+[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (11) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (29) | [File manager](#file-manager) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (8) | [Networking](#networking) (7) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (12) | [Programming](#programming) (4) | [Security and encryption](#security) (15) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (20) | [System tools](#system) (7) | [Terminals](#terminal) (7) | [Text processing](#text-processing) (14) | [Text search](#text-search) (6) | [Utilities](#utility) (26) | [Versioning](#versioning) (13) | [Viewers](#viewers) (12) | [Web browser](#browser) (8) | [Web development](#webdev) (6)
 
 Some links to [related resources](#resources).
 
@@ -288,6 +288,7 @@ Some links to [related resources](#resources).
 
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 * [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
+* [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
 * [rr](https://rr-project.org/) - Debug the recording, deterministically, as many times as you want.
 
 ## <a name="security"></a>Security and encryption
