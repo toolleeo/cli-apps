@@ -439,3 +439,21 @@ text-processing,vgrep,https://github.com/vrothberg/vgrep,User-friendly pager for
 webdev,urlhunter,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
 webdev,lychee,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust."
 networking,Rustcat,https://github.com/robiot/rustcat,Netcat Alternative in Rust.
+funny,ponysay,https://github.com/erkin/ponysay,Pony rewrite of cowsay.
+funny,yosay,https://github.com/yeoman/yosay,"Like cowsay, but for yeoman."
+graphics,cli-mandelbrot,https://github.com/danyshaanan/cli-mandelbrot,A cli for traversing the Mandelbrot fractal.
+funny,cli-fireplace,https://github.com/dolsup/cli-fireplace,Shows digital fireplace.
+graphics,givegif,https://github.com/passy/givegif,GIFs on the command line.
+versioning,git-extras,https://github.com/tj/git-extras,"Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more."
+versioning,Gistup,https://github.com/mbostock/gistup,"Create a gist from terminal, then use git to update it."
+file-handling,ll,https://github.com/antonmedv/ll,ls with git status.
+viewers,fx,https://github.com/antonmedv/fx,Command-line JSON viewer.
+networking,speedtest-net,https://github.com/ddsol/speedtest.net,Test internet connection speed and ping using speedtest.net.
+backup,shallow-backup,https://github.com/alichtman/shallow-backup,Git integrated backup tool.
+office,mdp,https://github.com/visit1985/mdp,A command-line based markdown presentation tool.
+office,sent,https://tools.suckless.org/sent/,Simple plaintext presentation tool.
+productivity,eureka,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.
+productivity,taskell,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
+productivity,taskbook,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
+office,papis,http://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
+chat,tuir.,https://gitlab.com/ajak/tuir,Reddit TUI

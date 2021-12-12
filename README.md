@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **440** apps/tools covered, divided in **32** categories.
+To date, **458** apps/tools covered, divided in **32** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Chat and instant messaging](#chat) (7) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (45) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (9) | [Games](#games) (18) | [Graphics](#graphics) (10) | [Networking](#networking) (8) | [Office tools](#office) (10) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (16) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (23) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Utilities](#utility) (33) | [Versioning](#versioning) (16) | [Viewers](#viewers) (15) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
+[Backup](#backup) (10) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (21) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (12) | [Networking](#networking) (9) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (21) | [Productivity](#productivity) (19) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (23) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Utilities](#utility) (33) | [Versioning](#versioning) (18) | [Viewers](#viewers) (16) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -35,6 +35,7 @@ Some links to [related resources](#resources).
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper.
 * [rclone](https://rclone.org/) - Rclone manages file synchronization on cloud storage.
+* [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer.
 * [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - Shellscript for synchronization of files and directories.
 * [zbackup](http://zbackup.org/) - A globally-deduplicating backup tool, based on the ideas found in rsync.
@@ -47,6 +48,7 @@ Some links to [related resources](#resources).
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal; allows almost all the operations that can be done from GUI and Web clients.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
 * [tiny](https://github.com/osa1/tiny) - tiny is an IRC client written in Rust.
+* [tuir.](https://gitlab.com/ajak/tuir) - Reddit TUI
 * [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
 
 ## <a name="conversion"></a>Conversion
@@ -154,6 +156,7 @@ Some links to [related resources](#resources).
 * [gcp](https://github.com/petronny/gcp) - `gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
 * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge.
 * [Jmp](https://github.com/gholmes829/Jmp) - Change directory with smart searching of the path specified through regex.
+* [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [llama](https://github.com/antonmedv/llama) - Minimalistic file opener and directory changer focused on fuzzy searching the path.
 * [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
 * [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your $EDITOR. The command name is named after multi-mv.
@@ -205,13 +208,16 @@ Some links to [related resources](#resources).
 
 * [asciiacquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
+* [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 * [cmatrix](http://www.asty.org/cmatrix/) - ncurses program that display the scrolling lines found in the movie `The matrix`.
 * [cowsay](https://en.wikipedia.org/wiki/Cowsay) - A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).  
 * [cowthink](https://en.wikipedia.org/wiki/Cowsay) - Same as `cowsay`, but uses a "think" bubble instead of a speech bubble.
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages feched from a quotation database.  
+* [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 * [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 * [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
+* [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 
 ## <a name="games"></a>Games
 
@@ -237,6 +243,8 @@ Some links to [related resources](#resources).
 ## <a name="graphics"></a>Graphics
 
 * [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21st century.
+* [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
+* [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 * [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves".
 * [imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal. Built with bubbletea.
@@ -257,13 +265,17 @@ Some links to [related resources](#resources).
 * [quickserve](https://github.com/charliesome/quickserve) - Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle.
 * [rtop](http://www.rtop-monitor.org/) - rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
+* [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 
 ## <a name="office"></a>Office tools
 
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
 * [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
+* [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+* [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 * [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * [scholarref](https://adamsgaard.dk/scholarref.html) - Tools to never deal with journal webpages again.
+* [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 * [Teapot](https://www.syntax-k.de/projekte/teapot/) - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 * [tpp](http://www.ngolde.de/tpp.html) - (text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
@@ -303,6 +315,7 @@ Some links to [related resources](#resources).
 * [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
+* [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
 * [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
 * [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -310,6 +323,8 @@ Some links to [related resources](#resources).
 * [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
+* [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+* [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
@@ -506,8 +521,10 @@ Some links to [related resources](#resources).
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 * [fossil](https://fossil-scm.org/) - A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.
 * [gee](https://github.com/human37/gee) - CLI repository manager and automation tool written in rust.
+* [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 * [git-annex](https://git-annex.branchable.com/) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
+* [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 * [git-peek](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
 * [git-stats](https://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
 * [Gitea](https://gitea.com/) - Single binary self-hosted Git service.
@@ -524,6 +541,7 @@ Some links to [related resources](#resources).
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
 * [feh](https://feh.finalrewind.org/) - "X11 image viewer aimed mostly at console users" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions.
+* [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 * [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz!
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
 * [jc](https://github.com/kellyjonbrazil/jc) - Serializes the output of command line tools to JSON.
