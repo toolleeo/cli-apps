@@ -196,7 +196,7 @@ utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,"Search API doc
 utility,arch-wiki,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
 utility,googler,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
 utility,lolcat,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
-utility,neofetch,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
+monitor,neofetch,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
 utility,pdd,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
 utility,powerline,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
 utility,socli,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
@@ -219,7 +219,7 @@ productivity,cadmus,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facil
 file-handling,twf,https://github.com/wvanlint/twf,Standalone tree view file explorer.
 text-processing,delta,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.
 graphics,chafa,https://github.com/hpjansson/chafa,Terminal graphics for the 21st century.
-transfer,youtube-viewer,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
+viewers,youtube-viewer,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
 productivity,posce,https://github.com/posce/posce,A note-taking toolkit for your command line.
 file-handling,dutree,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
 text-processing,ydiff,https://github.com/ymattw/ydiff,"View colored, incremental diff."
