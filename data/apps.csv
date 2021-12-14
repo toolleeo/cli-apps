@@ -128,7 +128,7 @@ backup,paperbackup,https://github.com/intra2net/paperbackup,Create a pdf with ba
 transfer,rclone,https://rclone.org/,Rclone manages file synchronization on cloud storage.
 transfer,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,"File synchronizer. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other."
 backup,Zaloha.sh,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories.
-file-handling,ncdu,https://dev.yorhel.nl/ncdu,"""A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
+disk-analyzer,ncdu,https://dev.yorhel.nl/ncdu,"""A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
 file-handling,classifier,https://github.com/bhrigu123/classifier,"Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc."
 file-handling,detox,http://detox.sourceforge.net/,A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,"(Do The Right eXtraction) aims at taking ""all the hassle out of extracting archives""; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories."
@@ -278,14 +278,14 @@ funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, writ
 data-management,Dolt,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
 transfer,ytfzf,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
 text-processing,Graphtage,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
-file-handling,duf,https://github.com/muesli/duf,Disk Usage/Free Utility.
+disk-analyzer,duf,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems.
 office,Ticker,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
 versioning,git-peek,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
-file-handling,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.
-file-handling,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
+disk-analyzer,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.
+disk-analyzer,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
 music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications.
 graphics,imgcat,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea.
 office,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.
@@ -328,7 +328,7 @@ text-processing,BaFi,https://mmalcek.github.io/bafi/,"Universal JSON, BSON, YAML
 text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone.
 versioning,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the comfort of a git GUI but right in your terminal
 games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
-file-handling,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
+disk-analyzer,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
 note-taking,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
 data-management,tabview,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
@@ -349,7 +349,7 @@ file-handling,pycp,https://github.com/dmerejkowsky/pycp,cp and mv with a progres
 calc,bcal,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
 utility,viddy,https://github.com/sachaos/viddy,A modern watch command with time machine and pager etc.
 security,cpass,https://github.com/OliverLew/cpass,Another console UI for pass.
-file-handling,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
+disk-analyzer,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
 editors,ash,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings."
 versioning,gee,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.
 file-handling,cobib,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool."
@@ -378,7 +378,7 @@ file-handling,mmv,https://github.com/itchyny/mmv,Rename multiple files using you
 webdev,linkchecker,https://github.com/linkchecker/linkchecker,Check links in web documents or full websites.
 text-processing,brok,https://github.com/smallhadroncollider/brok,Find broken links in text documents.
 utility,chars,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and unicode) characters / code points.
-file-handling,diskus,https://github.com/sharkdp/diskus,"Minimal, fast alternative to du -sh."
+disk-analyzer,diskus,https://github.com/sharkdp/diskus,"Minimal, fast alternative to du -sh."
 programming,dtool,https://github.com/guoxbin/dtool,Collection of development tools.
 viewers,viu,https://github.com/learn-anything/command-line-tools,Command-line application to view images from the terminal written in Rust.
 utility,tealdeer,https://github.com/dbrgn/tealdeer,Very fast implementation of tldr in Rust.
