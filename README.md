@@ -23,7 +23,7 @@ To date, **458** apps/tools covered, divided in **37** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Disk usage analyzers](#disk-analyzer) (7) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (8) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (8) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (29) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Disk usage analyzers](#disk-analyzer) (7) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (29) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -318,6 +318,7 @@ Some links to [related resources](#resources).
 ## <a name="password-manager"></a>Password managers
 
 * [cpass](https://github.com/OliverLew/cpass) - Another console UI for pass.
+* [dpg](https://github.com/62726164/dpg) - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
 * [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 * [hide](https://github.com/whatl3y/hide) - AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 * [kpcli](http://kpcli.sourceforge.net/) - A command line interface for KeePass.
@@ -357,7 +358,6 @@ Some links to [related resources](#resources).
 ## <a name="security"></a>Security and encryption
 
 * [cipher](https://github.com/ash-shell/cipher) - An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.  
-* [dpg](https://github.com/62726164/dpg) - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
 * [encfs](http://www.arg0.net/#!encfs/c1awt) - Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE); mounts an encrypted directory into a clear one.  
 * [Firejail](https://firejail.wordpress.com/) - A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 * [GnuPG](https://gnupg.org/) - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
