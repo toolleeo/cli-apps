@@ -215,12 +215,12 @@ file-handling,zoxide,https://github.com/ajeetdsouza/zoxide,A faster way to navig
 viewers,TerminalImageViewer,https://github.com/stefanhaustein/TerminalImageViewer,Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 monitor,whowatch,https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/,Monitor Linux Users and Processes in Real Time.
 productivity,dijo,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker."
-productivity,cadmus,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.
+note-taking,cadmus,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.
 file-handling,twf,https://github.com/wvanlint/twf,Standalone tree view file explorer.
 text-processing,delta,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.
 graphics,chafa,https://github.com/hpjansson/chafa,Terminal graphics for the 21st century.
 viewers,youtube-viewer,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
-productivity,posce,https://github.com/posce/posce,A note-taking toolkit for your command line.
+note-taking,posce,https://github.com/posce/posce,A note-taking toolkit for your command line.
 file-handling,dutree,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
 text-processing,ydiff,https://github.com/ymattw/ydiff,"View colored, incremental diff."
 security,kpcli,http://kpcli.sourceforge.net/,A command line interface for KeePass.
@@ -265,7 +265,7 @@ versioning,forgit,https://github.com/wfxr/forgit,A utility tool powered by fzf f
 office,scholarref,https://adamsgaard.dk/scholarref.html,Tools to never deal with journal webpages again.
 games,crappybird-py,https://github.com/JonPizza/crappybird-py,Flappy bird.
 office,conrad,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
-productivity,dn,https://github.com/tomlockwood/dn,Daily notes command line tool.
+note-taking,dn,https://github.com/tomlockwood/dn,Daily notes command line tool.
 versioning,onefetch,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
 data-management,jtc,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
 email,NeoMutt,https://neomutt.org/,Patched and up-to-dated mutt fork.
@@ -320,7 +320,7 @@ organizers,calcurse,https://calcurse.org/,"A calendar and scheduling application
 music,castero,https://github.com/xgi/castero,A TUI podcast client for the terminal.
 security,GnuPG,https://gnupg.org/,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 chat,tiny,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
-productivity,Standard Unix Notes,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
+note-taking,Standard Unix Notes,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
 monitor,below,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
 monitor,lfs,https://github.com/Canop/lfs,A thing to get information on your mounted disks
 webdev,ain,https://github.com/jonaslu/ain,An HTTP API client for the terminal.
@@ -330,7 +330,7 @@ versioning,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the
 games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
 file-handling,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
-productivity,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
+note-taking,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
 data-management,tabview,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
 versioning,Bazaar,http://bazaar.canonical.com/en/,"Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical."
 versioning,grv,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered."

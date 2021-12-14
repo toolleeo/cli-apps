@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **458** apps/tools covered, divided in **33** categories.
+To date, **458** apps/tools covered, divided in **34** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Note taking](#note-taking) (5) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (12) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -265,6 +265,14 @@ Some links to [related resources](#resources).
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 * [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 
+## <a name="note-taking"></a>Note taking
+
+* [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
+* [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
+* [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
+* [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
+* [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
+
 ## <a name="office"></a>Office tools
 
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
@@ -300,18 +308,13 @@ Some links to [related resources](#resources).
 
 * [arbtt](http://arbtt.nomeata.de/) - (automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
 * [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-* [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 * [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
-* [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
 * [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
 * [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
-* [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
-* [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
-* [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
