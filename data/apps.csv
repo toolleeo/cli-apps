@@ -283,7 +283,7 @@ productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Goo
 music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems.
 office,Ticker,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
-git,grv,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
+git,git-peek,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
 disk-analyzer,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.
 disk-analyzer,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
 music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications.
