@@ -453,7 +453,7 @@ backup,shallow-backup,https://github.com/alichtman/shallow-backup,Git integrated
 office,mdp,https://github.com/visit1985/mdp,A command-line based markdown presentation tool.
 office,sent,https://tools.suckless.org/sent/,Simple plaintext presentation tool.
 productivity,eureka,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.
-productivity,taskell,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
-productivity,taskbook,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
+todo-manager,taskell,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
+todo-manager,taskbook,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 office,papis,http://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
 chat,tuir.,https://gitlab.com/ajak/tuir,Reddit TUI
