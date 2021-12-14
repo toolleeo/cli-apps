@@ -23,7 +23,7 @@ To date, **458** apps/tools covered, divided in **33** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (12) | [Networking](#networking) (9) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (19) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (17) | [Web browser](#browser) (9) | [Web development](#webdev) (11) | [Todo managers](#todo-manager) (9)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (12) | [Networking](#networking) (9) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (19) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (9) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (17) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -470,6 +470,18 @@ Some links to [related resources](#resources).
 * [sift](https://sift-tool.org/) - Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text.
 * [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
 
+## <a name="todo-manager"></a>Todo managers
+
+* [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
+* [grit](https://github.com/climech/grit) - A multitree-based personal task manager.
+* [iKog](https://sites.google.com/site/henspace/ikog/) - A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
+* [TaskWarrior](https://taskwarrior.org/) - Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
+* [todo.txt](http://todotxt.org/) - Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
+* [todolist](http://todolist.site/) - A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them.
+* [todotxt-machine](https://pypi.org/project/todotxt-machine/) - Interfacce for todo.txt.
+* [TuDu](https://code.meskio.net/tudu/) - A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities.
+* [Yokadi](https://yokadi.github.io/) - Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
+
 ## <a name="utility"></a>Utilities
 
 * [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.  
@@ -571,18 +583,6 @@ Some links to [related resources](#resources).
 * [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 * [Tsung](http://tsung.erlang-projects.org/) - A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
 * [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
-
-## <a name="todo-manager"></a>Todo managers
-
-* [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
-* [grit](https://github.com/climech/grit) - A multitree-based personal task manager.
-* [iKog](https://sites.google.com/site/henspace/ikog/) - A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
-* [TaskWarrior](https://taskwarrior.org/) - Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
-* [todo.txt](http://todotxt.org/) - Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
-* [todolist](http://todolist.site/) - A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them.
-* [todotxt-machine](https://pypi.org/project/todotxt-machine/) - Interfacce for todo.txt.
-* [TuDu](https://code.meskio.net/tudu/) - A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities.
-* [Yokadi](https://yokadi.github.io/) - Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
 
 
 # <a name="resources"></a>Related resources
