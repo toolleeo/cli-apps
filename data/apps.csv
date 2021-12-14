@@ -63,8 +63,8 @@ security,cipher,https://github.com/ash-shell/cipher,An Ash module that makes it 
 security,hashcat,https://hashcat.net/hashcat/,"A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash."
 security,encfs,http://www.arg0.net/#!encfs/c1awt,Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE); mounts an encrypted directory into a clear one.  
 security,LUKS,https://guardianproject.info/code/luks/,"Hard disk encryption tool; it stores all setup information in the partition header, enabling easy data transport or migration."
-security,safe.sh,https://github.com/windowsrefund/safe,"Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html)."
-security,titan,https://www.byteptr.com/titan/,"Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license."
+password-manager,safe.sh,https://github.com/windowsrefund/safe,"Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html)."
+password-manager,titan,https://www.byteptr.com/titan/,"Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license."
 office,trino,https://github.com/eneserdogan/trino,Quick and easy translation of words and phrases entered in the command line.  
 office,Teapot,https://www.syntax-k.de/projekte/teapot/,"Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions."
 office,sc-im,https://github.com/andmarti1424/sc-im,"Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to ""re-cycle"" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."""
@@ -205,9 +205,9 @@ utility,dateutils,http://www.fresse.org/dateutils/,Dateutils are a bunch of tool
 data-management,VisiData,https://www.visidata.org/,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
 data-management,csvkit,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
 programming,gdb-dashboard,https://github.com/cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python.
-security,hide,https://github.com/whatl3y/hide,AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
-security,gopass,https://www.gopass.pw/,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
-security,pass,https://www.passwordstore.org/,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
+password-manager,hide,https://github.com/whatl3y/hide,AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
+password-manager,gopass,https://www.gopass.pw/,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
+password-manager,pass,https://www.passwordstore.org/,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
 security,dpg,https://github.com/62726164/dpg,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
 transfer,yt-splitter,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 backup,bupstash,https://github.com/andrewchambers/bupstash,Easy and efficient encrypted backups.
@@ -223,7 +223,7 @@ viewers,youtube-viewer,https://github.com/trizen/youtube-viewer,Lightweight appl
 note-taking,posce,https://github.com/posce/posce,A note-taking toolkit for your command line.
 file-handling,dutree,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
 text-processing,ydiff,https://github.com/ymattw/ydiff,"View colored, incremental diff."
-security,kpcli,http://kpcli.sourceforge.net/,A command line interface for KeePass.
+password-manager,kpcli,http://kpcli.sourceforge.net/,A command line interface for KeePass.
 data-management,GNU Recutils,https://www.gnu.org/software/recutils/manual/,"Set of tools and libraries to access human-editable, text-based databases called recfiles."
 games,terminal_board_games,https://github.com/salt-die/terminally_bored_terminal_board_games,Board games for the terminal.
 games,minesweeper,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.
@@ -250,7 +250,7 @@ transfer,ytmdl,https://github.com/deepjyoti30/ytmdl,Get songs from Youtube in mp
 funny,sha256-animation,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.
 browser,cli-arxiv,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.
 conversion,mdBook,https://github.com/rust-lang/mdBook,Create book from markdown files.
-security,SpicyPass,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.
+password-manager,SpicyPass,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.
 viewers,jc,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.
 music,muCLIar,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.
 office,translate-shell,https://github.com/soimort/translate-shell,Command-line translator using Google Translate or other online services.
@@ -348,7 +348,7 @@ browser,Bombardillo,https://bombadillo.colorfield.space/,"A non-web browser, des
 file-handling,pycp,https://github.com/dmerejkowsky/pycp,cp and mv with a progressbar.
 calc,bcal,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
 utility,viddy,https://github.com/sachaos/viddy,A modern watch command with time machine and pager etc.
-security,cpass,https://github.com/OliverLew/cpass,Another console UI for pass.
+password-manager,cpass,https://github.com/OliverLew/cpass,Another console UI for pass.
 disk-analyzer,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
 editors,ash,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings."
 versioning,gee,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.
