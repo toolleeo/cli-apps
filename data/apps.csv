@@ -195,7 +195,7 @@ organizers,goobook,https://gitlab.com/goobook/goobook,The purpose of GooBook is 
 utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,"Search API docs offline, in your terminal or browser."
 utility,arch-wiki,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
 utility,googler,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
-utility,lolcat,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
+text-processing,lolcat,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
 monitor,neofetch,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
 utility,pdd,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
 utility,powerline,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
