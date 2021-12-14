@@ -72,7 +72,7 @@ office,tpp,http://www.ngolde.de/tpp.html,(text presentation program) a ncurses R
 organizers,gcalcli,https://github.com/insanum/gcalcli,"CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events."
 organizers,khal,https://github.com/pimutils/khal,"CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer)."
 organizers,ppl addressbook,http://ppladdressbook.org/,"``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."
-organizers,kb,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
+note-taking,kb,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 organizers,khard,https://github.com/lucc/khard,Console carddav client written in Pyhton.  
 todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
 todo-manager,Yokadi,https://yokadi.github.io/,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
@@ -452,7 +452,7 @@ networking,speedtest-net,https://github.com/ddsol/speedtest.net,Test internet co
 backup,shallow-backup,https://github.com/alichtman/shallow-backup,Git integrated backup tool.
 office,mdp,https://github.com/visit1985/mdp,A command-line based markdown presentation tool.
 office,sent,https://tools.suckless.org/sent/,Simple plaintext presentation tool.
-productivity,eureka,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.
+note-taking,eureka,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.
 todo-manager,taskell,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
 todo-manager,taskbook,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 office,papis,http://github.com/alejandrogallo/papis,Extensible document and bibliography manager.

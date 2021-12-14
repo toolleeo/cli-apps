@@ -23,7 +23,7 @@ To date, **458** apps/tools covered, divided in **34** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Note taking](#note-taking) (5) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (12) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Productivity](#productivity) (11) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -269,7 +269,9 @@ Some links to [related resources](#resources).
 
 * [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
+* [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 * [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
+* [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 * [posce](https://github.com/posce/posce) - A note-taking toolkit for your command line.
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
 
@@ -295,7 +297,6 @@ Some links to [related resources](#resources).
 * [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
 * [gcalcli](https://github.com/insanum/gcalcli) - CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events.
 * [goobook](https://gitlab.com/goobook/goobook) - The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
-* [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 * [khal](https://github.com/pimutils/khal) - CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
 * [Org mode](http://orgmode.org/) - Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format.
@@ -310,7 +311,6 @@ Some links to [related resources](#resources).
 * [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 * [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
-* [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
 * [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
