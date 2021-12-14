@@ -86,7 +86,7 @@ todo-manager,TuDu,https://code.meskio.net/tudu/,"A comand line interface to mana
 organizers,Wyrd,http://freecode.com/projects/wyrd/,Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.  
 productivity,arbtt,http://arbtt.nomeata.de/,"(automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window."
 productivity,ledger,http://ledger-cli.org/,"A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account."
-productivity,Qalculate,https://qalculate.github.io/,"Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI)."
+calc,Qalculate,https://qalculate.github.io/,"Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI)."
 productivity,Translate Shell,https://www.soimort.org/translate-shell/,"Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc."
 viewers,cacaview,http://caca.zoy.org/wiki/libcaca,"A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters."
 viewers,glow,https://github.com/charmbracelet/glow,"Render markdown on the CLI, with pizzazz!"
@@ -229,7 +229,7 @@ games,terminal_board_games,https://github.com/salt-die/terminally_bored_terminal
 games,minesweeper,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.
 games,Terminal Phase,https://dustycloud.org/blog/terminal-phase-1.0/,A space shooter game you can play in your terminal.
 file-handling,broot,https://dystroy.org/broot/,"A new way to navigate directory trees on linux, made in rust."
-utility,Nota,https://kary.us/nota/,Terminal calculator with rich notation.
+calc,Nota,https://kary.us/nota/,Terminal calculator with rich notation.
 editors,vy,https://github.com/vyapp/vy,A vim-like in python made from scratch.
 utility,pire,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
 browser,Graphene,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.
@@ -346,7 +346,7 @@ utility,grex,https://github.com/pemistahl/grex,A command-line tool for generatin
 browser,Amfora,https://github.com/makeworld-the-better-one/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
 browser,Bombardillo,https://bombadillo.colorfield.space/,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher."
 file-handling,pycp,https://github.com/dmerejkowsky/pycp,cp and mv with a progressbar.
-utility,bcal,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
+calc,bcal,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
 utility,viddy,https://github.com/sachaos/viddy,A modern watch command with time machine and pager etc.
 security,cpass,https://github.com/OliverLew/cpass,Another console UI for pass.
 file-handling,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
@@ -430,7 +430,7 @@ text-processing,anew,https://github.com/tomnomnom/anew,"Tool for adding new line
 data-management,TV,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 programming,hors,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
 monitor,Viddy,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
-utility,kalk,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
+calc,kalk,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 utility,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
 data-management,Graphtage,https://github.com/trailofbits/graphtage,"Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV."
