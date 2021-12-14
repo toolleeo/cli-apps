@@ -23,7 +23,7 @@ To date, **458** apps/tools covered, divided in **33** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (12) | [Networking](#networking) (9) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (17) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (12) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (16) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (32) | [Versioning](#versioning) (18) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -252,7 +252,6 @@ Some links to [related resources](#resources).
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.  
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
-* [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 
 ## <a name="networking"></a>Networking
 
@@ -553,6 +552,7 @@ Some links to [related resources](#resources).
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
 * [mupdf](http://mupdf.com/) - Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.  
 * [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer for the terminal.
+* [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 * [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.

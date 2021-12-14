@@ -212,7 +212,7 @@ security,dpg,https://github.com/62726164/dpg,"The Deterministic Password Generat
 transfer,yt-splitter,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 backup,bupstash,https://github.com/andrewchambers/bupstash,Easy and efficient encrypted backups.
 file-handling,zoxide,https://github.com/ajeetdsouza/zoxide,A faster way to navigate your filesystem.
-graphics,TerminalImageViewer,https://github.com/stefanhaustein/TerminalImageViewer,Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
+viewers,TerminalImageViewer,https://github.com/stefanhaustein/TerminalImageViewer,Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 monitor,whowatch,https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/,Monitor Linux Users and Processes in Real Time.
 productivity,dijo,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker."
 productivity,cadmus,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.
