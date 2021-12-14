@@ -106,11 +106,11 @@ music,mps-youtube,https://github.com/mps-youtube/mps-youtube,"A curses player fo
 music,ogg123,https://www.xiph.org/downloads/,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
 graphics,ImageMagick,http://www.imagemagick.org/script/index.php,"Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to ""resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves""."
 graphics,scrot,https://github.com/dreamer/scrot,A simple CLI tool to capture screenshots.  
-versioning,git,https://git-scm.com/,The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
-versioning,git-annex,https://git-annex.branchable.com/,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
-versioning,git-stats,https://github.com/IonicaBizau/git-stats,Local git statistics including GitHub-like contributions calendars.
+git,git,https://git-scm.com/,The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
+git,git-annex,https://git-annex.branchable.com/,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
+git,git-stats,https://github.com/IonicaBizau/git-stats,Local git statistics including GitHub-like contributions calendars.
 versioning,Mercurial,https://www.mercurial-scm.org/,"Free, distributed source control management tool."
-versioning,tig,https://github.com/jonas/tig,"An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level."
+git,tig,https://github.com/jonas/tig,"An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level."
 file-system,sshfs,https://github.com/libfuse/sshfs,Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.  
 file-system,TMSU,http://tmsu.org/,A tool for tagging files; it provides a simple command line tool for applying tags and a virtual filesystem so that you can get a tag-based view of your files from within any other program.  
 file-manager,lfm,https://inigo.katxi.org/devel/lfm/,"(Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes."
@@ -261,12 +261,12 @@ games,Language-games,https://github.com/Hellisotherpeople/Language-games,Dead si
 data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,Doing a SQL join with CSV files.
 networking,bandwhich,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.
 monitor,dmidecode,https://www.nongnu.org/dmidecode/,System information utility.
-versioning,forgit,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.
+git,forgit,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.
 office,scholarref,https://adamsgaard.dk/scholarref.html,Tools to never deal with journal webpages again.
 games,crappybird-py,https://github.com/JonPizza/crappybird-py,Flappy bird.
 office,conrad,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
 note-taking,dn,https://github.com/tomlockwood/dn,Daily notes command line tool.
-versioning,onefetch,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
+git,onefetch,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
 data-management,jtc,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
 email,NeoMutt,https://neomutt.org/,Patched and up-to-dated mutt fork.
 utility,kmdr-cli,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal.
@@ -283,7 +283,7 @@ productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Goo
 music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems.
 office,Ticker,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
-versioning,git-peek,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
+git,grv,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
 disk-analyzer,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.
 disk-analyzer,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
 music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications.
@@ -326,14 +326,14 @@ monitor,lfs,https://github.com/Canop/lfs,A thing to get information on your moun
 webdev,ain,https://github.com/jonaslu/ain,An HTTP API client for the terminal.
 text-processing,BaFi,https://mmalcek.github.io/bafi/,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates."
 text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone.
-versioning,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the comfort of a git GUI but right in your terminal
+git,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the comfort of a git GUI but right in your terminal
 games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
 disk-analyzer,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
 note-taking,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
 data-management,tabview,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
 versioning,Bazaar,http://bazaar.canonical.com/en/,"Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical."
-versioning,grv,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered."
+git,grv,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered."
 versioning,fossil,https://fossil-scm.org/,"A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more."
 editors,Diakonos,https://github.com/Pistos/diakonos,A powerful editor with “standard” keybindings and several advanced features.
 utility,yank,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
@@ -359,8 +359,8 @@ graphics,inklayers,https://github.com/toolleeo/inklayers,A command line program 
 programming,pvcheck,https://github.com/claudio-unipv/pvcheck,"A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes."
 file-handling,Jmp,https://github.com/gholmes829/Jmp,Change directory with smart searching of the path specified through regex.
 file-handling,llama,https://github.com/antonmedv/llama,Minimalistic file opener and directory changer focused on fuzzy searching the path.
-versioning,Gitea,https://gitea.com/,Single binary self-hosted Git service.
-versioning,Soft Serve,https://github.com/charmbracelet/soft-serve,Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
+git,Gitea,https://gitea.com/,Single binary self-hosted Git service.
+git,Soft Serve,https://github.com/charmbracelet/soft-serve,Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
 text-processing,deadlink,https://github.com/nschloe/deadlink,Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
 file-handling,SmartCd,https://github.com/CodesOfRishi/smartcd,"A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching."
 terminal,mx,https://gitlab.com/lpireyn/mx,A tmux session manager written as a single Bash script.
@@ -409,7 +409,7 @@ programming,scc,https://github.com/boyter/scc,Very fast accurate code counter wi
 file-handling,nomino,https://github.com/yaa110/nomino,Batch rename utility for developers.
 text-processing,luneta,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
 text-search,jiq,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
-versioning,sad,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
+git,sad,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 file-handling,wfh,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.
 text-processing,teip,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.
 text-processing,espanso,https://github.com/federico-terzi/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.
@@ -444,7 +444,7 @@ funny,yosay,https://github.com/yeoman/yosay,"Like cowsay, but for yeoman."
 graphics,cli-mandelbrot,https://github.com/danyshaanan/cli-mandelbrot,A cli for traversing the Mandelbrot fractal.
 funny,cli-fireplace,https://github.com/dolsup/cli-fireplace,Shows digital fireplace.
 graphics,givegif,https://github.com/passy/givegif,GIFs on the command line.
-versioning,git-extras,https://github.com/tj/git-extras,"Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more."
+git,git-extras,https://github.com/tj/git-extras,"Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more."
 versioning,Gistup,https://github.com/mbostock/gistup,"Create a gist from terminal, then use git to update it."
 file-handling,ll,https://github.com/antonmedv/ll,ls with git status.
 viewers,fx,https://github.com/antonmedv/fx,Command-line JSON viewer.
