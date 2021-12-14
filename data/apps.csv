@@ -221,7 +221,7 @@ text-processing,delta,https://github.com/dandavison/delta,A syntax-highlighter f
 graphics,chafa,https://github.com/hpjansson/chafa,Terminal graphics for the 21st century.
 viewers,youtube-viewer,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
 note-taking,posce,https://github.com/posce/posce,A note-taking toolkit for your command line.
-file-handling,dutree,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
+disk-analyzer,dutree,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
 text-processing,ydiff,https://github.com/ymattw/ydiff,"View colored, incremental diff."
 password-manager,kpcli,http://kpcli.sourceforge.net/,A command line interface for KeePass.
 data-management,GNU Recutils,https://www.gnu.org/software/recutils/manual/,"Set of tools and libraries to access human-editable, text-based databases called recfiles."
