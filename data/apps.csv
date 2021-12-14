@@ -125,8 +125,8 @@ backup,borg,https://github.com/borgbackup,Encrypted backups with a clean and sim
 backup,duplicity,http://duplicity.nongnu.org/,"Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers."
 backup,Duply,http://duply.net/,Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
 backup,paperbackup,https://github.com/intra2net/paperbackup,Create a pdf with barcodes to backup text files on paper.
-backup,rclone,https://rclone.org/,Rclone manages file synchronization on cloud storage.
-backup,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,File synchronizer.
+transfer,rclone,https://rclone.org/,Rclone manages file synchronization on cloud storage.
+transfer,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,"File synchronizer. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other."
 backup,Zaloha.sh,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories.
 file-handling,ncdu,https://dev.yorhel.nl/ncdu,"""A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
 file-handling,classifier,https://github.com/bhrigu123/classifier,"Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc."
