@@ -15,7 +15,7 @@ games,Games,
 graphics,Graphics,
 networking,Networking,Programs to deal with networks and communication
 office,Office tools,Spreadsheet and presentations
-organizers,Organizers and calendars,"Todo managers, calendar managers"
+organizers,Organizers and calendars,"Calendar managers"
 productivity,Productivity,
 programming,Programming,
 security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems, password managers"
@@ -31,3 +31,4 @@ versioning,Versioning,
 viewers,Viewers,
 browser,Web browser,
 webdev,Web development,"Static site generators ([staticgen.com](https://www.staticgen.com/) reports a comprehensive list of available options), load test tools."
+toto-manager,Todo managers,

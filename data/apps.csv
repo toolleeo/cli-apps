@@ -74,15 +74,15 @@ organizers,khal,https://github.com/pimutils/khal,"CLI and terminal calendar prog
 organizers,ppl addressbook,http://ppladdressbook.org/,"``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."
 organizers,kb,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 organizers,khard,https://github.com/lucc/khard,Console carddav client written in Pyhton.  
-organizers,iKog,https://sites.google.com/site/henspace/ikog/,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
-organizers,Yokadi,https://yokadi.github.io/,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
+todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
+todo-manager,Yokadi,https://yokadi.github.io/,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
 organizers,Org mode,http://orgmode.org/,"Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format."
 organizers,pal,http://palcal.sourceforge.net/,"Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional."
 organizers,Remind,https://www.roaringpenguin.com/products/remind,"Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format."
-organizers,TaskWarrior,https://taskwarrior.org/,Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
-organizers,todo.txt,http://todotxt.org/,Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
-organizers,todolist,http://todolist.site/,"A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them."
-organizers,TuDu,https://code.meskio.net/tudu/,"A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities."
+todo-manager,TaskWarrior,https://taskwarrior.org/,Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
+todo-manager,todo.txt,http://todotxt.org/,Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
+todo-manager,todolist,http://todolist.site/,"A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them."
+todo-manager,TuDu,https://code.meskio.net/tudu/,"A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities."
 organizers,Wyrd,http://freecode.com/projects/wyrd/,Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.  
 productivity,arbtt,http://arbtt.nomeata.de/,"(automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window."
 productivity,ledger,http://ledger-cli.org/,"A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account."
@@ -271,7 +271,7 @@ data-management,jtc,https://github.com/ldn-softdev/jtc,JSON manipulation and tra
 email,NeoMutt,https://neomutt.org/,Patched and up-to-dated mutt fork.
 utility,kmdr-cli,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal.
 utility,Starship,https://starship.rs/,The cross-shell prompt for astronauts.
-organizers,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt.
+todo-manager,todotxt-machine,https://pypi.org/project/todotxt-machine/,Interfacce for todo.txt.
 games,usolitaire,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
 file-manager,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
 funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
@@ -296,8 +296,8 @@ utility,element,https://github.com/gennaro-tedesco/element,Periodic table on the
 viewers,termv,https://github.com/Roshan-R/termv,A terminal iptv player written in bash.
 utility,rofi,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement."
 file-handling,F2,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely.
-organizers,grit,https://github.com/climech/grit,A multitree-based personal task manager.
-organizers,dstask,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
+todo-manager,grit,https://github.com/climech/grit,A multitree-based personal task manager.
+todo-manager,dstask,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
 file-system,wutag,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags.
 file-handling,xplr,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
 utility,eg,https://github.com/srsudar/eg,Useful examples at the command line.
