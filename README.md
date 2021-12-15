@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **460** apps/tools covered, divided in **39** categories.
+To date, **460** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (33) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (5) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Git and accessories](#git) (13) | [Graphics](#graphics) (11) | [Networking](#networking) (10) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (31) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (18) | [Web browser](#browser) (10) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (6) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (26) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Git and accessories](#git) (13) | [Graphics](#graphics) (11) | [Networking](#networking) (10) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (31) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (18) | [Web browser](#browser) (10) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -108,6 +108,15 @@ Some links to [related resources](#resources).
 * [ytfzf](https://github.com/pystardust/ytfzf) - A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
 * [ytmdl](https://github.com/deepjyoti30/ytmdl) - Get songs from Youtube in mp3 format.
 
+## <a name="cd"></a>Directory changers
+
+* [broot](https://dystroy.org/broot/) - A new way to navigate directory trees on linux, made in rust.
+* [fasd](https://github.com/clvv/fasd) - A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
+* [Jmp](https://github.com/gholmes829/Jmp) - Change directory with smart searching of the path specified through regex.
+* [pazi](https://github.com/euank/pazi) - Fast autojump helper.
+* [SmartCd](https://github.com/CodesOfRishi/smartcd) - A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
+
 ## <a name="disk-analyzer"></a>Disk usage analyzers
 
 * [diskus](https://github.com/sharkdp/diskus) - Minimal, fast alternative to du -sh.
@@ -152,7 +161,6 @@ Some links to [related resources](#resources).
 ## <a name="file-handling"></a>File and file system handling
 
 * [alder](https://github.com/aweary/alder) - Directory tree visualizer.
-* [broot](https://dystroy.org/broot/) - A new way to navigate directory trees on linux, made in rust.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
 * [cobib](https://gitlab.com/mrossinek/cobib) - Simple, command-line based bibliography management tool.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
@@ -160,22 +168,17 @@ Some links to [related resources](#resources).
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".
-* [F2](https://github.com/ayoisaiah/f2) - Cross-platform command-line tool for batch renaming files and directories quickly and safely.
-* [fasd](https://github.com/clvv/fasd) - A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 * [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
 * [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 * [gcp](https://github.com/petronny/gcp) - `gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
-* [Jmp](https://github.com/gholmes829/Jmp) - Change directory with smart searching of the path specified through regex.
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [llama](https://github.com/antonmedv/llama) - Minimalistic file opener and directory changer focused on fuzzy searching the path.
 * [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories.  
-* [pazi](https://github.com/euank/pazi) - Fast autojump helper.
 * [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progressbar.
 * [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
 * [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
-* [SmartCd](https://github.com/CodesOfRishi/smartcd) - A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.
 * [tree](http://mama.indstate.edu/users/ice/tree/) - "Recursive directory listing command that produces a depth indented listing of files".
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
@@ -183,7 +186,6 @@ Some links to [related resources](#resources).
 * [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
 * [xcp](https://github.com/tarka/xcp) - Extended cp.
 * [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
 ## <a name="file-manager"></a>File manager
 
@@ -199,6 +201,7 @@ Some links to [related resources](#resources).
 
 ## <a name="file-renamer"></a>File renamers
 
+* [F2](https://github.com/ayoisaiah/f2) - Cross-platform command-line tool for batch renaming files and directories quickly and safely.
 * [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
 * [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your $EDITOR. The command name is named after multi-mv.
 * [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers.
