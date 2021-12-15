@@ -23,7 +23,7 @@ To date, **459** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (7) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (26) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Git and accessories](#git) (13) | [Graphics](#graphics) (11) | [Networking](#networking) (10) | [Note taking](#note-taking) (7) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (21) | [System tools](#system) (8) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (31) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (29) | [Versioning](#versioning) (5) | [Viewers](#viewers) (18) | [Web browser](#browser) (10) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (21) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (7) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (26) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Git and accessories](#git) (13) | [Graphics](#graphics) (11) | [Networking](#networking) (10) | [Note taking](#note-taking) (7) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (21) | [System tools](#system) (8) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (29) | [Versioning](#versioning) (5) | [Viewers](#viewers) (18) | [Web browser](#browser) (10) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -58,6 +58,7 @@ Some links to [related resources](#resources).
 
 ## <a name="conversion"></a>Conversion
 
+* [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text; output is sent to the standard output.  
 * [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
@@ -72,8 +73,11 @@ Some links to [related resources](#resources).
 * [Dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 * [GNU Recutils](https://www.gnu.org/software/recutils/manual/) - Set of tools and libraries to access human-editable, text-based databases called recfiles.
 * [gnuplot](https://www.explainshell.com/explain/1/gnuplot) - Generate two and three dimensional plots of data.
+* [Graphtage](https://github.com/trailofbits/graphtage) - Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.
 * [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
+* [jq](https://stedolan.github.io/jq/) - (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
 * [jtc](https://github.com/ldn-softdev/jtc) - JSON manipulation and transformation.
+* [q](http://harelba.github.io/q/) - Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
 * [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.
 * [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
 * [TSV Utilities](https://github.com/eBay/tsv-utils) - Command line tools for large, tabular data files.
@@ -82,6 +86,7 @@ Some links to [related resources](#resources).
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographic.
 * [xsv](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/) - Doing a SQL join with CSV files.
+* [yq](https://github.com/mikefarah/yq) - Portable command-line YAML processor.
 
 ## <a name="transfer"></a>Data transfer
 
@@ -463,7 +468,6 @@ Some links to [related resources](#resources).
 
 * [amber](https://github.com/dalance/amber) - Code search / replace tool.
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
-* [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
 * [ccat](https://github.com/jingweno/ccat) - A `cat` command with colorized output.  
 * [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
@@ -474,24 +478,19 @@ Some links to [related resources](#resources).
 * [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities; good integration with `vim`.  
 * [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
-* [Graphtage](https://github.com/trailofbits/graphtage) - Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.
 * [grc](https://github.com/pengwynn/grc) - (Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.  
 * [hck](https://github.com/sstadick/hck) - A sharp cut clone.
 * [huniq](https://github.com/koraa/huniq) - Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.
-* [jq](https://stedolan.github.io/jq/) - (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
 * [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
 * [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
 * [pick](https://github.com/calleerlandsson/pick) - Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
-* [q](http://harelba.github.io/q/) - Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
 * [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI; a possible replacement for sed.
 * [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
 * [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 * [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
-* [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
 * [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff.
-* [yq](https://github.com/mikefarah/yq) - Portable command-line YAML processor.
 
 ## <a name="text-search"></a>Text search
 
@@ -503,6 +502,7 @@ Some links to [related resources](#resources).
 * [ripgrep-all](https://github.com/phiresky/ripgrep-all) - grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.
 * [sift](https://sift-tool.org/) - Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text.
 * [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
+* [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
 
 ## <a name="todo-manager"></a>Todo managers
 

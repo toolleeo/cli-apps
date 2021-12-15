@@ -11,10 +11,10 @@ text-search,sift,https://sift-tool.org/,"Fast and powerful open source alternati
 text-processing,ccat,https://github.com/jingweno/ccat,A `cat` command with colorized output.  
 text-processing,fzf,https://github.com/junegunn/fzf,(FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities; good integration with `vim`.  
 text-processing,grc,https://github.com/pengwynn/grc,(Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.  
-text-processing,jq,https://stedolan.github.io/jq/,"(JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
+data-management,jq,https://stedolan.github.io/jq/,"(JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
 text-processing,percol,https://github.com/mooz/percol,"A Python script that ""1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`""; can be used to add interactivity to many regular shell commands."
 text-processing,pick,https://github.com/calleerlandsson/pick,Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
-text-processing,q,http://harelba.github.io/q/,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
+data-management,q,http://harelba.github.io/q/,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
 font,FIGlet,http://www.figlet.org/,"Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available."
 font,toilet,http://caca.zoy.org/wiki/toilet,"A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects."
 editors,Emacs,https://www.gnu.org/software/emacs/,One of the godfathers of text editors; free long-standing software project; tons of extensions and funcionalities; the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed.  
@@ -277,7 +277,7 @@ file-manager,rnr,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not 
 funny,cbonsai,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
 data-management,Dolt,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
 transfer,ytfzf,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
-text-processing,Graphtage,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
+data-management,Graphtage,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
 disk-analyzer,duf,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 music,Siren,https://www.kariliq.nl/siren/,Siren is a text-based audio player for UNIX-like operating systems.
@@ -324,7 +324,7 @@ note-taking,Standard Unix Notes,https://github.com/Standard-Unix-Notes/unix-note
 monitor,below,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
 monitor,lfs,https://github.com/Canop/lfs,A thing to get information on your mounted disks
 webdev,ain,https://github.com/jonaslu/ain,An HTTP API client for the terminal.
-text-processing,BaFi,https://mmalcek.github.io/bafi/,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates."
+conversion,BaFi,https://mmalcek.github.io/bafi/,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates."
 text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone.
 git,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the comfort of a git GUI but right in your terminal
 games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
@@ -370,7 +370,7 @@ text-processing,ov,https://github.com/noborus/ov,Feature-rich terminal-based tex
 text-processing,fastmod,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
 viewers,Awesome CLI,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 file-handling,watchexec,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
-text-processing,yq,https://github.com/mikefarah/yq,Portable command-line YAML processor.
+data-management,yq,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
 text-processing,amber,https://github.com/dalance/amber,Code search / replace tool.
 file-renamer,mmv,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
@@ -434,7 +434,7 @@ utility,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
 data-management,Graphtage,https://github.com/trailofbits/graphtage,"Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV."
 file-handling,rip,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
-text-processing,vgrep,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
+text-search,vgrep,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
 webdev,urlhunter,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
 webdev,lychee,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust."
 networking,Rustcat,https://github.com/robiot/rustcat,Netcat Alternative in Rust.
