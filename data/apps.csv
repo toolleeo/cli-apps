@@ -135,8 +135,8 @@ file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,"(Do The Right eXtraction)
 file-handling,exa,https://the.exa.website/,"Replacement for 'ls' written in Rust, with colors and several additional ""views""."
 file-handling,fasd,https://github.com/clvv/fasd,"A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line."
 file-handling,fd,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find. Written in Rust."
-file-handling,rename,https://www.kernel.org/pub/linux/utils/util-linux/,"Included in `util-linux`, allows bulk rename of files with regex support."
-file-handling,renameutils,http://www.nongnu.org/renameutils/,A set of programs to change file and directory names by editing them inplace; I find `imv` especially useful to edit a filename at the program prompt.  
+file-renamer,rename,https://www.kernel.org/pub/linux/utils/util-linux/,"Included in `util-linux`, allows bulk rename of files with regex support."
+file-renamer,renameutils,http://www.nongnu.org/renameutils/,A set of programs to change file and directory names by editing them inplace; I find `imv` especially useful to edit a filename at the program prompt.  
 file-handling,rmlint,https://github.com/sahib/rmlint/,A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
 file-handling,gcp,https://github.com/petronny/gcp,"`gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
 file-manager,nnn,https://github.com/jarun/nnn,"""The missing terminal file browser for X"". Provides only directory traversal and file visualization.  No delete/move operations are supported."
@@ -374,7 +374,7 @@ file-handling,watchexec,https://github.com/watchexec/watchexec,Executes commands
 text-processing,yq,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
 text-processing,amber,https://github.com/dalance/amber,Code search / replace tool.
-file-handling,mmv,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
+file-renamer,mmv,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
 webdev,linkchecker,https://github.com/linkchecker/linkchecker,Check links in web documents or full websites.
 text-processing,brok,https://github.com/smallhadroncollider/brok,Find broken links in text documents.
 utility,chars,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and unicode) characters / code points.
@@ -397,7 +397,7 @@ programming,temci,https://github.com/parttimenerd/temci,Advanced benchmarking to
 utility,just,https://github.com/casey/just,Handy way to save and run project-specific commands.
 programming,license-up,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.
 system,mackup,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux).
-file-handling,massren,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.
+file-renamer,massren,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.
 programming,scons,https://github.com/SCons/scons,Software construction tool.
 text-processing,skim,https://github.com/lotabout/skim,Fuzzy Finder in rust.
 webdev,snallygaster,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.
@@ -406,7 +406,7 @@ security,wifi-password,https://github.com/rauchg/wifi-password,Get wifi pass.
 productivity,habitctl,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.
 programming,kickstart,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.
 programming,scc,https://github.com/boyter/scc,Very fast accurate code counter with complexity calculations and COCOMO estimates.
-file-handling,nomino,https://github.com/yaa110/nomino,Batch rename utility for developers.
+file-renamer,nomino,https://github.com/yaa110/nomino,Batch rename utility for developers.
 text-processing,luneta,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
 text-search,jiq,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
 git,sad,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.

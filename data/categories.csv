@@ -10,6 +10,7 @@ editors,Editors,
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
 file-handling,File and file system handling,"File managers, tagging, bookmarking, directory traversal"
 file-manager,File manager,
+file-renamer,File renamers,
 file-system,File systems,
 font,Font management,
 funny,Funny tools,
