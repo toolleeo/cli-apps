@@ -34,15 +34,15 @@ terminal,Tmate,https://tmate.io/,"A fork of tmux that allows to share the termin
 terminal,tmux,https://tmux.github.io/,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
 terminal,warp,https://github.com/spolu/warp,Secure and simple terminal sharing.  
 monitor,bpytop,https://github.com/aristocratos/bpytop,Linux/OSX/FreeBSD resource monitor with a nice interface.
-monitor,cv,https://github.com/Xfennec/progress,"(Coreutils Progress Viewer) ""looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput""."
+file-handling,cv,https://github.com/Xfennec/progress,"(Coreutils Progress Viewer) ""looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput""."
 monitor,glances,https://nicolargo.github.io/glances/,"A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
-monitor,GoTTY,https://github.com/yudai/gotty,"A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
+utility,GoTTY,https://github.com/yudai/gotty,"A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
 monitor,inxi,http://smxi.org/docs/inxi.htm,"A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script."
 monitor,iotop,http://guichaz.free.fr/iotop/,"""A Python program with a top like UI used to show of behalf of which process is the I/O going on""."
 monitor,htop,http://hisham.hm/htop/,"An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors."
 monitor,multitail,https://www.vanheusden.com/multitail/,A command to open multiple log files in a single terminal window and monitor them in real-time.  
 monitor,ngrep,http://ngrep.sourceforge.net/,"(Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces."
-monitor,progress,https://github.com/Xfennec/progress,"A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation."
+file-handling,progress,https://github.com/Xfennec/progress,"A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation."
 monitor,powertop,https://01.org/powertop,A `top`-like utility to monitor the sources of power consumption; allows to turn on/off many components; quite useful to track possible power-related issues.  
 monitor,sysdig,https://www.sysdig.org/,"Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system."
 monitor,smem,https://www.selenic.com/smem/,"Python program that reports memory usage; it can report the ""proportional set size"" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation."
@@ -347,7 +347,6 @@ browser,Amfora,https://github.com/makeworld-the-better-one/amfora,Amfora aims to
 browser,Bombardillo,https://bombadillo.colorfield.space/,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher."
 file-handling,pycp,https://github.com/dmerejkowsky/pycp,cp and mv with a progressbar.
 calc,bcal,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
-utility,viddy,https://github.com/sachaos/viddy,A modern watch command with time machine and pager etc.
 password-manager,cpass,https://github.com/OliverLew/cpass,Another console UI for pass.
 disk-analyzer,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
 editors,ash,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings."
@@ -429,7 +428,7 @@ browser,s,https://github.com/zquestz/s,Web search from the terminal. Just opens 
 text-processing,anew,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates."
 data-management,TV,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 programming,hors,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
-monitor,Viddy,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
+utility,Viddy,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
 calc,kalk,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 utility,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
