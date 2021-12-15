@@ -457,3 +457,5 @@ todo-manager,taskell,https://github.com/smallhadroncollider/taskell,Interactive 
 todo-manager,taskbook,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 office,papis,http://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
 chat,tuir.,https://gitlab.com/ajak/tuir,Reddit TUI
+networking,xxh,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.
+browser,browsh,https://www.brow.sh/,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."

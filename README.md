@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **458** apps/tools covered, divided in **38** categories.
+To date, **460** apps/tools covered, divided in **38** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (38) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Git and accessories](#git) (13) | [Graphics](#graphics) (11) | [Networking](#networking) (9) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (31) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (18) | [Web browser](#browser) (9) | [Web development](#webdev) (11)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (4) | [Data management](#data-management) (17) | [Data transfer](#transfer) (22) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (38) | [File manager](#file-manager) (9) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (18) | [Git and accessories](#git) (13) | [Graphics](#graphics) (11) | [Networking](#networking) (10) | [Note taking](#note-taking) (7) | [Office tools](#office) (13) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (24) | [System tools](#system) (9) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (31) | [Text search](#text-search) (8) | [Todo managers](#todo-manager) (11) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (18) | [Web browser](#browser) (10) | [Web development](#webdev) (11)
 
 Some links to [related resources](#resources).
 
@@ -290,6 +290,7 @@ Some links to [related resources](#resources).
 * [rtop](http://www.rtop-monitor.org/) - rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 * [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+* [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
 
 ## <a name="note-taking"></a>Note taking
 
@@ -577,6 +578,7 @@ Some links to [related resources](#resources).
 
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) - Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
 * [Bombardillo](https://bombadillo.colorfield.space/) - A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
+* [browsh](https://www.brow.sh/) - It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs.
 * [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
 * [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
 * [Graphene](https://github.com/atsepkov/Graphene) - A text-based web browser that's a joy to use.
