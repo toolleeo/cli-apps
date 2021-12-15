@@ -421,7 +421,7 @@ data-management,dasel,https://github.com/TomWright/dasel,Allows you to query and
 programming,Proji,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
 utility,pbgopy,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,Generate two and three dimensional plots of data.
-file-handling,conan,https://github.com/mirage/conan,Find clue about the type of the file.
+office,conan,https://github.com/mirage/conan,Find clue about the type of the file.
 text-processing,Difftastic,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
 utility,Gaze,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
 text-search,todocheck,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
