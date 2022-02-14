@@ -23,7 +23,7 @@ To date, **477** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (21) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (7) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (27) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (22) | [Git and accessories](#git) (14) | [Graphics](#graphics) (11) | [Networking](#networking) (11) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (22) | [System tools](#system) (12) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (22) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (19) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (7) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (27) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (22) | [Git and accessories](#git) (14) | [Graphics](#graphics) (11) | [Networking](#networking) (11) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (22) | [System tools](#system) (12) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -79,9 +79,7 @@ Some links to [related resources](#resources).
 * [osmf](https://github.com/codesoap/osmf) - OpenStreetMap find - A simple command line tool to explore OSM data.
 * [q](http://harelba.github.io/q/) - Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
 * [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.
-* [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
 * [TSV Utilities](https://github.com/eBay/tsv-utils) - Command line tools for large, tabular data files.
-* [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographic.
@@ -588,10 +586,12 @@ Some links to [related resources](#resources).
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
 * [mupdf](http://mupdf.com/) - Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.  
+* [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
 * [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer for the terminal.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 * [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash.
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
+* [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.
 * [zathura](https://pwmt.org/projects/zathura/) - Plugin based document file visualizer (PDF, DejaVu, PS); strongly key-based control.
