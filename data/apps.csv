@@ -432,7 +432,6 @@ utility,Viddy,https://github.com/sachaos/viddy,Modern watch command. Time machin
 calc,kalk,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 utility,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
-data-management,Graphtage,https://github.com/trailofbits/graphtage,"Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV."
 file-handling,rip,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
 text-search,vgrep,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
 webdev,urlhunter,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
