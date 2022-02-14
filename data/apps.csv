@@ -461,3 +461,19 @@ browser,browsh,https://www.brow.sh/,"It renders anything that a modern browser c
 viewers,jless,https://pauljuliusmartinez.github.io/,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data."
 viewers,bat,https://github.com/sharkdp/bat,A cat clone with syntax highlighting and Git integration.
 data-management,osmf,https://github.com/codesoap/osmf,OpenStreetMap find - A simple command line tool to explore OSM data.
+viewers,haxor-news,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+viewers,texel,https://github.com/Lauriat/texel,Command line interface for reading spreadsheets inside terminal.
+games,gambit,https://github.com/maaslalani/gambit,Chess board in your terminal.
+system,bin,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.
+system,stew,https://github.com/marwanhawari/stew,An independent package manager for compiled binaries.
+games,clidle,https://github.com/ajeetdsouza/clidle,"Wordle, now over SSH."
+todo-manager,CLI-Manager,https://github.com/MikyStar/CLI-Manager,Command Line Interface for managing tasks locally on the fly.
+games,wordle-curses,https://github.com/knosmos/wordle-curses,A simple TUI wordle game with curses.
+networking,termishare,https://github.com/qnkhuat/termishare,Peer to peer terminal sharing.
+file-handling,ictree,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.
+office,Quoter,https://github.com/frossm/quoter,The console based stock quote tool.
+system,nala,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.
+games,terminordle,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network."
+git,gh-f,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh cli."
+webdev,http-tanker,https://github.com/PierreKieffer/http-tanker,"Terminal application used for API testing; easily create, manage and execute http requests from the terminal."
+system,Bevel,https://github.com/NorfairKing/bevel,Command line history in an SQLite database for effective re-use.
