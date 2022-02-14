@@ -460,3 +460,4 @@ networking,xxh,https://github.com/xxh/xxh,Bring your favorite shell wherever you
 browser,browsh,https://www.brow.sh/,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."
 viewers,jless,https://pauljuliusmartinez.github.io/,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data."
 viewers,bat,https://github.com/sharkdp/bat,A cat clone with syntax highlighting and Git integration.
+data-management,osmf,https://github.com/codesoap/osmf,OpenStreetMap find - A simple command line tool to explore OSM data.
