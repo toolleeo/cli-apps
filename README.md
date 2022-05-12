@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **478** apps/tools covered, divided in **40** categories.
+To date, **479** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (19) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (7) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (27) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (22) | [Git and accessories](#git) (14) | [Graphics](#graphics) (11) | [Networking](#networking) (11) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (22) | [System tools](#system) (13) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (22) | [Directory changers](#cd) (7) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (27) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (12) | [Games](#games) (22) | [Git and accessories](#git) (14) | [Graphics](#graphics) (11) | [Networking](#networking) (11) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (11) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (10) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (14) | [System monitoring](#monitor) (22) | [System tools](#system) (13) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (28) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -85,6 +85,7 @@ Some links to [related resources](#resources).
 * [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographic.
 * [xsv](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/) - Doing a SQL join with CSV files.
 * [yq](https://github.com/mikefarah/yq) - Portable command-line YAML processor.
+* [zq](https://zed.brimdata.io/docs/commands/zq/) - Processor for JSON data with stateful operators and a syntax that is more consistent w.r.t. jq (as claimed by the authors).
 
 ## <a name="transfer"></a>Data transfer
 
