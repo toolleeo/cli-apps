@@ -491,3 +491,4 @@ productivity,thokr,https://github.com/thatvegandev/thokr,Sleek typing tui with v
 utility,socialscan,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 utility,cointop,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
+system,pulsemixer,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
