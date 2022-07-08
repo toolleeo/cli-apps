@@ -489,3 +489,4 @@ system,atuin,https://github.com/ellie/atuin,"Atuin replaces your existing shell 
 graphics,Artem,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust."
 productivity,thokr,https://github.com/thatvegandev/thokr,Sleek typing tui with visualized results and historical logging.
 utility,socialscan,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
+music,termusic,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
