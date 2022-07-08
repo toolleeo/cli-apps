@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **499** apps/tools covered, divided in **40** categories.
+To date, **500** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (28) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (22) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (28) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -461,6 +461,7 @@ Some links to [related resources](#resources).
 * [top](http://www.unixtop.org/) - The classical Unix utility that provides a rolling display of top cpu using processes.  
 * [ttyload](http://www.daveltd.com/src/util/ttyload/) - ttyload is a lightweight utility which is intended to offer a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal (“tty“).
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
+* [watcher](https://github.com/sethigeet/watcher) - Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.
 * [whowatch](https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/) - Monitor Linux Users and Processes in Real Time.
 * [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 * [ytop](https://github.com/cjbassi/ytop) - TUI system monitor written in Rust.
