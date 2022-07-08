@@ -493,3 +493,5 @@ music,termusic,https://github.com/tramhao/termusic,Terminal Music Player written
 utility,cointop,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 system,pulsemixer,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
 cd,fastdiract,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.
+file-handling,inventory,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.
+funny,Draw,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
