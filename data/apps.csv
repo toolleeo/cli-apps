@@ -482,3 +482,4 @@ transfer,Mabel,https://github.com/smmr-software/mabel,"Deriving its name from th
 text-processing,tuc,https://github.com/riquito/tuc,"You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help."
 games,sku,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.
 productivity,fasttyper,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
+games,GameShell,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
