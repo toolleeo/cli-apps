@@ -486,3 +486,4 @@ games,GameShell,https://github.com/phyver/GameShell,"GameShell was devised as a 
 calc,Lotus 1-2-3 for Linux,https://github.com/taviso/123elf#lotus-1-2-3-for-linux,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
 system,atuin,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
+graphics,Artem,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust."
