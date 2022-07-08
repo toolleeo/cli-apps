@@ -497,3 +497,4 @@ file-handling,inventory,https://github.com/mothdotmonster/inventory,Move files l
 funny,Draw,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 productivity,toipe,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavoured."
 networking,bore,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.
+editors,zee,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental."
