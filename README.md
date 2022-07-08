@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **497** apps/tools covered, divided in **40** categories.
+To date, **498** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (28) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (11) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (22) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (16) | [Email](#email) (8) | [File and file system handling](#file-handling) (28) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (22) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -307,6 +307,7 @@ Some links to [related resources](#resources).
 ## <a name="networking"></a>Networking
 
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
+* [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
 * [geoiplookup](https://github.com/maxmind/geoip-api-c) - a little application to find geographical and network information of an IP address based no the geoip C API.
 * [ipcalc](http://jodies.de/ipcalc) - "ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range." 
 * [mitmproxy](https://mitmproxy.org/) - An interactive HTTPS proxy.
