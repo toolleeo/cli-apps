@@ -478,3 +478,4 @@ webdev,http-tanker,https://github.com/PierreKieffer/http-tanker,"Terminal applic
 system,Bevel,https://github.com/NorfairKing/bevel,Command line history in an SQLite database for effective re-use.
 system,atuin,https://github.com/ellie/atuin,"History manager that uses an encrypted SQLlite database for storage, enabling enhanced features such as search and statistics."
 data-management,zq,https://zed.brimdata.io/docs/commands/zq/,Processor for JSON data with stateful operators and a syntax that is more consistent w.r.t. jq (as claimed by the authors).
+transfer,Mabel,https://github.com/smmr-software/mabel,"Deriving its name from the Hebrew word ""מבול,"" meaning flood, deluge, or (loosely) torrent, Mabel is a fancy BitTorrent client for the terminal."
