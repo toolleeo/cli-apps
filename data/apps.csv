@@ -479,3 +479,4 @@ system,Bevel,https://github.com/NorfairKing/bevel,Command line history in an SQL
 system,atuin,https://github.com/ellie/atuin,"History manager that uses an encrypted SQLlite database for storage, enabling enhanced features such as search and statistics."
 data-management,zq,https://zed.brimdata.io/docs/commands/zq/,Processor for JSON data with stateful operators and a syntax that is more consistent w.r.t. jq (as claimed by the authors).
 transfer,Mabel,https://github.com/smmr-software/mabel,"Deriving its name from the Hebrew word ""מבול,"" meaning flood, deluge, or (loosely) torrent, Mabel is a fancy BitTorrent client for the terminal."
+text-processing,tuc,https://github.com/riquito/tuc,"You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help."
