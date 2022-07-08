@@ -483,3 +483,4 @@ text-processing,tuc,https://github.com/riquito/tuc,"You want to cut on more th
 games,sku,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.
 productivity,fasttyper,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
 games,GameShell,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
+calc,Lotus 1-2-3 for Linux,https://github.com/taviso/123elf#lotus-1-2-3-for-linux,A native port of Lotus 1-2-3 Release 3 to Linux.
