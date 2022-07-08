@@ -492,3 +492,4 @@ utility,socialscan,https://github.com/iojw/socialscan,Python library and CLI for
 music,termusic,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 utility,cointop,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 system,pulsemixer,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
+cd,fastdiract,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.
