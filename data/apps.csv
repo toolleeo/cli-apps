@@ -513,3 +513,4 @@ note-taking,Terminal velocity,https://vhp.github.io/terminal_velocity/,"A fast, 
 productivity,Pubs,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
 data-management,IRedis,https://github.com/laixintao/iredis,Interactive Redis: A Cli for Redis with AutoCompletion and Syntax Highlighting.
 data-management,mycli,https://github.com/dbcli/mycli,A command line client for MySQL that can do auto-completion and syntax highlighting.
+data-management,pgcli,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.
