@@ -504,3 +504,4 @@ file-handling,file-type-cli,https://github.com/sindresorhus/file-type-cli,Detect
 file-handling,trash-cli,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash.
 text-processing,Ultimate Plumber,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop."
 system,fkill-cli,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.
+system,has,https://github.com/kdabir/has,Checks presence of various command line tools on the PATH and reports their installed version.
