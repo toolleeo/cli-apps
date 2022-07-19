@@ -514,3 +514,4 @@ productivity,Pubs,https://github.com/pubs/pubs,Pubs organizes your scientific pa
 data-management,IRedis,https://github.com/laixintao/iredis,Interactive Redis: A Cli for Redis with AutoCompletion and Syntax Highlighting.
 data-management,mycli,https://github.com/dbcli/mycli,A command line client for MySQL that can do auto-completion and syntax highlighting.
 data-management,pgcli,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.
+data-management,usql,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases."
