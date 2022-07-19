@@ -500,3 +500,4 @@ networking,bore,https://github.com/ekzhang/bore,A simple CLI tool for making tun
 editors,zee,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental."
 monitor,watcher,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
 file-handling,RecoverPy,https://github.com/PabloLec/RecoverPy,"RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data."
+file-handling,file-type-cli,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
