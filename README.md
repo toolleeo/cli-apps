@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **502** apps/tools covered, divided in **40** categories.
+To date, **503** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (30) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -192,6 +192,7 @@ Some links to [related resources](#resources).
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
 * [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
 * [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
+* [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
 * [tree](http://mama.indstate.edu/users/ice/tree/) - "Recursive directory listing command that produces a depth indented listing of files".
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.

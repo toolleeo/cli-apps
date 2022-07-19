@@ -501,3 +501,4 @@ editors,zee,https://github.com/zee-editor/zee,"Zee is a modern editor for the te
 monitor,watcher,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
 file-handling,RecoverPy,https://github.com/PabloLec/RecoverPy,"RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data."
 file-handling,file-type-cli,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
+file-handling,trash-cli,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash.
