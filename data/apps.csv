@@ -510,3 +510,4 @@ note-taking,sncli,https://github.com/insanum/sncli,A Python application that giv
 note-taking,dnote,https://github.com/dnote/dnote,A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 note-taking,Geeknote,https://github.com/jeffkowalski/geeknote,"A command line client for Evernote that can be use on Linux, FreeBSD and OS X."
 note-taking,Terminal velocity,https://vhp.github.io/terminal_velocity/,"A fast, cross-platform note-taking application for the UNIX terminal."
+productivity,Pubs,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
