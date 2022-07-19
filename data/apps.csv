@@ -518,3 +518,4 @@ data-management,usql,https://github.com/xo/usql,"Universal command-line interfac
 music,Instant Music Downloader,https://github.com/yask123/Instant-Music-Downloader,Instantly download any song!
 music,Spotify TUI,https://github.com/Rigellute/spotify-tui,A Spotify client for the terminal written in Rust.
 music,dzr,https://github.com/yne/dzr,"Command Line deezer.com Player for Linux, BSD, Android, Windows."
+music,beets,https://github.com/beetbox/beets,"Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes."
