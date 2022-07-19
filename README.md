@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **504** apps/tools covered, divided in **40** categories.
+To date, **505** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (16) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -477,6 +477,7 @@ Some links to [related resources](#resources).
 * [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 * [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
+* [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 * [hstr](https://github.com/dvorka/hstr) - A tool for managing the history; powerful visual search and execution of previous commands; history editing capabilities.  
 * [lshw](http://www.ezix.org/project/wiki/HardwareLiSter) - A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
