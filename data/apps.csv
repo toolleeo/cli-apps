@@ -508,3 +508,4 @@ system,has,https://github.com/kdabir/has,Checks presence of various command line
 system,brightnessctl,https://github.com/Hummer12007/brightnessctl,"Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes."
 note-taking,sncli,https://github.com/insanum/sncli,A Python application that gives you access to your Simplenote account via the command line.
 note-taking,dnote,https://github.com/dnote/dnote,A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
+note-taking,Geeknote,https://github.com/jeffkowalski/geeknote,"A command line client for Evernote that can be use on Linux, FreeBSD and OS X."
