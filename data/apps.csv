@@ -522,3 +522,4 @@ music,beets,https://github.com/beetbox/beets,"Beets is the media library managem
 music,musikcube,https://github.com/clangen/musikcube,"A cross-platform, terminal-based audio engine, library, player and server written in C++."
 multimedia,Editly,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
 multimedia,ffmpeg,https://ffmpeg.org/,The Swiss knife of video editing from the command line.
+productivity,Taskell,https://github.com/smallhadroncollider/taskell,A CLI kanban board/task manager for Mac and Linux.
