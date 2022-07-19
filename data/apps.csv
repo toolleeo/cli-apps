@@ -516,3 +516,4 @@ data-management,mycli,https://github.com/dbcli/mycli,A command line client for M
 data-management,pgcli,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.
 data-management,usql,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases."
 music,Instant Music Downloader,https://github.com/yask123/Instant-Music-Downloader,Instantly download any song!
+music,Spotify TUI,https://github.com/Rigellute/spotify-tui,A Spotify client for the terminal written in Rust.
