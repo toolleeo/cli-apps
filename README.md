@@ -19,11 +19,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **503** apps/tools covered, divided in **40** categories.
+To date, **504** apps/tools covered, divided in **40** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (25) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (20) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Networking](#networking) (12) | [Note taking](#note-taking) (7) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (13) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (15) | [System monitoring](#monitor) (23) | [System tools](#system) (15) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -524,6 +524,7 @@ Some links to [related resources](#resources).
 * [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 * [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 * [tuc](https://github.com/riquito/tuc) - You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help.
+* [Ultimate Plumber](https://github.com/akavel/up) - Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop.
 * [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff.
 
 ## <a name="text-search"></a>Text search

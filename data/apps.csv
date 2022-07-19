@@ -502,3 +502,4 @@ monitor,watcher,https://github.com/sethigeet/watcher,"Watches all the files pres
 file-handling,RecoverPy,https://github.com/PabloLec/RecoverPy,"RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data."
 file-handling,file-type-cli,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
 file-handling,trash-cli,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash.
+text-processing,Ultimate Plumber,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop."
