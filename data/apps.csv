@@ -335,7 +335,7 @@ viewers,tabview,https://github.com/TabViewer/tabview,Python curses command line 
 versioning,Bazaar,http://bazaar.canonical.com/en/,"Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical."
 git,grv,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered."
 versioning,fossil,https://fossil-scm.org/,"A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more."
-editors,Diakonos,https://github.com/Pistos/diakonos,A powerful editor with “standard” keybindings and several advanced features.
+editors,Diakonos,https://github.com/Pistos/diakonos,A powerful editor with “standard” keybindings and several advanced features; written in Ruby.
 utility,yank,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
 terminal,mtm,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer."
 text-processing,sd,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI; a possible replacement for sed.

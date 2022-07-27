@@ -143,7 +143,7 @@ Some links to [related resources](#resources).
 ## <a name="editors"></a>Editors
 
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
-* [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard” keybindings and several advanced features.
+* [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard” keybindings and several advanced features; written in Ruby.
 * [Emacs](https://www.gnu.org/software/emacs/) - One of the godfathers of text editors; free long-standing software project; tons of extensions and funcionalities; the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed.  
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
 * [jed](http://www.jedsoft.org/jed/index.html) - A text editor with a drop-down menu facility that make it especially user-friendly.  
