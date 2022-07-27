@@ -523,3 +523,4 @@ music,musikcube,https://github.com/clangen/musikcube,"A cross-platform, terminal
 multimedia,Editly,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
 multimedia,ffmpeg,https://ffmpeg.org/,The Swiss knife of video editing from the command line.
 productivity,Taskell,https://github.com/smallhadroncollider/taskell,A CLI kanban board/task manager for Mac and Linux.
+shells,xonsh,https://xon.sh/,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
