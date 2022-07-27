@@ -483,7 +483,7 @@ text-processing,tuc,https://github.com/riquito/tuc,"You want to cut on more th
 games,sku,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.
 productivity,fasttyper,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
 games,GameShell,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
-calc,Lotus 1-2-3 for Linux,https://github.com/taviso/123elf#lotus-1-2-3-for-linux,A native port of Lotus 1-2-3 Release 3 to Linux.
+office,Lotus 1-2-3 for Linux,https://github.com/taviso/123elf#lotus-1-2-3-for-linux,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
 system,atuin,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
 graphics,Artem,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust."

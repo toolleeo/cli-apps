@@ -23,7 +23,7 @@ To date, **524** apps/tools covered, divided in **41** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (24) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Multimedia](#multimedia) (2) | [Networking](#networking) (12) | [Note taking](#note-taking) (11) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (15) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (20) | [System monitoring](#monitor) (23) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (24) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Multimedia](#multimedia) (2) | [Networking](#networking) (12) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (15) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (3) | [Sound and music](#music) (20) | [System monitoring](#monitor) (23) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -42,7 +42,6 @@ Some links to [related resources](#resources).
 
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
-* [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf#lotus-1-2-3-for-linux) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 
@@ -351,6 +350,7 @@ Some links to [related resources](#resources).
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
+* [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf#lotus-1-2-3-for-linux) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 * [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
