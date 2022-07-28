@@ -1,4 +1,4 @@
-# Forewords
+# Awesome list of CLI/TUI programs
 
 This repository contains a list of (mainly) CLI/TUI apps with links and a short description.
 
