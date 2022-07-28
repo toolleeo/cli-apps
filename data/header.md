@@ -1,6 +1,6 @@
 # Forewords
 
-This repository contains a list of (mainly) CLI apps with links and a short description.
+This repository contains a list of (mainly) CLI/TUI apps with links and a short description.
 
 This updated version of the repository moves the format of data files from YAML to CSV.
 
