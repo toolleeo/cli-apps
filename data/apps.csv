@@ -524,3 +524,4 @@ multimedia,Editly,https://github.com/mifi/editly,A tool and framework for declar
 multimedia,ffmpeg,https://ffmpeg.org/,The Swiss knife of video editing from the command line.
 productivity,Taskell,https://github.com/smallhadroncollider/taskell,A CLI kanban board/task manager for Mac and Linux.
 shells,xonsh,https://xon.sh/,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
+productivity,hledger,https://hledger.org/,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
