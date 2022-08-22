@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **526** apps/tools covered, divided in **41** categories.
+To date, **527** apps/tools covered, divided in **41** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (24) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (14) | [Graphics](#graphics) (12) | [Multimedia](#multimedia) (2) | [Networking](#networking) (12) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (4) | [Sound and music](#music) (20) | [System monitoring](#monitor) (23) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (24) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (15) | [Graphics](#graphics) (12) | [Multimedia](#multimedia) (2) | [Networking](#networking) (12) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (4) | [Sound and music](#music) (20) | [System monitoring](#monitor) (23) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -284,6 +284,7 @@ Some links to [related resources](#resources).
 ## <a name="git"></a>Git and accessories
 
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
+* [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh cli.
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 * [git-annex](https://git-annex.branchable.com/) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
