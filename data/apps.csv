@@ -532,3 +532,4 @@ games,othello-cli,https://github.com/LelsersLasers/othello-cli,"othello-cli is a
 productivity,paycon,https://github.com/arcorion/paycon,Converts pay amounts between different time units.
 transfer,Jitter,https://github.com/sharpcdf/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
 transfer,Transgression TUI,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission bittorrent program.
+text-processing,pdf-diff,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
