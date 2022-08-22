@@ -533,3 +533,4 @@ productivity,paycon,https://github.com/arcorion/paycon,Converts pay amounts betw
 transfer,Jitter,https://github.com/sharpcdf/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
 transfer,Transgression TUI,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission bittorrent program.
 text-processing,pdf-diff,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
+graphics,kakikun,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using unicode characters."
