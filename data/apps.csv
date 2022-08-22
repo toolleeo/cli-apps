@@ -526,3 +526,4 @@ productivity,Taskell,https://github.com/smallhadroncollider/taskell,A CLI kanban
 shells,xonsh,https://xon.sh/,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
 productivity,hledger,https://hledger.org/,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
 git,fzf-git.sh,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf."
+conversion,simtex,https://github.com/iaacornus/simtex,"simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file."

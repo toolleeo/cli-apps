@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **527** apps/tools covered, divided in **41** categories.
+To date, **528** apps/tools covered, divided in **41** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (5) | [Data management](#data-management) (24) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (15) | [Graphics](#graphics) (12) | [Multimedia](#multimedia) (2) | [Networking](#networking) (12) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (4) | [Sound and music](#music) (20) | [System monitoring](#monitor) (23) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (24) | [Data transfer](#transfer) (23) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (24) | [Git and accessories](#git) (15) | [Graphics](#graphics) (12) | [Multimedia](#multimedia) (2) | [Networking](#networking) (12) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (4) | [Sound and music](#music) (20) | [System monitoring](#monitor) (23) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (26) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (12) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -64,6 +64,7 @@ Some links to [related resources](#resources).
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text; output is sent to the standard output.  
 * [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
+* [simtex](https://github.com/iaacornus/simtex) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
 * [xls2csv](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Excel to CSV file format.  
 
 ## <a name="data-management"></a>Data management
