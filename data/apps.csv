@@ -539,3 +539,4 @@ graphics,jp2a,https://csl.name/jp2a/,Command-line tool that converts images to A
 text-processing,LinuxLogo,https://sourceforge.net/projects/linuxlogo/,Display the Linux distribution logo in ASCII format.
 text-processing,pv,http://www.ivarch.com/programs/pv.shtml,The pv command is used to monitor the progress of data through pipe.
 networking,TStream,https://github.com/qnkhuat/tstream,"Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched."
+todo-manager,tsk,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use."
