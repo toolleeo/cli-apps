@@ -546,3 +546,4 @@ utility,pt.sh,https://github.com/alexeytal/pt.sh,CLI periodic table with search 
 terminal,Zellij,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
 todo-manager,xit,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)"
 security,uacme,https://github.com/ndilieto/uacme,ACMEv2 client written in plain C with minimal dependencies.
+music,Tizonia,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices."
