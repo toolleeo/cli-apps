@@ -544,3 +544,4 @@ monitor,The Logfile Navigator,https://lnav.org/,An advanced and colorful log fil
 data-management,gojq,https://github.com/itchyny/gojq,Pure Go implementation of jq.
 utility,pt.sh,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.
 terminal,Zellij,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
+todo-manager,xit,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)"
