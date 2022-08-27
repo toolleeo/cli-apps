@@ -543,3 +543,4 @@ todo-manager,tsk,https://github.com/kakengloh/tsk,"Terminal task management app 
 monitor,The Logfile Navigator,https://lnav.org/,An advanced and colorful log file viewer with TUI interface.
 data-management,gojq,https://github.com/itchyny/gojq,Pure Go implementation of jq.
 utility,pt.sh,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.
+terminal,Zellij,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
