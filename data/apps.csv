@@ -534,3 +534,4 @@ transfer,Jitter,https://github.com/sharpcdf/jitter,"A repository-oriented binary
 transfer,Transgression TUI,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission bittorrent program.
 text-processing,pdf-diff,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
 graphics,kakikun,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using unicode characters."
+text-processing,Aewan,http://aewan.sourceforge.net/,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
