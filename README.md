@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **551** apps/tools covered, divided in **41** categories.
+To date, **552** apps/tools covered, divided in **41** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (26) | [Git and accessories](#git) (15) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (8) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (24) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (31) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (26) | [Git and accessories](#git) (16) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (8) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (24) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (31) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -293,6 +293,7 @@ Some links to [related resources](#resources).
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 * [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh cli.
+* [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 * [git-annex](https://git-annex.branchable.com/) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
 * [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.

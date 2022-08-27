@@ -550,3 +550,4 @@ music,Tizonia,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud 
 music,Tera,https://github.com/shinokada/tera,"Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only."
 games,sssnake,https://github.com/AngelJumbo/sssnake,(Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.
 system,Devbox,https://github.com/jetpack-io/devbox,Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
+git,gh-stars,https://github.com/aymanbagabas/gh-stars,A GitHub CLI extension to show repository stargazers.
