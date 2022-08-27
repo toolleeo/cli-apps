@@ -554,3 +554,4 @@ git,gh-stars,https://github.com/aymanbagabas/gh-stars,A GitHub CLI extension to 
 browser,asuka,https://git.sr.ht/~julienxx/asuka,A Gemini Project client written in Rust with NCurses.
 browser,Gremlin,https://github.com/actuday6418/gremlin,Gemini browser for the terminal.
 browser,min,https://github.com/a-h/min,"A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files."
+browser,Telescope,https://telescope.omarpolo.com/,Gemini client with UI that is strongly inspired from Emacs and W3M.
