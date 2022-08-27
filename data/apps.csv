@@ -542,3 +542,4 @@ networking,TStream,https://github.com/qnkhuat/tstream,"Live streaming from the t
 todo-manager,tsk,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use."
 monitor,The Logfile Navigator,https://lnav.org/,An advanced and colorful log file viewer with TUI interface.
 data-management,gojq,https://github.com/itchyny/gojq,Pure Go implementation of jq.
+utility,pt.sh,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.

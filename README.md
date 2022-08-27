@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **543** apps/tools covered, divided in **41** categories.
+To date, **544** apps/tools covered, divided in **41** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (25) | [Git and accessories](#git) (15) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (4) | [Sound and music](#music) (20) | [System monitoring](#monitor) (24) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (13) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (8) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (25) | [Git and accessories](#git) (15) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (7) | [Shells](#shells) (4) | [Sound and music](#music) (20) | [System monitoring](#monitor) (24) | [System tools](#system) (18) | [Terminals](#terminal) (8) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (13) | [Utilities](#utility) (31) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (10) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -621,6 +621,7 @@ Some links to [related resources](#resources).
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 * [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+* [pt.sh](https://github.com/alexeytal/pt.sh) - CLI periodic table with search and many properties.
 * [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
 * [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
