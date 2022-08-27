@@ -536,3 +536,5 @@ text-processing,pdf-diff,https://github.com/serhack/pdf-diff,A tool for visualiz
 graphics,kakikun,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using unicode characters."
 text-processing,Aewan,http://aewan.sourceforge.net/,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 graphics,jp2a,https://csl.name/jp2a/,Command-line tool that converts images to ASCII art in the Linux terminal.
+text-processing,LinuxLogo,https://sourceforge.net/projects/linuxlogo/,Display the Linux distribution logo in ASCII format.
+text-processing,pv,http://www.ivarch.com/programs/pv.shtml,The pv command is used to monitor the progress of data through pipe.
