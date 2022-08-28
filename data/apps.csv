@@ -231,7 +231,7 @@ games,Terminal Phase,https://dustycloud.org/blog/terminal-phase-1.0/,A space sho
 cd,broot,https://dystroy.org/broot/,"A new way to navigate directory trees on linux, made in rust."
 calc,Nota,https://kary.us/nota/,Terminal calculator with rich notation.
 editors,vy,https://github.com/vyapp/vy,A vim-like in python made from scratch.
-utility,pire,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
+programming,pire,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
 browser,Graphene,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.
 utility,navi,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
 data-management,TSV Utilities,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
@@ -342,7 +342,7 @@ text-processing,sd,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuit
 productivity,Watson,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
 data-management,WOPR,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations and infographic."
 games,Angband,https://rephial.org/,"Angband is a free, single-player dungeon exploration game."
-utility,grex,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.
+programming,grex,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.
 browser,Amfora,https://github.com/makeworld-the-better-one/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
 browser,Bombadillo,https://bombadillo.colorfield.space/,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher."
 file-handling,pycp,https://github.com/dmerejkowsky/pycp,cp and mv with a progressbar.
@@ -376,7 +376,7 @@ text-processing,amber,https://github.com/dalance/amber,Code search / replace too
 file-renamer,mmv,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
 webdev,linkchecker,https://github.com/linkchecker/linkchecker,Check links in web documents or full websites.
 text-processing,brok,https://github.com/smallhadroncollider/brok,Find broken links in text documents.
-utility,chars,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and unicode) characters / code points.
+programming,chars,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and unicode) characters / code points.
 disk-analyzer,diskus,https://github.com/sharkdp/diskus,"Minimal, fast alternative to du -sh."
 programming,dtool,https://github.com/guoxbin/dtool,Collection of development tools.
 viewers,viu,https://github.com/learn-anything/command-line-tools,Command-line application to view images from the terminal written in Rust.
