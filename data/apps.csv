@@ -559,3 +559,4 @@ browser,gplaces,https://github.com/dimkr/gplaces,Simple but powerful terminal Ge
 browser,Romulus,https://github.com/LukeEmmet/Romulus,"A cross platform Gemini console client in C# with a simple user interface, interactive menus and mouse support."
 email,pymailgen,https://github.com/toolleeo/pymailgen,"Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client."
 data-management,FAWOC,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
+data-management,slr-kit,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.

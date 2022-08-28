@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **560** apps/tools covered, divided in **41** categories.
+To date, **561** apps/tools covered, divided in **41** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (26) | [Git and accessories](#git) (16) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (8) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (24) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (31) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (27) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (26) | [Git and accessories](#git) (16) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Security and encryption](#security) (8) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (24) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (31) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -86,6 +86,7 @@ Some links to [related resources](#resources).
 * [osmf](https://github.com/codesoap/osmf) - OpenStreetMap find - A simple command line tool to explore OSM data.
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 * [q](http://harelba.github.io/q/) - Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
+* [slr-kit](https://github.com/robolab-pavia/slr-kit) - Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
 * [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.
 * [TSV Utilities](https://github.com/eBay/tsv-utils) - Command line tools for large, tabular data files.
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
