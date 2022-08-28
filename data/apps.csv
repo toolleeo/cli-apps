@@ -193,13 +193,13 @@ chat,WeeChat,http://weechat.org/,"A ""fast, light and extensible chat client""."
 chat,ssh-chat,https://github.com/shazow/ssh-chat,"Custom SSH server written in Go. Instead of a shell, you get a chat prompt."
 organizers,goobook,https://gitlab.com/goobook/goobook,The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
 utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,"Search API docs offline, in your terminal or browser."
-utility,arch-wiki,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
-utility,googler,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
+online,arch-wiki,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
+online,googler,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
 text-processing,lolcat,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
 monitor,neofetch,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
 utility,pdd,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
 utility,powerline,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
-utility,socli,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
+online,socli,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 utility,termsaver,http://termsaver.brunobraga.net/,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
 utility,dateutils,http://www.fresse.org/dateutils/,Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
 data-management,VisiData,https://www.visidata.org/,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
@@ -311,7 +311,7 @@ terminal,dtach,https://github.com/crigler/dtach,A program written in C that emul
 file-handling,vidir,https://github.com/trapd00r/vidir,vidir allows editing of the contents of a directory in a text editor.
 security,Firejail,https://firejail.wordpress.com/,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 editors,Kakoune,http://kakoune.org/,"Modal editor, faster as in less keystrokes, multiple selections, orthogonal design."
-utility,ddgr,https://github.com/jarun/ddgr,A command line utility to search DuckDuckGo (html version) from the terminal.
+online,ddgr,https://github.com/jarun/ddgr,A command line utility to search DuckDuckGo (html version) from the terminal.
 games,chs,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.
 file-manager,clifm,https://github.com/leo-arch/clifm,"A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell."
 email,nmail,https://github.com/d99kris/nmail,nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
@@ -430,7 +430,7 @@ viewers,TV,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer ma
 programming,hors,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
 utility,Viddy,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
 calc,kalk,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
-utility,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
+online,so,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
 file-handling,rip,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
 text-search,vgrep,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
@@ -488,7 +488,7 @@ organizers,addrb,https://github.com/mrusme/addrb,A lightweight CLI / TUI address
 system,atuin,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
 graphics,Artem,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust."
 productivity,thokr,https://github.com/thatvegandev/thokr,Sleek typing tui with visualized results and historical logging.
-utility,socialscan,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
+online,socialscan,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 utility,cointop,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 system,pulsemixer,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
