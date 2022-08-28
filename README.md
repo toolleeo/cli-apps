@@ -25,7 +25,7 @@ To date, **561** apps/tools covered, divided in **42** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (26) | [Git and accessories](#git) (16) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (17) | [Programming](#programming) (12) | [Science](#science) (4) | [Security and encryption](#security) (8) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (24) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (29) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (12)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (25) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (17) | [Email](#email) (9) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (13) | [Games](#games) (26) | [Git and accessories](#git) (16) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (11) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (12) | [Science](#science) (8) | [Security and encryption](#security) (8) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (24) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (30) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (29) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (12)
 
 Some links to [related resources](#resources).
 
@@ -181,7 +181,6 @@ Some links to [related resources](#resources).
 
 * [alder](https://github.com/aweary/alder) - Directory tree visualizer.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
-* [cobib](https://gitlab.com/mrossinek/cobib) - Simple, command-line based bibliography management tool.
 * [cv](https://github.com/Xfennec/progress) - (Coreutils Progress Viewer) "looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput".
 * [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
@@ -362,12 +361,10 @@ Some links to [related resources](#resources).
 
 ## <a name="office"></a>Office tools
 
-* [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
 * [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf#lotus-1-2-3-for-linux) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-* [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
 * [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * [scholarref](https://adamsgaard.dk/scholarref.html) - Tools to never deal with journal webpages again.
@@ -418,7 +415,6 @@ Some links to [related resources](#resources).
 * [hledger](https://hledger.org/) - A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format.
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [paycon](https://github.com/arcorion/paycon) - Converts pay amounts between different time units.
-* [Pubs](https://github.com/pubs/pubs) - Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
 * [Taskell](https://github.com/smallhadroncollider/taskell) - A CLI kanban board/task manager for Mac and Linux.
 * [thokr](https://github.com/thatvegandev/thokr) - Sleek typing tui with visualized results and historical logging.
 * [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavoured.
@@ -443,9 +439,13 @@ Some links to [related resources](#resources).
 
 ## <a name="science"></a>Science
 
+* [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
+* [cobib](https://gitlab.com/mrossinek/cobib) - Simple, command-line based bibliography management tool.
 * [element](https://github.com/gennaro-tedesco/element) - Periodic table on the command line.
 * [FAWOC](https://github.com/robolab-pavia/fawoc) - FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
+* [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 * [pt.sh](https://github.com/alexeytal/pt.sh) - CLI periodic table with search and many properties.
+* [Pubs](https://github.com/pubs/pubs) - Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
 * [slr-kit](https://github.com/robolab-pavia/slr-kit) - Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
 
 ## <a name="security"></a>Security and encryption

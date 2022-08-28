@@ -288,7 +288,7 @@ disk-analyzer,vizex,https://github.com/bexxmodd/vizex,Visualize the disk space u
 disk-analyzer,gdu,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge."
 music,kord,https://github.com/synestematic/kord,A python framework that provides programmers with a simple api for the creation of music-based applications.
 graphics,imgcat,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea.
-office,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.
+science,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.
 programming,rr,https://rr-project.org/,"Debug the recording, deterministically, as many times as you want."
 programming,nbterm,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal.
 transfer,qr-filetransfer,https://github.com/sdushantha/qr-filetransfer,Transfer files over WiFi between your computer and your smartphone from the terminal.
@@ -351,7 +351,7 @@ password-manager,cpass,https://github.com/OliverLew/cpass,Another console UI for
 disk-analyzer,Dust,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
 editors,ash,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings."
 versioning,gee,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.
-file-handling,cobib,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool."
+science,cobib,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool."
 file-handling,doppelganger,https://github.com/witchard/doppelganger,Save and load your shell environment to create doppelganger shells!
 monitor,screenFetch,https://github.com/KittyKatt/screenFetch,It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
 graphics,inklayers,https://github.com/toolleeo/inklayers,A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.
@@ -453,7 +453,7 @@ office,sent,https://tools.suckless.org/sent/,Simple plaintext presentation tool.
 note-taking,eureka,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.
 todo-manager,taskell,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
 todo-manager,taskbook,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
-office,papis,http://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
+science,papis,http://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
 chat,tuir.,https://gitlab.com/ajak/tuir,Reddit TUI
 networking,xxh,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.
 browser,browsh,https://www.brow.sh/,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."
@@ -510,7 +510,7 @@ note-taking,sncli,https://github.com/insanum/sncli,A Python application that giv
 note-taking,dnote,https://github.com/dnote/dnote,A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 note-taking,Geeknote,https://github.com/jeffkowalski/geeknote,"A command line client for Evernote that can be use on Linux, FreeBSD and OS X."
 note-taking,Terminal velocity,https://vhp.github.io/terminal_velocity/,"A fast, cross-platform note-taking application for the UNIX terminal."
-productivity,Pubs,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
+science,Pubs,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
 data-management,IRedis,https://github.com/laixintao/iredis,Interactive Redis: A Cli for Redis with AutoCompletion and Syntax Highlighting.
 data-management,mycli,https://github.com/dbcli/mycli,A command line client for MySQL that can do auto-completion and syntax highlighting.
 data-management,pgcli,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.
