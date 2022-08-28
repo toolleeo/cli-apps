@@ -292,7 +292,7 @@ office,bib.awk,https://github.com/huijunchen9260/bib.awk,Bibliography manager wr
 programming,rr,https://rr-project.org/,"Debug the recording, deterministically, as many times as you want."
 programming,nbterm,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal.
 transfer,qr-filetransfer,https://github.com/sdushantha/qr-filetransfer,Transfer files over WiFi between your computer and your smartphone from the terminal.
-utility,element,https://github.com/gennaro-tedesco/element,Periodic table on the command line.
+science,element,https://github.com/gennaro-tedesco/element,Periodic table on the command line.
 viewers,termv,https://github.com/Roshan-R/termv,A terminal iptv player written in bash.
 utility,rofi,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement."
 file-renamer,F2,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely.
@@ -542,7 +542,7 @@ networking,TStream,https://github.com/qnkhuat/tstream,"Live streaming from the t
 todo-manager,tsk,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use."
 monitor,The Logfile Navigator,https://lnav.org/,An advanced and colorful log file viewer with TUI interface.
 data-management,gojq,https://github.com/itchyny/gojq,Pure Go implementation of jq.
-utility,pt.sh,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.
+science,pt.sh,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.
 terminal,Zellij,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
 todo-manager,xit,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)"
 security,uacme,https://github.com/ndilieto/uacme,ACMEv2 client written in plain C with minimal dependencies.
@@ -558,5 +558,5 @@ browser,Telescope,https://telescope.omarpolo.com/,Gemini client with UI that is 
 browser,gplaces,https://github.com/dimkr/gplaces,Simple but powerful terminal Gemini client.
 browser,Romulus,https://github.com/LukeEmmet/Romulus,"A cross platform Gemini console client in C# with a simple user interface, interactive menus and mouse support."
 email,pymailgen,https://github.com/toolleeo/pymailgen,"Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client."
-data-management,FAWOC,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
-data-management,slr-kit,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
+science,FAWOC,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
+science,slr-kit,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
