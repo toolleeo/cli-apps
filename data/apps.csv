@@ -562,3 +562,4 @@ science,FAWOC,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for 
 science,slr-kit,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
 editors,Helix,https://github.com/helix-editor/helix,"A kakoune / neovim inspired editor, written in Rust. The editing model is very heavily based on kakoune."
 editors,o,https://github.com/xyproto/o,"Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming."
+games,Pokete,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.
