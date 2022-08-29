@@ -565,3 +565,4 @@ editors,o,https://github.com/xyproto/o,"Configuration-free text editor and IDE l
 games,Pokete,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.
 git,czg,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.
 transfer,portal,https://github.com/SpatiumPortae/portal,A quick and easy command-line file transfer utility from any computer to another.
+funny,pokeget,https://github.com/talwat/pokeget,A bash script you can use to display cool sprites of pokemon in your terminal.
