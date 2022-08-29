@@ -560,3 +560,4 @@ browser,Romulus,https://github.com/LukeEmmet/Romulus,"A cross platform Gemini co
 email,pymailgen,https://github.com/toolleeo/pymailgen,"Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client."
 science,FAWOC,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
 science,slr-kit,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
+editors,Helix,https://github.com/helix-editor/helix,"A kakoune / neovim inspired editor, written in Rust. The editing model is very heavily based on kakoune."
