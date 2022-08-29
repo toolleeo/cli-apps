@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **573** apps/tools covered, divided in **43** categories.
+To date, **574** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (26) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (19) | [Email](#email) (9) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (14) | [Games](#games) (27) | [Git and accessories](#git) (17) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (6) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (15) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (25) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (31) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (20) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (26) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (19) | [Email](#email) (9) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (14) | [Games](#games) (27) | [Git and accessories](#git) (17) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (9) | [Productivity](#productivity) (16) | [Programming](#programming) (15) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (25) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (31) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (20) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -402,6 +402,7 @@ Some links to [related resources](#resources).
 ## <a name="online"></a>Online search and resources
 
 * [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.  
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (html version) from the terminal.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
