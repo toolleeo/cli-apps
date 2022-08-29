@@ -564,3 +564,4 @@ editors,Helix,https://github.com/helix-editor/helix,"A kakoune / neovim inspired
 editors,o,https://github.com/xyproto/o,"Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming."
 games,Pokete,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.
 git,czg,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.
+transfer,portal,https://github.com/SpatiumPortae/portal,A quick and easy command-line file transfer utility from any computer to another.
