@@ -570,3 +570,4 @@ monitor,tiptop,https://github.com/nschloe/tiptop,"A command-line system monitori
 webdev,iola,https://github.com/pvarentsov/iola,A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.
 data-management,lowcharts,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
 note-taking,nb,https://github.com/xwmx/nb,"A command line and local web note‑taking, bookmarking, archiving, and knowledge base application."
+security,ots,https://github.com/sniptt-official/ots,Share end-to-end encrypted secrets with others via a one-time URL.
