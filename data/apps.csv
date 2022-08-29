@@ -571,3 +571,4 @@ webdev,iola,https://github.com/pvarentsov/iola,A command-line socket client with
 data-management,lowcharts,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
 note-taking,nb,https://github.com/xwmx/nb,"A command line and local web note‑taking, bookmarking, archiving, and knowledge base application."
 security,ots,https://github.com/sniptt-official/ots,Share end-to-end encrypted secrets with others via a one-time URL.
+text-processing,rare,https://github.com/zix99/rare,"Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!"
