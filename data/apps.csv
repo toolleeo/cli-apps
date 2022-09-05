@@ -329,7 +329,6 @@ text-processing,hck,https://github.com/sstadick/hck,A sharp cut clone.
 git,gitui,https://github.com/extrawurst/gitui,GitUI provides you with the comfort of a git GUI but right in your terminal
 games,rpg-cli,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
 disk-analyzer,dua,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
-data-management,usql,https://github.com/xo/usql,Universal command-line interface for SQL databases.
 note-taking,jnrl,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
 viewers,tabview,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
 versioning,Bazaar,http://bazaar.canonical.com/en/,"Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical."
