@@ -55,7 +55,7 @@ Some links to [related resources](#resources).
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal; allows almost all the operations that can be done from GUI and Web clients.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
 * [tiny](https://github.com/osa1/tiny) - tiny is an IRC client written in Rust.
-* [tuir.](https://gitlab.com/ajak/tuir) - Reddit TUI
+* [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI
 * [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
 
 ## <a name="conversion"></a>Conversion
