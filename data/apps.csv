@@ -585,3 +585,4 @@ networking,bluetuith,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth 
 file-handling,Brash,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
 transfer,torrentCLI,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
 shells,Spaceship,https://spaceship-prompt.sh/,"Minimalistic, powerful and extremely customizable Zsh prompt."
+programming,cloc,https://github.com/AlDanial/cloc,"Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages."
