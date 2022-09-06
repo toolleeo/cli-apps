@@ -583,3 +583,4 @@ networking,redive,https://github.com/neelkarma/redive,Trace URL redirections in 
 utility,Cloudcash,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
 file-handling,Brash,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
+transfer,torrentCLI,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
