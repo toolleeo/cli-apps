@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **588** apps/tools covered, divided in **43** categories.
+To date, **589** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (27) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (19) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (14) | [Games](#games) (27) | [Git and accessories](#git) (19) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (3) | [Networking](#networking) (15) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (17) | [Programming](#programming) (16) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (5) | [Sound and music](#music) (22) | [System monitoring](#monitor) (26) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (32) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (22) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (27) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (19) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (14) | [Games](#games) (27) | [Git and accessories](#git) (19) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (3) | [Networking](#networking) (15) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (16) | [Programming](#programming) (18) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (5) | [Sound and music](#music) (22) | [System monitoring](#monitor) (26) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (32) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (22) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -443,7 +443,6 @@ Some links to [related resources](#resources).
 * [Taskell](https://github.com/smallhadroncollider/taskell) - A CLI kanban board/task manager for Mac and Linux.
 * [thokr](https://github.com/thatvegandev/thokr) - Sleek typing tui with visualized results and historical logging.
 * [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavoured.
-* [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
@@ -464,8 +463,10 @@ Some links to [related resources](#resources).
 * [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
 * [rr](https://rr-project.org/) - Debug the recording, deterministically, as many times as you want.
 * [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations and COCOMO estimates.
+* [scc](https://github.com/boyter/scc) - Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all.
 * [scons](https://github.com/SCons/scons) - Software construction tool.
 * [temci](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
+* [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
 
 ## <a name="science"></a>Science
 
