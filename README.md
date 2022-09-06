@@ -21,11 +21,11 @@ If you want to contribute through a pull request, make sure to add new entries t
 
 # Summary
 
-To date, **578** apps/tools covered, divided in **43** categories.
+To date, **579** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (26) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (19) | [Email](#email) (9) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (14) | [Games](#games) (27) | [Git and accessories](#git) (19) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (16) | [Programming](#programming) (15) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (26) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (31) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (21) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (25) | [Data transfer](#transfer) (26) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (19) | [Email](#email) (9) | [File and file system handling](#file-handling) (31) | [File manager](#file-manager) (9) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (14) | [Games](#games) (27) | [Git and accessories](#git) (19) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (2) | [Networking](#networking) (13) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (16) | [Programming](#programming) (15) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (4) | [Sound and music](#music) (22) | [System monitoring](#monitor) (26) | [System tools](#system) (19) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (32) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (21) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -585,6 +585,7 @@ Some links to [related resources](#resources).
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
 * [ccat](https://github.com/jingweno/ccat) - A `cat` command with colorized output.  
+* [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 * [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable instead of machine readable.

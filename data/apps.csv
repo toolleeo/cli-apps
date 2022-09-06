@@ -577,3 +577,4 @@ online,Awesome CLI,https://github.com/umutphp/awesome-cli,Awesome CLI is a simpl
 utility,ora,https://github.com/sindresorhus/ora,Elegant terminal spinner.
 monitor,hyperfine,https://github.com/sharkdp/hyperfine,A command-line benchmarking tool.
 password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,"Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises."
+text-processing,choose,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
