@@ -580,3 +580,4 @@ password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,"Command-line int
 text-processing,choose,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 multimedia,invidtui,https://github.com/darkhz/invidtui,"Invidious client, which fetches data from invidious instances and displays a user interface in the terminal(TUI), and allows for selecting and playing Youtube audio and video."
 networking,redive,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
+utility,Cloudcash,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
