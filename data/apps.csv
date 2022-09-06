@@ -576,3 +576,4 @@ text-processing,rare,https://github.com/zix99/rare,"Realtime regex-extraction an
 online,Awesome CLI,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 utility,ora,https://github.com/sindresorhus/ora,Elegant terminal spinner.
 monitor,hyperfine,https://github.com/sharkdp/hyperfine,A command-line benchmarking tool.
+password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,"Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises."
