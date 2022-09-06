@@ -581,3 +581,4 @@ text-processing,choose,https://github.com/jagprog5/choose,NCurses based token se
 multimedia,invidtui,https://github.com/darkhz/invidtui,"Invidious client, which fetches data from invidious instances and displays a user interface in the terminal(TUI), and allows for selecting and playing Youtube audio and video."
 networking,redive,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 utility,Cloudcash,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
+networking,bluetuith,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
