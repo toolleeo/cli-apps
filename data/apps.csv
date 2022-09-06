@@ -584,3 +584,4 @@ utility,Cloudcash,https://github.com/mrusme/cloudcash,"Check your cloud spending
 networking,bluetuith,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
 file-handling,Brash,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
 transfer,torrentCLI,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
+shells,Spaceship,https://spaceship-prompt.sh/,"Minimalistic, powerful and extremely customizable Zsh prompt."
