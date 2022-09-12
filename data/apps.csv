@@ -594,3 +594,4 @@ funny,Limoji,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool
 games,Minesweeper Game,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.
 editors,Tilde,https://os.ghalkes.nl/tilde/,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc."
 music,spotify-player,https://github.com/aome510/spotify-player,"spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application."
+git,git-remote-aws,https://github.com/nathants/git-remote-aws,Management of encrypted git hosting.
