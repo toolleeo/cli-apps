@@ -596,3 +596,4 @@ editors,Tilde,https://os.ghalkes.nl/tilde/,"Tilde is a text editor that provides
 music,spotify-player,https://github.com/aome510/spotify-player,"spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application."
 git,git-remote-aws,https://github.com/nathants/git-remote-aws,Management of encrypted git hosting.
 transfer,Stig,https://github.com/rndusr/stig,Stig is a client application to connect and control the BitTorrent Transmission client app.
+productivity,ancv,https://github.com/alexpovel/ancv,Renders your (JSON) resume/CV for online & pretty terminal display.
