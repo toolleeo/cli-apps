@@ -591,3 +591,4 @@ games,terdle,https://github.com/neelkarma/terdle,Wordle implemented in Rust.
 music,MusicPlayerPlus,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more."
 system,ContainerSSH,https://github.com/ContainerSSH/ContainerSSH,An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 funny,Limoji,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
+games,Minesweeper Game,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.
