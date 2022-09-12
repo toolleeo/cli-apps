@@ -592,3 +592,4 @@ music,MusicPlayerPlus,https://github.com/doctorfree/MusicPlayerPlus,"Featureful 
 system,ContainerSSH,https://github.com/ContainerSSH/ContainerSSH,An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 funny,Limoji,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
 games,Minesweeper Game,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.
+editors,Tilde,https://os.ghalkes.nl/tilde/,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc."
