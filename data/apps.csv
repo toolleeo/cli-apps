@@ -588,3 +588,4 @@ programming,scc,https://github.com/boyter/scc,"Sloc Cloc and Code (scc) is a cod
 programming,Cppcheck,http://cppcheck.net/,Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
 programming,Frama-C,https://frama-c.com/,Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
 games,terdle,https://github.com/neelkarma/terdle,Wordle implemented in Rust.
+music,MusicPlayerPlus,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more."
