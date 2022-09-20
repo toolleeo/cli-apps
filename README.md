@@ -256,7 +256,7 @@ Some links to [related resources](#resources).
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
 * [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 * [cmatrix](http://www.asty.org/cmatrix/) - ncurses program that display the scrolling lines found in the movie `The matrix`.
-* [cowsay](https://en.wikipedia.org/wiki/Cowsay) - A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).  
+* [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).  
 * [cowthink](https://en.wikipedia.org/wiki/Cowsay) - Same as `cowsay`, but uses a "think" bubble instead of a speech bubble.
 * [Draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages feched from a quotation database.  
@@ -483,7 +483,7 @@ Some links to [related resources](#resources).
 * [cobib](https://gitlab.com/mrossinek/cobib) - Simple, command-line based bibliography management tool.
 * [element](https://github.com/gennaro-tedesco/element) - Periodic table on the command line.
 * [FAWOC](https://github.com/robolab-pavia/fawoc) - FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
-* [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+* [papis](https://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 * [pt.sh](https://github.com/alexeytal/pt.sh) - CLI periodic table with search and many properties.
 * [Pubs](https://github.com/pubs/pubs) - Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
 * [slr-kit](https://github.com/robolab-pavia/slr-kit) - Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
@@ -750,7 +750,7 @@ Some links to [related resources](#resources).
 * [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
 * [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.  
-* [Mycorrhiza Wiki](https://sr.ht/~handlerug/mycorrhiza/) - A lightweight file-system wiki engine that uses Git for keeping history.
+* [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) - A lightweight file-system wiki engine that uses Git for keeping history.
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.  
 * [siege](https://www.joedog.org/siege-home/) - An http load testing and benchmarking utility designed to let web developers stress their code.  
 * [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
