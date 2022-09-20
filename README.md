@@ -7,19 +7,23 @@ The peculiarity of this repository is that the source of information is structur
 See the `data/` directory.
 
 This `README` file is generated from the CSV files.
-To build `README.md` run (`python3` is required for building - and `make`, of course :-)):
+To build `README.md` run:
 
 ```
 make
 ```
 
+`python3` is required for building. And `make`, of course. :-)
+
 # How to contribute
 
-If you have any suggestion or want your project listed here, drop me an email at `toolleeo@gmail.com`.
+If you have any suggestion or want your project included in the list, you can either open a pull request or send me an email with the necessary information.
 
 If you want to contribute through a pull request, make sure to add new entries to the correct CSV file under the `data/` directory.
 Please commit the CSV file only, not the README.
-I will take care of the review of the request and, upon acceptance, I will take care of generating the README.
+I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
+
+If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
