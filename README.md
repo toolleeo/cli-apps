@@ -7,7 +7,7 @@ The peculiarity of this repository is that the source of information is structur
 See the `data/` directory.
 
 This `README` file is generated from the CSV files.
-To build `README.md` run (`python3` is required for building):
+To build `README.md` run (`python3` is required for building - and `make`, of course :-)):
 
 ```
 make
@@ -18,6 +18,8 @@ make
 If you have any suggestion or want your project listed here, drop me an email at `toolleeo@gmail.com`.
 
 If you want to contribute through a pull request, make sure to add new entries to the correct CSV file under the `data/` directory.
+Please commit the CSV file only, not the README.
+I will take care of the review of the request and, upon acceptance, I will take care of generating the README.
 
 # Summary
 
@@ -79,7 +81,7 @@ Some links to [related resources](#resources).
 * [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 * [Graphtage](https://github.com/trailofbits/graphtage) - Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.
 * [IRedis](https://github.com/laixintao/iredis) - Interactive Redis: A Cli for Redis with AutoCompletion and Syntax Highlighting.
-* [jq](https://stedolan.github.io/jq/) - (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
+* [jq](https://github.com/stedolan/jq) - (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
 * [jtc](https://github.com/ldn-softdev/jtc) - JSON manipulation and transformation.
 * [lowcharts](https://github.com/juan-leon/lowcharts) - lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
@@ -160,7 +162,7 @@ Some links to [related resources](#resources).
 * [Kakoune](http://kakoune.org/) - Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.
 * [micro](https://github.com/zyedidia/micro/) - A terminal-based text editor written in Go that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
 * [nano](https://www.nano-editor.org/) - Easy to use, lightweigth text editor; no complex keybindings to remember.
-* [neovim](https://neovim.io/) - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity and maintainability; it has chances to become the next choice of vim users.
+* [neovim](https://github.com/neovim/neovim) - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity and maintainability; it has chances to become the next choice of vim users.
 * [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming.
 * [slap](https://github.com/slap-editor/slap) - Text editor inspired by [Sublime Text](https://www.sublimetext.com/) written in NodeJS; extedable in Javascript.  
 * [Tilde](https://os.ghalkes.nl/tilde/) - Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.
@@ -181,7 +183,7 @@ Some links to [related resources](#resources).
 * [Newsbeuter](http://newsbeuter.org/) - "The Mutt of RSS Feed Readers": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard.
 * [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
 * [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
-* [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
+* [sup](https://github.com/sup-heliotrope/sup) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 
 ## <a name="file-handling"></a>File and file system handling
 
@@ -540,7 +542,7 @@ Some links to [related resources](#resources).
 * [below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 * [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
 * [dmidecode](https://www.nongnu.org/dmidecode/) - System information utility.
-* [glances](https://nicolargo.github.io/glances/) - A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
+* [glances](https://github.com/nicolargo/glances) - A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
 * [htop](http://hisham.hm/htop/) - An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors.
 * [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 * [inxi](http://smxi.org/docs/inxi.htm) - A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script.
@@ -594,7 +596,7 @@ Some links to [related resources](#resources).
 * [mx](https://gitlab.com/lpireyn/mx) - A tmux session manager written as a single Bash script.
 * [screen](https://www.gnu.org/software/screen/) - Terminal multiplexer that split a physical terminal between several processes, typically interactive shells.
 * [Tmate](https://tmate.io/) - A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues.
-* [tmux](https://tmux.github.io/) - Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more.
+* [tmux](https://github.com/tmux/tmux) - Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more.
 * [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.  
 * [Zellij](https://github.com/zellij-org/zellij) - A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer.
 
