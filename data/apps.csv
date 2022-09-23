@@ -622,3 +622,4 @@ email,meli,,https://git.meli.delivery/meli/meli,BSD/Linux terminal email client 
 games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired terminal game written in Go.
 games,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to practice keyboard typing.
 graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Multiplatform terminal mandelbrot set explorer.
+note-taking,Noted,,https://github.com/torbratsberg/noted,"Notes library, with viewer and shortcuts to add, delete and edit notes."
