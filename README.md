@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **606** apps/tools covered, divided in **43** categories.
+To date, **607** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (28) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (20) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (15) | [Games](#games) (31) | [Git and accessories](#git) (20) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (3) | [Networking](#networking) (15) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (19) | [Programming](#programming) (19) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (20) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (32) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (23) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (28) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (20) | [Email](#email) (9) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (15) | [Games](#games) (31) | [Git and accessories](#git) (20) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (3) | [Networking](#networking) (15) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (12) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (20) | [Programming](#programming) (19) | [Science](#science) (8) | [Security and encryption](#security) (9) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (20) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (32) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (14) | [Utilities](#utility) (23) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -449,6 +449,7 @@ Some links to [related resources](#resources).
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
 * [arbtt](http://arbtt.nomeata.de/) - (automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
 * [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+* [CLI-Dictionary](https://github.com/Lodobo/CLI-Dictionary) - Scripts for downloading and viewing wiktionary entries from Kaikki.org.
 * [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 * [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
