@@ -606,3 +606,4 @@ system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative
 games,hangman,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.
 games,gambit,,https://github.com/maaslalani/gambit,Chess board in your terminal.
 productivity,CLI-Dictionary,,https://github.com/Lodobo/CLI-Dictionary,Scripts for downloading and viewing wiktionary entries from Kaikki.org.
+editors,Feather,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.
