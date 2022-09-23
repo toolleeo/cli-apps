@@ -613,3 +613,4 @@ text-processing,as-tree,,https://github.com/jez/as-tree,Print a list of paths as
 utility,mkdesk,,https://gitlab.com/mr-draxs/mkdesk,A program/command to create .desktop files (program launchers) using the terminal.
 todo-manager,t,,https://github.com/sjl/t,"A command-line todo list manager for people that want to finish tasks, not organize them."
 todo-manager,topydo,,https://github.com/topydo/topydo,"A powerful todo list application for the console, using the todo.txt format."
+todo-manager,Ultralist,https://ultralist.io/,https://github.com/ultralist/ultralist,"A simple, powerful, open source task management system for the command line."
