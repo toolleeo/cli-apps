@@ -627,3 +627,4 @@ networking,Wishlist,,https://github.com/charmbracelet/wishlist,With Wishlist you
 data-management,termdbms,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go."
 office,Slides,,https://github.com/maaslalani/slides,Terminal based presentation tool.
 productivity,tz,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
+transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
