@@ -609,3 +609,4 @@ productivity,CLI-Dictionary,,https://github.com/Lodobo/CLI-Dictionary,Scripts fo
 editors,Feather,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.
 text-processing,swordfish-rs,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with realtime typing into terminal; uses a screenplay where text and timings are specified.
 git,GitUI,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git."
+text-processing,as-tree,,https://github.com/jez/as-tree,Print a list of paths as a tree of paths.
