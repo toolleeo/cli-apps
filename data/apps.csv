@@ -598,3 +598,4 @@ music,spotify-player,,https://github.com/aome510/spotify-player,"spotify-player 
 git,git-remote-aws,,https://github.com/nathants/git-remote-aws,Management of encrypted git hosting.
 transfer,Stig,,https://github.com/rndusr/stig,Stig is a client application to connect and control the BitTorrent Transmission client app.
 productivity,ancv,,https://github.com/alexpovel/ancv,Renders your (JSON) resume/CV for online & pretty terminal display.
+file-manager,lf,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a terminal file manager written in Go with a heavy inspiration from ranger file manager."
