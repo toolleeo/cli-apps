@@ -623,3 +623,5 @@ games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired termina
 games,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to practice keyboard typing.
 graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Multiplatform terminal mandelbrot set explorer.
 note-taking,Noted,,https://github.com/torbratsberg/noted,"Notes library, with viewer and shortcuts to add, delete and edit notes."
+networking,Wishlist,,https://github.com/charmbracelet/wishlist,With Wishlist you can have a single entrypoint for multiple SSH endpoints.
+data-management,termdbms,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go."
