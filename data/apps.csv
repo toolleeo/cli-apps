@@ -611,3 +611,4 @@ text-processing,swordfish-rs,,https://github.com/vim-zz/swordfish-rs,Mimics real
 git,GitUI,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git."
 text-processing,as-tree,,https://github.com/jez/as-tree,Print a list of paths as a tree of paths.
 utility,mkdesk,,https://gitlab.com/mr-draxs/mkdesk,A program/command to create .desktop files (program launchers) using the terminal.
+todo-manager,t,,https://github.com/sjl/t,"A command-line todo list manager for people that want to finish tasks, not organize them."
