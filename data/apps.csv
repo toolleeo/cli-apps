@@ -619,3 +619,4 @@ security,cream,https://z3bra.org/cream/,https://git.z3bra.org/cream/files.html,"
 organizers,remint,,https://sr.ht/~mlaparie/remint/,A simple terminal UI wrapper for D. Skoll's Remind calendar program
 email,tmpmail,,https://github.com/sdushantha/tmpmail,A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 email,meli,,https://git.meli.delivery/meli/meli,BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
+games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired terminal game written in Go.
