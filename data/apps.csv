@@ -621,3 +621,4 @@ email,tmpmail,,https://github.com/sdushantha/tmpmail,A command line utility writ
 email,meli,,https://git.meli.delivery/meli/meli,BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
 games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired terminal game written in Go.
 games,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to practice keyboard typing.
+graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Multiplatform terminal mandelbrot set explorer.

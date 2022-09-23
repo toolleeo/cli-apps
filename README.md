@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **622** apps/tools covered, divided in **43** categories.
+To date, **623** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (28) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (15) | [Games](#games) (33) | [Git and accessories](#git) (21) | [Graphics](#graphics) (14) | [Multimedia](#multimedia) (3) | [Networking](#networking) (15) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (20) | [Programming](#programming) (19) | [Science](#science) (8) | [Security and encryption](#security) (10) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (20) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (24) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (26) | [Data transfer](#transfer) (28) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (15) | [Games](#games) (33) | [Git and accessories](#git) (21) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (15) | [Note taking](#note-taking) (12) | [Office tools](#office) (14) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (20) | [Programming](#programming) (19) | [Science](#science) (8) | [Security and encryption](#security) (10) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (20) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (24) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -352,6 +352,7 @@ Some links to [related resources](#resources).
 * [inklayers](https://github.com/toolleeo/inklayers) - A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.
 * [jp2a](https://csl.name/jp2a/) - Command-line tool that converts images to ASCII art in the Linux terminal.
 * [kakikun](https://github.com/file-acomplaint/kakikun) - Kakikun is a tool to paint, draw and create ASCII art in your terminal using unicode characters.
+* [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.  
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
