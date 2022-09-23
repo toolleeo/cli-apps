@@ -602,3 +602,4 @@ file-manager,lf,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a 
 utility,welcome.sh,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information."
 productivity,flash-tui,,https://github.com/TBS1996/flash-tui,Flashcard app for the terminal.
 data-management,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
+system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.
