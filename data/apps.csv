@@ -615,3 +615,4 @@ todo-manager,t,,https://github.com/sjl/t,"A command-line todo list manager for p
 todo-manager,topydo,,https://github.com/topydo/topydo,"A powerful todo list application for the console, using the todo.txt format."
 todo-manager,Ultralist,https://ultralist.io/,https://github.com/ultralist/ultralist,"A simple, powerful, open source task management system for the command line."
 todo-manager,devtodo,https://swapoff.org/devtodo.html,,"A hierarchical command-line task manager, with data storage in JSON format."
+security,cream,https://z3bra.org/cream/,https://git.z3bra.org/cream/files.html,"Encrypt and decrypt streams of data with only a master password. The key is derivated from the password + salt combo, and used to encrypt data byte per byte."
