@@ -625,3 +625,4 @@ graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Mul
 note-taking,Noted,,https://github.com/torbratsberg/noted,"Notes library, with viewer and shortcuts to add, delete and edit notes."
 networking,Wishlist,,https://github.com/charmbracelet/wishlist,With Wishlist you can have a single entrypoint for multiple SSH endpoints.
 data-management,termdbms,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go."
+office,Slides,,https://github.com/maaslalani/slides,Terminal based presentation tool.
