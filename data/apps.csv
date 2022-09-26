@@ -635,3 +635,4 @@ utility,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and comm
 system,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
 security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
 git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color."
+security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
