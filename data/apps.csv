@@ -634,3 +634,4 @@ utility,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering 
 utility,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
 system,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
 security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
+git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color."
