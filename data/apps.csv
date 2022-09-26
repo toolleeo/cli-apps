@@ -630,3 +630,4 @@ productivity,tz,,https://github.com/oz/tz,tz helps you schedule things across ti
 transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
 data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool to view redis data in terminal.
 data-management,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
+utility,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
