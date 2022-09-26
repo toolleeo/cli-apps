@@ -637,3 +637,4 @@ security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to si
 git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color."
 security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
 utility,topalias,,https://github.com/CSRedRat/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python."
+programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible."
