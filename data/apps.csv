@@ -632,3 +632,4 @@ data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool 
 data-management,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
 utility,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
 utility,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
+system,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
