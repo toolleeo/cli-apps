@@ -629,3 +629,4 @@ office,Slides,,https://github.com/maaslalani/slides,Terminal based presentation 
 productivity,tz,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
 transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
 data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool to view redis data in terminal.
+data-management,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."

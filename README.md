@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **630** apps/tools covered, divided in **43** categories.
+To date, **631** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (28) | [Data transfer](#transfer) (29) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (15) | [Games](#games) (33) | [Git and accessories](#git) (21) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (16) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (21) | [Programming](#programming) (19) | [Science](#science) (8) | [Security and encryption](#security) (10) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (20) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (24) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (6) | [Data management](#data-management) (29) | [Data transfer](#transfer) (29) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (32) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (15) | [Games](#games) (33) | [Git and accessories](#git) (21) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (16) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (10) | [Productivity](#productivity) (21) | [Programming](#programming) (19) | [Science](#science) (8) | [Security and encryption](#security) (10) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (20) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (24) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -77,6 +77,7 @@ Some links to [related resources](#resources).
 
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
 * [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
+* [csvtk](https://github.com/shenwei356/csvtk/) - A cross-platform, efficient and practical CSV/TSV toolkit written in Go.
 * [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
 * [datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal.
 * [Dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
