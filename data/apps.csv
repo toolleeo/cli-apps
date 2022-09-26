@@ -638,3 +638,4 @@ git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status ta
 security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
 utility,topalias,,https://github.com/CSRedRat/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python."
 programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible."
+networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
