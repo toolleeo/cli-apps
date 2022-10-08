@@ -134,6 +134,7 @@ file-handling,classifier,,https://github.com/bhrigu123/classifier,"Organize file
 file-handling,detox,http://detox.sourceforge.net/,,A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,,"(Do The Right eXtraction) aims at taking ""all the hassle out of extracting archives""; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories."
 file-handling,exa,https://the.exa.website/,,"Replacement for 'ls' written in Rust, with colors and several additional ""views""."
+file-handling,lsd,,https://github.com/Peltoche/lsd,"This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project."
 cd,fasd,,https://github.com/clvv/fasd,"A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line."
 file-handling,fd,,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find. Written in Rust."
 file-renamer,rename,https://www.kernel.org/pub/linux/utils/util-linux/,,"Included in `util-linux`, allows bulk rename of files with regex support."
@@ -604,7 +605,6 @@ productivity,flash-tui,,https://github.com/TBS1996/flash-tui,Flashcard app for t
 data-management,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
 system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.
 games,hangman,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.
-games,gambit,,https://github.com/maaslalani/gambit,Chess board in your terminal.
 productivity,CLI-Dictionary,,https://github.com/Lodobo/CLI-Dictionary,Scripts for downloading and viewing wiktionary entries from Kaikki.org.
 editors,Feather,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.
 text-processing,swordfish-rs,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with realtime typing into terminal; uses a screenplay where text and timings are specified.
