@@ -867,5 +867,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - Large awesome list of terminal games. The collection is maintained in a YAML format. Each item contains a description and an optional screencast.
 
+[Site Generators](https://jamstack.org/generators/) - A comprehensive list of Static Site Generators.
+
 
 
