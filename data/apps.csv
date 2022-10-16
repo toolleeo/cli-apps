@@ -654,3 +654,4 @@ system,procmux,,https://github.com/napisani/procmux,A TUI utility for running mu
 transfer,sharing,,https://github.com/parvardegr/sharing,Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.
 games,mazter,,https://github.com/Canop/mazter,A maze in your terminal.
 file-renamer,Tempren,,https://github.com/idle-code/tempren,A powerful file renaming utility that uses flexible template expressions to create new file paths and names.
+git,rcz,,https://github.com/Cassin01/rcz,A tool to write a commit message based on “Conventional Commits”.
