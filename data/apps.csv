@@ -648,3 +648,4 @@ transfer,Nextcloud share URL downloader,,https://github.com/aertslab/nextcloud_s
 file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl."
 file-handling,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
 conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
+funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.
