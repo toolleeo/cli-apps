@@ -1,15 +1,15 @@
 label,name,description
 backup,Backup,
-calc,Calculators,
+calc,Calculators,"Caclulators for numbers, dates, etc."
 chat,Chat and instant messaging,
-conversion,Conversion,
+conversion,Conversion,File format converters
 data-management,Data management,
 transfer,Data transfer,
-cd,Directory changers,
+cd,Directory changers,Tools for improving the efficiency of directory traversal
 disk-analyzer,Disk usage analyzers,
-editors,Editors,
+editors,Editors,Terminal text editors
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
-file-handling,File and file system handling,"File managers, tagging, bookmarking, directory traversal"
+file-handling,File and file system handling,"File managers, tagging, bookmarking"
 file-manager,File manager,
 file-renamer,File renamers,
 file-system,File systems,
@@ -28,7 +28,7 @@ password-manager,Password managers,
 productivity,Productivity,
 programming,Programming,
 science,Science,Tools for scientific research and science applications
-security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems, password managers"
+security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems"
 shells,Shells,
 music,Sound and music,
 monitor,System monitoring,
@@ -41,4 +41,4 @@ utility,Utilities,
 versioning,Versioning,
 viewers,Viewers,
 browser,Web browser,
-webdev,Web development,"Static site generators ([staticgen.com](https://www.staticgen.com/) reports a comprehensive list of available options), load test tools."
+webdev,Web development,"Static site generators, load test tools."

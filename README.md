@@ -48,6 +48,8 @@ Some links to [related resources](#resources).
 
 ## <a name="calc"></a>Calculators
 
+Caclulators for numbers, dates, etc..
+
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
 * [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
@@ -66,6 +68,8 @@ Some links to [related resources](#resources).
 * [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
 
 ## <a name="conversion"></a>Conversion
+
+File format converters.
 
 * [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text; output is sent to the standard output.  
@@ -146,6 +150,8 @@ Some links to [related resources](#resources).
 
 ## <a name="cd"></a>Directory changers
 
+Tools for improving the efficiency of directory traversal.
+
 * [broot](https://dystroy.org/broot/) - A new way to navigate directory trees on linux, made in rust.
 * [fasd](https://github.com/clvv/fasd) - A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 * [fastdiract](https://github.com/dp12/fastdiract) - Lightning-fast cd and command execution.
@@ -167,6 +173,8 @@ Some links to [related resources](#resources).
 * [vizex](https://github.com/bexxmodd/vizex) - Visualize the disk space usage for every partition and media on the user's machine.
 
 ## <a name="editors"></a>Editors
+
+Terminal text editors.
 
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
 * [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard” keybindings and several advanced features; written in Ruby.
@@ -192,6 +200,8 @@ Some links to [related resources](#resources).
 
 ## <a name="email"></a>Email
 
+Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization.
+
 * [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend; MailDir format support.  
 * [alpine](http://www.washington.edu/alpine/) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
 * [mbsync](http://isync.sourceforge.net/mbsync.html) - Mailboxes synchronization tool; allows to download email locally; MailDir format supported.  
@@ -205,6 +215,8 @@ Some links to [related resources](#resources).
 * [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
 ## <a name="file-handling"></a>File and file system handling
+
+File managers, tagging, bookmarking.
 
 * [alder](https://github.com/aweary/alder) - Directory tree visualizer.
 * [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
@@ -384,6 +396,8 @@ Some links to [related resources](#resources).
 
 ## <a name="networking"></a>Networking
 
+Programs to deal with networks and communication.
+
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 * [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
@@ -421,6 +435,8 @@ Some links to [related resources](#resources).
 
 ## <a name="office"></a>Office tools
 
+Spreadsheet and presentations.
+
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
 * [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf#lotus-1-2-3-for-linux) - A native port of Lotus 1-2-3 Release 3 to Linux.
@@ -438,6 +454,8 @@ Some links to [related resources](#resources).
 * [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
 
 ## <a name="organizers"></a>Organizers and calendars
+
+Calendar managers.
 
 * [addrb](https://github.com/mrusme/addrb) - A lightweight CLI / TUI address book that supports CardDAV.
 * [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
@@ -527,6 +545,8 @@ Some links to [related resources](#resources).
 
 ## <a name="science"></a>Science
 
+Tools for scientific research and science applications.
+
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
 * [cobib](https://gitlab.com/mrossinek/cobib) - Simple, command-line based bibliography management tool.
 * [element](https://github.com/gennaro-tedesco/element) - Periodic table on the command line.
@@ -537,6 +557,8 @@ Some links to [related resources](#resources).
 * [slr-kit](https://github.com/robolab-pavia/slr-kit) - Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
 
 ## <a name="security"></a>Security and encryption
+
+Cryptography, ciphered archive managers, encrypted file-systems.
 
 * [cipher](https://github.com/ash-shell/cipher) - An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.  
 * [cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
@@ -807,6 +829,8 @@ Some links to [related resources](#resources).
 * [w3m](http://w3m.sourceforge.net/) - A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.  
 
 ## <a name="webdev"></a>Web development
+
+Static site generators, load test tools..
 
 * [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
 * [http-tanker](https://github.com/PierreKieffer/http-tanker) - Terminal application used for API testing; easily create, manage and execute http requests from the terminal.
