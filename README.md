@@ -841,5 +841,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [Awesome CLI by sintaxi](https://github.com/sintaxi/awesome-cli/blob/master/README.md) - Relatively short list with short descriptions; with some original entries.
 
+[awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - Large awesome list of terminal games. The collection is maintained in a YAML format. Each item contains a description and an screencast.
+
 
 
