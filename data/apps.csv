@@ -647,3 +647,4 @@ password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrap
 transfer,Nextcloud share URL downloader,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
 file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl."
 file-handling,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
+conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
