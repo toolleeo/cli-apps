@@ -642,7 +642,6 @@ networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Opt
 productivity,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal; similar to anki.
 system,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
 transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
-games,clidle,,https://github.com/ajeetdsouza/clidle,Play Wordle over SSH.
 password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them."
 transfer,Nextcloud share URL downloader,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
 file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl."
