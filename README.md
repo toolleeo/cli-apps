@@ -31,7 +31,7 @@ To date, **659** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (30) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (24) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (26) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (30) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (24) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (25) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -51,6 +51,7 @@ Some links to [related resources](#resources).
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
 * [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
+* [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 
 ## <a name="chat"></a>Chat and instant messaging
@@ -741,7 +742,6 @@ Some links to [related resources](#resources).
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-* [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
 * [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 * [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
