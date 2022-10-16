@@ -417,7 +417,7 @@ data-management,csvq,,https://github.com/mithrandie/csvq,SQL-like query language
 file-handling,FClones,,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.
 data-management,dasel,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.
 programming,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
-utility,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
+transfer,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,,Generate two and three dimensional plots of data.
 office,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
 text-processing,Difftastic,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
