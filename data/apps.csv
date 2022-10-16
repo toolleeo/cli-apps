@@ -659,3 +659,4 @@ note-taking,jot,,https://github.com/araekiel/jot,Jot is a feature-stripped versi
 data-management,ROAPI,,https://github.com/roapi/roapi,ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.
 git,git-secret,,https://github.com/sobolevn/git-secret,"A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using pgp and their secret keys."
 git,gita,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repos.
+games,anonymine,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine/,Curses mode minesweeper without guessing and other original features.
