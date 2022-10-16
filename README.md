@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **657** apps/tools covered, divided in **43** categories.
+To date, **658** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (29) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (24) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (29) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (24) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -408,6 +408,7 @@ Some links to [related resources](#resources).
 * [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 * [Geeknote](https://github.com/jeffkowalski/geeknote) - A command line client for Evernote that can be use on Linux, FreeBSD and OS X.
 * [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
+* [jot](https://github.com/araekiel/jot) - Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.
 * [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 * [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application.
 * [Noted](https://github.com/torbratsberg/noted) - Notes library, with viewer and shortcuts to add, delete and edit notes.
