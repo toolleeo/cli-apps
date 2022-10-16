@@ -655,3 +655,4 @@ transfer,sharing,,https://github.com/parvardegr/sharing,Sharing is a command-lin
 games,mazter,,https://github.com/Canop/mazter,A maze in your terminal.
 file-renamer,Tempren,,https://github.com/idle-code/tempren,A powerful file renaming utility that uses flexible template expressions to create new file paths and names.
 git,rcz,,https://github.com/Cassin01/rcz,A tool to write a commit message based on “Conventional Commits”.
+git,git-cz,,https://github.com/streamich/git-cz,Semantic Git commits.

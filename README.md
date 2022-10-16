@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **656** apps/tools covered, divided in **43** categories.
+To date, **657** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (29) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (23) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (29) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (24) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -339,6 +339,7 @@ Some links to [related resources](#resources).
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
 * [git-annex](https://git-annex.branchable.com/) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
+* [git-cz](https://github.com/streamich/git-cz) - Semantic Git commits.
 * [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 * [git-peek](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
 * [git-remote-aws](https://github.com/nathants/git-remote-aws) - Management of encrypted git hosting.
