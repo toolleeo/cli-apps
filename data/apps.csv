@@ -657,3 +657,4 @@ file-renamer,Tempren,,https://github.com/idle-code/tempren,A powerful file renam
 git,rcz,,https://github.com/Cassin01/rcz,A tool to write a commit message based on “Conventional Commits”.
 git,git-cz,,https://github.com/streamich/git-cz,Semantic Git commits.
 note-taking,jot,,https://github.com/araekiel/jot,Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.
+data-management,ROAPI,,https://github.com/roapi/roapi,ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.
