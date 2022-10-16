@@ -199,7 +199,7 @@ online,arch-wiki,,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki 
 online,googler,,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
 text-processing,lolcat,,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
 monitor,neofetch,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
-utility,pdd,,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
+calc,pdd,,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
 utility,powerline,,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
 online,socli,,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 utility,termsaver,http://termsaver.brunobraga.net/,,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
