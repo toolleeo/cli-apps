@@ -643,3 +643,4 @@ productivity,speki,,https://github.com/tbs1996/speki,Manage flashcards in the te
 system,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
 transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
 games,clidle,,https://github.com/ajeetdsouza/clidle,Play Wordle over SSH.
+password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them."
