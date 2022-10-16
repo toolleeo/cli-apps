@@ -649,3 +649,4 @@ file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file ho
 file-handling,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
 conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
 funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.
+system,mprocs,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.
