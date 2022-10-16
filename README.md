@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **653** apps/tools covered, divided in **43** categories.
+To date, **654** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (29) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (33) | [Git and accessories](#git) (22) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (4) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (29) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (11) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (6) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (16) | [Games](#games) (34) | [Git and accessories](#git) (22) | [Graphics](#graphics) (15) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (13) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (22) | [Programming](#programming) (20) | [Science](#science) (8) | [Security and encryption](#security) (12) | [Shells](#shells) (5) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (24) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (34) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (24) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -308,6 +308,7 @@ Some links to [related resources](#resources).
 * [hangman](https://github.com/braheezy/hangman) - A Go TUI Hangman game built with the lovely BubbleTea framework.
 * [kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing.
 * [Language-games](https://github.com/Hellisotherpeople/Language-games) - Dead simple games made with word vectors.
+* [mazter](https://github.com/Canop/mazter) - A maze in your terminal.
 * [minesweeper](https://github.com/gazpachoking/minesweeper) - Cross-platform terminal based minesweeper.
 * [Minesweeper Game](https://github.com/omerkarabacak/minesweeper) - A small command line Minesweeper Game.
 * [Nethack](http://nethack.org/) - Single player rogue-like dungeon exploration game.

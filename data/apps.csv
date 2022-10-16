@@ -652,3 +652,4 @@ funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video c
 system,mprocs,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.
 system,procmux,,https://github.com/napisani/procmux,A TUI utility for running multiple commands in parallel in easily switchable terminals.
 transfer,sharing,,https://github.com/parvardegr/sharing,Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.
+games,mazter,,https://github.com/Canop/mazter,A maze in your terminal.
