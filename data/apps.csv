@@ -650,3 +650,4 @@ file-handling,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another p
 conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
 funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.
 system,mprocs,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.
+system,procmux,,https://github.com/napisani/procmux,A TUI utility for running multiple commands in parallel in easily switchable terminals.
