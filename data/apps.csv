@@ -641,3 +641,4 @@ programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the com
 networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 productivity,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal; similar to anki.
 system,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
+transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
