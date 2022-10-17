@@ -661,3 +661,5 @@ git,git-secret,,https://github.com/sobolevn/git-secret,"A bash tool which stores
 git,gita,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repos.
 games,anonymine,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine/,Curses mode minesweeper without guessing and other original features.
 games,greed,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game of consumption. Eat as much as you can before munching yourself into a corner.
+system,Mxflow-cli,,https://github.com/metaory/mxflow-cli,"A modern, general purpose CLI task runner with human readable yaml config file"
+
