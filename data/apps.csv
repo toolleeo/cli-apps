@@ -368,7 +368,7 @@ productivity,Bartib,,https://github.com/nikolassv/bartib,Easy to use time tracki
 productivity,gdir,,https://github.com/pafoster/gdir,A command line tool which queries Google Directions. The tool displays results as human-readable text.
 webdev,Mycorrhiza Wiki,https://mycorrhiza.wiki/,https://github.com/bouncepaw/mycorrhiza,A lightweight file-system wiki engine that uses Git for keeping history.
 viewers,ov,,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.
-text-processing,fastmod,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
+programming,fastmod,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
 file-handling,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
 data-management,yq,,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
@@ -534,9 +534,9 @@ transfer,Jitter,,https://github.com/sharpcdf/jitter,"A repository-oriented binar
 transfer,Transgression TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission bittorrent program.
 text-processing,pdf-diff,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
 graphics,kakikun,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using unicode characters."
-text-processing,Aewan,http://aewan.sourceforge.net/,,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
+graphics,Aewan,http://aewan.sourceforge.net/,,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 graphics,jp2a,https://csl.name/jp2a/,,Command-line tool that converts images to ASCII art in the Linux terminal.
-text-processing,LinuxLogo,https://sourceforge.net/projects/linuxlogo/,,Display the Linux distribution logo in ASCII format.
+graphics,LinuxLogo,https://sourceforge.net/projects/linuxlogo/,,Display the Linux distribution logo in ASCII format.
 text-processing,pv,http://www.ivarch.com/programs/pv.shtml,,The pv command is used to monitor the progress of data through pipe.
 networking,TStream,,https://github.com/qnkhuat/tstream,"Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched."
 todo-manager,tsk,,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use."
@@ -577,7 +577,7 @@ utility,ora,,https://github.com/sindresorhus/ora,Elegant terminal spinner.
 monitor,hyperfine,,https://github.com/sharkdp/hyperfine,A command-line benchmarking tool.
 password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,,"Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises."
 text-processing,choose,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
-multimedia,invidtui,,https://github.com/darkhz/invidtui,"Invidious client, which fetches data from invidious instances and displays a user interface in the terminal(TUI), and allows for selecting and playing Youtube audio and video."
+multimedia,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video."
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 utility,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
