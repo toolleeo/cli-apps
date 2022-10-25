@@ -48,7 +48,7 @@ Some links to [related resources](#resources).
 
 ## <a name="calc"></a>Calculators
 
-Caclulators for numbers, dates, etc..
+Calculators for numbers, dates, etc..
 
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
