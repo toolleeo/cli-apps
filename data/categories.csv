@@ -14,11 +14,11 @@ file-manager,File manager,
 file-renamer,File renamers,
 file-system,File systems,
 font,Font management,
-funny,Funny tools,
+funny,Funny tools,Miscellaneous of tools that provide some funny/aesthetical functionality
 games,Games,
 git,Git and accessories,
 graphics,Graphics,
-multimedia,Multimedia,
+multimedia,Multimedia,Programs to specifically deal audio/video files
 networking,Networking,Programs to deal with networks and communication
 note-taking,Note taking,
 office,Office tools,Spreadsheet and presentations
@@ -30,7 +30,7 @@ programming,Programming,
 science,Science,Tools for scientific research and science applications
 security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems"
 shells,Shells,
-music,Sound and music,
+music,Sound and music,Music players
 monitor,System monitoring,
 system,System tools,
 terminal,Terminals,

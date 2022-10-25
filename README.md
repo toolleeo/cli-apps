@@ -290,6 +290,8 @@ File managers, tagging, bookmarking.
 
 ## <a name="funny"></a>Funny tools
 
+Miscellaneous of tools that provide some funny/aesthetical functionality.
+
 * [asciiacquarium](https://github.com/rgoring/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
 * [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
@@ -395,6 +397,8 @@ File managers, tagging, bookmarking.
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
 
 ## <a name="multimedia"></a>Multimedia
+
+Programs to specifically deal audio/video files.
 
 * [Editly](https://github.com/mifi/editly) - A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
 * [ffmpeg](https://github.com/FFmpeg/FFmpeg) - The Swiss knife of video editing from the command line.
@@ -589,6 +593,8 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [Zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Alternative shell designed for interactive use.  
 
 ## <a name="music"></a>Sound and music
+
+Music players.
 
 * [Alsamixer](https://github.com/alsa-project) - ALSA mixer with curses interfaces.  
 * [beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.
