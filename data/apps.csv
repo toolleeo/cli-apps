@@ -668,3 +668,4 @@ data-management,crudini,,https://github.com/pixelb/crudini,A utility for manipul
 productivity,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interface to bring Google Translation in the terminal.
 security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 utility,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
+funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
