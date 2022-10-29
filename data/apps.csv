@@ -672,3 +672,4 @@ funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your te
 utility,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
 funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 system,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage multiple runtime versions with a single CLI tool.
+shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua."
