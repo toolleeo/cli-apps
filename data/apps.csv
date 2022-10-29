@@ -670,3 +670,4 @@ security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,S
 utility,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
 funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 utility,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
+funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
