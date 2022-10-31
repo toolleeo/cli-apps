@@ -738,3 +738,4 @@ viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human reada
 file-renamer,rename-cli,,https://github.com/jhotmann/node-rename-cli,File renamer with TUI interface and preview.
 disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space navigator that traverse the file-system with a TUI interface.
 utility,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army knife for Unix permissions.
+file-handling,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
