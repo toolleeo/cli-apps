@@ -714,3 +714,4 @@ programming,Cookiecutter,,https://github.com/audreyr/cookiecutter,"A cross-platf
 chat,kirc,http://kirc.io/,https://github.com/mcpcpc/kirc,A tiny IRC client written in POSIX C99.
 programming,cgasm,,https://github.com/bnagy/cgasm,"Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation."
 webdev,is-up-cli,,https://github.com/sindresorhus/is-up-cli,Check whether a website is up or down using the [isitup.org](https://isitup.org/) API.
+webdev,pageres-cli,,https://github.com/sindresorhus/pageres-cli,Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
