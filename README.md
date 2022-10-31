@@ -51,11 +51,11 @@ Some links to [related resources](#resources).
 Calculators for numbers, dates, etc..
 
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
+* [Bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 * [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
 * [mdlt](https://github.com/metadelta/mdlt) - A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
 * [Nota](https://github.com/pouyakary/Nota) - Terminal calculator with rich notation.
 * [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
-* [pipes.sh](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 * [Qalculate](https://github.com/Qalculate/libqalculate) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 
 ## <a name="chat"></a>Chat and instant messaging
