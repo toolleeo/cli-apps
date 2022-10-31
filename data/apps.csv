@@ -734,3 +734,4 @@ utility,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects
 utility,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tldr pages, a community effort to simplify the beloved man pages with practical examples."
 data-management,ramda-cli,,https://github.com/raine/ramda-cli,A tool for processing data with functional pipelines.
 data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
+viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human readable by applying visual formatting.
