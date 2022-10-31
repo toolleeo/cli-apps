@@ -751,3 +751,4 @@ graphics,SVGO,,https://github.com/svg/svgo,SVG Optimizer is a Node.js-based tool
 graphics,Korkut,,https://github.com/oguzhaninan/korkut,"Quick and simple image processing with the following functions: optimize, convert, crop, resize, rotate, watermark, flip."
 funny,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes terminal screensaver.
 calc,Bitwise,,https://github.com/mellowcandle/bitwise,Base conversion and bit manipulator in ncurses.
+programming,rebound,,https://github.com/shobrook/rebound,"Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Golang, and Java."
