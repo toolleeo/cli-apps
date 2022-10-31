@@ -750,3 +750,4 @@ git,git-all-branches,,https://github.com/zacanger/git-all-branches,Improved visu
 graphics,SVGO,,https://github.com/svg/svgo,SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 graphics,Korkut,,https://github.com/oguzhaninan/korkut,"Quick and simple image processing with the following functions: optimize, convert, crop, resize, rotate, watermark, flip."
 funny,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes terminal screensaver.
+calc,pipes.sh,,https://github.com/mellowcandle/bitwise,Base conversion and bit manipulator in ncurses.
