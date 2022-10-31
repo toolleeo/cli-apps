@@ -745,3 +745,4 @@ cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily
 cd,pm,,https://github.com/Angelmmiguel/pm,"The easy way to switch between your projects on ZSH. In short, another directory changer."
 git,git commander,,https://github.com/golbin/git-commander,A git tool with an easy interactive terminal interface.
 git,gitlab-cli,,https://github.com/vishwanatharondekar/gitlab-cli,Create GitLab merge requests.
+git,semantic-git-commit-cli,,https://github.com/JPeer264/node-semantic-git-commit-cli,Ensure semantic commits messages. With emoji support.
