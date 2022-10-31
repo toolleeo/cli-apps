@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **744** apps/tools covered, divided in **43** categories.
+To date, **745** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (10) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (38) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (28) | [Programming](#programming) (31) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (42) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (35) | [Versioning](#versioning) (6) | [Viewers](#viewers) (28) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
+[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (10) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (38) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (27) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (28) | [Programming](#programming) (31) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (42) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (35) | [Versioning](#versioning) (6) | [Viewers](#viewers) (28) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
 
 Some links to [related resources](#resources).
 
@@ -371,6 +371,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search github repositories interactively.
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 * [git](https://github.com/git/git) - The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
+* [git commander](https://github.com/golbin/git-commander) - A git tool with an easy interactive terminal interface.
 * [git-annex](http://source.git-annex.branchable.com/?p=source.git) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
 * [git-cz](https://github.com/streamich/git-cz) - Semantic Git commits.
 * [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.

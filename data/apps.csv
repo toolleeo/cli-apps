@@ -743,3 +743,4 @@ file-handling,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organiz
 file-handling,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
 cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily navigate directories from the command line.
 cd,pm,,https://github.com/Angelmmiguel/pm,"The easy way to switch between your projects on ZSH. In short, another directory changer."
+git,git commander,,https://github.com/golbin/git-commander,A git tool with an easy interactive terminal interface.
