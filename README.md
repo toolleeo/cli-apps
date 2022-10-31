@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **718** apps/tools covered, divided in **43** categories.
+To date, **719** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (21) | [Multimedia](#multimedia) (3) | [Networking](#networking) (19) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (25) | [Programming](#programming) (29) | [Science](#science) (8) | [Security and encryption](#security) (14) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (41) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (31) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
+[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (21) | [Multimedia](#multimedia) (3) | [Networking](#networking) (19) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (26) | [Programming](#programming) (29) | [Science](#science) (8) | [Security and encryption](#security) (14) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (41) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (31) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
 
 Some links to [related resources](#resources).
 
@@ -541,6 +541,7 @@ Calendar managers.
 * [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal; similar to anki.
 * [Taskell](https://github.com/smallhadroncollider/taskell) - A CLI kanban board/task manager for Mac and Linux.
 * [thokr](https://github.com/thatvegandev/thokr) - Sleek typing tui with visualized results and historical logging.
+* [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
 * [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavoured.
 * [Translate Shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
