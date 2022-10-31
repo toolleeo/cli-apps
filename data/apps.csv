@@ -1,9 +1,9 @@
 category,name,homepage,git,description
 productivity,h-m-m,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
-networking,ipcalc,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"""ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range."" "
+networking,ipcalc,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range."
 networking,PSSH,https://code.google.com/archive/p/parallel-ssh/,,"PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications."
 networking,rtop,http://www.rtop-monitor.org/,https://github.com/rapidloop/rtop,"rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics."
-networking,geoiplookup,,https://github.com/maxmind/geoip-api-c,a little application to find geographical and network information of an IP address based no the geoip C API.
+networking,geoiplookup,,https://github.com/maxmind/geoip-api-c,A little application to find geographical and network information of an IP address based no the geoip C API.
 networking,quickserve,,https://github.com/charliesome/quickserve,"Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle."
 text-search,ack,http://beyondgrep.com/,https://github.com/beyondgrep/ack3,"A tool like `grep` optimized for programmers; written in Perl, it speeds up searches thanks to skipping non interesting directories, such as `.git`."
 text-search,ag,,https://github.com/ggreer/the_silver_searcher,"(The silver searcher) is a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster."
@@ -72,7 +72,7 @@ office,sc-im,,https://github.com/andmarti1424/sc-im,"Spreadsheet Calculator Impr
 office,tpp,http://www.ngolde.de/tpp.html,https://github.com/Kerrick/tpp,(text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
 organizers,gcalcli,,https://github.com/insanum/gcalcli,"CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events."
 organizers,khal,,https://github.com/pimutils/khal,"CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer)."
-organizers,ppl addressbook,http://ppladdressbook.org/,,"``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."
+organizers,ppl addressbook,http://ppladdressbook.org/,,"`ppl` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format."
 note-taking,kb,,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 organizers,khard,,https://github.com/lucc/khard,Console carddav client written in Pyhton.  
 todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
@@ -453,7 +453,7 @@ note-taking,eureka,,https://github.com/simeg/eureka,Store your ideas without lea
 todo-manager,taskell,,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
 todo-manager,taskbook,,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 science,papis,,https://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
-chat,tuir,,https://gitlab.com/ajak/tuir,Reddit TUI
+chat,tuir,,https://gitlab.com/ajak/tuir,Reddit TUI.
 networking,xxh,,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.
 browser,browsh,https://www.brow.sh/,https://github.com/browsh-org/browsh,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."
 viewers,jless,https://pauljuliusmartinez.github.io/,https://github.com/PaulJuliusMartinez/jless,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data."

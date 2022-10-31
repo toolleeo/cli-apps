@@ -68,7 +68,7 @@ Calculators for numbers, dates, etc..
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal; allows almost all the operations that can be done from GUI and Web clients.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
 * [tiny](https://github.com/osa1/tiny) - tiny is an IRC client written in Rust.
-* [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI
+* [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 * [WeeChat](https://github.com/weechat/weechat) - A "fast, light and extensible chat client".
 
 ## <a name="conversion"></a>Conversion
@@ -439,8 +439,8 @@ Programs to deal with networks and communication.
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 * [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
-* [geoiplookup](https://github.com/maxmind/geoip-api-c) - a little application to find geographical and network information of an IP address based no the geoip C API.
-* [ipcalc](https://github.com/kjokjo/ipcalc) - "ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range." 
+* [geoiplookup](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
+* [ipcalc](https://github.com/kjokjo/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive HTTPS proxy.
 * [mosh](https://mosh.org/) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * [Optic](https://github.com/opticdev/optic) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
@@ -508,7 +508,7 @@ Calendar managers.
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
 * [Org mode](https://git.savannah.gnu.org/cgit/emacs/org-mode.git) - Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format.
 * [pal](https://sourceforge.net/p/palcal/code/HEAD/tree/) - Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
-* [ppl addressbook](http://ppladdressbook.org/) - ``ppl`` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format.
+* [ppl addressbook](http://ppladdressbook.org/) - `ppl` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format.
 * [Remind](https://www.roaringpenguin.com/products/remind) - Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format.
 * [remint](https://sr.ht/~mlaparie/remint/) - A simple terminal UI wrapper for D. Skoll's Remind calendar program
 * [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV synchronization program.
