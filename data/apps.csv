@@ -733,3 +733,4 @@ programming,howdoi,,https://github.com/gleitz/howdoi,Instant coding answers via 
 utility,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
 utility,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tldr pages, a community effort to simplify the beloved man pages with practical examples."
 data-management,ramda-cli,,https://github.com/raine/ramda-cli,A tool for processing data with functional pipelines.
+data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
