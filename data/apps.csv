@@ -679,3 +679,4 @@ viewers,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An R
 viewers,medium-cli,,https://github.com/djadmin/medium-cli,Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 utility,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
+programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
