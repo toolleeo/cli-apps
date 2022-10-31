@@ -705,3 +705,4 @@ calc,mdlt,,https://github.com/metadelta/mdlt,A lightweight command line tool tha
 networking,serve,,https://github.com/zeit/serve,"Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents."
 programming,mklicense,,https://github.com/cezaraugusto/mklicense,CLI tool for easily generating the text of the most common licenses.
 webdev,surge,https://surge.sh,https://github.com/sintaxi/surge,Static web publishing on surge.sh CDN.
+webdev,s3cmd,,https://github.com/s3tools/s3cmd,Command line tool for managing Amazon S3 and CloudFront services.
