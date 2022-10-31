@@ -702,3 +702,4 @@ organizers,vdirsyncer,,https://github.com/pimutils/vdirsyncer,CalDAV synchroniza
 productivity,moeda,,https://github.com/thompsonemerson/moeda,A foreign exchange rates and currency conversion using the command line.
 webdev,crawley,,https://github.com/s0rg/crawley,Unix-way web crawler: crawls web pages and prints any link it can find.
 calc,mdlt,,https://github.com/metadelta/mdlt,A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
+networking,serve,,https://github.com/zeit/serve,"Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents."
