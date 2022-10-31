@@ -730,3 +730,4 @@ networking,xiringuito,,https://github.com/ivanilves/xiringuito,VPN made easy! No
 security,acmetool,,https://github.com/hlandau/acme,Easy-to-use command line tool for automatically acquiring certificates from ACME servers (such as Let's Encrypt).
 utility,weather-cli,,https://github.com/riyadhalnur/weather-cli,Check the weather for your city from the terminal.
 programming,howdoi,,https://github.com/gleitz/howdoi,Instant coding answers via the command line.
+utility,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
