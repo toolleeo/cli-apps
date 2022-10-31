@@ -681,3 +681,4 @@ utility,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the c
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
 programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
+text-processing,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
