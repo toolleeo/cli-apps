@@ -718,3 +718,4 @@ webdev,pageres-cli,,https://github.com/sindresorhus/pageres-cli,Capture screensh
 graphics,deviceframe,,https://github.com/c0bra/deviceframe,Put device frames around mobile/web/progressive app screenshots.
 programming,add-gitignore,,https://github.com/TejasQ/add-gitignore,Interactively generate a .gitignore for software projects.
 productivity,Timetrap,,https://github.com/samg/timetrap,A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
+productivity,Timewarrior,,https://github.com/GothenburgBitFactory/timewarrior,"A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting."
