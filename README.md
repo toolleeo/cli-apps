@@ -592,7 +592,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [LUKS](https://github.com/guardianproject/luks/wiki) - Hard disk encryption tool; it stores all setup information in the partition header, enabling easy data transport or migration.
 * [Minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 * [ots](https://github.com/sniptt-official/ots) - Share end-to-end encrypted secrets with others via a one-time URL.
-* [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords
+* [StegCloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords
 * [uacme](https://github.com/ndilieto/uacme) - ACMEv2 client written in plain C with minimal dependencies.
 * [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
 
