@@ -723,3 +723,4 @@ graphics,MapSCII,,https://github.com/rastapasta/mapscii,A Braille & ASCII world 
 note-taking,idea,,https://github.com/IonicaBizau/idea,A lightweight tool for keeping ideas in a safe place quick and easy.
 todo-manager,td-cli,,https://github.com/darrikonn/td-cli,"A command line todo manager, where you can organize and manage your todos across multiple projects."
 productivity,utt,,https://github.com/larose/utt,Ultimate Time Tracker - A simple command-line time tracker written in Python.
+system,active-win-cli,,https://github.com/sindresorhus/active-win-cli,Get the title/id/etc of the active window.
