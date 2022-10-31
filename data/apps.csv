@@ -731,3 +731,4 @@ security,acmetool,,https://github.com/hlandau/acme,Easy-to-use command line tool
 utility,weather-cli,,https://github.com/riyadhalnur/weather-cli,Check the weather for your city from the terminal.
 programming,howdoi,,https://github.com/gleitz/howdoi,Instant coding answers via the command line.
 utility,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
+utility,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tldr pages, a community effort to simplify the beloved man pages with practical examples."
