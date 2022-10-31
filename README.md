@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **721** apps/tools covered, divided in **43** categories.
+To date, **722** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (19) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (27) | [Programming](#programming) (29) | [Science](#science) (8) | [Security and encryption](#security) (14) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (41) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (31) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
+[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (19) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (27) | [Programming](#programming) (29) | [Science](#science) (8) | [Security and encryption](#security) (14) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (41) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (31) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
 
 Some links to [related resources](#resources).
 
@@ -446,6 +446,7 @@ Programs to deal with networks and communication.
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 * [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 * [Geeknote](https://github.com/jeffkowalski/geeknote) - A command line client for Evernote that can be use on Linux, FreeBSD and OS X.
+* [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 * [jnrl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
 * [jot](https://github.com/araekiel/jot) - Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.
 * [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
