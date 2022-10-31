@@ -691,3 +691,4 @@ text-processing,to-single-quotes,,https://github.com/sindresorhus/to-single-quot
 text-processing,to-double-quotes,,https://github.com/sindresorhus/to-double-quotes-cli,Convert matching single-quotes to double-quotes.
 text-processing,detect-indent-cli,,https://github.com/sindresorhus/detect-indent-cli,Detect the indentation of code.
 text-processing,fullname-cli,,https://github.com/sindresorhus/fullname-cli,Get the fullname of the current user.
+graphics,gifgen,,https://github.com/lukechilds/gifgen,Simple high quality GIF encoding.
