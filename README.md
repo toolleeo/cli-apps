@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **683** apps/tools covered, divided in **43** categories.
+To date, **684** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (18) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (24) | [Programming](#programming) (22) | [Science](#science) (8) | [Security and encryption](#security) (13) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (32) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (18) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (24) | [Programming](#programming) (22) | [Science](#science) (8) | [Security and encryption](#security) (13) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (33) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (30) | [Versioning](#versioning) (5) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -703,6 +703,7 @@ Music players.
 
 ## <a name="text-processing"></a>Text processing
 
+* [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text.
 * [amber](https://github.com/dalance/amber) - Code search / replace tool.
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 * [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.

@@ -682,3 +682,4 @@ utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displ
 programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
 text-processing,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
+text-processing,alex,,https://github.com/wooorm/alex,"Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text."
