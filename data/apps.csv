@@ -700,3 +700,4 @@ file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager w
 networking,mosh,,https://mosh.org/,Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 organizers,vdirsyncer,,https://github.com/pimutils/vdirsyncer,CalDAV synchronization program.
 productivity,moeda,,https://github.com/thompsonemerson/moeda,A foreign exchange rates and currency conversion using the command line.
+webdev,crawley,,https://github.com/s0rg/crawley,Unix-way web crawler: crawls web pages and prints any link it can find.
