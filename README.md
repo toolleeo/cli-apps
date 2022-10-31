@@ -972,5 +972,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [Awesome git addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI.
 
+[Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+
 
 
