@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **741** apps/tools covered, divided in **43** categories.
+To date, **742** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (37) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (28) | [Programming](#programming) (31) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (42) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (35) | [Versioning](#versioning) (6) | [Viewers](#viewers) (28) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
+[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (38) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (28) | [Programming](#programming) (31) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (42) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (35) | [Versioning](#versioning) (6) | [Viewers](#viewers) (28) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
 
 Some links to [related resources](#resources).
 
@@ -254,6 +254,7 @@ File managers, tagging, bookmarking.
 * [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
 * [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
 * [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
+* [tre](https://github.com/dduan/tre) - `tree` command improved with git awareness, editor aliasing, and colors.
 * [tree](https://gitlab.com/OldManProgrammer/unix-tree) - "Recursive directory listing command that produces a depth indented listing of files".
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
@@ -269,7 +270,7 @@ File managers, tagging, bookmarking.
 * [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
 * [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
 * [lfm](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
-* [Midnight Commander](https://github.com/MidnightCommander/mc) - a visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
+* [Midnight Commander](https://github.com/MidnightCommander/mc) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
 * [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C; rather complete in terms of features; especially lightweight and responsive.  
 * [nnn](https://github.com/jarun/nnn) - "The missing terminal file browser for X". Provides only directory traversal and file visualization.  No delete/move operations are supported.
 * [ranger](https://github.com/ranger/ranger) - Console file manager with vi key bindings; curses interface with a view on the directory hierarchy; comes with a file launcher that automatically determines which program to use for opening a given file type.  

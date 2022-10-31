@@ -115,7 +115,7 @@ git,tig,,https://github.com/jonas/tig,"An ncurses-based text-mode interface for 
 file-system,sshfs,,https://github.com/libfuse/sshfs,Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.  
 file-system,TMSU,http://tmsu.org/,https://github.com/oniony/TMSU,A tool for tagging files; it provides a simple command line tool for applying tags and a virtual filesystem so that you can get a tag-based view of your files from within any other program.  
 file-manager,lfm,https://inigo.katxi.org/devel/lfm/,,"(Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes."
-file-manager,Midnight Commander,http://www.midnight-commander.org/,https://github.com/MidnightCommander/mc,"a visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor."
+file-manager,Midnight Commander,http://www.midnight-commander.org/,https://github.com/MidnightCommander/mc,"A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor."
 file-manager,ncursesFM,,https://github.com/FedeDP/ncursesFM,File manager written in C; rather complete in terms of features; especially lightweight and responsive.  
 file-manager,ranger,https://ranger.github.io/,https://github.com/ranger/ranger,Console file manager with vi key bindings; curses interface with a view on the directory hierarchy; comes with a file launcher that automatically determines which program to use for opening a given file type.  
 file-manager,vifm,https://vifm.info/,https://github.com/vifm/vifm,"""ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt"" (cit.)."
@@ -740,3 +740,4 @@ disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space
 utility,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army knife for Unix permissions.
 file-handling,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
 file-handling,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organize your files automatically.
+file-handling,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
