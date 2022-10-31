@@ -710,3 +710,4 @@ utility,flog,,http://github.com/mingrammer/flog,"A fake log generator for log fo
 chat,PingMe,,https://github.com/kha7iq/pingme,"Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others."
 programming,release-it,,https://github.com/webpro/release-it,Automate releases for Git repositories and/or Node.js packages.
 programming,clog,,https://github.com/clog-tool/clog-cli,Creates a changelog automatically from local git metadata.
+programming,Cookiecutter,,https://github.com/audreyr/cookiecutter,"A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
