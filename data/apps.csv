@@ -744,3 +744,4 @@ file-handling,tre,,https://github.com/dduan/tre,"`tree` command improved with gi
 cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily navigate directories from the command line.
 cd,pm,,https://github.com/Angelmmiguel/pm,"The easy way to switch between your projects on ZSH. In short, another directory changer."
 git,git commander,,https://github.com/golbin/git-commander,A git tool with an easy interactive terminal interface.
+git,gitlab-cli,,https://github.com/vishwanatharondekar/gitlab-cli,Create GitLab merge requests.
