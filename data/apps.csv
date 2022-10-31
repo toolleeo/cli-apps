@@ -674,3 +674,4 @@ funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command lin
 system,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage multiple runtime versions with a single CLI tool.
 shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua."
 productivity,speedread,,https://github.com/pasky/speedread,A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
+online,pockyt,,https://github.com/arvindch/pockyt,"Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet."

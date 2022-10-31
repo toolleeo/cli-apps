@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **675** apps/tools covered, divided in **43** categories.
+To date, **676** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (18) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (7) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (24) | [Programming](#programming) (21) | [Science](#science) (8) | [Security and encryption](#security) (13) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (31) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
+[Backup](#backup) (8) | [Calculators](#calc) (5) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (10) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (18) | [Multimedia](#multimedia) (3) | [Networking](#networking) (17) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (13) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (24) | [Programming](#programming) (21) | [Science](#science) (8) | [Security and encryption](#security) (13) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (31) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (27) | [Versioning](#versioning) (5) | [Viewers](#viewers) (25) | [Web browser](#browser) (16) | [Web development](#webdev) (13)
 
 Some links to [related resources](#resources).
 
@@ -490,6 +490,7 @@ Calendar managers.
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (html version) from the terminal.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
+* [pockyt](https://github.com/arvindch/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
 * [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
 * [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
