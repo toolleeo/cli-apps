@@ -735,3 +735,4 @@ utility,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tld
 data-management,ramda-cli,,https://github.com/raine/ramda-cli,A tool for processing data with functional pipelines.
 data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
 viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human readable by applying visual formatting.
+file-renamer,rename-cli,,https://github.com/jhotmann/node-rename-cli,File renamer with TUI interface and preview.
