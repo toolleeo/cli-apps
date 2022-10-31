@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **704** apps/tools covered, divided in **43** categories.
+To date, **705** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (20) | [Multimedia](#multimedia) (3) | [Networking](#networking) (19) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (25) | [Programming](#programming) (23) | [Science](#science) (8) | [Security and encryption](#security) (14) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (41) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (30) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (14)
+[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (8) | [Conversion](#conversion) (7) | [Data management](#data-management) (31) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (8) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (7) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (20) | [Multimedia](#multimedia) (3) | [Networking](#networking) (19) | [Note taking](#note-taking) (14) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (25) | [Programming](#programming) (24) | [Science](#science) (8) | [Security and encryption](#security) (14) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (27) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (41) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (18) | [Utilities](#utility) (30) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (14)
 
 Some links to [related resources](#resources).
 
@@ -559,6 +559,7 @@ Calendar managers.
 * [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
 * [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 * [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+* [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
 * [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 * [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
