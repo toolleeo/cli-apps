@@ -741,3 +741,4 @@ utility,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army
 file-handling,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
 file-handling,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organize your files automatically.
 file-handling,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
+cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily navigate directories from the command line.
