@@ -729,3 +729,4 @@ text-processing,DocToc,,https://github.com/thlorenz/doctoc,Generates table of co
 networking,xiringuito,,https://github.com/ivanilves/xiringuito,VPN made easy! No configuration. No VPN servers. No hassle. Using SSH capabilities.
 security,acmetool,,https://github.com/hlandau/acme,Easy-to-use command line tool for automatically acquiring certificates from ACME servers (such as Let's Encrypt).
 utility,weather-cli,,https://github.com/riyadhalnur/weather-cli,Check the weather for your city from the terminal.
+programming,howdoi,,https://github.com/gleitz/howdoi,Instant coding answers via the command line.
