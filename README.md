@@ -970,5 +970,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [Site Generators](https://jamstack.org/generators/) - A comprehensive list of Static Site Generators.
 
+[Awesome git addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI.
+
 
 
