@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **738** apps/tools covered, divided in **43** categories.
+To date, **739** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (28) | [Programming](#programming) (31) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (42) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (34) | [Versioning](#versioning) (6) | [Viewers](#viewers) (28) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
+[Backup](#backup) (8) | [Calculators](#calc) (6) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (8) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (35) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (18) | [Games](#games) (35) | [Git and accessories](#git) (26) | [Graphics](#graphics) (22) | [Multimedia](#multimedia) (3) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (15) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (8) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (28) | [Programming](#programming) (31) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (42) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (35) | [Versioning](#versioning) (6) | [Viewers](#viewers) (28) | [Web browser](#browser) (16) | [Web development](#webdev) (18)
 
 Some links to [related resources](#resources).
 
@@ -845,6 +845,7 @@ Music players.
 * [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
 * [tldr](https://github.com/tldr-pages/tldr) - Client for tldr pages, a community effort to simplify the beloved man pages with practical examples.
 * [topalias](https://github.com/CSRedRat/topalias) - Linux alias generator from bash/zsh command history with statistics, written on Python.
+* [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 * [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
