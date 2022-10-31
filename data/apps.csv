@@ -698,3 +698,4 @@ programming,readme-md-generator,,https://github.com/kefranabg/readme-md-generato
 security,StegCloak,,https://github.com/kurolabs/stegcloak,Hide secrets with invisible characters in plain text securely using passwords
 file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager written in bash."
 networking,mosh,,https://mosh.org/,Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
+organizers,vdirsyncer,,https://github.com/pimutils/vdirsyncer,CalDAV synchronization program.
