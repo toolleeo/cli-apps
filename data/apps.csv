@@ -736,3 +736,4 @@ data-management,ramda-cli,,https://github.com/raine/ramda-cli,A tool for process
 data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
 viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human readable by applying visual formatting.
 file-renamer,rename-cli,,https://github.com/jhotmann/node-rename-cli,File renamer with TUI interface and preview.
+disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space navigator that traverse the file-system with a TUI interface.
