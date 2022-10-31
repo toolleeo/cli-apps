@@ -715,3 +715,4 @@ chat,kirc,http://kirc.io/,https://github.com/mcpcpc/kirc,A tiny IRC client writt
 programming,cgasm,,https://github.com/bnagy/cgasm,"Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation."
 webdev,is-up-cli,,https://github.com/sindresorhus/is-up-cli,Check whether a website is up or down using the [isitup.org](https://isitup.org/) API.
 webdev,pageres-cli,,https://github.com/sindresorhus/pageres-cli,Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
+graphics,deviceframe,,https://github.com/c0bra/deviceframe,Put device frames around mobile/web/progressive app screenshots.
