@@ -748,3 +748,4 @@ git,gitlab-cli,,https://github.com/vishwanatharondekar/gitlab-cli,Create GitLab 
 git,semantic-git-commit-cli,,https://github.com/JPeer264/node-semantic-git-commit-cli,Ensure semantic commits messages. With emoji support.
 git,git-all-branches,,https://github.com/zacanger/git-all-branches,Improved visualization of git branches (`git branch -a`).
 graphics,SVGO,,https://github.com/svg/svgo,SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
+graphics,Korkut,,https://github.com/oguzhaninan/korkut,"Quick and simple image processing with the following functions: optimize, convert, crop, resize, rotate, watermark, flip."
