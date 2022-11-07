@@ -306,7 +306,7 @@ File managers, tagging, bookmarking.
 
 Miscellaneous of tools that provide some funny/aesthetical functionality.
 
-* [asciiacquarium](https://github.com/rgoring/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
+* [asciicquarium](https://github.com/rgoring/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.
 * [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 * [cmatrix](https://github.com/abishekvashok/cmatrix) - ncurses program that display the scrolling lines found in the movie `The matrix`.
