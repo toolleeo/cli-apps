@@ -752,3 +752,4 @@ graphics,Korkut,,https://github.com/oguzhaninan/korkut,"Quick and simple image p
 funny,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes terminal screensaver.
 calc,Bitwise,,https://github.com/mellowcandle/bitwise,Base conversion and bit manipulator in ncurses.
 programming,rebound,,https://github.com/shobrook/rebound,"Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Golang, and Java."
+programming,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
