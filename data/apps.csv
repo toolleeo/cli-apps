@@ -770,3 +770,4 @@ calc,cash-cli,,https://github.com/xxczaki/cash-cli,Convert Currency Rates.
 office,DeckTape,,https://github.com/astefanutti/decktape,DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
 file-system,ipfs-deploy,,https://github.com/agentofuser/ipfs-deploy,Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 productivity,doing,,https://github.com/ttscoff/doing/,A command line tool for remembering what you were doing and tracking what you've done.
+text-processing,underscore-cli,,https://github.com/ddopson/underscore-cli,Command-line utility-belt for hacking JSON and Javascript.
