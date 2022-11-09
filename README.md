@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **769** apps/tools covered, divided in **43** categories.
+To date, **770** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (3) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (35) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (29) | [Programming](#programming) (32) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (36) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
+[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (33) | [Data transfer](#transfer) (33) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (35) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (29) | [Programming](#programming) (32) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (26) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (36) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
 
 Some links to [related resources](#resources).
 
@@ -298,6 +298,7 @@ File managers, tagging, bookmarking.
 
 ## <a name="file-system"></a>File systems
 
+* [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 * [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.  
 * [TMSU](https://github.com/oniony/TMSU) - A tool for tagging files; it provides a simple command line tool for applying tags and a virtual filesystem so that you can get a tag-based view of your files from within any other program.  
 * [wutag](https://github.com/wojciechkepka/wutag) - CLI Tool for tagging and organizing files by tags.
