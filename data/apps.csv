@@ -767,3 +767,4 @@ webdev,HTTPie,,https://github.com/jkbrzt/httpie,HTTPie for Terminal: human-frien
 webdev,Discharge,,https://github.com/brandonweiss/discharge,Deploy static websites to Amazon S3.
 webdev,Reachable,,https://github.com/italolelis/reachable,Check if a domain is up.
 calc,cash-cli,,https://github.com/xxczaki/cash-cli,Convert Currency Rates.
+office,DeckTape,,https://github.com/astefanutti/decktape,DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
