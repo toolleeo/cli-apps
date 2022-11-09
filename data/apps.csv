@@ -763,3 +763,4 @@ online,Awesome Finder,,https://github.com/mingrammer/awesome-finder,Search the a
 online,Seashells,https://seashells.io/,https://github.com/anishathalye/seashells,Pipe output to the web.
 utility,movie,,https://github.com/mayankchd/movie,A CLI for getting information about a movies and comparing two movies.
 text-processing,diff2html-cli,,https://github.com/rtfpessoa/diff2html-cli,Parse git diffs as JSON and generate pretty HTML.
+webdev,HTTPie,,https://github.com/jkbrzt/httpie,HTTPie for Terminal: human-friendly CLI HTTP client for the API era.
