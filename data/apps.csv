@@ -765,3 +765,4 @@ utility,movie,,https://github.com/mayankchd/movie,A CLI for getting information 
 text-processing,diff2html-cli,,https://github.com/rtfpessoa/diff2html-cli,Parse git diffs as JSON and generate pretty HTML.
 webdev,HTTPie,,https://github.com/jkbrzt/httpie,HTTPie for Terminal: human-friendly CLI HTTP client for the API era.
 webdev,Discharge,,https://github.com/brandonweiss/discharge,Deploy static websites to Amazon S3.
+webdev,Reachable,,https://github.com/italolelis/reachable,Check if a domain is up.
