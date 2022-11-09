@@ -760,3 +760,4 @@ cd,z.lua,,https://github.com/skywind3000/z.lua,Directory changer that learns you
 cd,fz,,https://github.com/changyuheng/fz,Fuzzy tab completion for z.
 file-handling,happyfinder,,https://github.com/hugows/hf,(another) Fuzzy file finder for the command line.
 online,Awesome Finder,,https://github.com/mingrammer/awesome-finder,Search the awesome lists from the command line.
+online,Seashells,https://seashells.io/,https://github.com/anishathalye/seashells,Pipe output to the web.
