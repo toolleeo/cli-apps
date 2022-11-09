@@ -772,3 +772,4 @@ file-system,ipfs-deploy,,https://github.com/agentofuser/ipfs-deploy,Zero-Config 
 productivity,doing,,https://github.com/ttscoff/doing/,A command line tool for remembering what you were doing and tracking what you've done.
 text-processing,underscore-cli,,https://github.com/ddopson/underscore-cli,Command-line utility-belt for hacking JSON and Javascript.
 monitor,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-platform command line utility to watch file system changes.
+transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share files from the command line. A fully featured Firefox Send client.
