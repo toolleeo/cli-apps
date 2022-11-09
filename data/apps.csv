@@ -757,3 +757,4 @@ productivity,Moro,,https://github.com/omidfi/moro,"A command line tool for track
 viewers,Grip,,https://github.com/joeyespo/grip,GitHub Readme Instant Preview - Preview markdown files as GitHub would render them.
 cd,z,,https://github.com/rupa/z,Directory changer based on aging and frecency.
 cd,z.lua,,https://github.com/skywind3000/z.lua,Directory changer that learns your habits.
+cd,fz,,https://github.com/changyuheng/fz,Fuzzy tab completion for z.
