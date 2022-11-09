@@ -773,3 +773,4 @@ productivity,doing,,https://github.com/ttscoff/doing/,A command line tool for re
 text-processing,underscore-cli,,https://github.com/ddopson/underscore-cli,Command-line utility-belt for hacking JSON and Javascript.
 monitor,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-platform command line utility to watch file system changes.
 transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share files from the command line. A fully featured Firefox Send client.
+data-management,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
