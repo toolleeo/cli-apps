@@ -783,3 +783,4 @@ system,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history th
 productivity,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identifies an anime from an image and yields key data about it.
 data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
+disk-analyzer,Dust,,https://github.com/bootandy/dust,A more intuitive version of du in rust.
