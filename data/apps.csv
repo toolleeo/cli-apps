@@ -780,3 +780,4 @@ science,Go-L,,https://github.com/Jeadie/Go-L,"Game of Life with different update
 utility,ttyscheme,,https://github.com/kolunmi/ttyscheme,Collection of Color Schemes for the TTY.
 chat,tweets,,https://github.com/diracdeltas/tweets,Decentralized alternative to twitter that uses git as support tool to manage the tweets.
 system,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers."
+productivity,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
