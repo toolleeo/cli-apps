@@ -1,4 +1,4 @@
-# Awesome list of CLI/TUI programs
+# The largest Awesome List of CLI/TUI programs
 
 This repository contains a list of CLI/TUI apps with links and a short description.
 
