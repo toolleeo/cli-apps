@@ -1,7 +1,12 @@
 # Awesome list of CLI/TUI programs
 
-This repository contains a list of (mainly) CLI/TUI apps with links and a short description.
+This repository contains a list of CLI/TUI apps with links and a short description.
+
 To the best of my knowledge, this is the largest collection of CLI/TUI tools available in the form of awesome list.
+
+If you are looking for additional information, you may like [CLIpedia](https://robot.unipv.it/clipedia/), a growing blog about CLI/TUI programs.
+
+# Data organization and building of the list
 
 The peculiarity of this repository is that the source of information is structured into CSV files with a simple structure.
 See the `data/` directory.
