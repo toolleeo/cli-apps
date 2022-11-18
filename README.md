@@ -27,11 +27,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **776** apps/tools covered, divided in **43** categories.
+To date, **774** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (35) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (35) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (30) | [Programming](#programming) (32) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (27) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (37) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
+[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (10) | [Conversion](#conversion) (7) | [Data management](#data-management) (35) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (35) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (30) | [Programming](#programming) (32) | [Science](#science) (8) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (27) | [System tools](#system) (28) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (37) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
 
 Some links to [related resources](#resources).
 
@@ -910,7 +910,6 @@ Music players.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
 * [mpv](https://github.com/mpv-player/mpv/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
-* [mupdf](http://git.ghostscript.com/?p=mupdf.git) - Lightweight graphical PDF visualizer; strong key-based control; fast and accurate rendering.  
 * [Newsbeuter](http://newsbeuter.org/) - "The Mutt of RSS Feed Readers": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard.
 * [Newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
@@ -923,7 +922,6 @@ Music players.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vj](https://github.com/busyloop/vj) - JSON Humanizer makes JSON human readable by applying visual formatting.
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.
-* [zathura](https://git.pwmt.org/pwmt/zathura) - Plugin based document file visualizer (PDF, DejaVu, PS); strongly key-based control.
 
 ## <a name="browser"></a>Web browser
 
