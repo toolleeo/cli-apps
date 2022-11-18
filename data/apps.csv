@@ -774,3 +774,4 @@ transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share fi
 data-management,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
 utility,Wat,,https://github.com/dthree/wat,"Instant, central, community-built docs."
 productivity,cambd-cli,,https://github.com/rocktimsaikia/cambd-cli,A CLI tool to automate the process to access the Cambridge dictionary.
+productivity,zeitkatze,,https://github.com/leonmavr/zeitkatze,Simplest stopwatch in a linux console.
