@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **783** apps/tools covered, divided in **43** categories.
+To date, **784** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (35) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (36) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (33) | [Programming](#programming) (32) | [Science](#science) (9) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (27) | [System tools](#system) (29) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
+[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (36) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (33) | [Programming](#programming) (32) | [Science](#science) (9) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (27) | [System tools](#system) (29) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
 
 Some links to [related resources](#resources).
 
@@ -117,6 +117,7 @@ File format converters.
 * [ramda-cli](https://github.com/raine/ramda-cli) - A tool for processing data with functional pipelines.
 * [Redis Viewer](https://github.com/SaltFishPr/redis-viewer) - A tool to view redis data in terminal.
 * [ROAPI](https://github.com/roapi/roapi) - ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.
+* [Soul](https://github.com/thevahidal/soul) - A SQLite REST and realtime server.
 * [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.
 * [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing databases, written in pure Go.
 * [TSV Utilities](https://github.com/eBay/tsv-utils) - Command line tools for large, tabular data files.

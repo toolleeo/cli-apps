@@ -782,3 +782,4 @@ chat,tweets,,https://github.com/diracdeltas/tweets,Decentralized alternative to 
 system,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers."
 productivity,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identifies an anime from an image and yields key data about it.
+data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
