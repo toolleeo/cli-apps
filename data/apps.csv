@@ -777,3 +777,4 @@ productivity,cambd-cli,,https://github.com/rocktimsaikia/cambd-cli,A CLI tool to
 productivity,zeitkatze,,https://github.com/leonmavr/zeitkatze,Simplest stopwatch in a linux console.
 games,Words,,https://github.com/ludovicianul/words,A set of word-based puzzle games for the CLI while you wait for the build to run.
 science,Go-L,,https://github.com/Jeadie/Go-L,"Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.)."
+utility,ttyscheme,,https://github.com/kolunmi/ttyscheme,Collection of Color Schemes for the TTY.
