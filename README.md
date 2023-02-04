@@ -186,6 +186,8 @@ Tools for improving the efficiency of directory traversal.
 
 ## <a name="disk-analyzer"></a>Disk usage analyzers
 
+* [cdu](http://arsunik.free.fr/prog/cdu.html) - cdu (colored `du`) is a perl script that calls `du` and displays a pretty histogram with optional colors allowing to immediately see the directories which take most disk space.
+* [dfc](https://github.com/rolinh/dfc) - Report file system space usage information with style.
 * [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator that traverse the file-system with a TUI interface.
 * [diskus](https://github.com/sharkdp/diskus) - Minimal, fast alternative to du -sh.
 * [dua](https://github.com/Byron/dua-cli) - Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.

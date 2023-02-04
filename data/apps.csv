@@ -127,6 +127,8 @@ backup,paperbackup,,https://github.com/intra2net/paperbackup,Create a pdf with b
 transfer,rclone,https://rclone.org/,https://github.com/rclone/rclone,Rclone manages file synchronization on cloud storage.
 transfer,Unison,https://www.cis.upenn.edu/~bcpierce/unison/,https://github.com/bcpierce00/unison,"File synchronizer. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other."
 backup,Zaloha.sh,,https://github.com/Fitus/Zaloha.sh,Shellscript for synchronization of files and directories.
+disk-analyzer,cdu,http://arsunik.free.fr/prog/cdu.html,,cdu (colored `du`) is a perl script that calls `du` and displays a pretty histogram with optional colors allowing to immediately see the directories which take most disk space.
+disk-analyzer,dfc,,https://github.com/rolinh/dfc,Report file system space usage information with style.
 disk-analyzer,ncdu,https://dev.yorhel.nl/ncdu,https://code.blicky.net/yorhel/ncdu/,"""A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
 file-handling,classifier,,https://github.com/bhrigu123/classifier,"Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc."
 file-handling,detox,http://detox.sourceforge.net/,https://sourceforge.net/projects/detox/,A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
