@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **786** apps/tools covered, divided in **43** categories.
+To date, **785** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (10) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (36) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (34) | [Programming](#programming) (32) | [Science](#science) (9) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (27) | [System tools](#system) (29) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
+[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (9) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (19) | [Games](#games) (36) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (4) | [Networking](#networking) (20) | [Note taking](#note-taking) (15) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (14) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (11) | [Productivity](#productivity) (34) | [Programming](#programming) (32) | [Science](#science) (9) | [Security and encryption](#security) (15) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (27) | [System tools](#system) (29) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (43) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (27) | [Web browser](#browser) (16) | [Web development](#webdev) (21)
 
 Some links to [related resources](#resources).
 
@@ -191,7 +191,6 @@ Tools for improving the efficiency of directory traversal.
 * [dua](https://github.com/Byron/dua-cli) - Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 * [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
 * [Dust](https://github.com/bootandy/dust) - du + rust = dust. Like du but more intuitive.
-* [Dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
 * [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge.
 * [ncdu](https://code.blicky.net/yorhel/ncdu/) - "A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."
