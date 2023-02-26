@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **817** apps/tools covered, divided in **43** categories.
+To date, **818** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (11) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (20) | [Games](#games) (36) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (12) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (28) | [System tools](#system) (30) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (49) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (8) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (20) | [Games](#games) (36) | [Git and accessories](#git) (30) | [Graphics](#graphics) (24) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (12) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (6) | [Sound and music](#music) (24) | [System monitoring](#monitor) (28) | [System tools](#system) (30) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (49) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -195,6 +195,7 @@ Tools for improving the efficiency of directory traversal.
 * [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
 * [Dust](https://github.com/bootandy/dust) - du + rust = dust. Like du but more intuitive.
 * [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+* [erdtree](https://github.com/solidiquis/erdtree) - A multi-threaded file-tree visualizer and disk usage analyzer.
 * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However HDDs work as well, but the performance gain is not so huge.
 * [ncdu](https://code.blicky.net/yorhel/ncdu/) - "A disk usage analyzer with an ncurses interface.  It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."
 * [vizex](https://github.com/bexxmodd/vizex) - Visualize the disk space usage for every partition and media on the user's machine.
