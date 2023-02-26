@@ -805,3 +805,4 @@ utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomp
 utility,Clipboard,,https://github.com/Slackadays/Clipboard,"Cut, copy, and paste anything, anywhere, all from the terminal! Save time and effort the easy way."
 utility,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
+viewers,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
