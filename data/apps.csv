@@ -789,3 +789,4 @@ productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNI
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 system,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of you CLI tools, if they are installed and what version they are on."
+utility,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
