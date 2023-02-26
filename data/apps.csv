@@ -811,3 +811,4 @@ utility,rss-cli,,https://github.com/Clortox/rss-cli,A unix-inspired cli applicat
 security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the wordlists for random passphrases made by the EFF.
 password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databases from your terminal.
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
+multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips/,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
