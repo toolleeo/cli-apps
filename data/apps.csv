@@ -799,3 +799,4 @@ organizers,caldr,,https://github.com/mrusme/caldr,A lightweight CLI / TUI calend
 utility,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
 text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the command line.
 organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime."
+utility,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
