@@ -787,3 +787,4 @@ utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identi
 data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
 productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
+funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
