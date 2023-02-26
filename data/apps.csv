@@ -794,3 +794,4 @@ chat,ttchat,,https://github.com/atye/ttchat,Twitch chats in the terminal.
 utility,teetail,,https://github.com/sl236/teetail,"Like tee, but only the tail goes in the file."
 science,starfetch,,https://github.com/Haruno19/starfetch,Command line tool that displays constellations.
 webdev,xpe,,https://github.com/charmparticle/xpe,A commandline xpath tool that is easy to use.
+programming,fmake,,https://github.com/bharatvaj/fmake,Brings `make`s interface to almost any build system.
