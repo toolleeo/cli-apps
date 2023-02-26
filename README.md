@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **829** apps/tools covered, divided in **43** categories.
+To date, **830** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (22) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -340,6 +340,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [gof-rs](https://github.com/omagdy7/gof-rs) - Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 * [Limoji](https://github.com/GEROGIANNIS/Limoji) - Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
 * [matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
+* [Maze Solver](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
 * [pokeget](https://github.com/talwat/pokeget) - A bash script you can use to display cool sprites of pokemon in your terminal.

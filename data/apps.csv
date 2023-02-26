@@ -828,3 +828,4 @@ shells,cosh,,https://github.com/tomhrr/cosh,Concatenative command-line shell.
 system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sounds when any configured system or external event happens.
 graphics,Mercator,,https://github.com/mrusme/mercator,OpenStreetMap but as terminal user interface (TUI) program.
 utility,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
+funny,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
