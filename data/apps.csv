@@ -814,3 +814,4 @@ utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declara
 multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips/,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
 multimedia,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
 security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
+note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
