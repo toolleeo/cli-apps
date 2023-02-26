@@ -803,3 +803,4 @@ utility,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage yo
 security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QRcode to print on paper."
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
 utility,Clipboard,,https://github.com/Slackadays/Clipboard,"Cut, copy, and paste anything, anywhere, all from the terminal! Save time and effort the easy way."
+utility,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
