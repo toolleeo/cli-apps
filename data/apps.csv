@@ -802,3 +802,4 @@ organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of peri
 utility,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
 security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QRcode to print on paper."
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
+utility,Clipboard,,https://github.com/Slackadays/Clipboard,"Cut, copy, and paste anything, anywhere, all from the terminal! Save time and effort the easy way."
