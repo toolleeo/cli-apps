@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **828** apps/tools covered, divided in **43** categories.
+To date, **829** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (22) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (49) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (22) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -919,6 +919,7 @@ Music players.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [oji](https://github.com/xxczaki/oji) - Interactive text emoji creator.
 * [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+* [peaches](https://github.com/KCaverly/peaches) - A smart switcher for the terminal. Based on tmux.
 * [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 * [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.

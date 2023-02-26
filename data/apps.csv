@@ -827,3 +827,4 @@ music,PyRadio,,https://github.com/coderholic/pyradio,Curses based internet radio
 shells,cosh,,https://github.com/tomhrr/cosh,Concatenative command-line shell.
 system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sounds when any configured system or external event happens.
 graphics,Mercator,,https://github.com/mrusme/mercator,OpenStreetMap but as terminal user interface (TUI) program.
+utility,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
