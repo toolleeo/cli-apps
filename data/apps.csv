@@ -796,3 +796,4 @@ science,starfetch,,https://github.com/Haruno19/starfetch,Command line tool that 
 webdev,xpe,,https://github.com/charmparticle/xpe,A commandline xpath tool that is easy to use.
 programming,fmake,,https://github.com/bharatvaj/fmake,Brings `make`s interface to almost any build system.
 organizers,caldr,,https://github.com/mrusme/caldr,A lightweight CLI / TUI calendar that supports CalDAV.
+utility,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
