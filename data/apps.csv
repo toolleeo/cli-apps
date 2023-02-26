@@ -812,3 +812,4 @@ security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the word
 password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databases from your terminal.
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
 multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips/,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
+multimedia,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
