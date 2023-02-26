@@ -819,3 +819,4 @@ utility,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI
 disk-analyzer,erdtree,,https://github.com/solidiquis/erdtree,A multi-threaded file-tree visualizer and disk usage analyzer.
 games,Solitaire TUI,,https://github.com/brianstrauch/solitaire-tui,Klondike solitaire for the terminal.
 calc,Programmer calculator,,https://github.com/alt-romes/programmer-calculator,"Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits."
+file-renamer,Musort,,https://github.com/tdeerenberg/Musort,Rename multiple audio/music files based on the ID3 tag at once.
