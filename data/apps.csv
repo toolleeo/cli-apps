@@ -798,3 +798,4 @@ programming,fmake,,https://github.com/bharatvaj/fmake,Brings `make`s interface t
 organizers,caldr,,https://github.com/mrusme/caldr,A lightweight CLI / TUI calendar that supports CalDAV.
 utility,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
 text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the command line.
+organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime."
