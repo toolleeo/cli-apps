@@ -820,3 +820,4 @@ disk-analyzer,erdtree,,https://github.com/solidiquis/erdtree,A multi-threaded fi
 games,Solitaire TUI,,https://github.com/brianstrauch/solitaire-tui,Klondike solitaire for the terminal.
 calc,Programmer calculator,,https://github.com/alt-romes/programmer-calculator,"Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits."
 file-renamer,Musort,,https://github.com/tdeerenberg/Musort,Rename multiple audio/music files based on the ID3 tag at once.
+funny,Russhian Roulette,,https://github.com/cyradotpink/russhian-roulette,1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
