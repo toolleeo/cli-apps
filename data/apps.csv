@@ -808,3 +808,4 @@ organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar
 viewers,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
 viewers,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI interface.
 utility,rss-cli,,https://github.com/Clortox/rss-cli,A unix-inspired cli application for interacting with RSS feeds.
+security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the wordlists for random passphrases made by the EFF.
