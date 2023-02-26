@@ -817,3 +817,4 @@ security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternativ
 note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
 utility,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
 disk-analyzer,erdtree,,https://github.com/solidiquis/erdtree,A multi-threaded file-tree visualizer and disk usage analyzer.
+games,Solitaire TUI,,https://github.com/brianstrauch/solitaire-tui,Klondike solitaire for the terminal.
