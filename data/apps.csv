@@ -807,3 +807,4 @@ utility,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integrat
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
 viewers,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
 viewers,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI interface.
+utility,rss-cli,,https://github.com/Clortox/rss-cli,A unix-inspired cli application for interacting with RSS feeds.
