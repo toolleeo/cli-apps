@@ -797,3 +797,4 @@ webdev,xpe,,https://github.com/charmparticle/xpe,A commandline xpath tool that i
 programming,fmake,,https://github.com/bharatvaj/fmake,Brings `make`s interface to almost any build system.
 organizers,caldr,,https://github.com/mrusme/caldr,A lightweight CLI / TUI calendar that supports CalDAV.
 utility,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
+text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the command line.
