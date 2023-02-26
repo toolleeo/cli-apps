@@ -823,3 +823,4 @@ file-renamer,Musort,,https://github.com/tdeerenberg/Musort,Rename multiple audio
 funny,Russhian Roulette,,https://github.com/cyradotpink/russhian-roulette,1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
 funny,pyjokes,,https://github.com/pyjokes/pyjokes,One line jokes for programmers (jokes as a service).
 password-manager,Pswd,,https://github.com/Mandrew0822/pswd,A secure password generator written in C.
+music,PyRadio,,https://github.com/coderholic/pyradio,Curses based internet radio player.
