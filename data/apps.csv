@@ -804,3 +804,4 @@ security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure 
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
 utility,Clipboard,,https://github.com/Slackadays/Clipboard,"Cut, copy, and paste anything, anywhere, all from the terminal! Save time and effort the easy way."
 utility,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
+organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
