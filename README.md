@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **830** apps/tools covered, divided in **43** categories.
+To date, **831** apps/tools covered, divided in **43** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (36) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (37) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -112,6 +112,7 @@ File format converters.
 * [jqp](https://github.com/noahgorstein/jqp) - A TUI playground for exploring jq.
 * [jtc](https://github.com/ldn-softdev/jtc) - JSON manipulation and transformation.
 * [lowcharts](https://github.com/juan-leon/lowcharts) - lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
+* [Miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
 * [osmf](https://github.com/codesoap/osmf) - OpenStreetMap find - A simple command line tool to explore OSM data.
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
