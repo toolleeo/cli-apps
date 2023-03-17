@@ -2,6 +2,7 @@ label,name,description
 backup,Backup,
 calc,Calculators,"Calculators for numbers, dates, etc."
 chat,Chat and instant messaging,
+cheatsheet,Commands cheatsheet and snippets,"Tools to manage often used commands, code snippets, cheatsheets and alternative manpages"
 conversion,Conversion,File format converters
 data-management,Data management,
 transfer,Data transfer,

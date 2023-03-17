@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **831** apps/tools covered, divided in **43** categories.
+To date, **831** apps/tools covered, divided in **44** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Conversion](#conversion) (7) | [Data management](#data-management) (37) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (37) | [Data transfer](#transfer) (34) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (21) | [Email](#email) (10) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (28) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (19) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -79,6 +79,22 @@ Calculators for numbers, dates, etc..
 * [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
 * [WeeChat](https://github.com/weechat/weechat) - A "fast, light and extensible chat client".
+
+## <a name="cheatsheet"></a>Commands cheatsheet and snippets
+
+Tools to manage often used commands, code snippets, cheatsheets and alternative manpages.
+
+* [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
+* [ehh](https://github.com/lennardv2/ehh) - Command-line tool for remembering linux/terminal commands.
+* [kmdr-cli](https://github.com/ediardo/kmdr-cli#supported-programs) - The CLI tool for explaining commands from your terminal.
+* [MUC](https://github.com/nate-sys/muc) - Visualize your most used commands.
+* [Nap](https://github.com/maaslalani/nap) - Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface.
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+* [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
+* [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
+* [tldr](https://github.com/tldr-pages/tldr) - Client for tldr pages, a community effort to simplify the beloved man pages with practical examples.
+* [topalias](https://github.com/CSRedRat/topalias) - Linux alias generator from bash/zsh command history with statistics, written on Python.
+* [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## <a name="conversion"></a>Conversion
 
@@ -903,22 +919,16 @@ Music players.
 * [cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 * [dasht](https://github.com/sunaku/dasht) - Search API docs offline, in your terminal or browser.
 * [dateutils](https://github.com/hroptatyr/dateutils) - Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
-* [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
-* [ehh](https://github.com/lennardv2/ehh) - Command-line tool for remembering linux/terminal commands.
 * [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 * [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
 * [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
-* [kmdr-cli](https://github.com/ediardo/kmdr-cli#supported-programs) - The CLI tool for explaining commands from your terminal.
 * [Lakshmi](https://github.com/sarvjeets/lakshmi) - Investing library and command-line interface inspired by the Bogleheads philosophy.
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movies and comparing two movies.
 * [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
-* [MUC](https://github.com/nate-sys/muc) - Visualize your most used commands.
 * [MyTimer](https://github.com/sepandhaghighi/mytimer) - Simple timer for the terminal with timer-mode and alarm.
-* [Nap](https://github.com/maaslalani/nap) - Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface.
-* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [oji](https://github.com/xxczaki/oji) - Interactive text emoji creator.
 * [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [peaches](https://github.com/KCaverly/peaches) - A smart switcher for the terminal. Based on tmux.
@@ -929,16 +939,11 @@ Music players.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 * [Starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
-* [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
-* [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
-* [tldr](https://github.com/tldr-pages/tldr) - Client for tldr pages, a community effort to simplify the beloved man pages with practical examples.
-* [topalias](https://github.com/CSRedRat/topalias) - Linux alias generator from bash/zsh command history with statistics, written on Python.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 * [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
-* [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
 * [yank](https://github.com/mptre/yank) - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.

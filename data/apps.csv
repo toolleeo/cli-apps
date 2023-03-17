@@ -235,7 +235,7 @@ calc,Nota,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calcu
 editors,vy,,https://github.com/vyapp/vy,A vim-like in python made from scratch.
 programming,pire,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
 browser,Graphene,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.
-utility,navi,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
+cheatsheet,navi,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
 data-management,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
 graphics,pastel,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
 utility,asciinema,,https://github.com/asciinema/asciinema,Terminal session recorder.
@@ -271,7 +271,7 @@ note-taking,dn,,https://github.com/tomlockwood/dn,Daily notes command line tool.
 git,onefetch,,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
 data-management,jtc,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
 email,NeoMutt,https://neomutt.org/,https://github.com/neomutt/neomutt,Patched and up-to-dated mutt fork.
-utility,kmdr-cli,,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal.
+cheatsheet,kmdr-cli,,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal.
 utility,Starship,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.
 todo-manager,todotxt-machine,https://pypi.org/project/todotxt-machine/,https://github.com/AnthonyDiGirolamo/todotxt-machine,Interfacce for todo.txt.
 games,usolitaire,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
@@ -302,7 +302,7 @@ todo-manager,grit,,https://github.com/climech/grit,A multitree-based personal ta
 todo-manager,dstask,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
 file-system,wutag,,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags.
 file-handling,xplr,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
-utility,eg,,https://github.com/srsudar/eg,Useful examples at the command line.
+cheatsheet,eg,,https://github.com/srsudar/eg,Useful examples at the command line.
 viewers,mdt,,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
 organizers,buku,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.
 graphics,imgp,,https://github.com/jarun/imgp,"A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage."
@@ -380,7 +380,7 @@ programming,chars,,https://github.com/antifuchs/chars,Display names and codes fo
 disk-analyzer,diskus,,https://github.com/sharkdp/diskus,"Minimal, fast alternative to du -sh."
 programming,dtool,,https://github.com/guoxbin/dtool,Collection of development tools.
 viewers,viu,,https://github.com/learn-anything/command-line-tools,Command-line application to view images from the terminal written in Rust.
-utility,tealdeer,,https://github.com/dbrgn/tealdeer,Very fast implementation of tldr in Rust.
+cheatsheet,tealdeer,,https://github.com/dbrgn/tealdeer,Very fast implementation of tldr in Rust.
 file-handling,xcp,,https://github.com/tarka/xcp,Extended cp.
 cd,pazi,,https://github.com/euank/pazi,Fast autojump helper.
 file-manager,hunter,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.
@@ -630,13 +630,13 @@ productivity,tz,,https://github.com/oz/tz,tz helps you schedule things across ti
 transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
 data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool to view redis data in terminal.
 data-management,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
-utility,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
+cheatsheet,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
 utility,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
 system,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
 security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
 git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color."
 security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
-utility,topalias,,https://github.com/CSRedRat/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python."
+cheatsheet,topalias,,https://github.com/CSRedRat/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python."
 programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible."
 networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 productivity,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal; similar to anki.
@@ -730,8 +730,8 @@ networking,xiringuito,,https://github.com/ivanilves/xiringuito,VPN made easy! No
 security,acmetool,,https://github.com/hlandau/acme,Easy-to-use command line tool for automatically acquiring certificates from ACME servers (such as Let's Encrypt).
 utility,weather-cli,,https://github.com/riyadhalnur/weather-cli,Check the weather for your city from the terminal.
 programming,howdoi,,https://github.com/gleitz/howdoi,Instant coding answers via the command line.
-utility,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
-utility,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tldr pages, a community effort to simplify the beloved man pages with practical examples."
+cheatsheet,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
+cheatsheet,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tldr pages, a community effort to simplify the beloved man pages with practical examples."
 data-management,ramda-cli,,https://github.com/raine/ramda-cli,A tool for processing data with functional pipelines.
 data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
 viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human readable by applying visual formatting.
@@ -774,7 +774,7 @@ data-management,underscore-cli,,https://github.com/ddopson/underscore-cli,Comman
 monitor,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-platform command line utility to watch file system changes.
 transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share files from the command line. A fully featured Firefox Send client.
 data-management,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
-utility,Wat,,https://github.com/dthree/wat,"Instant, central, community-built docs."
+cheatsheet,Wat,,https://github.com/dthree/wat,"Instant, central, community-built docs."
 productivity,cambd-cli,,https://github.com/rocktimsaikia/cambd-cli,A CLI tool to automate the process to access the Cambridge dictionary.
 productivity,zeitkatze,,https://github.com/leonmavr/zeitkatze,Simplest stopwatch in a linux console.
 games,Words,,https://github.com/ludovicianul/words,A set of word-based puzzle games for the CLI while you wait for the build to run.
@@ -789,14 +789,14 @@ productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNI
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 system,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of you CLI tools, if they are installed and what version they are on."
-utility,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
+cheatsheet,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
 chat,ttchat,,https://github.com/atye/ttchat,Twitch chats in the terminal.
 utility,teetail,,https://github.com/sl236/teetail,"Like tee, but only the tail goes in the file."
 science,starfetch,,https://github.com/Haruno19/starfetch,Command line tool that displays constellations.
 webdev,xpe,,https://github.com/charmparticle/xpe,A commandline xpath tool that is easy to use.
 programming,fmake,,https://github.com/bharatvaj/fmake,Brings `make`s interface to almost any build system.
 organizers,caldr,,https://github.com/mrusme/caldr,A lightweight CLI / TUI calendar that supports CalDAV.
-utility,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
+cheatsheet,MUC,,https://github.com/nate-sys/muc,Visualize your most used commands.
 text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the command line.
 organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime."
 utility,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
