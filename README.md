@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **863** apps/tools covered, divided in **45** categories.
+To date, **864** apps/tools covered, divided in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (13) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (28) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (11) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (12) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (7) | [Networking](#networking) (24) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (36) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (19) | [Shells](#shells) (8) | [Sound and music](#music) (25) | [System monitoring](#monitor) (31) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (42) | [Versioning](#versioning) (6) | [Viewers](#viewers) (30) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (13) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (30) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (11) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (12) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (7) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (36) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (19) | [Shells](#shells) (8) | [Sound and music](#music) (25) | [System monitoring](#monitor) (31) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (42) | [Versioning](#versioning) (6) | [Viewers](#viewers) (30) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -155,6 +155,7 @@ File format converters.
 ## <a name="transfer"></a>Data transfer
 
 * [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+* [Clipsync](https://github.com/marcopaganini/clipsync) - Share your clipboard across multiple machines using an MQTT service.
 * [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 * [curl](https://github.com/curl/curl) - A tool and library for transferring data with URL syntax; supports a lot of protocols.  
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -164,6 +165,7 @@ File format converters.
 * [Nextcloud share URL downloader](https://github.com/aertslab/nextcloud_share_url_downloader) - Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
 * [OnionShare](https://github.com/onionshare/onionshare) - "An open source tool that lets you securely and anonymously share a file of any size." 
 * [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices.
+* [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
 * [portal](https://github.com/SpatiumPortae/portal) - A quick and easy command-line file transfer utility from any computer to another.
 * [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal.
 * [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
@@ -493,7 +495,6 @@ Programs to deal with networks and communication.
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 * [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
-* [Clipsync](https://github.com/marcopaganini/clipsync) - Share your clipboard across multiple machines using an MQTT service.
 * [geoiplookup](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
 * [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
 * [ipcalc](https://github.com/kjokjo/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
