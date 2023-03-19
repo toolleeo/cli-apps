@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **842** apps/tools covered, divided in **45** categories.
+To date, **843** apps/tools covered, divided in **45** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (13) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (27) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (22) | [Email](#email) (11) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (19) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (29) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (41) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (13) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (27) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (22) | [Email](#email) (11) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (19) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (29) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (41) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -882,6 +882,7 @@ Music players.
 * [ripgrep-all](https://github.com/phiresky/ripgrep-all) - grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.
 * [sift](https://github.com/svent/sift) - Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text.
 * [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
+* [ugrep](https://github.com/Genivia/ugrep) - Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more.
 * [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
 
 ## <a name="todo-manager"></a>Todo managers

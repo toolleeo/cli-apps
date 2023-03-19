@@ -841,3 +841,4 @@ todo-manager,Dooit,,https://github.com/kraanzu/dooit,"Todo manager with interact
 cheatsheet,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which uses ChatGPT to aid in constructing commands for bash.
 cheatsheet,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client in BASH with conversation/completion support.
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
+text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
