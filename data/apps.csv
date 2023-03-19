@@ -881,3 +881,4 @@ utility,upnup,,https://github.com/tomit4/upnup,A command line utility that gener
 productivity,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
+transfer,feuille,,https://basedwa.re/tmtt/feuille,"A fast, dead-simple socket-based pastebin."
