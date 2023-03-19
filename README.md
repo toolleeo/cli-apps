@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **867** apps/tools covered, divided in **45** categories.
+To date, **867** apps/tools covered, organized in **45** categories.
 
 # Index
 

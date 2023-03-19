@@ -3,7 +3,7 @@ import csv
 summary_template = """
 # Summary
 
-To date, **{n_apps}** apps/tools covered, divided in **{n_cats}** categories.
+To date, **{n_apps}** apps/tools covered, organized in **{n_cats}** categories.
 
 # Index
 
