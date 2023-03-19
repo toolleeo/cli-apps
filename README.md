@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **871** apps/tools covered, organized in **45** categories.
+To date, **872** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (15) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (30) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (11) | [File and file system handling](#file-handling) (40) | [File manager](#file-manager) (12) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (24) | [Games](#games) (37) | [Git and accessories](#git) (31) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (7) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (36) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (19) | [Shells](#shells) (8) | [Sound and music](#music) (25) | [System monitoring](#monitor) (31) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (43) | [Versioning](#versioning) (6) | [Viewers](#viewers) (30) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (15) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (30) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (11) | [File and file system handling](#file-handling) (40) | [File manager](#file-manager) (12) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (24) | [Games](#games) (37) | [Git and accessories](#git) (31) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (7) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (36) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (19) | [Shells](#shells) (8) | [Sound and music](#music) (25) | [System monitoring](#monitor) (31) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (43) | [Versioning](#versioning) (6) | [Viewers](#viewers) (31) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -1029,6 +1029,7 @@ BitTorrent clients.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 * [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash.
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
+* [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Experimental "Markdown browser" for the terminal, built with Textual.
 * [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vj](https://github.com/busyloop/vj) - JSON Humanizer makes JSON human readable by applying visual formatting.
