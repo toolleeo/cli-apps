@@ -871,3 +871,4 @@ file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossible
 utility,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 office,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
 viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
+transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
