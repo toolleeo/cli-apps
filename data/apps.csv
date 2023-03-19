@@ -865,3 +865,4 @@ transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboar
 transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
 funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
 git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
+cheatsheet,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
