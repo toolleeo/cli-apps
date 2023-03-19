@@ -843,3 +843,4 @@ cheatsheet,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT cli
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
 multimedia,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
+productivity,py_flashcards,,https://github.com/M4THYOU/py_flashcards,Text-only CLI flashcards parsed from Markdown file.
