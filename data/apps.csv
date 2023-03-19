@@ -864,3 +864,4 @@ networking,hflow,,https://github.com/comradequinn/hflow,"A command-line, debuggi
 transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
 transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
 funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
+git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
