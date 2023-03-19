@@ -863,3 +863,4 @@ backup,thread-safe,,https://github.com/dkaslovsky/thread-safe,Keep your favorite
 networking,hflow,,https://github.com/comradequinn/hflow,"A command-line, debugging http/s proxy server."
 transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
 transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
+funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
