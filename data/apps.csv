@@ -844,3 +844,4 @@ security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, rec
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
 multimedia,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
 productivity,py_flashcards,,https://github.com/M4THYOU/py_flashcards,Text-only CLI flashcards parsed from Markdown file.
+file-renamer,moove,,https://github.com/urin/moove,Manipulate file names and locations using a text editor.
