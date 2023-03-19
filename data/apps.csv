@@ -838,3 +838,4 @@ editors,pickaxe,,https://github.com/mdom/pickaxe,The redmine wiki editor.
 utility,Python re(gex)? exercises,,https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises,TUI application intended to help you practice Python regular expressions; there are more than 100 exercises covering both the builtin re and third-party regex module.
 email,Himalaya,,https://github.com/soywod/himalaya,Command-line interface for email management.
 todo-manager,Dooit,,https://github.com/kraanzu/dooit,"Todo manager with interactive and beautiful UI, and vim keybindings."
+cheatsheet,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which uses ChatGPT to aid in constructing commands for bash.
