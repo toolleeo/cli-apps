@@ -879,3 +879,4 @@ file-handling,mat2,,https://0xacab.org/jvoisin/mat2,"Metadata removal tool, supp
 file-handling,Dext,,https://github.com/AfzGit/dext,(Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 utility,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
 productivity,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
+security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
