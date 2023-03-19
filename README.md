@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **838** apps/tools covered, divided in **45** categories.
+To date, **839** apps/tools covered, divided in **45** categories.
 
 # Index
 
-[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (27) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (22) | [Email](#email) (11) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (29) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (20) | [Torrent](#torrent) (7) | [Utilities](#utility) (41) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (8) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (11) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (27) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (22) | [Email](#email) (11) | [File and file system handling](#file-handling) (39) | [File manager](#file-manager) (11) | [File renamers](#file-renamer) (9) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (23) | [Games](#games) (37) | [Git and accessories](#git) (30) | [Graphics](#graphics) (25) | [Multimedia](#multimedia) (6) | [Networking](#networking) (20) | [Note taking](#note-taking) (16) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (13) | [Productivity](#productivity) (34) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (18) | [Shells](#shells) (7) | [Sound and music](#music) (25) | [System monitoring](#monitor) (29) | [System tools](#system) (31) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (9) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (41) | [Versioning](#versioning) (6) | [Viewers](#viewers) (29) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -885,6 +885,7 @@ Music players.
 
 * [CLI-Manager](https://github.com/MikyStar/CLI-Manager) - Command Line Interface for managing tasks locally on the fly.
 * [devtodo](https://github.com/droundy/goopt) - A hierarchical command-line task manager, with data storage in JSON format.
+* [Dooit](https://github.com/kraanzu/dooit) - Todo manager with interactive and beautiful UI, and vim keybindings.
 * [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
 * [grit](https://github.com/climech/grit) - A multitree-based personal task manager.
 * [iKog](https://github.com/boyska/ikog) - A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.
