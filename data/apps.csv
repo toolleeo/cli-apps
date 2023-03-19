@@ -869,3 +869,4 @@ cheatsheet,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI fo
 cheatsheet,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
 file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 utility,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
+office,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
