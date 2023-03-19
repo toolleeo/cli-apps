@@ -861,3 +861,4 @@ file-renamer,mmv-c,,https://github.com/mcauley-penney/mmv-c,Interactively rename
 productivity,avail,,https://github.com/mufeez-amjad/avail,Find available times between all your calendars.
 backup,thread-safe,,https://github.com/dkaslovsky/thread-safe,Keep your favorite Twitter threads safe with a local copy.
 networking,hflow,,https://github.com/comradequinn/hflow,"A command-line, debugging http/s proxy server."
+networking,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
