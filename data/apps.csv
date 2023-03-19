@@ -852,3 +852,4 @@ monitor,Fastfetch,,https://github.com/LinusDierheimer/fastfetch,"Like neofetch, 
 password-manager,pa,,https://github.com/biox/pa,"A simple password manager; encryption via age, written in portable posix shell."
 viewers,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
 editors,VE,http://www.inverary.net/ve/ve.html,,"Lean, fast and feature rich text editor."
+system,just,,https://github.com/casey/just,just is a handy way to save and run project-specific commands.
