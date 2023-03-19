@@ -873,3 +873,4 @@ office,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI th
 viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
 music,mpvc,,https://github.com/gmt4/mpvc/,A minimal mpc-like CLI and TUI for controlling mpv from the shell.
+funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your terminal.
