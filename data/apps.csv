@@ -851,3 +851,4 @@ utility,shmenu,,https://github.com/duclos-cavalcanti/shmenu,Menu TUI tool writte
 monitor,Fastfetch,,https://github.com/LinusDierheimer/fastfetch,"Like neofetch, but much faster because written in C."
 password-manager,pa,,https://github.com/biox/pa,"A simple password manager; encryption via age, written in portable posix shell."
 viewers,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
+editors,VE,http://www.inverary.net/ve/ve.html,,"Lean, fast and feature rich text editor."
