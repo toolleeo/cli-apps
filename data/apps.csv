@@ -854,3 +854,4 @@ viewers,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
 editors,VE,http://www.inverary.net/ve/ve.html,,"Lean, fast and feature rich text editor."
 system,just,,https://github.com/casey/just,just is a handy way to save and run project-specific commands.
 file-manager,TUIFI Manager,,https://github.com/GiorgosXou/TUIFIManager,"A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is."
+monitor,ttop,,https://github.com/inv2004/ttop,"top-like system monitoring tool with TUI, historical data service and triggers."
