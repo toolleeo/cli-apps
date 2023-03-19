@@ -866,3 +866,4 @@ transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere
 funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
 git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
 cheatsheet,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
+cheatsheet,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
