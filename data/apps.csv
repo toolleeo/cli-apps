@@ -868,3 +868,4 @@ git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelo
 cheatsheet,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
 cheatsheet,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
 file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
+utility,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
