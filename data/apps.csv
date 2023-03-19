@@ -834,3 +834,4 @@ data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-lin
 monitor,nvitop,,https://github.com/XuehaiPan/nvitop,"An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management."
 utility,guesswidth,,https://github.com/noborus/guesswidth,Guess the width output without delimiters in commands that output to the terminal.
 todo-manager,mdt,,https://github.com/basilioss/mdt,A simple command-line markdown todo list manager inspired by t.
+editors,pickaxe,,https://github.com/mdom/pickaxe,The redmine wiki editor.
