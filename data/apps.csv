@@ -849,3 +849,4 @@ shells,Reptyl,,https://github.com/0ut0flin3/Reptyl,A cross-platform command line
 networking,Tunnelmole,,https://github.com/robbie-cahill/tunnelmole-client,Connect to local servers from anywhere.
 utility,shmenu,,https://github.com/duclos-cavalcanti/shmenu,Menu TUI tool written solely in bash.
 monitor,Fastfetch,,https://github.com/LinusDierheimer/fastfetch,"Like neofetch, but much faster because written in C."
+password-manager,pa,,https://github.com/biox/pa,"A simple password manager; encryption via age, written in portable posix shell."
