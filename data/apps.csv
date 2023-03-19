@@ -875,3 +875,4 @@ transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manage
 music,mpvc,,https://github.com/gmt4/mpvc/,A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your terminal.
 monitor,ramfetch,,https://codeberg.org/o69mar/ramfetch,A fetch which displays memory info using /proc/meminfo.
+file-handling,mat2,,https://0xacab.org/jvoisin/mat2,"Metadata removal tool, supporting a wide range of commonly used file formats."
