@@ -33,9 +33,9 @@ def load_csv(file_name):
 
 def fmt_app(app):
     descr = ''.join(c if c != '\n' else ' ' for c in app['description'])
-    if app['git'] != '':
+    if app['homepage'] != '':
         st = '* [{}]({}) - {}'.format(app['name'], app['git'], descr)
-    elif app['homepage'] != '':
+    elif app['git'] != '':
         st = '* [{}]({}) - {}'.format(app['name'], app['homepage'], descr)
     else:
         st = '* {} - {}'.format(app['name'], descr)
