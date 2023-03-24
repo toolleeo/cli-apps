@@ -27,7 +27,7 @@ def load_csv(file_name):
         fields = csv_reader.fieldnames
         data = []
         for item in csv_reader:
-           data.append(item)
+            data.append(item)
     return fields, data
 
 
@@ -39,7 +39,7 @@ def fmt_app(app):
         st = '* [{}]({}) - {}'.format(app['name'], app['homepage'], descr)
     else:
         st = '* {} - {}'.format(app['name'], descr)
-    return(st)
+    return st
 
 
 def print_apps(cats, apps):
@@ -49,10 +49,11 @@ def print_apps(cats, apps):
         if cat_item['description'] != '':
             print(f"{cat_item['description']}.\n")
         apps_in_cat = [a for a in apps if a['category'] == c]
-        apps_in_cat = sorted(apps_in_cat, key = lambda i: i['name'].upper())
+        apps_in_cat = sorted(apps_in_cat, key=lambda i: i['name'].upper())
         for app in apps_in_cat:
             print(fmt_app(app))
         print()
+
 
 def fmt_categories(cats):
     st = []
@@ -68,8 +69,8 @@ def count_apps(apps, categories):
         c = a['category']
         if c in categories:
             categories[c]['count'] += 1
-        #else:
-        #    print('Category {} does not have any app'.format(c))
+        # else:
+        #     print('Category {} does not have any app'.format(c))
     return categories
 
 
