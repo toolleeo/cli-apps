@@ -512,7 +512,7 @@ Programs to deal with networks and communication.
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive HTTPS proxy.
 * [mosh](https://github.com/mobile-shell/mosh) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * [Optic](https://github.com/opticdev/optic) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
-* [PSSH]() - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
+* [PSSH](https://github.com/lilydjwg/pssh) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 * [quickserve]() - Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle.
 * [redive]() - Trace URL redirections in the terminal.
 * [rtop](https://github.com/rapidloop/rtop) - rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
@@ -584,7 +584,7 @@ Calendar managers.
 * [Org mode](https://git.savannah.gnu.org/cgit/emacs/org-mode.git) - Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format.
 * [pal](https://sourceforge.net/p/palcal/code/HEAD/tree/) - Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
 * [peroutine]() - Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime.
-* [ppl addressbook]() - `ppl` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format.
+* [ppl addressbook](https://github.com/henrycatalinismith/ppl) - `ppl` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format.
 * [Remind](https://git.skoll.ca/Skollsoft-Public/Remind) - Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format.
 * [remint]() - A simple terminal UI wrapper for D. Skoll's Remind calendar program
 * [vdirsyncer]() - CalDAV synchronization program.
@@ -618,7 +618,7 @@ Calendar managers.
 * [Pswd]() - A secure password generator written in C.
 * [safe.sh]() - Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html).
 * [SpicyPass]() - A light-weight password manager with a focus on simplicity and security.
-* [titan]() - Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license.
+* [titan](https://github.com/nrosvall/ylva) - Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license.
 
 ## <a name="productivity"></a>Productivity
 
@@ -850,7 +850,7 @@ Music players.
 
 ## <a name="terminal"></a>Terminals
 
-* [byobu]() - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
+* [byobu](https://github.com/dustinkirkland/byobu) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [dtach]() - A program written in C that emulates the detach feature of screen.
 * [mtm]() - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
 * [mx]() - A tmux session manager written as a single Bash script.
