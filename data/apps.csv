@@ -282,6 +282,7 @@ transfer,ytfzf,,https://github.com/pystardust/ytfzf,A POSIX script that helps yo
 data-management,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
 disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
+productivity,Clipboard,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.
 music,Siren,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren/,Siren is a text-based audio player for UNIX-like operating systems.
 office,Ticker,,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
