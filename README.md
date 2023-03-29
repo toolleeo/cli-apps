@@ -574,7 +574,7 @@ Calendar managers.
 
 * [addrb]() - A lightweight CLI / TUI address book that supports CardDAV.
 * [buku]() - A powerful bookmark manager written in Python3 and SQLite3.
-* [Calcure]() - Modern TUI calendar and task manager with customizable interface.
+* [calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with customizable interface.
 * [calcurse](https://git.calcurse.org/calcurse.git/) - A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.
 * [caldr]() - A lightweight CLI / TUI calendar that supports CalDAV.
 * [gcalcli]() - CLI to access Google Calendars; allows to do the main tasks: create, delete, and list events.
