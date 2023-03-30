@@ -36,7 +36,7 @@ def fmt_app(app):
     if app['homepage'] != '':
         st = '* [{}]({}) - {}'.format(app['name'], app['git'], descr)
     elif app['git'] != '':
-        st = '* [{}]({}) - {}'.format(app['name'], app['homepage'], descr)
+        st = '* [{}]({}) - {}'.format(app['name'], app['git'], descr)
     else:
         st = '* {} - {}'.format(app['name'], descr)
     return st
