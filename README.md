@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **883** apps/tools covered, organized in **45** categories.
+To date, **897** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (15) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (11) | [File and file system handling](#file-handling) (42) | [File manager](#file-manager) (12) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Games](#games) (37) | [Git and accessories](#git) (31) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (7) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (8) | [Sound and music](#music) (26) | [System monitoring](#monitor) (32) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (44) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (43) | [Versioning](#versioning) (6) | [Viewers](#viewers) (31) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (15) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (45) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Games](#games) (37) | [Git and accessories](#git) (31) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (7) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (8) | [Sound and music](#music) (26) | [System monitoring](#monitor) (32) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (45) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (43) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -254,6 +254,7 @@ Terminal text editors.
 
 Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization.
 
+* [aerc]() - A pretty good email client
 * [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend; MailDir format support.  
 * [alpine]() - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
 * [Himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management.
@@ -271,9 +272,11 @@ Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - 
 File managers, tagging, bookmarking.
 
 * [alder](https://github.com/aweary/alder) - Directory tree visualizer.
+* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
 * [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
 * [cv](https://github.com/Xfennec/progress) - (Coreutils Progress Viewer) "looks for coreutils basic commands (`cp`, `mv`, `dd`, `tar`, `gzip/gunzip`, `cat`, etc.) currently running on your system and displays the percentage of copied data. It can also show estimated time and throughput".
+* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
 * [detox](https://sourceforge.net/projects/detox/) - A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 * [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
@@ -306,6 +309,7 @@ File managers, tagging, bookmarking.
 * [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
 * [tre](https://github.com/dduan/tre) - `tree` command improved with git awareness, editor aliasing, and colors.
 * [tree](https://gitlab.com/OldManProgrammer/unix-tree) - "Recursive directory listing command that produces a depth indented listing of files".
+* [TUI Archiver](https://codeberg.org/dnalor/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
 * [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
@@ -315,9 +319,14 @@ File managers, tagging, bookmarking.
 
 ## <a name="file-manager"></a>File manager
 
+* [cfiles](https://github.com/mananapr/cfiles) - ncurses file manager written in C with vim like keybindings
 * [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
+* [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping
 * [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager written in bash.
+* [fman](https://github.com/nore-dev/fman) - TUI File Manager
+* [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
 * [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
+* [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 * [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
 * [lfm]() - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
 * [Midnight Commander](https://github.com/MidnightCommander/mc) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
@@ -890,6 +899,7 @@ Music players.
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 * [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
+* [lowdown](https://github.com/kristapsdz/lowdown) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
 * [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 * [pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
 * [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
@@ -1026,6 +1036,7 @@ BitTorrent clients.
 * [jc](https://github.com/kellyjonbrazil/jc) - Serializes the output of command line tools to JSON.
 * [jless](https://github.com/PaulJuliusMartinez/jless) - Command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 * [jqview](https://github.com/fiatjaf/jqview) - Simplest possible native GUI for inspecting JSON.
+* [mdcat](https://github.com/lunaryorn/mdcat) - cat for Markdown
 * [mdt](https://github.com/robolab-pavia/mdt) - MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 * [mplayer]() - One of the most popular video/audio players around; plays most audio and video formats (using ASCII characters) in the shell; provides a GUI for graphical visualization.  
@@ -1034,6 +1045,7 @@ BitTorrent clients.
 * [Newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 * [nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
+* [reader](https://github.com/mrusme/reader) - Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
 * [rReader](https://github.com/rainygirl/rreader) - RSS reader client with TUI interface.
 * [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
 * [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer for the terminal.
@@ -1041,9 +1053,11 @@ BitTorrent clients.
 * [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash.
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
 * [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Experimental "Markdown browser" for the terminal, built with Textual.
+* [TubiTui](https://codeberg.org/777/TubiTui) - A lightweight, libre, TUI-based YouTube client 
 * [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vj](https://github.com/busyloop/vj) - JSON Humanizer makes JSON human readable by applying visual formatting.
+* [youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.
 
 ## <a name="browser"></a>Web browser
