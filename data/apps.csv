@@ -18,10 +18,10 @@ text-processing,pick,,https://github.com/calleerlandsson/pick,Utility that allow
 data-management,q,http://harelba.github.io/q/,https://github.com/harelba/q,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
 font,FIGlet,http://www.figlet.org/,https://github.com/cmatsuoka/figlet,"Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available."
 font,toilet,http://caca.zoy.org/wiki/toilet,https://github.com/cacalabs/toilet,"A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects."
-editors,Emacs,https://www.gnu.org/software/emacs/,http://git.savannah.gnu.org/cgit/emacs.git,One of the godfathers of text editors; free long-standing software project; tons of extensions and funcionalities; the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed.  
+editors,Emacs,https://www.gnu.org/software/emacs/,https://git.savannah.gnu.org/git/emacs.git,One of the godfathers of text editors; free long-standing software project; tons of extensions and funcionalities; the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed.  
 editors,jed,http://www.jedsoft.org/jed/index.html,https://github.com/jedsoft/jed,A text editor with a drop-down menu facility that make it especially user-friendly.  
 editors,joe,http://joe-editor.sourceforge.net/,https://sourceforge.net/projects/joe-editor/,(Joe's Own Editor) is a compact text editor written in C; a detailed list of features and missing ones is explicitly reported in the website; this editor is mentioned in several web sources for its capability in handling large files.  
-editors,nano,https://www.nano-editor.org/,https://git.savannah.gnu.org/cgit/nano.git/log/,"Easy to use, lightweigth text editor; no complex keybindings to remember."
+editors,nano,https://www.nano-editor.org/,https://git.savannah.gnu.org/git/nano.git,"Easy to use, lightweigth text editor; no complex keybindings to remember."
 editors,micro,,https://github.com/zyedidia/micro/,"A terminal-based text editor written in Go that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals."
 editors,neovim,https://neovim.io/,https://github.com/neovim/neovim,"A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity and maintainability; it has chances to become the next choice of vim users."
 editors,slap,,https://github.com/slap-editor/slap,Text editor inspired by [Sublime Text](https://www.sublimetext.com/) written in NodeJS; extedable in Javascript.  
@@ -30,7 +30,7 @@ editors,vim,http://www.vim.org/,https://github.com/vim/vim,Historically one of t
 editors,vis,,https://github.com/martanne/vis,"""a modern, legacy free, simple yet efficient vim-like editor"", and more: ""The intention is not to be bug for bug compatible with vim, instead a similar editing experience should be provided. The goal could thus be summarized as 80% of vim's features implemented in roughly 1% of the code""; the editor is scriptable in LUA and supports editing large files."
 editors,WordGrinder,https://cowlark.com/wordgrinder/,https://github.com/davidgiven/wordgrinder,"From the website: ""WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type."" "
 terminal,byobu,http://byobu.co/,https://github.com/dustinkirkland/byobu,"A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`."
-terminal,screen,https://www.gnu.org/software/screen/,https://git.savannah.gnu.org/cgit/screen.git,"Terminal multiplexer that split a physical terminal between several processes, typically interactive shells."
+terminal,screen,https://www.gnu.org/software/screen/,https://git.savannah.gnu.org/git/screen.git,"Terminal multiplexer that split a physical terminal between several processes, typically interactive shells."
 terminal,Tmate,https://tmate.io/,https://github.com/tmate-io/tmate,"A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues."
 terminal,tmux,https://tmux.github.io/,https://github.com/tmux/tmux,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
 terminal,warp,,https://github.com/spolu/warp,Secure and simple terminal sharing.  
@@ -50,7 +50,7 @@ monitor,smem,https://www.selenic.com/smem/,https://selenic.com/repo/smem,"Python
 monitor,top,http://www.unixtop.org/,,The classical Unix utility that provides a rolling display of top cpu using processes.  
 monitor,watch,http://www.linfo.org/watch.html,,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
 monitor,wtf,,https://github.com/wtfutil/wtf,The personal information dashboard for your terminal.
-shells,Bash,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/cgit/bash.git,(Bourne Again SHell) The most widespread system shell to date.  
+shells,Bash,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/git/bash.git,(Bourne Again SHell) The most widespread system shell to date.  
 shells,Fish,https://fishshell.com/,https://github.com/fish-shell/fish-shell,"""A command line shell for the 90s""; focused on user-friendliness, with powerful autosuggestions, colors, ""sane scripting"" (w.r.t. to Bash)."
 shells,Zsh,http://www.zsh.org/,https://sourceforge.net/p/zsh/code/ci/master/tree/,Alternative shell designed for interactive use.  
 system,conspy,http://conspy.sourceforge.net/,https://sourceforge.net/p/conspy/code/ci/default/tree/,"""Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it."" "
@@ -59,7 +59,7 @@ system,Ntfy,,https://github.com/dschep/ntfy,Cross-platform Python utility that e
 system,task-spooler,http://vicerveza.homeunix.net/~viric/soft/ts/,,"A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities."
 monitor,ttyload,http://www.daveltd.com/src/util/ttyload/,https://github.com/lindes/ttyload,ttyload is a lightweight utility which is intended to offer a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal (“tty“).
 system,hstr,,https://github.com/dvorka/hstr,A tool for managing the history; powerful visual search and execution of previous commands; history editing capabilities.  
-system,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/cgit/parallel.git,A shell tool from GNU for executing jobs in parallel using one or more computers; it can split the input and pipe it into commands in parallel.  
+system,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/git/parallel.git,A shell tool from GNU for executing jobs in parallel using one or more computers; it can split the input and pipe it into commands in parallel.  
 security,cipher,,https://github.com/ash-shell/cipher,An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.  
 security,hashcat,https://hashcat.net/hashcat/,https://github.com/hashcat/hashcat,"A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash."
 security,encfs,http://www.arg0.net/#!encfs/c1awt,https://github.com/vgough/encfs,Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE); mounts an encrypted directory into a clear one.  
@@ -77,7 +77,7 @@ note-taking,kb,,https://github.com/gnebbia/kb,A minimalist knowledge base manage
 organizers,khard,,https://github.com/lucc/khard,Console carddav client written in Pyhton.  
 todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,https://github.com/boyska/ikog,"A fully-featured task manager incapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
 todo-manager,Yokadi,https://yokadi.github.io/,https://github.com/agateau/yokadi,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
-organizers,Org mode,http://orgmode.org/,https://git.savannah.gnu.org/cgit/emacs/org-mode.git,"Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format."
+organizers,Org mode,http://orgmode.org/,https://git.savannah.gnu.org/git/emacs/org-mode.git,"Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format."
 organizers,pal,http://palcal.sourceforge.net/,https://sourceforge.net/p/palcal/code/HEAD/tree/,"Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional."
 organizers,Remind,https://dianne.skoll.ca/projects/remind/,https://git.skoll.ca/Skollsoft-Public/Remind,"Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format."
 todo-manager,TaskWarrior,https://taskwarrior.org/,https://github.com/GothenburgBitFactory/taskwarrior,Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
@@ -883,16 +883,16 @@ security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
 transfer,feuille,,https://basedwa.re/tmtt/feuille,"A fast, dead-simple socket-based pastebin."
 text-processing,lowdown,https://kristaps.bsd.lv/lowdown/,https://github.com/kristapsdz/lowdown,"Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)"
-viewers,mdcat,,https://github.com/lunaryorn/mdcat,"cat for Markdown"
-viewers,reader,,https://github.com/mrusme/reader,"Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line"
-file-manager,felix,,https://github.com/kyoheiu/felix,"TUI file manager with vim-like key mapping"
-file-manager,cfiles,,https://github.com/mananapr/cfiles,"ncurses file manager written in C with vim like keybindings"
-file-manager,fman,,https://github.com/nore-dev/fman,"TUI File Manager"
-file-manager,goful,,https://github.com/anmitsu/goful,"Goful is a CUI file manager written in Go."
-file-manager,joshuto,,https://github.com/kamiyaa/joshuto,"ranger-like terminal file manager"
-email,aerc,https://aerc-mail.org/,,"A pretty good email client"
-file-handling,backdown,,https://github.com/Canop/backdown,"Safely and ergonomically remove duplicate files"
-file-handling,czkawka,,https://qarmin.github.io/czkawka/,"Remove unnecessary files from your computer"
-file-handling,"TUI Archiver",https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver/,"A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers"
+viewers,mdcat,,https://github.com/lunaryorn/mdcat,cat for Markdown
+viewers,reader,,https://github.com/mrusme/reader,Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
+file-manager,felix,,https://github.com/kyoheiu/felix,TUI file manager with vim-like key mapping
+file-manager,cfiles,,https://github.com/mananapr/cfiles,ncurses file manager written in C with vim like keybindings
+file-manager,fman,,https://github.com/nore-dev/fman,TUI File Manager
+file-manager,goful,,https://github.com/anmitsu/goful,Goful is a CUI file manager written in Go.
+file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal file manager
+email,aerc,https://aerc-mail.org/,,A pretty good email client
+file-handling,backdown,,https://github.com/Canop/backdown,Safely and ergonomically remove duplicate files
+file-handling,czkawka,,https://qarmin.github.io/czkawka/,Remove unnecessary files from your computer
+file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver/,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
 viewers,TubiTui,,https://codeberg.org/777/TubiTui,"A lightweight, libre, TUI-based YouTube client "
-viewers,youtube-tui,,https://github.com/Siriusmart/youtube-tui,"An aesthetically pleasing YouTube TUI"
+viewers,youtube-tui,,https://github.com/Siriusmart/youtube-tui,An aesthetically pleasing YouTube TUI
