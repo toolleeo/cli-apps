@@ -258,20 +258,20 @@ music,muCLIar,,https://github.com/aayush1205/muCLIar,YouTube automator bringing 
 office,translate-shell,,https://github.com/soimort/translate-shell,Command-line translator using Google Translate or other online services.
 office,wikit,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.
 networking,mitmproxy,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.
-music,yt-audio,,https://github.com/pseudoroot/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio."
+music,yt-audio,,https://github.com/RijulGulati/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio."
 games,Language-games,,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.
 data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,,Doing a SQL join with CSV files.
 networking,bandwhich,,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.
-monitor,dmidecode,https://www.nongnu.org/dmidecode/,http://git.savannah.gnu.org/cgit/dmidecode.git/,System information utility.
+monitor,dmidecode,https://www.nongnu.org/dmidecode/,https://git.savannah.gnu.org/git/dmidecode.git/,System information utility.
 git,forgit,,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.
-office,scholarref,https://adamsgaard.dk/scholarref.html,https://src.adamsgaard.dk/scholarref/,Tools to never deal with journal webpages again.
+office,scholarref,https://adamsgaard.dk/scholarref.html,https://src.adamsgaard.dk/scholarref.git,Tools to never deal with journal webpages again.
 games,crappybird-py,,https://github.com/JonPizza/crappybird-py,Flappy bird.
 office,conrad,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
 note-taking,dn,,https://github.com/tomlockwood/dn,Daily notes command line tool.
 git,onefetch,,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
 data-management,jtc,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
 email,NeoMutt,https://neomutt.org/,https://github.com/neomutt/neomutt,Patched and up-to-dated mutt fork.
-cheatsheet,kmdr-cli,,https://github.com/ediardo/kmdr-cli#supported-programs,The CLI tool for explaining commands from your terminal.
+cheatsheet,kmdr-cli,,https://github.com/ediardo/kmdr-cli,The CLI tool for explaining commands from your terminal.
 utility,Starship,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.
 todo-manager,todotxt-machine,https://pypi.org/project/todotxt-machine/,https://github.com/AnthonyDiGirolamo/todotxt-machine,Interfacce for todo.txt.
 games,usolitaire,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
@@ -283,7 +283,7 @@ data-management,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage i
 disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 productivity,Clipboard,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.
-music,Siren,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren/,Siren is a text-based audio player for UNIX-like operating systems.
+music,Siren,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren.git,Siren is a text-based audio player for UNIX-like operating systems.
 office,Ticker,,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
 git,git-peek,,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
@@ -301,7 +301,7 @@ utility,rofi,,https://github.com/davatorium/rofi,"A window switcher, application
 file-renamer,F2,,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely.
 todo-manager,grit,,https://github.com/climech/grit,A multitree-based personal task manager.
 todo-manager,dstask,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
-file-system,wutag,,https://github.com/wojciechkepka/wutag,CLI Tool for tagging and organizing files by tags.
+file-system,wutag,,https://github.com/vv9k/wutag,CLI Tool for tagging and organizing files by tags.
 file-handling,xplr,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
 cheatsheet,eg,,https://github.com/srsudar/eg,Useful examples at the command line.
 viewers,mdt,,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
@@ -345,11 +345,11 @@ productivity,Watson,,https://github.com/TailorDev/Watson,Time tracking CLI to kn
 data-management,WOPR,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations and infographic."
 games,Angband,https://rephial.org/,https://github.com/angband/angband,"Angband is a free, single-player dungeon exploration game."
 programming,grex,,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.
-browser,Amfora,,https://github.com/makeworld-the-better-one/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
-browser,Bombadillo,https://bombadillo.colorfield.space/,https://tildegit.org/sloum/Bombadillo,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher."
+browser,Amfora,,https://github.com/makew0rld/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
+browser,Bombadillo,https://bombadillo.colorfield.space/,https://tildegit.org/sloum/bombadillo.git,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher."
 file-handling,pycp,,https://github.com/dmerejkowsky/pycp,cp and mv with a progressbar.
 calc,bcal,,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation."
-password-manager,cpass,,https://github.com/OliverLew/cpass,Another console UI for pass.
+password-manager,cpass,,https://github.com/xlucn/cpass,Another console UI for pass.
 disk-analyzer,Dust,,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.
 editors,ash,,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings."
 versioning,gee,,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.
@@ -411,7 +411,7 @@ text-search,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON que
 git,sad,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 file-handling,wfh,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.
 text-processing,teip,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.
-text-processing,espanso,,https://github.com/federico-terzi/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.
+text-processing,espanso,,https://github.com/espanso/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.
 text-processing,huniq,,https://github.com/koraa/huniq,"Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates."
 file-handling,nat,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.
 data-management,csvq,,https://github.com/mithrandie/csvq,SQL-like query language for csv.
@@ -429,7 +429,7 @@ text-processing,anew,,https://github.com/tomnomnom/anew,"Tool for adding new lin
 viewers,TV,,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 programming,hors,,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
 utility,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
-calc,kalk,,https://github.com/PaddiM8/kalk,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
+calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
 file-handling,rip,,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
@@ -449,17 +449,17 @@ viewers,fx,,https://github.com/antonmedv/fx,Command-line JSON viewer.
 networking,speedtest-net,,https://github.com/ddsol/speedtest.net,Test internet connection speed and ping using speedtest.net.
 backup,shallow-backup,,https://github.com/alichtman/shallow-backup,Git integrated backup tool.
 office,mdp,,https://github.com/visit1985/mdp,A command-line based markdown presentation tool.
-office,sent,https://tools.suckless.org/sent/,https://git.suckless.org/sent/log.html,Simple plaintext presentation tool.
+office,sent,https://tools.suckless.org/sent/,git://git.suckless.org/sent,Simple plaintext presentation tool.
 note-taking,eureka,,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.
 todo-manager,taskell,,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
-todo-manager,taskbook,,https://github.com/klaussinani/taskbook,"Tasks, boards & notes for the command-line habitat."
+todo-manager,taskbook,,https://github.com/klaudiosinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 science,papis,,https://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
 chat,tuir,,https://gitlab.com/ajak/tuir,Reddit TUI.
 networking,xxh,,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.
 browser,browsh,https://www.brow.sh/,https://github.com/browsh-org/browsh,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."
 viewers,jless,https://pauljuliusmartinez.github.io/,https://github.com/PaulJuliusMartinez/jless,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data."
 viewers,bat,,https://github.com/sharkdp/bat,A cat clone with syntax highlighting and Git integration.
-data-management,osmf,,https://github.com/codesoap/osmf,OpenStreetMap find - A simple command line tool to explore OSM data.
+data-management,osmf,,https://github.com/codesoap/osmar,OpenStreetMap find - A simple command line tool to explore OSM data.
 viewers,haxor-news,,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 viewers,texel,,https://github.com/Lauriat/texel,Command line interface for reading spreadsheets inside terminal.
 games,gambit,,https://github.com/maaslalani/gambit,Chess board in your terminal.
@@ -484,11 +484,11 @@ text-processing,tuc,,https://github.com/riquito/tuc,"You want to cut on more t
 games,sku,,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.
 productivity,fasttyper,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
 games,GameShell,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
-office,Lotus 1-2-3 for Linux,,https://github.com/taviso/123elf#lotus-1-2-3-for-linux,A native port of Lotus 1-2-3 Release 3 to Linux.
+office,Lotus 1-2-3 for Linux,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
 system,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
 graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust."
-productivity,thokr,,https://github.com/thatvegandev/thokr,Sleek typing tui with visualized results and historical logging.
+productivity,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized results and historical logging.
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 utility,cointop,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
