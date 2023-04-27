@@ -134,13 +134,13 @@ file-handling,classifier,,https://github.com/bhrigu123/classifier,"Organize file
 file-handling,detox,http://detox.sourceforge.net/,https://sourceforge.net/projects/detox/,A utility designed to easily clean up filenames; it replaces characters like spaces with standard equivalents; it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.  
 file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,https://github.com/dtrx-py/dtrx,"(Do The Right eXtraction) aims at taking ""all the hassle out of extracting archives""; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories."
 file-handling,exa,https://the.exa.website/,https://github.com/ogham/exa,"Replacement for 'ls' written in Rust, with colors and several additional ""views""."
-file-handling,lsd,,https://github.com/Peltoche/lsd,"This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project."
+file-handling,lsd,,https://github.com/lsd-rs/lsd,"This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project."
 cd,fasd,,https://github.com/clvv/fasd,"A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line."
 file-handling,fd,,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find. Written in Rust."
 file-renamer,rename,https://www.kernel.org/pub/linux/utils/util-linux/,,"Included in `util-linux`, allows bulk rename of files with regex support."
 file-renamer,renameutils,http://www.nongnu.org/renameutils/,,A set of programs to change file and directory names by editing them inplace; I find `imv` especially useful to edit a filename at the program prompt.  
 file-handling,rmlint,,https://github.com/sahib/rmlint/,A tool to recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format; it produce a shell script that can be inspected before running it to delete the desire files.  
-file-handling,gcp,,https://github.com/petronny/gcp,"`gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
+file-handling,gcp,,,"`gcp` (Goffi’s cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
 file-manager,nnn,,https://github.com/jarun/nnn,"“The unorthodox terminal file manager” is a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories."
 file-handling,PathPicker,https://facebook.github.io/PathPicker/,https://github.com/facebook/pathpicker/,A tool from Facebook that parses the output from a command and presents a UI to select files and directories; can be used to apply a command of a interactively selected files or to move across directories.  
 file-handling,tree,http://mama.indstate.edu/users/ice/tree/,https://gitlab.com/OldManProgrammer/unix-tree,"""Recursive directory listing command that produces a depth indented listing of files""."
@@ -180,14 +180,14 @@ transfer,croc,,https://github.com/schollz/croc,Easily and securely send things f
 transfer,curl,https://curl.haxx.se/,https://github.com/curl/curl,A tool and library for transferring data with URL syntax; supports a lot of protocols.  
 torrent,Deluge,http://deluge-torrent.org/,https://git.deluge-torrent.org/deluge,"A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads."
 transfer,lftp,https://lftp.yar.ru/,https://github.com/lavv17/lftp,"""Sophisticated ftp/http client, and a file transfer program supporting a number of network protocols""; support for bookmarks and mirroring features."
-transfer,Magic Wormhole,,https://github.com/warner/magic-wormhole,The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.  
+transfer,Magic Wormhole,,https://github.com/magic-wormhole/magic-wormhole,The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.  
 transfer,OnionShare,https://onionshare.org/,https://github.com/onionshare/onionshare,"""An open source tool that lets you securely and anonymously share a file of any size."" "
 transfer,qrcp,https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html,https://github.com/claudiodangelis/qrcp,Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
 transfer,rsync,https://download.samba.org/pub/rsync/rsync.html,https://github.com/WayneD/rsync,Mirror directories across networked machines; handles diffs/changed files; works across SSH; plenty of parameters.  
 transfer,sitecopy,http://www.manyfish.co.uk/sitecopy/,,Synchronizes a local copy of a website with a remote copy on a server; does not use SSH/`scp` but FTP for file copy; useful when the remote server does not support secure copy.  
 transfer,stftp,http://stftp.sourceforge.net/,https://sourceforge.net/projects/stftp/,"(simple terminal FTP) aims to be a ""easy-to-use and unbloated client for the UNIX (and UNIX-like) console""."
 transfer,Woof,http://www.home.unix-ag.org/simon/woof.html,https://github.com/simon-budig/woof/,(Web Offer One File) sets up an HTTP webserver to serve files from a given local directory; all the users connected to the network can see and download the files.  
-transfer,youtube-dl,,http://rg3.github.io/youtube-dl/,Downloads videos from [YouTube](https://www.youtube.com/) and some other sites; useful for automated bulk downloads.  
+transfer,youtube-dl,,https://github.com/ytdl-org/youtube-dl/,Downloads videos from [YouTube](https://www.youtube.com/) and some other sites; useful for automated bulk downloads.  
 chat,finch,http://www.pidgin.im/,,"IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project."
 chat,irssi,http://www.irssi.org,https://github.com/irssi/irssi,"The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols."
 chat,RainbowStream,http://www.rainbowstream.org/,,Twitter client for the terminal; allows almost all the operations that can be done from GUI and Web clients.
@@ -210,7 +210,7 @@ programming,gdb-dashboard,,https://github.com/cyrus-and/gdb-dashboard,Modular vi
 password-manager,hide,,https://github.com/whatl3y/hide,AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 password-manager,gopass,https://www.gopass.pw/,https://github.com/gopasspw/gopass,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 password-manager,pass,https://www.passwordstore.org/,https://git.zx2c4.com/password-store/,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
-password-manager,dpg,,https://github.com/62726164/dpg,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
+password-manager,dpg,,,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
 transfer,yt-splitter,,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 backup,bupstash,,https://github.com/andrewchambers/bupstash,Easy and efficient encrypted backups.
 cd,zoxide,,https://github.com/ajeetdsouza/zoxide,A faster way to navigate your filesystem.
@@ -222,7 +222,7 @@ file-handling,twf,,https://github.com/wvanlint/twf,Standalone tree view file exp
 text-processing,delta,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.
 graphics,chafa,,https://github.com/hpjansson/chafa,Terminal graphics for the 21st century.
 viewers,youtube-viewer,,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
-note-taking,posce,,https://github.com/posce/posce,A note-taking toolkit for your command line.
+note-taking,posce,,https://github.com/vdt/posce,A note-taking toolkit for your command line.
 disk-analyzer,dutree,,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
 text-processing,ydiff,,https://github.com/ymattw/ydiff,"View colored, incremental diff."
 password-manager,kpcli,http://kpcli.sourceforge.net/,https://sourceforge.net/projects/kpcli/,A command line interface for KeePass.
