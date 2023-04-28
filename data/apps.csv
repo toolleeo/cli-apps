@@ -896,3 +896,5 @@ file-handling,czkawka,,https://qarmin.github.io/czkawka/,"Remove unnecessary fil
 file-handling,"TUI Archiver",https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver/,"A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers"
 viewers,TubiTui,,https://codeberg.org/777/TubiTui,"A lightweight, libre, TUI-based YouTube client "
 viewers,youtube-tui,,https://github.com/Siriusmart/youtube-tui,"An aesthetically pleasing YouTube TUI"
+utility,bash-cache,,https://github.com/dimo414/bash-cache,"A function memoisation / caching library for bash scripts and shells"
+utility,bkt,https://bkt.rs,https://github.com/dimo414/bkt,"bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands"
