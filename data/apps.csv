@@ -47,7 +47,7 @@ file-handling,progress,,https://github.com/Xfennec/progress,"A tool to monitor t
 monitor,powertop,https://01.org/powertop,https://github.com/fenrus75/powertop,A `top`-like utility to monitor the sources of power consumption; allows to turn on/off many components; quite useful to track possible power-related issues.  
 monitor,sysdig,https://www.sysdig.org/,https://github.com/draios/sysdig,"Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system."
 monitor,smem,https://www.selenic.com/smem/,https://selenic.com/repo/smem,"Python program that reports memory usage; it can report the ""proportional set size"" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation."
-monitor,top,http://www.unixtop.org/,,The classical Unix utility that provides a rolling display of top cpu using processes.  
+monitor,top,http://www.unixtop.org/ *ERRORE 404 SUL BROWSER*,,The classical Unix utility that provides a rolling display of top cpu using processes.  
 monitor,watch,http://www.linfo.org/watch.html,,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
 monitor,wtf,,https://github.com/wtfutil/wtf,The personal information dashboard for your terminal.
 shells,Bash,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/git/bash.git,(Bourne Again SHell) The most widespread system shell to date.  
@@ -79,7 +79,7 @@ todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,https://github.co
 todo-manager,Yokadi,https://yokadi.github.io/,https://github.com/agateau/yokadi,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.  
 organizers,Org mode,http://orgmode.org/,https://git.savannah.gnu.org/git/emacs/org-mode.git,"Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format."
 organizers,pal,http://palcal.sourceforge.net/,https://sourceforge.net/p/palcal/code/HEAD/tree/,"Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional."
-organizers,Remind,https://dianne.skoll.ca/projects/remind/,https://git.skoll.ca/Skollsoft-Public/Remind,"Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format."
+organizers,Remind,https://dianne.skoll.ca/projects/remind/,https://git.skoll.ca/Skollsoft-Public/Remind.git,"Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format."
 todo-manager,TaskWarrior,https://taskwarrior.org/,https://github.com/GothenburgBitFactory/taskwarrior,Todo manager with advanced features; dedicated synchronization server available; many plugins and related tools; healthy software project.  
 todo-manager,todo.txt,http://todotxt.org/,https://github.com/todotxt/todo.txt-cli,Minimalistic todo manager that uses a simple plain text file to keep track of items; implemented as a shell script.  
 todo-manager,todolist,http://todolist.site/,,"A minimal clone of [Wunderlist](https://www.wunderlist.com/), with 30% of its features. GTD oriented. It stores the task list in a hidden JSON file in the home directory, making it easy to backup or share them."
@@ -102,11 +102,11 @@ music,cmus,https://cmus.github.io/,https://github.com/cmus/cmus,A fast and light
 music,MOC,https://moc.daper.net/,,(music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.  
 music,mpg123,http://mpg123.org/,https://sourceforge.net/projects/mpg123/,"Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files."
 music,mps-youtube,,https://github.com/mps-youtube/yewtube,"A curses player for music tracks from Youtube; it allows to search for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters."
-music,ogg123,https://www.xiph.org/downloads/,https://gitlab.xiph.org/xiph,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
+music,ogg123,https://www.xiph.org/downloads/,https://gitlab.xiph.org/xiph/ogg.git,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
 graphics,ImageMagick,http://www.imagemagick.org/script/index.php,https://github.com/ImageMagick/ImageMagick,"Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to ""resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves""."
 graphics,scrot,,https://github.com/dreamer/scrot,A simple CLI tool to capture screenshots.  
 git,git,https://git-scm.com/,https://github.com/git/git,The winner across all the existing file versioning tools; distributed versioning; fully controllable from the command-line; plenty of configuration and usage options; behind a number of related project that leverage git as backend.  
-git,git-annex,https://git-annex.branchable.com/,http://source.git-annex.branchable.com/?p=source.git,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
+git,git-annex,https://git-annex.branchable.com/,git://git-annex.branchable.com/ git-annex,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
 git,git-stats,,https://github.com/IonicaBizau/git-stats,Local git statistics including GitHub-like contributions calendars.
 versioning,Mercurial,https://www.mercurial-scm.org/,https://www.mercurial-scm.org/repo/hg,"Free, distributed source control management tool."
 git,tig,,https://github.com/jonas/tig,"An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level."
@@ -120,7 +120,7 @@ file-manager,vifm,https://vifm.info/,https://github.com/vifm/vifm,"""ncurses bas
 conversion,catdoc,http://www.wagner.pp.ru/~vitus/software/catdoc/,http://www.wagner.pp.ru/gitweb/?p=oss/catdoc.git,Command line converter from Microsoft Word to plain text; output is sent to the standard output.  
 conversion,Pandoc,http://pandoc.org/,https://github.com/jgm/pandoc,"Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats."
 conversion,xls2csv,http://www.wagner.pp.ru/~vitus/software/catdoc/,http://www.wagner.pp.ru/gitweb/?p=oss/catdoc.git,Command line converter from Excel to CSV file format.  
-backup,borg,,https://github.com/borgbackup,Encrypted backups with a clean and simple interface; easy to use and set up; possibility to mount the backup archive with FUSE and inspect it as a regular file system.  
+backup,borg,https://www.borgbackup.org/,https://github.com/borgbackup/borg,Encrypted backups with a clean and simple interface; easy to use and set up; possibility to mount the backup archive with FUSE and inspect it as a regular file system.  
 backup,duplicity,http://duplicity.nongnu.org/,https://gitlab.com/duplicity/duplicity,"Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers."
 backup,Duply,http://duply.net/,https://sourceforge.net/projects/ftplicity/,Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
 backup,paperbackup,,https://github.com/intra2net/paperbackup,Create a pdf with barcodes to backup text files on paper.
@@ -166,7 +166,7 @@ webdev,nanoc,http://nanoc.ws/,https://github.com/nanoc/nanoc,Static site generat
 webdev,siege,https://www.joedog.org/siege-home/,https://github.com/JoeDog/siege,An http load testing and benchmarking utility designed to let web developers stress their code.  
 webdev,Tsung,http://tsung.erlang-projects.org/,https://github.com/processone/tsung,"A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers."
 browser,Links,http://www.jikos.cz/~mikulas/links//,,A textual Web browser with tables and frames.  
-browser,Elinks,http://elinks.cz/,https://repo.or.cz/w/elinks.git,"""Advanced and well-established feature-rich text mode web browser""; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor."
+browser,Elinks,http://elinks.cz/,https://repo.or.cz/elinks.git,"""Advanced and well-established feature-rich text mode web browser""; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor."
 browser,Lynx,http://lynx.invisible-island.net/,,A highly configurable text-based web browser; one of the oldest CLI browser I'm aware of.  
 browser,w3m,http://w3m.sourceforge.net/,https://sourceforge.net/projects/w3m/,A text-based web browser as well as a pager like `less`; it can be used as a text formatting tool which typesets HTML into plain text.  
 viewers,Newsbeuter,http://newsbeuter.org/,,"""The Mutt of RSS Feed Readers"": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard."
@@ -321,7 +321,7 @@ email,nmail,,https://github.com/d99kris/nmail,nmail is a console-based email cli
 chat,matterhorn,,https://github.com/matterhorn-chat/matterhorn,A terminal client for the Mattermost chat system.
 organizers,calcurse,https://calcurse.org/,https://git.calcurse.org/calcurse.git/,"A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks."
 music,castero,,https://github.com/xgi/castero,A TUI podcast client for the terminal.
-security,GnuPG,https://gnupg.org/,https://dev.gnupg.org/source/gnupg/repository/master/,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
+security,GnuPG,https://gnupg.org/,https://dev.gnupg.org/source/gnupg.git,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 chat,tiny,,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
 note-taking,Standard Unix Notes,,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
 monitor,below,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
