@@ -896,3 +896,4 @@ file-handling,czkawka,https://qarmin.github.io/czkawka/,https://github.com/qarmi
 file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver.git,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
 viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client "
 viewers,youtube-tui,,https://github.com/Siriusmart/youtube-tui,An aesthetically pleasing YouTube TUI
+text-processing,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files 
