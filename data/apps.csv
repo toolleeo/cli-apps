@@ -883,6 +883,8 @@ security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
 transfer,feuille,,https://basedwa.re/tmtt/feuille.git,"A fast, dead-simple socket-based pastebin."
 text-processing,lowdown,https://kristaps.bsd.lv/lowdown/,https://github.com/kristapsdz/lowdown,"Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)"
+utility,bash-cache,,https://github.com/dimo414/bash-cache,"A function memoisation / caching library for bash scripts and shells"
+utility,bkt,https://bkt.rs,https://github.com/dimo414/bkt,"bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands"
 viewers,mdcat,,https://github.com/swsnr/mdcat,cat for Markdown
 viewers,reader,,https://github.com/mrusme/reader,Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
 file-manager,felix,,https://github.com/kyoheiu/felix,TUI file manager with vim-like key mapping
@@ -894,6 +896,6 @@ email,aerc,https://aerc-mail.org/,https://git.sr.ht/~rjarry/aerc,A pretty good e
 file-handling,backdown,,https://github.com/Canop/backdown,Safely and ergonomically remove duplicate files
 file-handling,czkawka,https://qarmin.github.io/czkawka/,https://github.com/qarmin/czkawka,Remove unnecessary files from your computer
 file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver.git,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
-viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client "
+viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client"
 viewers,youtube-tui,,https://github.com/Siriusmart/youtube-tui,An aesthetically pleasing YouTube TUI
-text-processing,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files 
+text-processing,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files
