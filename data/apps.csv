@@ -902,3 +902,4 @@ text-processing,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and
 text-processing,smenu,,https://github.com/p-gen/smenu,"Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.",,,,
 cheatsheet,docfd,,https://github.com/darrenldl/docfd,TUI fuzzy document finder that looks for documentation files in markdown and txt format in the directory tree.,,,,
 git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster.",,,,
+utility,Skylab,,https://github.com/SerhiiStets/skylab,a text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.,,,,
