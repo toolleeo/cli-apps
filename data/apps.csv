@@ -911,3 +911,4 @@ file-handling,Dirdiff,,https://github.com/OCamlPro/dirdiff,Efficiently compute t
 programming,CodeMark CLI,,https://github.com/rootCircle/codemark-cli,"Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.",,,,
 git,travelgrunt,,https://github.com/ivanilves/travelgrunt,cd inside [mono]repos without fatigue.,,,,
 funny,kyun,,https://github.com/file-acomplaint/kyun,"Kyun is a low productivity, low fidelity, low customizablity text editor that has its focus firm on user discomfort.",,,,
+note-taking,journalC,,https://github.com/Dr-42/journalC,A simple encrypted terminal jounaling book.,,,,
