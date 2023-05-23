@@ -1009,7 +1009,7 @@ BitTorrent clients.
 * [rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with RSS feeds.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 * [shmenu](https://github.com/duclos-cavalcanti/shmenu) - Menu TUI tool written solely in bash.
-* [Skylab](https://github.com/SerhiiStets/skylab) - a text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
+* [Skylab](https://github.com/SerhiiStets/skylab) - A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 * [Starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
