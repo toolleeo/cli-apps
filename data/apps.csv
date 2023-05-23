@@ -907,3 +907,4 @@ multimedia,YouTube TUI,https://siriusmart.github.io/youtube-tui/,https://github.
 monitor,PCtrl,,https://github.com/MohamedSherifNoureldin/PCtrl,"Robust, featureful, easy-to-use and powerful process manager.",,,,
 git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"Automatically commits changes to a git repository, and always keep that repo up to date.",,,,
 note-taking,meudeus,,https://github.com/dj8yfo/meudeus,A skim-based `*.md` explore and surf tool.,,,,
+file-handling,Dirdiff,,https://github.com/OCamlPro/dirdiff,Efficiently compute the differences between two directories.,,,,
