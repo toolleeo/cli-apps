@@ -922,3 +922,4 @@ chat,Discordo,,https://github.com/ayn2op/discordo,"A lightweight, secure, and fe
 games,cli-chess,,https://github.com/trevorbayless/cli-chess,A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.,,,,
 viewers,baca,,https://github.com/wustho/baca,Lets you indulge in your favorite e-books in the comfort of your terminal.,,,,
 productivity,Productivity Timer,,https://github.com/h-sifat/productivity-timer,A CLI/TUI Pomodoro timer and todo (coming soon) application for keyboard addicts and terminal fans that makes you more productive.,,,,
+science,ptable,,https://github.com/velorek1/ptable,A beautiful TUI periodic table for GNU/linux terminals.,,,,
