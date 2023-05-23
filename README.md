@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **919** apps/tools covered, organized in **45** categories.
+To date, **920** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (8) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (38) | [Git and accessories](#git) (34) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (18) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (35) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (9) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (33) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (48) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (8) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (38) | [Git and accessories](#git) (34) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (18) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (35) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (9) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (33) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (48) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -68,6 +68,7 @@ Calculators for numbers, dates, etc..
 
 ## <a name="chat"></a>Chat and instant messaging
 
+* [Discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 * [finch]() - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
 * [irssi](https://github.com/irssi/irssi) - The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols.
 * [kirc](https://github.com/mcpcpc/kirc) - A tiny IRC client written in POSIX C99.

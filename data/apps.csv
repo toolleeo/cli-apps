@@ -918,3 +918,4 @@ programming,umake,,https://github.com/mcandre/unmake,"Makefile linter emphasizin
 system,hypershell,,https://github.com/holepunchto/hypershell,"Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.",,,,
 shells,N-Commodore,,https://github.com/psprint/n-commodore,"A novel file manager/shell/command-line, where everything is panelized, greppable and remembered.",,,,
 games,nc2048,,https://github.com/t0xk/nc2048,A ncurses 2048 game that can be played in the terminal.,,,,
+chat,Discordo,,https://github.com/ayn2op/discordo,"A lightweight, secure, and feature-rich Discord terminal client.",,,,
