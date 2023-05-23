@@ -909,3 +909,4 @@ git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"Automatically co
 note-taking,meudeus,,https://github.com/dj8yfo/meudeus,A skim-based `*.md` explore and surf tool.,,,,
 file-handling,Dirdiff,,https://github.com/OCamlPro/dirdiff,Efficiently compute the differences between two directories.,,,,
 programming,CodeMark CLI,,https://github.com/rootCircle/codemark-cli,"Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.",,,,
+git,travelgrunt,,https://github.com/ivanilves/travelgrunt,cd inside [mono]repos without fatigue.,,,,

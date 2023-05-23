@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **910** apps/tools covered, organized in **45** categories.
+To date, **911** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Games](#games) (37) | [Git and accessories](#git) (33) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (17) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (34) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (8) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (47) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Games](#games) (37) | [Git and accessories](#git) (34) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (17) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (34) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (8) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (47) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -470,6 +470,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
 * [stargazer](https://github.com/gennaro-tedesco/stargazer) - Github stats from the command line.
 * [tig](https://github.com/jonas/tig) - An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level.
+* [travelgrunt](https://github.com/ivanilves/travelgrunt) - cd inside [mono]repos without fatigue.
 
 ## <a name="graphics"></a>Graphics
 
