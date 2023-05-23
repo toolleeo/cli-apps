@@ -913,3 +913,4 @@ git,travelgrunt,,https://github.com/ivanilves/travelgrunt,cd inside [mono]repos 
 funny,kyun,,https://github.com/file-acomplaint/kyun,"Kyun is a low productivity, low fidelity, low customizablity text editor that has its focus firm on user discomfort.",,,,
 note-taking,journalC,,https://github.com/Dr-42/journalC,A simple encrypted terminal jounaling book.,,,,
 conversion,Vertopal-CLI,,https://github.com/vertopal/vertopal-cli,"Vertopal-CLI is a small, yet powerful utility for converting digital files to a variety of file formats using Vertopal public API.",,,,
+text-processing,trurl,,https://github.com/curl/trurl,Command line tool for URL parsing and manipulation.,,,,
