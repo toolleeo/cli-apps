@@ -905,3 +905,4 @@ git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large 
 utility,Skylab,,https://github.com/SerhiiStets/skylab,A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.,,,,
 multimedia,YouTube TUI,https://siriusmart.github.io/youtube-tui/,https://github.com/Siriusmart/youtube-tui,A lightweight and user friendly TUI for browsing YouTube content from the terminal.,,,,
 monitor,PCtrl,,https://github.com/MohamedSherifNoureldin/PCtrl,"Robust, featureful, easy-to-use and powerful process manager.",,,,
+git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"Automatically commits changes to a git repository, and always keep that repo up to date.",,,,

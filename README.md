@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **906** apps/tools covered, organized in **45** categories.
+To date, **907** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (45) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Games](#games) (37) | [Git and accessories](#git) (32) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (8) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (47) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (12) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (45) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Games](#games) (37) | [Git and accessories](#git) (33) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (16) | [Office tools](#office) (17) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (38) | [Programming](#programming) (33) | [Science](#science) (10) | [Security and encryption](#security) (20) | [Shells](#shells) (8) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (32) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (47) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
 
 Some links to [related resources](#resources).
 
@@ -444,6 +444,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search github repositories interactively.
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 * [git](https://github.com/git/git) - The winner across all the existing file versioning tools
+* [Git Auto Sync](https://github.com/GitJournal/git-auto-sync) - Automatically commits changes to a git repository, and always keep that repo up to date.
 * [git commander](https://github.com/golbin/git-commander) - A git tool with an easy interactive terminal interface.
 * [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved visualization of git branches (`git branch -a`).
 * [git-annex](git://git-annex.branchable.com/ git-annex) - Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.
