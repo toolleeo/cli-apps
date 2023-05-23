@@ -916,3 +916,4 @@ conversion,Vertopal-CLI,,https://github.com/vertopal/vertopal-cli,"Vertopal-CLI 
 text-processing,trurl,,https://github.com/curl/trurl,Command line tool for URL parsing and manipulation.,,,,
 programming,umake,,https://github.com/mcandre/unmake,"Makefile linter emphasizing portability, targeting the POSIX make standard.",,,,
 system,hypershell,,https://github.com/holepunchto/hypershell,"Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.",,,,
+shells,N-Commodore,,https://github.com/psprint/n-commodore,"A novel file manager/shell/command-line, where everything is panelized, greppable and remembered.",,,,
