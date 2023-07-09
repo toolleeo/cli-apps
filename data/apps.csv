@@ -923,3 +923,7 @@ games,cli-chess,,https://github.com/trevorbayless/cli-chess,A highly customizabl
 viewers,baca,,https://github.com/wustho/baca,Lets you indulge in your favorite e-books in the comfort of your terminal.,,,,
 productivity,Productivity Timer,,https://github.com/h-sifat/productivity-timer,A CLI/TUI Pomodoro timer and todo (coming soon) application for keyboard addicts and terminal fans that makes you more productive.,,,,
 science,ptable,,https://github.com/velorek1/ptable,A beautiful TUI periodic table for GNU/linux terminals.,,,,
+git,Export Pull Requests,,https://github.com/sshaw/export-pull-requests/,"Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket",,,,
+text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes",,,,
+text-processing,Normalize Country,,https://github.com/sshaw/normalize_country#conversion-utility-,Convert country names and codes to a standard.,,,,
+webdev,Shopify Development Tools,,https://github.com/ScreenStaring/shopify-dev-tools/,Tools to assist with the development and/or maintenance of Shopify apps and stores,,,,
