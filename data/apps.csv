@@ -137,10 +137,10 @@ file-handling,fd,,https://github.com/sharkdp/fd,"A simple, fast and user-friendl
 file-renamer,rename,https://www.kernel.org/pub/linux/utils/util-linux/,,"Included in `util-linux`, allows bulk rename of files with regex support."
 file-renamer,renameutils,http://www.nongnu.org/renameutils/,,"A set of programs to change file and directory names by editing them inplace, I find `imv` especially useful to edit a filename at the program prompt."
 file-handling,rmlint,,https://github.com/sahib/rmlint/,"A tool to recursively scan a directory tree looking for duplicate and broken files, it outputs statistics and save the list of files in JSON format, it produce a shell script that can be inspected before running it to delete the desire files."
-file-handling,gcp,,,"`gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
+file-handling,gcp,,https://github.com/aelafifi/gcp/,"`gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
 file-manager,nnn,,https://github.com/jarun/nnn,"""The unorthodox terminal file manager"" is a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories."
 file-handling,PathPicker,https://facebook.github.io/PathPicker/,https://github.com/facebook/pathpicker/,"A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories."
-file-handling,tree,http://mama.indstate.edu/users/ice/tree/,https://gitlab.com/OldManProgrammer/unix-tree,"""Recursive directory listing command that produces a depth indented listing of files""."
+file-explorer,tree,http://mama.indstate.edu/users/ice/tree/,https://gitlab.com/OldManProgrammer/unix-tree,"""Recursive directory listing command that produces a depth indented listing of files""."
 funny,asciicquarium,http://www.robobunny.com/projects/asciiquarium/html/,https://github.com/rgoring/asciiquarium,Enjoy the mysteries of the sea from the safety of your own terminal!
 funny,cmatrix,http://www.asty.org/cmatrix/,https://github.com/abishekvashok/cmatrix,ncurses program that display the scrolling lines found in the movie `The matrix`.
 funny,cowsay,https://en.wikipedia.org/wiki/Cowsay,https://github.com/tnalpgge/rank-amateur-cowsay,A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).  
@@ -215,7 +215,7 @@ viewers,TerminalImageViewer,,https://github.com/stefanhaustein/TerminalImageView
 monitor,whowatch,https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/,,Monitor Linux Users and Processes in Real Time.
 productivity,dijo,,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker."
 note-taking,cadmus,,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.
-file-handling,twf,,https://github.com/wvanlint/twf,Standalone tree view file explorer.
+file-explorer,twf,,https://github.com/wvanlint/twf,Standalone tree view file explorer.
 text-processing,delta,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.
 graphics,chafa,,https://github.com/hpjansson/chafa,Terminal graphics for the 21st century.
 viewers,youtube-viewer,,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
@@ -236,7 +236,7 @@ cheatsheet,navi,,https://github.com/denisidoro/navi,An interactive cheatsheet to
 data-management,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
 graphics,pastel,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
 utility,asciinema,,https://github.com/asciinema/asciinema,Terminal session recorder.
-file-handling,alder,,https://github.com/aweary/alder,Directory tree visualizer.
+file-explorer,alder,,https://github.com/aweary/alder,Directory tree visualizer.
 text-processing,diff-so-fancy,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
 text-search,ripgrep-all,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
 text-search,ripgrep,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.
@@ -298,7 +298,7 @@ file-renamer,F2,,https://github.com/ayoisaiah/f2,Cross-platform command-line too
 todo-manager,grit,,https://github.com/climech/grit,A multitree-based personal task manager.
 todo-manager,dstask,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
 file-system,wutag,,https://github.com/vv9k/wutag,CLI Tool for tagging and organizing files by tags.
-file-handling,xplr,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
+file-explorer,xplr,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf."
 cheatsheet,eg,,https://github.com/srsudar/eg,Useful examples at the command line.
 viewers,mdt,,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
 organizers,buku,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.
@@ -464,7 +464,7 @@ games,clidle,,https://github.com/ajeetdsouza/clidle,"Wordle, now over SSH."
 todo-manager,CLI-Manager,,https://github.com/MikyStar/CLI-Manager,Command Line Interface for managing tasks locally on the fly.
 games,wordle-curses,,https://github.com/knosmos/wordle-curses,A simple TUI wordle game with curses.
 networking,termishare,,https://github.com/qnkhuat/termishare,Peer to peer terminal sharing.
-file-handling,ictree,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.
+file-explorer,ictree,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.
 office,Quoter,,https://github.com/frossm/quoter,The console based stock quote tool.
 system,nala,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.
 games,terminordle,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network."
@@ -735,7 +735,7 @@ disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space
 utility,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army knife for Unix permissions.
 file-handling,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
 file-handling,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organize your files automatically.
-file-handling,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
+file-explorer,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
 cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily navigate directories from the command line.
 cd,pm,,https://github.com/Angelmmiguel/pm,"The easy way to switch between your projects on ZSH. In short, another directory changer."
 git,git commander,,https://github.com/golbin/git-commander,A git tool with an easy interactive terminal interface.
@@ -935,7 +935,7 @@ note-taking,TUI-Journal,,https://github.com/AmmarAbouZor/tui-journal,Terminal-ba
 productivity,Invoice,,https://github.com/maaslalani/invoice,Generate invoices from the command line.
 git,Kusa,,https://github.com/Ryu0118/Kusa,Displays GitHub contribution graphs.
 file-manager,projectable,,https://github.com/dzfrias/projectable,A TUI file manager built for projects.
-file-manager,Hop!,,https://github.com/benrutter/hop,"File explorer designed to be fast, simple and user friendly, running on any operating system."
+file-explorer,Hop!,,https://github.com/benrutter/hop,"File explorer designed to be fast, simple and user friendly, running on any operating system."
 cheatsheet,ManPDF & ManWEB,,https://github.com/sebastiancarlos/manpdf,Read your Man pages in PDF format. Even online!
 system,lmt,,https://github.com/Rohansjamadagni/lmt,"A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process."
 monitor,rwatch,,https://github.com/davidhfrankelcodes/rwatch,A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
@@ -961,7 +961,7 @@ file-handling,hypergrep,,https://github.com/p-ranav/hypergrep,Recursively search
 music,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line tool to play songs (or any audio, really) in the terminal."
 online,Shreddit,,https://github.com/x89/Shreddit,Remove your comment history on Reddit as deleting an account does not do so.
 online,magic-tape,,https://gitlab.com/christosangel/magic-tape,Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
-file-manager,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer that can browse the contents of local and remote filesystems with your keyboard or mouse; remotes include GitHub, over SSH, in AWS S3, Google Cloud Storage, or Azure Blob Storage."
+file-explorer,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer that can browse the contents of local and remote filesystems with your keyboard or mouse; remotes include GitHub, over SSH, in AWS S3, Google Cloud Storage, or Azure Blob Storage."
 productivity,Framed,,https://github.com/mactat/framed,A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
 file-handling,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
 file-handling,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
