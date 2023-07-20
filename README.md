@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **994** apps/tools covered, organized in **46** categories.
+To date, **994** apps/tools covered, organized in **47** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (18) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (15) | [ChatGPT](#chatgpt) (5) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File and file system handling](#file-handling) (52) | [File manager](#file-manager) (20) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (44) | [Git and accessories](#git) (37) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (45) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (39) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (53) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
+[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (15) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (5) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File and file system handling](#file-handling) (52) | [File manager](#file-manager) (20) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (44) | [Git and accessories](#git) (37) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (45) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (39) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
 
 Some links to [related resources](#resources).
 
@@ -87,13 +87,9 @@ Calculators for numbers, dates, etc..
 
 Tools to manage often used commands, code snippets, cheatsheets and alternative manpages.
 
-* [AI](https://github.com/nitefood/ai-bash-gpt) - A commandline ChatGPT client in BASH with conversation/completion support.
-* [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
-* [Commandpilot](https://github.com/barthr/commandpilot) - An assistant which uses ChatGPT to aid in constructing commands for bash.
 * [docfd](https://github.com/darrenldl/docfd) - TUI fuzzy document finder that looks for documentation files in markdown and txt format in the directory tree.
 * [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 * [ehh](https://github.com/lennardv2/ehh) - Command-line tool for remembering linux/terminal commands.
-* [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
 * [IntelliShell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells, acting like a bookmark store for commands.
 * [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal.
 * [ManPDF & ManWEB](https://github.com/sebastiancarlos/manpdf) - Read your Man pages in PDF format. Even online!
@@ -216,13 +212,26 @@ Tools for improving the efficiency of directory traversal.
 
 ## <a name="chatgpt"></a>ChatGPT
 
-Inetrfaces and front-ends to GPT engines.
+Interfaces and front-ends to GPT engines.
 
+* [AI](https://github.com/nitefood/ai-bash-gpt) - A commandline ChatGPT client in BASH with conversation/completion support.
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+* [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
 * [Chatblade](https://github.com/npiv/chatblade) - Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 * [chatgpt](https://github.com/mglantz/chatgpt) - Simple command line integration to Chat GPT.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
+* [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
 * [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
+
+## <a name="copilot"></a>Co-pilot
+
+Using GPT tools to generate commands at the command line.
+
+* [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
+* [CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
+* [Commandpilot](https://github.com/barthr/commandpilot) - An assistant which uses ChatGPT to aid in constructing commands for bash.
+* [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
+* [Yai](https://github.com/ekkinox/yai) - Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
 
 ## <a name="disk-analyzer"></a>Disk usage analyzers
 
@@ -655,7 +664,6 @@ Calendar managers.
 * [Awesome Finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
 * [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (html version) from the terminal.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
-* [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
 * [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
 * [Seashells](https://seashells.io/) - Pipe output to the web.
@@ -1060,7 +1068,6 @@ BitTorrent clients.
 ## <a name="utility"></a>Utilities
 
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
-* [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoisation / caching library for bash scripts and shells
 * [bbl](https://github.com/nehemiaharchives/bbl) - Read, search Holy Bible in command line.
@@ -1068,7 +1075,6 @@ BitTorrent clients.
 * [bits](https://github.com/jtraub91/bits) - CLI tool and pure Python library for Bitcoin.
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
 * [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
-* [CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
 * [Cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 * [cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
@@ -1110,7 +1116,6 @@ BitTorrent clients.
 * [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
-* [Yai](https://github.com/ekkinox/yai) - Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
 * [yank](https://github.com/mptre/yank) - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
 
 ## <a name="versioning"></a>Versioning

@@ -809,7 +809,7 @@ multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The C
 multimedia,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
 security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
 note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
-utility,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
+chatgpt,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
 disk-analyzer,erdtree,,https://github.com/solidiquis/erdtree,A multi-threaded file-tree visualizer and disk usage analyzer.
 games,Solitaire TUI,,https://github.com/brianstrauch/solitaire-tui,Klondike solitaire for the terminal.
 calc,Programmer calculator,,https://github.com/alt-romes/programmer-calculator,"Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits."
@@ -832,8 +832,8 @@ editors,pickaxe,,https://github.com/mdom/pickaxe,The redmine wiki editor.
 utility,Python re(gex)? exercises,,https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises,TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
 email,Himalaya,,https://github.com/soywod/himalaya,Command-line interface for email management.
 todo-manager,Dooit,,https://github.com/kraanzu/dooit,"Todo manager with interactive and beautiful UI, and vim keybindings."
-cheatsheet,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which uses ChatGPT to aid in constructing commands for bash.
-cheatsheet,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client in BASH with conversation/completion support.
+copilot,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which uses ChatGPT to aid in constructing commands for bash.
+chatgpt,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client in BASH with conversation/completion support.
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
 multimedia,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
@@ -858,8 +858,8 @@ transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboar
 transfer,pbproxy,,https://github.com/nikvdp/pbproxy,Send your clipboard anywhere you can ssh to.
 funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple Bash script that shows some animated, ASCII holiday decorations in your shell."
 git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
-cheatsheet,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
-cheatsheet,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
+copilot,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
+copilot,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
 file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 chatgpt,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 office,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
@@ -973,9 +973,9 @@ file-handling,Snoop,,https://github.com/Mandrew0822/Snoop,A command-line utility
 viewers,Frogmouth,,https://github.com/Textualize/frogmouth,A Markdown viewer / browser for the terminal.
 utility,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python library for Bitcoin.
 productivity,tui-deck,,https://github.com/mebitek/tui-deck,A TUI frontend for Nextcloud Deck app.
-utility,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you."
+copilot,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you."
 todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list manager written In Bash.
-online,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
+chatgpt,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
 utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
 productivity,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
 cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
@@ -990,6 +990,6 @@ chatgpt,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infam
 science,GCTU,,https://github.com/Mandrew0822/GCTU---Genetic-code-translation-utility,A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences.
 organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CLI scheduler.
 system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
-utility,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
+copilot,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
 utility,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple countdown timer.
 programming,codemancer,,https://0xmmo.github.io/codemancer/,Code with GPT-4 from your command line.

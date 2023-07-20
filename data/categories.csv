@@ -7,7 +7,8 @@ conversion,Conversion,File format converters
 data-management,Data management,
 transfer,Data transfer,
 cd,Directory changers,Tools for improving the efficiency of directory traversal
-chatgpt,ChatGPT,Inetrfaces and front-ends to GPT engines
+chatgpt,ChatGPT,Interfaces and front-ends to GPT engines
+copilot,Co-pilot,Using GPT tools to generate commands at the command line
 disk-analyzer,Disk usage analyzers,
 editors,Editors,Terminal text editors
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
