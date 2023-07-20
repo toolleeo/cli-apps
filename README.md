@@ -253,7 +253,7 @@ Using GPT tools to generate commands at the command line.
 Terminal text editors.
 
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
-* [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with �standard" keybindings and several advanced features; written in Ruby.
+* [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
 * [Emacs](https://www.gnu.org/software/emacs/) - One of the godfathers of text editors, free long-standing software project, tons of extensions and funcionalities, the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
 * [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
