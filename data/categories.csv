@@ -14,6 +14,7 @@ editors,Editors,Terminal text editors
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
 file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full featured file managers)
 file-handling,File and file system handling,"File managers, tagging, bookmarking"
+file-ls,File listing (replacement of ls),
 file-manager,File manager,
 file-renamer,File renamers,
 file-system,File systems,

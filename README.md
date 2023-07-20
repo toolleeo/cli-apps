@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **994** apps/tools covered, organized in **48** categories.
+To date, **994** apps/tools covered, organized in **49** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (15) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (5) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (44) | [Git and accessories](#git) (37) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (45) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (39) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
+[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (15) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (5) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (40) | [File listing (replacement of ls)](#file-ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (44) | [Git and accessories](#git) (37) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (45) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (39) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
 
 Some links to [related resources](#resources).
 
@@ -314,7 +314,6 @@ File managers, tagging, bookmarking.
 * [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
 * [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
 * [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
-* [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
 * [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
 * [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames, it replaces characters like spaces with standard equivalents, it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
 * [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
@@ -322,7 +321,6 @@ File managers, tagging, bookmarking.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
 * [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
-* [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".
 * [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
 * [ff](https://github.com/akymos/ff) - ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.
@@ -336,14 +334,10 @@ File managers, tagging, bookmarking.
 * [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 * [hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern using Intel Hypescan.
 * [inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
-* [ll](https://github.com/antonmedv/ll) - ls with git status.
-* [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
 * [mat2](https://0xacab.org/jvoisin/mat2.git) - Metadata removal tool, supporting a wide range of commonly used file formats.
-* [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
 * [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
 * [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
-* [pretty-ls](https://github.com/ix/pretty-ls) - Rust ls clone with pretty colors.
 * [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
 * [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progressbar.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
@@ -357,6 +351,15 @@ File managers, tagging, bookmarking.
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 * [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
 * [xcp](https://github.com/tarka/xcp) - Extended cp.
+
+## <a name="file-ls"></a>File listing (replacement of ls)
+
+* [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
+* [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".
+* [ll](https://github.com/antonmedv/ll) - ls with git status.
+* [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
+* [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
+* [pretty-ls](https://github.com/ix/pretty-ls) - Rust ls clone with pretty colors.
 
 ## <a name="file-manager"></a>File manager
 
