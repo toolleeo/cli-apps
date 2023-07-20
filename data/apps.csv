@@ -922,3 +922,4 @@ git,Export Pull Requests,,https://github.com/sshaw/export-pull-requests/,"Export
 text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes."
 text-processing,Normalize Country,,https://github.com/sshaw/normalize_country#conversion-utility-,Convert country names and codes to a standard.
 webdev,Shopify Development Tools,,https://github.com/ScreenStaring/shopify-dev-tools/,Tools to assist with the development and/or maintenance of Shopify apps and stores.
+productivity,tmux-pomodoro-plus,,https://github.com/olimorris/tmux-pomodoro-plus,Pomodoro technique into your tmux workflow
