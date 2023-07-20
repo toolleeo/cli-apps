@@ -919,7 +919,7 @@ file-handling,colorls,,https://github.com/athityakumar/colorls,A Ruby script tha
 productivity,termtyper,,https://github.com/kraanzu/termtyper,A typing application to level up your fingers!
 git,Export Pull Requests,,https://github.com/sshaw/export-pull-requests/,"Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket."
 text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes."
-text-processing,Normalize Country,,https://github.com/sshaw/normalize_country#conversion-utility-,Convert country names and codes to a standard.
+text-processing,Normalize Country,,https://github.com/sshaw/normalize_country,Convert country names and codes to a standard.
 webdev,Shopify Development Tools,,https://github.com/ScreenStaring/shopify-dev-tools/,Tools to assist with the development and/or maintenance of Shopify apps and stores.
 productivity,tmux-pomodoro-plus,,https://github.com/olimorris/tmux-pomodoro-plus,Pomodoro technique into your tmux workflow
 system,Violet,,https://github.com/braheezy/violet,Colorful TUI frontend to run Vagrant commands.
@@ -979,3 +979,17 @@ online,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line 
 utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
 productivity,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
 cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
+online,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+online,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
+terminal,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
+utility,CAVA,,https://github.com/karlstav/cava,Cross-platform Audio Visualizer.
+games,rooshk,,https://github.com/cmspeedrunner/rooshk,A command line game in which you act as god over a sandbox world.
+file-handling,ForkFS,,https://github.com/SUPERCILEX/forkfs,ForkFS allows you to sandbox a process's changes to your file system.
+organizers,icsp,,https://github.com/loteoo/icsp,Command-line iCalendar (.ics) to CSV utility.
+online,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT."
+science,GCTU,,https://github.com/Mandrew0822/GCTU---Genetic-code-translation-utility,A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences.
+organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CLI scheduler.
+system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
+utility,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
+utility,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple countdown timer.
+programming,codemancer,,https://0xmmo.github.io/codemancer/,Code with GPT-4 from your command line.
