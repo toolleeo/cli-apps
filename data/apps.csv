@@ -962,3 +962,20 @@ music,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line
 online,Shreddit,,https://github.com/x89/Shreddit,Remove your comment history on Reddit as deleting an account does not do so.
 online,magic-tape,,https://gitlab.com/christosangel/magic-tape,Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 file-manager,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer that can browse the contents of local and remote filesystems with your keyboard or mouse; remotes include GitHub, over SSH, in AWS S3, Google Cloud Storage, or Azure Blob Storage."
+productivity,Framed,,https://github.com/mactat/framed,A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
+file-handling,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
+file-handling,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
+utility,Marker,,https://github.com/pindexis/marker,The terminal command palette.
+cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,"Like IntelliSense, but for shells, acting like a bookmark store for commands."
+system,aptitude,,https://salsa.debian.org/apt-team/aptitude,"A TUI front-end to APT, the Debian package manager."
+system,JAPM,,https://github.com/TheAlexDev23/japm,A package manager that uses curses to provide a friendly UI
+file-handling,Snoop,,https://github.com/Mandrew0822/Snoop,A command-line utility for Linux that provides information about files in a directory.
+viewers,Frogmouth,,https://github.com/Textualize/frogmouth,A Markdown viewer / browser for the terminal.
+utility,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python library for Bitcoin.
+productivity,tui-deck,,https://github.com/mebitek/tui-deck,A TUI frontend for Nextcloud Deck app.
+utility,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you."
+todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list manager written In Bash.
+online,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
+utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
+productivity,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
+cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
