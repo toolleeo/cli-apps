@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **919** apps/tools covered, organized in **45** categories.
+To date, **923** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (39) | [Git and accessories](#git) (33) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (18) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (39) | [Programming](#programming) (35) | [Science](#science) (11) | [Security and encryption](#security) (20) | [Shells](#shells) (9) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (33) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (48) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (45) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (22)
+[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (39) | [Git and accessories](#git) (34) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (18) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (39) | [Programming](#programming) (35) | [Science](#science) (11) | [Security and encryption](#security) (20) | [Shells](#shells) (9) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (33) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (45) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
 
 Some links to [related resources](#resources).
 
@@ -443,6 +443,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [czg](https://github.com/Zhengqbbb/cz-git) - Interactively generate standardized commit messages.
+* [Export Pull Requests](https://github.com/sshaw/export-pull-requests/) - Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket.
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 * [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh cli.
@@ -919,6 +920,8 @@ Music players.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
 * [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
 * [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
+* [Normalize Country](https://github.com/sshaw/normalize_country#conversion-utility-) - Convert country names and codes to a standard.
+* [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
 * [pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
 * [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
 * [pick](https://github.com/mptre/pick) - Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
@@ -1121,6 +1124,7 @@ Static site generators, load test tools..
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
 * [Reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
+* [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools/) - Tools to assist with the development and/or maintenance of Shopify apps and stores.
 * [siege](https://www.joedog.org/siege-home/) - An http load testing and benchmarking utility designed to let web developers stress their code.  
 * [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 * [surge](https://surge.sh) - Static web publishing on surge.sh CDN.
