@@ -797,7 +797,7 @@ organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of peri
 utility,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
 security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QRcode to print on paper."
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
-utility,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
+chatgpt,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
 viewers,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
 viewers,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI interface.
@@ -861,7 +861,7 @@ git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelo
 cheatsheet,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
 cheatsheet,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
 file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
-utility,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
+chatgpt,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 office,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
 viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
@@ -979,14 +979,14 @@ online,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line 
 utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
 productivity,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
 cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
-online,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
-online,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
+chatgpt,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+chatgpt,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 terminal,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
 utility,CAVA,,https://github.com/karlstav/cava,Cross-platform Audio Visualizer.
 games,rooshk,,https://github.com/cmspeedrunner/rooshk,A command line game in which you act as god over a sandbox world.
 file-handling,ForkFS,,https://github.com/SUPERCILEX/forkfs,ForkFS allows you to sandbox a process's changes to your file system.
 organizers,icsp,,https://github.com/loteoo/icsp,Command-line iCalendar (.ics) to CSV utility.
-online,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT."
+chatgpt,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT."
 science,GCTU,,https://github.com/Mandrew0822/GCTU---Genetic-code-translation-utility,A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences.
 organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CLI scheduler.
 system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
