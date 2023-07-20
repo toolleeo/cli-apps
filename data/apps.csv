@@ -923,3 +923,19 @@ text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Ou
 text-processing,Normalize Country,,https://github.com/sshaw/normalize_country#conversion-utility-,Convert country names and codes to a standard.
 webdev,Shopify Development Tools,,https://github.com/ScreenStaring/shopify-dev-tools/,Tools to assist with the development and/or maintenance of Shopify apps and stores.
 productivity,tmux-pomodoro-plus,,https://github.com/olimorris/tmux-pomodoro-plus,Pomodoro technique into your tmux workflow
+system,Violet,,https://github.com/braheezy/violet,Colorful TUI frontend to run Vagrant commands.
+backup,gwbackupy,,https://github.com/smartondev/gwbackupy,Open source Google Workspace™ backup solution.
+system,Task,https://taskfile.dev/,https://github.com/go-task/task,A task runner / simpler Make alternative written in Go.
+games,escaping-figures-game-cli,,https://github.com/akgondber/escaping-figures-game-cli,Count figure's occurences in the escaping figures matrix.
+science,periodic-table-cli,,https://github.com/spirometaxas/periodic-table-cli,An interactive Periodic Table of Elements app for the console!
+git,git-identity,,https://github.com/cookiengineer/git-identity,Automated git alias management.
+programming,Leetcode-go,,https://github.com/Manan-Prakash-Singh/leetcode-go,"A simple CLI tool for searching, downloading and submitting problems to leetcode."
+email,pop,,https://github.com/charmbracelet/pop,Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
+cd,cdwe,,https://github.com/synoet/cdwe,(cd with env vars) Wrapper of the cd command that sets and unsets env vars when you change dir based on a config file.
+note-taking,TUI-Journal,,https://github.com/AmmarAbouZor/tui-journal,Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
+productivity,Invoice,,https://github.com/maaslalani/invoice,Generate invoices from the command line.
+git,Kusa,,https://github.com/Ryu0118/Kusa,Displays GitHub contribution graphs.
+file-manager,projectable,,https://github.com/dzfrias/projectable,A TUI file manager built for projects.
+file-manager,Hop!,,https://github.com/benrutter/hop,"File explorer designed to be fast, simple and user friendly, running on any operating system."
+cheatsheet,ManPDF & ManWEB,,https://github.com/sebastiancarlos/manpdf,Read your Man pages in PDF format. Even online!
+system,lmt,,https://github.com/Rohansjamadagni/lmt,"A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process."

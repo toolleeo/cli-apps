@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **924** apps/tools covered, organized in **45** categories.
+To date, **940** apps/tools covered, organized in **45** categories.
 
 # Index
 
-[Backup](#backup) (9) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (16) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (13) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (12) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (17) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (39) | [Git and accessories](#git) (34) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (18) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (40) | [Programming](#programming) (35) | [Science](#science) (11) | [Security and encryption](#security) (20) | [Shells](#shells) (9) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (33) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (45) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
+[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (17) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (14) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File and file system handling](#file-handling) (46) | [File manager](#file-manager) (19) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (40) | [Git and accessories](#git) (36) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (8) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (17) | [Online search and resources](#online) (10) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (41) | [Programming](#programming) (36) | [Science](#science) (12) | [Security and encryption](#security) (20) | [Shells](#shells) (9) | [Sound and music](#music) (26) | [System monitoring](#monitor) (33) | [System tools](#system) (36) | [Terminals](#terminal) (9) | [Text processing](#text-processing) (50) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (21) | [Torrent](#torrent) (7) | [Utilities](#utility) (45) | [Versioning](#versioning) (6) | [Viewers](#viewers) (35) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
 
 Some links to [related resources](#resources).
 
@@ -46,6 +46,7 @@ Some links to [related resources](#resources).
 * [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 * [duplicity](http://duplicity.nongnu.org/) - Creates GPG encrypted, compressed backups; client-side encryption allows to upload the backup onto untrusted servers.
 * [Duply](http://duply.net/) - Simplifies the use of [duplicity](http://duplicity.nongnu.org/) by keeping clean configuration files to automate the backup.  
+* [gwbackupy](https://github.com/smartondev/gwbackupy) - Open source Google Workspace™ backup solution.
 * [paperbackup](https://github.com/intra2net/paperbackup) - Create a pdf with barcodes to backup text files on paper.
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 * [thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.
@@ -94,6 +95,7 @@ Tools to manage often used commands, code snippets, cheatsheets and alternative 
 * [ehh](https://github.com/lennardv2/ehh) - Command-line tool for remembering linux/terminal commands.
 * [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
 * [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal.
+* [ManPDF & ManWEB](https://github.com/sebastiancarlos/manpdf) - Read your Man pages in PDF format. Even online!
 * [MUC](https://github.com/nate-sys/muc) - Visualize your most used commands.
 * [Nap](https://github.com/maaslalani/nap) - Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
@@ -197,6 +199,7 @@ Tools for improving the efficiency of directory traversal.
 
 * [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 * [broot](https://dystroy.org/broot/) - A new way to navigate directory trees on linux, made in rust.
+* [cdwe](https://github.com/synoet/cdwe) - (cd with env vars) Wrapper of the cd command that sets and unsets env vars when you change dir based on a config file.
 * [fasd](https://github.com/clvv/fasd) - A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 * [fastdiract](https://github.com/dp12/fastdiract) - Lightning-fast cd and command execution.
 * [fz](https://github.com/changyuheng/fz.sh) - Fuzzy tab completion for z.
@@ -265,6 +268,7 @@ Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - 
 * [Mutt](http://www.mutt.org/) - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
 * [NeoMutt](https://neomutt.org/) - Patched and up-to-dated mutt fork.
 * [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
+* [pop](https://github.com/charmbracelet/pop) - Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
 * [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
 * [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 * [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
@@ -328,6 +332,7 @@ File managers, tagging, bookmarking.
 * [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager written in bash.
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
 * [goful](https://github.com/anmitsu/goful) - Goful is a CUI file manager written in Go.
+* [Hop!](https://github.com/benrutter/hop) - File explorer designed to be fast, simple and user friendly, running on any operating system.
 * [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
 * [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 * [lf](https://github.com/gokcehan/lf) - lf (as in "list files") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.
@@ -335,6 +340,7 @@ File managers, tagging, bookmarking.
 * [Midnight Commander](http://www.midnight-commander.org/) - A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor.
 * [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C, rather complete in terms of features, especially lightweight and responsive.
 * [nnn](https://github.com/jarun/nnn) - "The unorthodox terminal file manager" is a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories.
+* [projectable](https://github.com/dzfrias/projectable) - A TUI file manager built for projects.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type.
 * [rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
 * [TUIFI Manager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
@@ -408,6 +414,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.
 * [crappybird-py](https://github.com/JonPizza/crappybird-py) - Flappy bird.
 * [Dwarf fortress](http://www.bay12games.com/dwarves/) - A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities.
+* [escaping-figures-game-cli](https://github.com/akgondber/escaping-figures-game-cli) - Count figure's occurences in the escaping figures matrix.
 * [Flapioca](https://github.com/kbrgl/flapioca) - A Flappy Bird-inspired terminal game written in Go.
 * [freesweep](http://www.upl.cs.wisc.edu/~hartmann/sweep/) - A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors and also has a highscores table.
 * [gambit](https://github.com/maaslalani/gambit) - Chess board in your terminal.
@@ -457,6 +464,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications.
 * [git-cz](https://github.com/streamich/git-cz) - Semantic Git commits.
 * [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
+* [git-identity](https://github.com/cookiengineer/git-identity) - Automated git alias management.
 * [git-peek](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
 * [git-remote-aws](https://github.com/nathants/git-remote-aws) - Management of encrypted git hosting.
 * [git-secret](https://github.com/sobolevn/git-secret) - A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using pgp and their secret keys.
@@ -467,6 +475,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [gitsummary](https://github.com/glenreesor/gitsummary) - A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color.
 * [GitUI](https://github.com/extrawurst/gitui) - The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git.
 * [grv](https://github.com/rgburke/grv) - Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered.
+* [Kusa](https://github.com/Ryu0118/Kusa) - Displays GitHub contribution graphs.
 * [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 * [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on �Conventional Commits�.
 * [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
@@ -566,6 +575,7 @@ Programs to deal with networks and communication.
 * [sncli](https://github.com/insanum/sncli) - A Python application that gives you access to your Simplenote account via the command line.
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
 * [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast, cross-platform note-taking application for the UNIX terminal.
+* [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) - Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
 
 ## <a name="office"></a>Office tools
 
@@ -661,6 +671,7 @@ Calendar managers.
 * [habitmap](https://github.com/shuu-wasseo/habitmap) - A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 * [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
 * [hledger](https://hledger.org/) - A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format.
+* [Invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line.
 * [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings.
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using the command line.
@@ -704,6 +715,7 @@ Calendar managers.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 * [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
 * [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
+* [Leetcode-go](https://github.com/Manan-Prakash-Singh/leetcode-go) - A simple CLI tool for searching, downloading and submitting problems to leetcode.
 * [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 * [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
 * [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
@@ -731,6 +743,7 @@ Tools for scientific research and science applications.
 * [FAWOC](https://github.com/robolab-pavia/fawoc) - FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.
 * [Go-L](https://github.com/Jeadie/Go-L) - Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.).
 * [papis](https://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+* [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - An interactive Periodic Table of Elements app for the console!
 * [pt.sh](https://github.com/alexeytal/pt.sh) - CLI periodic table with search and many properties.
 * [ptable](https://github.com/velorek1/ptable) - A beautiful TUI periodic table for GNU/linux terminals.
 * [Pubs](https://github.com/pubs/pubs) - Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
@@ -861,6 +874,7 @@ Music players.
 * [hstr](https://github.com/dvorka/hstr) - A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities.
 * [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
 * [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
+* [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
 * [lshw](http://www.ezix.org/project/wiki/HardwareLiSter) - A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [mprocs](https://github.com/pvolok/mprocs) - mprocs runs multiple commands in parallel and shows output of each command separately.
@@ -875,7 +889,9 @@ Music players.
 * [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 * [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
 * [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
+* [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
 * [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
+* [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
 
 ## <a name="terminal"></a>Terminals
 
