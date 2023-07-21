@@ -216,12 +216,12 @@ monitor,whowatch,https://www.tecmint.com/whowatch-monitor-linux-users-and-proces
 productivity,dijo,,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker."
 note-taking,cadmus,,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.
 file-explorer,twf,,https://github.com/wvanlint/twf,Standalone tree view file explorer.
-text-processing,delta,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.
+diff,delta,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.
 graphics,chafa,,https://github.com/hpjansson/chafa,Terminal graphics for the 21st century.
 viewers,youtube-viewer,,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.
 note-taking,posce,,https://github.com/vdt/posce,A note-taking toolkit for your command line.
 disk-analyzer,dutree,,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
-text-processing,ydiff,,https://github.com/ymattw/ydiff,"View colored, incremental diff."
+diff,ydiff,,https://github.com/ymattw/ydiff,"View colored, incremental diff."
 password-manager,kpcli,http://kpcli.sourceforge.net/,https://sourceforge.net/projects/kpcli/,A command line interface for KeePass.
 data-management,GNU Recutils,https://www.gnu.org/software/recutils/manual/,,"Set of tools and libraries to access human-editable, text-based databases called recfiles."
 games,terminal_board_games,,https://github.com/salt-die/terminally_bored_terminal_board_games,Board games for the terminal.
@@ -237,7 +237,7 @@ data-management,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line t
 graphics,pastel,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
 utility,asciinema,,https://github.com/asciinema/asciinema,Terminal session recorder.
 file-explorer,alder,,https://github.com/aweary/alder,Directory tree visualizer.
-text-processing,diff-so-fancy,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
+diff,diff-so-fancy,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
 text-search,ripgrep-all,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
 text-search,ripgrep,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.
 utility,pmenu,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.
@@ -416,7 +416,7 @@ programming,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI 
 transfer,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three dimensional plots of data.
 office,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
-text-processing,Difftastic,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
+diff,Difftastic,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
 utility,Gaze,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
 text-search,todocheck,,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
 browser,s,,https://github.com/zquestz/s,Web search from the terminal. Just opens in your browser.
@@ -527,7 +527,7 @@ games,othello-cli,,https://github.com/LelsersLasers/othello-cli,"othello-cli is 
 productivity,paycon,,https://github.com/arcorion/paycon,Converts pay amounts between different time units.
 transfer,Jitter,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
 torrent,Transgression TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission bittorrent program.
-text-processing,pdf-diff,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
+diff,pdf-diff,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
 graphics,kakikun,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using unicode characters."
 graphics,Aewan,http://aewan.sourceforge.net/,https://sourceforge.net/projects/aewan/,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 graphics,jp2a,https://csl.name/jp2a/,https://sourceforge.net/projects/jp2a/,Command-line tool that converts images to ASCII art in the Linux terminal.
@@ -681,7 +681,7 @@ text-processing,alex,,https://github.com/get-alex/alex,"Catch insensitive, incon
 text-processing,HASHA CLI,,https://github.com/sindresorhus/hasha-cli,Hashing made simple. Get the hash of text or stdin.
 text-processing,gzip-size-cli,,https://github.com/sindresorhus/gzip-size-cli,Get the gzipped size of a file.
 text-processing,kill-tabs,,https://github.com/sindresorhus/kill-tabs,"Kill all Chrome tabs to improve performance, decrease battery usage, and save memory."
-text-processing,leven-cli,,https://github.com/sindresorhus/leven-cli,Measure the difference between two strings using the Levenshtein distance algorithm.
+diff,leven-cli,,https://github.com/sindresorhus/leven-cli,Measure the difference between two strings using the Levenshtein distance algorithm.
 text-processing,to-single-quotes,,https://github.com/sindresorhus/to-single-quotes-cli,Convert matching double-quotes to single-quotes.
 text-processing,to-double-quotes,,https://github.com/sindresorhus/to-double-quotes-cli,Convert matching single-quotes to double-quotes.
 text-processing,detect-indent-cli,,https://github.com/sindresorhus/detect-indent-cli,Detect the indentation of code.
@@ -757,7 +757,7 @@ file-handling,happyfinder,,https://github.com/hugows/hf,(another) Fuzzy file fin
 online,Awesome Finder,,https://github.com/mingrammer/awesome-finder,Search the awesome lists from the command line.
 online,Seashells,https://seashells.io/,https://github.com/anishathalye/seashells,Pipe output to the web.
 utility,movie,,https://github.com/mayankchd/movie,A CLI for getting information about a movies and comparing two movies.
-text-processing,diff2html-cli,,https://github.com/rtfpessoa/diff2html-cli,Parse git diffs as JSON and generate pretty HTML.
+diff,diff2html-cli,,https://github.com/rtfpessoa/diff2html-cli,Parse git diffs as JSON and generate pretty HTML.
 webdev,HTTPie,,https://github.com/httpie/httpie,HTTPie for Terminal: human-friendly CLI HTTP client for the API era.
 webdev,Discharge,,https://github.com/brandonweiss/discharge,Deploy static websites to Amazon S3.
 webdev,Reachable,,https://github.com/italolelis/reachable,Check if a domain is up.
@@ -890,7 +890,7 @@ file-handling,backdown,,https://github.com/Canop/backdown,Safely and ergonomical
 file-handling,czkawka,https://qarmin.github.io/czkawka/,https://github.com/qarmin/czkawka,Remove unnecessary files from your computer
 file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver.git,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
 viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client"
-text-processing,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files
+diff,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files
 text-processing,smenu,,https://github.com/p-gen/smenu,"Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use."
 cheatsheet,docfd,,https://github.com/darrenldl/docfd,TUI fuzzy document finder that looks for documentation files in markdown and txt format in the directory tree.
 git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster."
@@ -899,7 +899,7 @@ multimedia,YouTube TUI,https://siriusmart.github.io/youtube-tui/,https://github.
 monitor,PCtrl,,https://github.com/MohamedSherifNoureldin/PCtrl,"Robust, featureful, easy-to-use and powerful process manager."
 git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"Automatically commits changes to a git repository, and always keep that repo up to date."
 note-taking,meudeus,,https://github.com/dj8yfo/meudeus,A skim-based `*.md` explore and surf tool.
-file-handling,Dirdiff,,https://github.com/OCamlPro/dirdiff,Efficiently compute the differences between two directories.
+diff,Dirdiff,,https://github.com/OCamlPro/dirdiff,Efficiently compute the differences between two directories.
 programming,CodeMark CLI,,https://github.com/rootCircle/codemark-cli,"Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations."
 git,travelgrunt,,https://github.com/ivanilves/travelgrunt,cd inside [mono]repos without fatigue.
 funny,kyun,,https://github.com/file-acomplaint/kyun,"Kyun is a low productivity, low fidelity, low customizablity text editor that has its focus firm on user discomfort."
