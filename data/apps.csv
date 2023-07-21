@@ -239,7 +239,7 @@ file-explorer,alder,,https://github.com/aweary/alder,Directory tree visualizer.
 diff,diff-so-fancy,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
 text-search,ripgrep-all,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
 text-search,ripgrep,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.
-utility,pmenu,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.
+fuzzy-finder,pmenu,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.
 editors,eon,,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim."
 data-management,datadash,,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.
 music,Mp3blaster,http://www.mp3blaster.org/?m=1,https://sourceforge.net/projects/mp3blaster/,Audio player for the text console.
@@ -839,7 +839,7 @@ productivity,py_flashcards,,https://github.com/M4THYOU/py_flashcards,Text-only C
 file-renamer,moove,,https://github.com/urin/moove,Manipulate file names and locations using a text editor.
 shells,Reptyl,,https://github.com/0ut0flin3/Reptyl,A cross-platform command line shell that supports execution of commands in natural language.
 networking,Tunnelmole,,https://github.com/robbie-cahill/tunnelmole-client,Connect to local servers from anywhere.
-utility,shmenu,,https://github.com/duclos-cavalcanti/shmenu,Menu TUI tool written solely in bash.
+fuzzy-finder,shmenu,,https://github.com/duclos-cavalcanti/shmenu,Menu TUI tool written solely in bash.
 monitor,Fastfetch,,https://github.com/LinusDierheimer/fastfetch,"Like neofetch, but much faster because written in C."
 password-manager,pa,,https://github.com/biox/pa,"A simple password manager; encryption via age, written in portable posix shell."
 viewers,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
