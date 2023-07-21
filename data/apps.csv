@@ -993,3 +993,4 @@ utility,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple count
 programming,codemancer,,https://0xmmo.github.io/codemancer/,Code with GPT-4 from your command line.
 text-search,ast-grep,,https://github.com/ast-grep/ast-grep,"A CLI tool for code structrual search, lint and rewriting."
 security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
+programming,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
