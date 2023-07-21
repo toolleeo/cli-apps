@@ -86,7 +86,7 @@ organizers,Wyrd,http://freecode.com/projects/wyrd/,https://gitlab.com/wyrd-calen
 time-tracker,arbtt,http://arbtt.nomeata.de/,https://github.com/nomeata/arbtt,"(automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window."
 productivity,ledger,http://ledger-cli.org/,https://github.com/ledger/ledger,"A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account."
 calc,Qalculate,https://qalculate.github.io/,https://github.com/Qalculate/libqalculate,"Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI)."
-productivity,Translate Shell,https://www.soimort.org/translate-shell/,https://github.com/soimort/translate-shell,"Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc."
+writing,Translate Shell,https://www.soimort.org/translate-shell/,https://github.com/soimort/translate-shell,"Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc."
 viewers,cacaview,http://caca.zoy.org/wiki/libcaca,https://github.com/cacalabs/libcaca,"A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters."
 viewers,glow,,https://github.com/charmbracelet/glow,"Render markdown on the CLI, with pizzazz!"
 viewers,Terminal Markdown Viewer,,https://github.com/axiros/terminal_markdown_viewer,Python based Markdown viewer for the terminal.
@@ -598,7 +598,7 @@ productivity,flash-tui,,https://github.com/TBS1996/speki,Flashcard app for the t
 data-management,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
 system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.
 games,hangman,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.
-productivity,CLI-Dictionary,,https://github.com/Lodobo/dict.py,Scripts for downloading and viewing wiktionary entries from Kaikki.org.
+writing,CLI-Dictionary,,https://github.com/Lodobo/dict.py,Scripts for downloading and viewing wiktionary entries from Kaikki.org.
 editors,Feather,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.
 text-processing,swordfish-rs,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with realtime typing into terminal uses a screenplay where text and timings are specified.
 git,GitUI,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git."
@@ -658,7 +658,7 @@ system,Mxflow-cli,,https://github.com/metaory/mxflow-cli,"A modern, general purp
 graphics,vhs,,https://github.com/charmbracelet/vhs,Write terminal GIFs as code for integration testing and demoing your CLI tools.
 system,checksum.sh,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh,"Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere."
 data-management,crudini,,https://github.com/pixelb/crudini,A utility for manipulating ini files.
-productivity,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interface to bring Google Translation in the terminal.
+writing,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interface to bring Google Translation in the terminal.
 security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 utility,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
 funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
@@ -675,7 +675,7 @@ utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displ
 programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
 text-processing,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
-text-processing,alex,,https://github.com/get-alex/alex,"Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text."
+writing,alex,,https://github.com/get-alex/alex,"Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text."
 text-processing,HASHA CLI,,https://github.com/sindresorhus/hasha-cli,Hashing made simple. Get the hash of text or stdin.
 text-processing,gzip-size-cli,,https://github.com/sindresorhus/gzip-size-cli,Get the gzipped size of a file.
 text-processing,kill-tabs,,https://github.com/sindresorhus/kill-tabs,"Kill all Chrome tabs to improve performance, decrease battery usage, and save memory."
@@ -768,7 +768,7 @@ monitor,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-
 transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share files from the command line. A fully featured Firefox Send client.
 data-management,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
 cheatsheet,Wat,,https://github.com/dthree/wat,"Instant, central, community-built docs."
-productivity,cambd-cli,,https://github.com/rocktimsaikia/cambd,A CLI tool to automate the process to access the Cambridge dictionary.
+writing,cambd-cli,,https://github.com/rocktimsaikia/cambd,A CLI tool to automate the process to access the Cambridge dictionary.
 productivity,zeitkatze,,https://github.com/leonmavr/zeitkatze,Simplest stopwatch in a linux console.
 games,Words,,https://github.com/ludovicianul/words,A set of word-based puzzle games for the CLI while you wait for the build to run.
 science,Go-L,,https://github.com/Jeadie/Go-L,"Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.)."
@@ -975,7 +975,7 @@ copilot,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for y
 todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list manager written In Bash.
 chatgpt,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
 utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
-productivity,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
+writing,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
 cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
 chatgpt,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 chatgpt,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
