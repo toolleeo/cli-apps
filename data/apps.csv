@@ -10,11 +10,11 @@ text-search,ag,,https://github.com/ggreer/the_silver_searcher,"(The silver searc
 text-search,paragrep,http://software.clapper.org/paragrep/,https://github.com/bmc/paragrep,"Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions, a paragraph is defined as a block of text delimited by an empty or blank line, fully customizable via command line parameters."
 text-search,sift,https://sift-tool.org/,https://github.com/svent/sift,"Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as ""regular"" grep and allows to specify complex expressions to find text."
 viewers,ccat,,https://github.com/owenthereal/ccat,A `cat` command with colorized output.  
-text-processing,fzf,,https://github.com/junegunn/fzf,"(FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`."
+fuzzy-finder,fzf,,https://github.com/junegunn/fzf,"(FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`."
 text-processing,grc,,https://github.com/pengwynn/grc,"(Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files, different patterns can be associated to file types."
 data-management,jq,https://stedolan.github.io/jq/,https://github.com/stedolan/jq,"(JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
-text-processing,percol,,https://github.com/mooz/percol,"A Python script that ""1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`""; can be used to add interactivity to many regular shell commands."
-text-processing,pick,,https://github.com/mptre/pick,Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
+fuzzy-finder,percol,,https://github.com/mooz/percol,"A Python script that ""1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`""; can be used to add interactivity to many regular shell commands."
+fuzzy-finder,pick,,https://github.com/mptre/pick,Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
 data-management,q,http://harelba.github.io/q/,https://github.com/harelba/q,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
 font,FIGlet,http://www.figlet.org/,https://github.com/cmatsuoka/figlet,"Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available."
 font,toilet,http://caca.zoy.org/wiki/toilet,https://github.com/cacalabs/toilet,"A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects."
@@ -384,7 +384,7 @@ monitor,noti,,https://github.com/variadico/noti,Monitor a process and trigger a 
 productivity,cowyo,,https://github.com/schollz/cowyo,Feature rich wiki webserver for minimalists.
 system,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
 file-handling,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
-text-processing,fzy,,https://github.com/jhawthorn/fzy,Better fuzzy finder.
+fuzzy-finder,fzy,,https://github.com/jhawthorn/fzy,Better fuzzy finder.
 graphics,GraphicsMagick,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick/,Swiss army knife of image processing.
 viewers,hexyl,,https://github.com/sharkdp/hexyl,Command-line hex viewer.
 programming,temci,,https://github.com/parttimenerd/temci,Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
@@ -393,14 +393,14 @@ programming,license-up,,https://github.com/nikitavoloboev/license-up,Create a li
 system,mackup,,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux).
 file-renamer,massren,,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.
 programming,scons,,https://github.com/SCons/scons,Software construction tool.
-text-processing,skim,,https://github.com/lotabout/skim,Fuzzy Finder in rust.
+fuzzy-finder,skim,,https://github.com/lotabout/skim,Fuzzy Finder in rust.
 webdev,snallygaster,,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.
 graphics,svgcleaner,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.
 security,wifi-password,,https://github.com/rauchg/wifi-password,Get wifi pass.
 productivity,habitctl,,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.
 programming,kickstart,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.
 file-renamer,nomino,,https://github.com/yaa110/nomino,Batch rename utility for developers.
-text-processing,luneta,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
+fuzzy-finder,luneta,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
 text-search,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
 git,sad,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 file-handling,wfh,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.
@@ -570,7 +570,7 @@ online,Awesome CLI,,https://github.com/umutphp/awesome-cli,Awesome CLI is a simp
 utility,ora,,https://github.com/sindresorhus/ora,Elegant terminal spinner.
 monitor,hyperfine,,https://github.com/sharkdp/hyperfine,A command-line benchmarking tool.
 password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,https://github.com/bitwarden/cli,"Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises."
-text-processing,choose,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
+fuzzy-finder,choose,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 multimedia,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video."
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 utility,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
@@ -890,7 +890,7 @@ file-handling,czkawka,https://qarmin.github.io/czkawka/,https://github.com/qarmi
 file-handling,TUI Archiver,https://www.nexus0.net/pub/sw/tuiarchiver/,https://codeberg.org/dnalor/tuiarchiver.git,A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
 viewers,TubiTui,,https://codeberg.org/777/TubiTui.git,"A lightweight, libre, TUI-based YouTube client"
 diff,csv-diff,,https://github.com/simonw/csv-diff,Python CLI tool and library for diffing CSV and JSON files
-text-processing,smenu,,https://github.com/p-gen/smenu,"Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use."
+fuzzy-finder,smenu,,https://github.com/p-gen/smenu,"Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use."
 cheatsheet,docfd,,https://github.com/darrenldl/docfd,TUI fuzzy document finder that looks for documentation files in markdown and txt format in the directory tree.
 git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster."
 utility,Skylab,,https://github.com/SerhiiStets/skylab,A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.

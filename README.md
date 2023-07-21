@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **993** apps/tools covered, organized in **50** categories.
+To date, **993** apps/tools covered, organized in **51** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (15) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (5) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (39) | [File listing (replacement of ls)](#file-ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Games](#games) (44) | [Git and accessories](#git) (37) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (45) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (39) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (41) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
+[Backup](#backup) (10) | [Calculators](#calc) (9) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (15) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (5) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (39) | [File listing (replacement of ls)](#file-ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Fuzzy finders](#fuzzy-finder) (8) | [Games](#games) (44) | [Git and accessories](#git) (37) | [Graphics](#graphics) (26) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (45) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (39) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (33) | [Text search](#text-search) (10) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (50) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23)
 
 Some links to [related resources](#resources).
 
@@ -451,6 +451,19 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 * [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
 * [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+
+## <a name="fuzzy-finder"></a>Fuzzy finders
+
+Fuzzy finders and generic option pickers.
+
+* [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
+* [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
+* [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
+* [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
+* [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
+* [pick](https://github.com/mptre/pick) - Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
+* [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
+* [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 
 ## <a name="games"></a>Games
 
@@ -990,14 +1003,11 @@ Music players.
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 * [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
-* [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 * [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
 * [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 * [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 * [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust. Not limited to the command line.
 * [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
-* [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
-* [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
 * [grc](https://github.com/pengwynn/grc) - (Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files, different patterns can be associated to file types.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 * [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
@@ -1007,17 +1017,12 @@ Music players.
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
 * [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
-* [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 * [Normalize Country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard.
 * [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
-* [percol](https://github.com/mooz/percol) - A Python script that "1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`"; can be used to add interactivity to many regular shell commands.
-* [pick](https://github.com/mptre/pick) - Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
 * [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 * [pv](http://www.ivarch.com/programs/pv.shtml) - The pv command is used to monitor the progress of data through pipe.
 * [rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 * [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
-* [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
-* [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 * [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 * [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with realtime typing into terminal uses a screenplay where text and timings are specified.
 * [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
