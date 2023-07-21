@@ -84,7 +84,7 @@ todo-manager,todolist,http://todolist.site/,,"A minimal clone of [Wunderlist](ht
 todo-manager,TuDu,https://code.meskio.net/tudu/,https://github.com/meskio/tudu,"A comand line interface to manage hierarchical todos.  Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities."
 organizers,Wyrd,http://freecode.com/projects/wyrd/,https://gitlab.com/wyrd-calendar/wyrd,Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.  
 time-tracker,arbtt,http://arbtt.nomeata.de/,https://github.com/nomeata/arbtt,"(automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window."
-productivity,ledger,http://ledger-cli.org/,https://github.com/ledger/ledger,"A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account."
+financial,ledger,http://ledger-cli.org/,https://github.com/ledger/ledger,"A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account."
 calc,Qalculate,https://qalculate.github.io/,https://github.com/Qalculate/libqalculate,"Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI)."
 writing,Translate Shell,https://www.soimort.org/translate-shell/,https://github.com/soimort/translate-shell,"Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc."
 viewers,cacaview,http://caca.zoy.org/wiki/libcaca,https://github.com/cacalabs/libcaca,"A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters."
@@ -484,7 +484,7 @@ graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multipl
 productivity,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized results and historical logging.
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
-utility,cointop,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
+financial,cointop,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 system,pulsemixer,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
 cd,fastdiract,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.
 file-handling,inventory,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.
@@ -517,12 +517,12 @@ music,musikcube,,https://github.com/clangen/musikcube,"A cross-platform, termina
 multimedia,Editly,,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
 multimedia,ffmpeg,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.
 shells,xonsh,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
-productivity,hledger,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
+financial,hledger,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
 git,fzf-git.sh,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf."
 conversion,simtex,,https://github.com/simtex-dev/engine,"simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file."
 file-handling,ff,,https://github.com/akymos/ff,"ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command."
 games,othello-cli,,https://github.com/LelsersLasers/othello-cli,"othello-cli is a cli version of Othello (Reversi) written in Rust. You can play against another player, the AI, or watch two AIs play each other."
-productivity,paycon,,https://github.com/arcorion/paycon,Converts pay amounts between different time units.
+financial,paycon,,https://github.com/arcorion/paycon,Converts pay amounts between different time units.
 transfer,Jitter,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
 torrent,Transgression TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission bittorrent program.
 diff,pdf-diff,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
@@ -692,7 +692,7 @@ security,StegCloak,,https://github.com/kurolabs/stegcloak,Hide secrets with invi
 file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager written in bash."
 networking,mosh,https://mosh.org/,https://github.com/mobile-shell/mosh,Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 organizers,vdirsyncer,,https://github.com/pimutils/vdirsyncer,CalDAV synchronization program.
-productivity,moeda,,https://github.com/thompsonemerson/moeda,A foreign exchange rates and currency conversion using the command line.
+financial,moeda,,https://github.com/thompsonemerson/moeda,A foreign exchange rates and currency conversion using the command line.
 webdev,crawley,,https://github.com/s0rg/crawley,Unix-way web crawler: crawls web pages and prints any link it can find.
 calc,mdlt,,https://github.com/metadelta/mdlt,A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
 networking,serve,,https://github.com/vercel/serve,"Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents."
@@ -759,7 +759,7 @@ diff,diff2html-cli,,https://github.com/rtfpessoa/diff2html-cli,Parse git diffs a
 webdev,HTTPie,,https://github.com/httpie/httpie,HTTPie for Terminal: human-friendly CLI HTTP client for the API era.
 webdev,Discharge,,https://github.com/brandonweiss/discharge,Deploy static websites to Amazon S3.
 webdev,Reachable,,https://github.com/italolelis/reachable,Check if a domain is up.
-calc,cash-cli,,https://github.com/xxczaki/cash-cli,Convert Currency Rates.
+financial,cash-cli,,https://github.com/xxczaki/cash-cli,Convert Currency Rates.
 office,DeckTape,,https://github.com/astefanutti/decktape,DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
 file-system,ipfs-deploy,,https://github.com/ipfs-shipyard/ipfs-deploy,Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 time-tracker,doing,,https://github.com/ttscoff/doing,A command line tool for remembering what you were doing and tracking what you've done.
@@ -930,7 +930,7 @@ programming,Leetcode-go,,https://github.com/Manan-Prakash-Singh/leetcode-go,"A s
 email,pop,,https://github.com/charmbracelet/pop,Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
 cd,cdwe,,https://github.com/synoet/cdwe,(cd with env vars) Wrapper of the cd command that sets and unsets env vars when you change dir based on a config file.
 note-taking,TUI-Journal,,https://github.com/AmmarAbouZor/tui-journal,Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
-productivity,Invoice,,https://github.com/maaslalani/invoice,Generate invoices from the command line.
+financial,Invoice,,https://github.com/maaslalani/invoice,Generate invoices from the command line.
 git,Kusa,,https://github.com/Ryu0118/Kusa,Displays GitHub contribution graphs.
 file-manager,projectable,,https://github.com/dzfrias/projectable,A TUI file manager built for projects.
 file-explorer,Hop!,,https://github.com/benrutter/hop,"File explorer designed to be fast, simple and user friendly, running on any operating system."
@@ -969,7 +969,7 @@ system,aptitude,,https://salsa.debian.org/apt-team/aptitude,"A TUI front-end to 
 system,JAPM,,https://github.com/TheAlexDev23/japm,A package manager that uses curses to provide a friendly UI
 file-handling,Snoop,,https://github.com/Mandrew0822/Snoop,A command-line utility for Linux that provides information about files in a directory.
 viewers,Frogmouth,,https://github.com/Textualize/frogmouth,A Markdown viewer / browser for the terminal.
-utility,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python library for Bitcoin.
+financial,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python library for Bitcoin.
 productivity,tui-deck,,https://github.com/mebitek/tui-deck,A TUI frontend for Nextcloud Deck app.
 copilot,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you."
 todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list manager written In Bash.
