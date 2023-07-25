@@ -990,5 +990,5 @@ organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CL
 system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
 copilot,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
 utility,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple countdown timer.
-programming,codemancer,,https://0xmmo.github.io/codemancer/,Code with GPT-4 from your command line.
+programming,codemancer,https://0xmmo.github.io/codemancer/,https://github.com/0xmmo/codemancer,Code with GPT-4 from your command line.
 text-search,ast-grep,,https://github.com/ast-grep/ast-grep,"A CLI tool for code structrual search, lint and rewriting."
