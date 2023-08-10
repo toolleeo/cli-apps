@@ -992,3 +992,4 @@ copilot,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that u
 utility,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple countdown timer.
 programming,codemancer,https://0xmmo.github.io/codemancer/,https://github.com/0xmmo/codemancer,Code with GPT-4 from your command line.
 text-search,ast-grep,,https://github.com/ast-grep/ast-grep,"A CLI tool for code structrual search, lint and rewriting."
+copilot,aish,,https://github.com/chr15m/aish,"A program that retrieve shell script one-liners, ready to be executed in the terminal."
