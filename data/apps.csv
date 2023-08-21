@@ -998,3 +998,4 @@ games,guess-word-cli,,https://github.com/akgondber/guess-word-cli,Find out a sou
 cd,slingshot,,https://github.com/caio-ishikawa/slingshot,Lightweight command line tool to quickly navigate across folders.
 system,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for docker environments.
 copilot,Llama Terminal Completion,,https://github.com/adammpkins/llama-terminal-completion,"Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts."
+graphics,img2ascii,,https://github.com/JosefVesely/Image-to-ASCII,Convert images to ASCII art.
