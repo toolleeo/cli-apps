@@ -198,7 +198,7 @@ monitor,neofetch,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI syst
 calc,pdd,,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
 utility,powerline,,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
 online,socli,,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
-utility,termsaver,http://termsaver.brunobraga.net/,,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
+screensaver,termsaver,http://termsaver.brunobraga.net/,,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
 utility,dateutils,http://www.fresse.org/dateutils/,https://github.com/hroptatyr/dateutils,Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
 data-management,VisiData,https://www.visidata.org/,https://github.com/saulpw/visidata,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
 data-management,csvkit,,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
@@ -742,7 +742,7 @@ git,semantic-git-commit-cli,,https://github.com/JPeer264/node-semantic-git-commi
 git,git-all-branches,,https://github.com/zacanger/git-all-branches,Improved visualization of git branches (`git branch -a`).
 graphics,SVGO,,https://github.com/svg/svgo,SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 graphics,Korkut,,https://github.com/oguzhaninan/korkut,"Quick and simple image processing with the following functions: optimize, convert, crop, resize, rotate, watermark, flip."
-funny,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes terminal screensaver.
+screensaver,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes terminal screensaver.
 calc,Bitwise,,https://github.com/mellowcandle/bitwise,Base conversion and bit manipulator in ncurses.
 programming,rebound,,https://github.com/shobrook/rebound,"Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Golang, and Java."
 multimedia,ffscreencast,,https://github.com/cytopia/ffscreencast,A ffmpeg screencast with video overlay and multi monitor support.
@@ -1000,3 +1000,5 @@ system,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for
 copilot,Llama Terminal Completion,,https://github.com/adammpkins/llama-terminal-completion,"Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts."
 graphics,img2ascii,,https://github.com/JosefVesely/Image-to-ASCII,Convert images to ASCII art.
 writing,write good,,https://github.com/btford/write-good,Naive linter for English prose.
+screensaver,sclocka,,https://github.com/mezantrop/sclocka,The real screensaver/lock for terminals.
+screensaver,ASCII Saver,,https://gitlab.com/mezantrop/ascsaver,Screensaver for terminals.

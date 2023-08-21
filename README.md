@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1001** apps/tools covered, organized in **54** categories.
+To date, **1003** apps/tools covered, organized in **55** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (16) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (39) | [File listing (replacement of ls)](#file-ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (8) | [Font management](#font) (2) | [Funny tools](#funny) (26) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (45) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (21) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [System tools](#system) (40) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (32) | [Text search](#text-search) (11) | [Time trackers](#time-tracker) (13) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (46) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (7)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers](#cd) (16) | [ChatGPT](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (39) | [File listing (replacement of ls)](#file-ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (8) | [Font management](#font) (2) | [Funny tools](#funny) (25) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (45) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (16) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (12) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (21) | [Programming](#programming) (37) | [Science](#science) (13) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (40) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (32) | [Text search](#text-search) (11) | [Time trackers](#time-tracker) (13) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (45) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (7)
 
 Some links to [related resources](#resources).
 
@@ -457,7 +457,6 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 * [Maze Solver](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
 * [pokeget](https://github.com/talwat/pokeget) - A bash script you can use to display cool sprites of pokemon in your terminal.
 * [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 * [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
@@ -936,6 +935,13 @@ Music players.
 * [ytop](https://github.com/cjbassi/ytop) - TUI system monitor written in Rust.
 * [zfxtop](https://github.com/ssleert/zfxtop) - Self described as �fetch top written by bubbletea enjoyer�.
 
+## <a name="screensaver"></a>Screen savers
+
+* [ASCII Saver](https://gitlab.com/mezantrop/ascsaver) - Screensaver for terminals.
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
+* [sclocka](https://github.com/mezantrop/sclocka) - The real screensaver/lock for terminals.
+* [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
+
 ## <a name="system"></a>System tools
 
 * [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
@@ -1136,7 +1142,6 @@ BitTorrent clients.
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
 * [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
-* [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
 * [Timer-CLI](https://github.com/1Blademaster/timer-cli) - A very simple countdown timer.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
