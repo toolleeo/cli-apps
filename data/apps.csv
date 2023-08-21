@@ -155,7 +155,7 @@ games,freesweep,http://www.upl.cs.wisc.edu/~hartmann/sweep/,,"A Minesweeper clon
 games,Nethack,http://nethack.org/,https://github.com/NetHack/NetHack,Single player rogue-like dungeon exploration game.
 games,Oldrunner,http://culot.org/public/Code/oldrunner.html,https://github.com/culot/oldrunner,"Character-based remake of Lode Runner, includes all the original 150 levels."
 games,Slash'EM,http://slashem.sourceforge.net/,https://sourceforge.net/projects/slashem/,"Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version."
-games,Typespeed,http://typespeed.sourceforge.net/,https://sourceforge.net/projects/typespeed/,"Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words."
+typing,Typespeed,http://typespeed.sourceforge.net/,https://sourceforge.net/projects/typespeed/,"Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words."
 webdev,Hugo,https://gohugo.io/,https://github.com/gohugoio/hugo,The world's fastest framework for building websites.
 webdev,Metalsmith,http://www.metalsmith.io/,https://github.com/metalsmith/metalsmith,"An extremely simple static site generator, all functionalities are provided by plugins that can be combined and chained, written and extendable in Javascript."
 webdev,nanoc,http://nanoc.ws/,https://github.com/nanoc/nanoc,"Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content."
@@ -475,13 +475,13 @@ data-management,zq,https://zed.brimdata.io/docs/commands/zq/,https://github.com/
 torrent,Mabel,,https://github.com/smmr-software/mabel,"Deriving its name from the Hebrew word """"????,"""" meaning flood, deluge, or (loosely) torrent, Mabel is a fancy BitTorrent client for the terminal."
 text-processing,tuc,,https://github.com/riquito/tuc,"You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help."
 games,sku,,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.
-productivity,fasttyper,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
+typing,fasttyper,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.
 games,GameShell,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
 office,Lotus 1-2-3 for Linux,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
 system,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
 graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc�) to ASCII art, written in Rust."
-productivity,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized results and historical logging.
+typing,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized results and historical logging.
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 financial,cointop,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
@@ -489,7 +489,7 @@ system,pulsemixer,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses m
 cd,fastdiract,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.
 file-handling,inventory,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.
 funny,Draw,,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
-productivity,toipe,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavoured."
+typing,toipe,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavoured."
 networking,bore,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.
 editors,zee,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental."
 monitor,watcher,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
@@ -613,7 +613,7 @@ organizers,remint,https://sr.ht/~mlaparie/remint/,https://git.sr.ht/~mlaparie/re
 email,tmpmail,,https://github.com/sdushantha/tmpmail,A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 email,meli,,https://git.meli.delivery/meli/meli.git,BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
 games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired terminal game written in Go.
-games,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to practice keyboard typing.
+typing,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to practice keyboard typing.
 graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Multiplatform terminal mandelbrot set explorer.
 note-taking,Noted,,https://github.com/torbratsberg/noted,"Notes library, with viewer and shortcuts to add, delete and edit notes."
 networking,Wishlist,,https://github.com/charmbracelet/wishlist,With Wishlist you can have a single entrypoint for multiple SSH endpoints.
@@ -914,7 +914,7 @@ viewers,baca,,https://github.com/wustho/baca,Lets you indulge in your favorite e
 time-tracker,Productivity Timer,,https://github.com/h-sifat/productivity-timer,A CLI/TUI Pomodoro timer and todo (coming soon) application for keyboard addicts and terminal fans that makes you more productive.
 science,ptable,,https://github.com/velorek1/ptable,A beautiful TUI periodic table for GNU/linux terminals.
 file-ls,colorls,,https://github.com/athityakumar/colorls,A Ruby script that colorizes the `ls` output with color and icons.
-productivity,termtyper,,https://github.com/kraanzu/termtyper,A typing application to level up your fingers!
+typing,termtyper,,https://github.com/kraanzu/termtyper,A typing application to level up your fingers!
 git,Export Pull Requests,,https://github.com/sshaw/export-pull-requests/,"Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket."
 text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes."
 text-processing,Normalize Country,,https://github.com/sshaw/normalize_country,Convert country names and codes to a standard.
@@ -1002,3 +1002,4 @@ graphics,img2ascii,,https://github.com/JosefVesely/Image-to-ASCII,Convert images
 writing,write good,,https://github.com/btford/write-good,Naive linter for English prose.
 screensaver,sclocka,,https://github.com/mezantrop/sclocka,The real screensaver/lock for terminals.
 screensaver,ASCII Saver,,https://gitlab.com/mezantrop/ascsaver,Screensaver for terminals.
+typing,typetype,,https://github.com/ahmet8zer/typetype,Minimalistic command line typing game.
