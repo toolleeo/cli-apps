@@ -994,3 +994,4 @@ programming,codemancer,https://0xmmo.github.io/codemancer/,https://github.com/0x
 text-search,ast-grep,,https://github.com/ast-grep/ast-grep,"A CLI tool for code structrual search, lint and rewriting."
 copilot,aish,,https://github.com/chr15m/aish,"A program that retrieve shell script one-liners, ready to be executed in the terminal."
 git,Lazygit,,https://github.com/jesseduffield/lazygit,A simple terminal UI for git commands that simplify the execution of many operations making them interactive.
+games,guess-word-cli,,https://github.com/akgondber/guess-word-cli,Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
