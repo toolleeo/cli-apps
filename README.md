@@ -463,7 +463,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
 * [Russhian Roulette](https://github.com/cyradotpink/russhian-roulette) - 1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
 * [sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
-* StarWars vision - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``.  
+* StarWars vision - See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
 * [Steam Locomotive](http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 * [ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
 * [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.

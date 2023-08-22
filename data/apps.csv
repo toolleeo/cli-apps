@@ -146,7 +146,7 @@ funny,cowthink,https://en.wikipedia.org/wiki/Cowsay,https://github.com/tnalpgge/
 funny,fortune,http://software.clapper.org/fortune/,https://github.com/bmc/fortune,Generates random messages feched from a quotation database.  
 funny,Steam Locomotive,http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html,https://github.com/mtoyoda/sl,A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 funny,ternimal,,https://github.com/p-e-w/ternimal,Simulate a lifeform in the terminal.
-funny,StarWars vision,,,See Star Wars in ASCII with ``telnet towel.blinkenlights.nl``.  
+funny,StarWars vision,,,See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
 games,bastet,http://fph.altervista.org/prog/bastet.html,https://github.com/fph/bastet/,(Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.  
 games,Cataclysm: Dark Days Ahead,https://cataclysmdda.org/,https://github.com/CleverRaven/Cataclysm-DDA,Open source turn-based survival RPG development project.
 games,Dwarf fortress,http://www.bay12games.com/dwarves/,,"A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities."
