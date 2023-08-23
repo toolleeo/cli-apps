@@ -864,7 +864,7 @@ viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdow
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
 music,mpvc,,https://github.com/gmt4/mpvc/,A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your terminal.
-monitor,ramfetch,,,A fetch which displays memory info using /proc/meminfo. * IL LINK SEGNATO DAVA ERRORE 404*
+monitor,ramfetch,,https://github.com/WhoseTheNerd/ramfetch,A fetch which displays memory info using /proc/meminfo.
 file-handling,mat2,,https://0xacab.org/jvoisin/mat2.git,"Metadata removal tool, supporting a wide range of commonly used file formats."
 file-handling,Dext,,https://github.com/AfzGit/dext,(Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 utility,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
