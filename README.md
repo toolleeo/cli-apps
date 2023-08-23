@@ -561,7 +561,7 @@ Fuzzy finders and generic option pickers.
 * [Kusa](https://github.com/Ryu0118/Kusa) - Displays GitHub contribution graphs.
 * [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands that simplify the execution of many operations making them interactive.
 * [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
-* [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on �Conventional Commits�.
+* [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
 * [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 * [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages. With emoji support.
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
@@ -572,7 +572,7 @@ Fuzzy finders and generic option pickers.
 ## <a name="graphics"></a>Graphics
 
 * [Aewan](http://aewan.sourceforge.net/) - Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
-* [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc�) to ASCII art, written in Rust.
+* [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc.) to ASCII art, written in Rust.
 * [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21st century.
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 * [D2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -581,7 +581,7 @@ Fuzzy finders and generic option pickers.
 * [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 * [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 * [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
-* [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and B�zier curves".
+* [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bezier curves".
 * [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 * [imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal. Built with bubbletea.
 * [imgp](https://github.com/jarun/imgp) - A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.
@@ -765,7 +765,7 @@ Calendar managers.
 
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
 * [boilr](https://github.com/tmrts/boilr) - Boilerplate template manager that generates files or directories from template repositories.
-* [cgasm](https://github.com/bnagy/cgasm) - Pronounced �SeekAzzem�, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
+* [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
 * [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
 * [cloc](https://github.com/AlDanial/cloc) - Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.
 * [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
@@ -928,7 +928,7 @@ Music players.
 * [whowatch](https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/) - Monitor Linux Users and Processes in Real Time.
 * [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 * [ytop](https://github.com/cjbassi/ytop) - TUI system monitor written in Rust.
-* [zfxtop](https://github.com/ssleert/zfxtop) - Self described as �fetch top written by bubbletea enjoyer�.
+* [zfxtop](https://github.com/ssleert/zfxtop) - Self described as “fetch top written by bubbletea enjoyer”.
 
 ## <a name="screensaver"></a>Screen savers
 

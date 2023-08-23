@@ -99,7 +99,7 @@ music,MOC,https://moc.daper.net/,,"(music on console) is a powerful and easy to 
 music,mpg123,http://mpg123.org/,https://sourceforge.net/projects/mpg123/,"Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files."
 music,mps-youtube,,https://github.com/mps-youtube/yewtube,"A curses player for music tracks from Youtube; it allows to search for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters."
 music,ogg123,https://www.xiph.org/downloads/,https://gitlab.xiph.org/xiph/ogg.git,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
-graphics,ImageMagick,http://www.imagemagick.org/script/index.php,https://github.com/ImageMagick/ImageMagick,"Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to ""resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and B�zier curves""."
+graphics,ImageMagick,http://www.imagemagick.org/script/index.php,https://github.com/ImageMagick/ImageMagick,"Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to ""resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bezier curves""."
 graphics,scrot,,https://github.com/dreamer/scrot,A simple CLI tool to capture screenshots.  
 git,git,https://git-scm.com/,https://github.com/git/git,"The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend."
 git,git-annex,https://git-annex.branchable.com/,git://git-annex.branchable.com/ git-annex,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
@@ -479,7 +479,7 @@ games,GameShell,,https://github.com/phyver/GameShell,"GameShell was devised as a
 office,Lotus 1-2-3 for Linux,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
 system,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
-graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc�) to ASCII art, written in Rust."
+graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc.) to ASCII art, written in Rust."
 typing,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized results and historical logging.
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
@@ -645,7 +645,7 @@ system,procmux,,https://github.com/napisani/procmux,A TUI utility for running mu
 transfer,sharing,,https://github.com/parvardegr/sharing,Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.
 games,mazter,,https://github.com/Canop/mazter,A maze in your terminal.
 file-renamer,Tempren,,https://github.com/idle-code/tempren,A powerful file renaming utility that uses flexible template expressions to create new file paths and names.
-git,rcz,,https://github.com/Cassin01/rcz,A tool to write a commit message based on �Conventional Commits�.
+git,rcz,,https://github.com/Cassin01/rcz,A tool to write a commit message based on “Conventional Commits”.
 git,git-cz,,https://github.com/streamich/git-cz,Semantic Git commits.
 note-taking,jot,,https://github.com/araekiel/jot,Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.
 data-management,ROAPI,,https://github.com/roapi/roapi,ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.
@@ -704,7 +704,7 @@ programming,release-it,,https://github.com/release-it/release-it,Automate releas
 programming,clog,,https://github.com/clog-tool/clog-cli,Creates a changelog automatically from local git metadata.
 programming,Cookiecutter,,https://github.com/cookiecutter/cookiecutter,"A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
 chat,kirc,http://kirc.io/,https://github.com/mcpcpc/kirc,A tiny IRC client written in POSIX C99.
-programming,cgasm,,https://github.com/bnagy/cgasm,"Pronounced �SeekAzzem�, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation."
+programming,cgasm,,https://github.com/bnagy/cgasm,"Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation."
 webdev,is-up-cli,,https://github.com/sindresorhus/is-up-cli,Check whether a website is up or down using the [isitup.org](https://isitup.org/) API.
 webdev,pageres-cli,,https://github.com/sindresorhus/pageres-cli,Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
 graphics,deviceframe,,https://github.com/c0bra/deviceframe,Put device frames around mobile/web/progressive app screenshots.
@@ -778,7 +778,7 @@ time-tracker,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line ap
 utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identifies an anime from an image and yields key data about it.
 data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
 productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
-monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as �fetch top written by bubbletea enjoyer�.
+monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 system,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of you CLI tools, if they are installed and what version they are on."
 cheatsheet,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
