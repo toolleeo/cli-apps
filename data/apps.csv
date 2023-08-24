@@ -250,7 +250,7 @@ conversion,mdBook,,https://github.com/rust-lang/mdBook,Create book from markdown
 password-manager,SpicyPass,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.
 viewers,jc,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.
 music,muCLIar,,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.
-office,wikit,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.
+online,wikit,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.
 networking,mitmproxy,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.
 music,yt-audio,,https://github.com/RijulGulati/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio."
 games,Language-games,,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.
@@ -258,9 +258,9 @@ data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files
 networking,bandwhich,,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.
 monitor,dmidecode,https://www.nongnu.org/dmidecode/,https://git.savannah.gnu.org/git/dmidecode.git/,System information utility.
 git,forgit,,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.
-office,scholarref,https://adamsgaard.dk/scholarref.html,https://src.adamsgaard.dk/scholarref.git,Tools to never deal with journal webpages again.
+science,scholarref,https://adamsgaard.dk/scholarref.html,https://src.adamsgaard.dk/scholarref.git,Tools to never deal with journal webpages again.
 games,crappybird-py,,https://github.com/JonPizza/crappybird-py,Flappy bird.
-office,conrad,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
+science,conrad,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
 note-taking,dn,,https://github.com/tomlockwood/dn,Daily notes command line tool.
 git,onefetch,,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
 data-management,jtc,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
@@ -278,7 +278,7 @@ disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 productivity,Clipboard,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.
 music,Siren,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren.git,Siren is a text-based audio player for UNIX-like operating systems.
-office,Ticker,,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
+financial,Ticker,,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
 git,git-peek,,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.
 disk-analyzer,vizex,,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.
@@ -412,7 +412,7 @@ data-management,dasel,,https://github.com/TomWright/dasel,Allows you to query an
 programming,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
 transfer,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three dimensional plots of data.
-office,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
+file-handling,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
 diff,Difftastic,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
 utility,Gaze,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
 text-search,todocheck,,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
@@ -462,7 +462,7 @@ todo-manager,CLI-Manager,,https://github.com/MikyStar/CLI-Manager,Command Line I
 games,wordle-curses,,https://github.com/knosmos/wordle-curses,A simple TUI wordle game with curses.
 networking,termishare,,https://github.com/qnkhuat/termishare,Peer to peer terminal sharing.
 file-explorer,ictree,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.
-office,Quoter,,https://github.com/frossm/quoter,The console based stock quote tool.
+financial,Quoter,,https://github.com/frossm/quoter,The console based stock quote tool.
 system,nala,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.
 games,terminordle,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network."
 git,gh-s,,https://github.com/gennaro-tedesco/gh-s,Search github repositories interactively.
@@ -859,7 +859,7 @@ copilot,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for w
 copilot,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
 file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 chatgpt,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
-office,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
+writing,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
 viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
 music,mpvc,,https://github.com/gmt4/mpvc/,A minimal mpc-like CLI and TUI for controlling mpv from the shell.
