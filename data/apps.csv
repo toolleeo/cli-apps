@@ -415,7 +415,7 @@ data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,https://g
 file-handling,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
 diff,Difftastic,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
 utility,Gaze,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
-text-search,todocheck,,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
+programming,todocheck,,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
 browser,s,,https://github.com/zquestz/s,Web search from the terminal. Just opens in your browser.
 text-processing,anew,,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates."
 viewers,TV,,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
