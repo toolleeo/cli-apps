@@ -661,7 +661,7 @@ writing,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interfac
 security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 utility,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
 funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
-utility,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
+time-tracker,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
 funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 package-manager,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage multiple runtime versions with a single CLI tool.
 shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua."
@@ -988,7 +988,7 @@ science,GCTU,,https://github.com/Mandrew0822/GCTU---Genetic-code-translation-uti
 organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CLI scheduler.
 system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
 copilot,CLI Co-Pilot,,https://github.com/AntonOsika/CLI-Co-Pilot,CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
-utility,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple countdown timer.
+time-tracker,Timer-CLI,,https://github.com/1Blademaster/timer-cli,A very simple countdown timer.
 programming,codemancer,https://0xmmo.github.io/codemancer/,https://github.com/0xmmo/codemancer,Code with GPT-4 from your command line.
 text-search,ast-grep,,https://github.com/ast-grep/ast-grep,"A CLI tool for code structrual search, lint and rewriting."
 copilot,aish,,https://github.com/chr15m/aish,"A program that retrieve shell script one-liners, ready to be executed in the terminal."
