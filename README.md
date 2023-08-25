@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1005** apps/tools covered, organized in **58** categories.
+To date, **1005** apps/tools covered, organized in **59** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives of cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (40) | [File listing (alternatives of ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (28) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (42) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives of cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (40) | [File listing (alternatives of ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (13) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -612,6 +612,24 @@ Programs to replace or improve the management of command line history.
 * [hiSHtory](https://github.com/ddworken/hishtory) - A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers.
 * [hstr](https://github.com/dvorka/hstr) - A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities.
 
+## <a name="launcher"></a>Command launchers
+
+Tools to launch/execute programs, either interactively, automatically, in parallel, etc..
+
+* [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
+* [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
+* [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
+* [mprocs](https://github.com/pvolok/mprocs) - mprocs runs multiple commands in parallel and shows output of each command separately.
+* [Mxflow-cli](https://github.com/metaory/mxflow-cli) - A modern, general purpose CLI task runner with human readable yaml config file.
+* [parallel](https://www.gnu.org/software/parallel/) - A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel.
+* [procmux](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
+* [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
+* [sake](https://github.com/alajmo/sake) - A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
+* [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
+* [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
+* [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
+* [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
+
 ## <a name="multimedia"></a>Multimedia
 
 Programs to specifically deal audio/video files.
@@ -972,24 +990,14 @@ Music players.
 * [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 * [has](https://github.com/kdabir/has) - Checks presence of various command line tools on the PATH and reports their installed version.
-* [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
 * [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 * [killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
-* [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
 * [lshw](http://www.ezix.org/project/wiki/HardwareLiSter) - A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
-* [mprocs](https://github.com/pvolok/mprocs) - mprocs runs multiple commands in parallel and shows output of each command separately.
-* [Mxflow-cli](https://github.com/metaory/mxflow-cli) - A modern, general purpose CLI task runner with human readable yaml config file.
 * [Ntfy](https://github.com/dschep/ntfy) - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
-* [parallel](https://www.gnu.org/software/parallel/) - A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel.
-* [procmux](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
-* [sake](https://github.com/alajmo/sake) - A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
 * [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
 * [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
-* [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
-* [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
-* [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
 
 ## <a name="terminal"></a>Terminals
 
@@ -1135,7 +1143,6 @@ BitTorrent clients.
 * [dateutils](http://www.fresse.org/dateutils/) - Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
-* [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 * [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
 * [guesswidth](https://github.com/noborus/guesswidth) - Guess the width output without delimiters in commands that output to the terminal.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
@@ -1150,12 +1157,10 @@ BitTorrent clients.
 * [Polykill](https://github.com/Bdeering1/polykill) - Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
-* [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
 * [rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with RSS feeds.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 * [Skylab](https://github.com/SerhiiStets/skylab) - A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
-* [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [Timer-CLI](https://github.com/1Blademaster/timer-cli) - A very simple countdown timer.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.

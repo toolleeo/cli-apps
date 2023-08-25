@@ -27,6 +27,7 @@ games,Games,
 git,Git and accessories,
 graphics,Graphics,
 history,History management,Programs to replace or improve the management of command line history
+launcher,Command launchers,"Tools to launch/execute programs, either interactively, automatically, in parallel, etc."
 multimedia,Multimedia,Programs to specifically deal audio/video files
 networking,Networking,Programs to deal with networks and communication
 note-taking,Note taking,

@@ -55,10 +55,10 @@ shells,Zsh,http://www.zsh.org/,https://sourceforge.net/p/zsh/code/ci/master/tree
 system,conspy,http://conspy.sourceforge.net/,https://sourceforge.net/p/conspy/code/ci/default/tree/,"""Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it."" "
 system,lshw,http://www.ezix.org/project/wiki/HardwareLiSter,https://ezix.org/src/pkg/lshw,"A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc."
 system,Ntfy,,https://github.com/dschep/ntfy,Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
-system,task-spooler,http://vicerveza.homeunix.net/~viric/soft/ts/,,"A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities."
+launcher,task-spooler,http://vicerveza.homeunix.net/~viric/soft/ts/,,"A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities."
 monitor,ttyload,http://www.daveltd.com/src/util/ttyload/,https://github.com/lindes/ttyload,"ttyload is a lightweight utility which is intended to offer a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal (""tty"")."
 history,hstr,,https://github.com/dvorka/hstr,"A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities."
-system,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/git/parallel.git,"A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel."
+launcher,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/git/parallel.git,"A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel."
 security,cipher,,https://github.com/ash-shell/cipher,An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.  
 security,hashcat,https://hashcat.net/hashcat/,https://github.com/hashcat/hashcat,"A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash."
 security,encfs,http://www.arg0.net/#!encfs/c1awt,https://github.com/vgough/encfs,"Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE), mounts an encrypted directory into a clear one."
@@ -291,7 +291,7 @@ programming,nbterm,,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in
 transfer,qr-filetransfer,,https://github.com/sdushantha/qr-filetransfer,Transfer files over WiFi between your computer and your smartphone from the terminal.
 science,element,,https://github.com/gennaro-tedesco/element,Periodic table on the command line.
 viewers,termv,,https://github.com/Roshan-R/termv,A terminal iptv player written in bash.
-utility,rofi,,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement."
+launcher,rofi,,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement."
 file-renamer,F2,,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely.
 todo-manager,grit,,https://github.com/climech/grit,A multitree-based personal task manager.
 todo-manager,dstask,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + markdown notes per task.
@@ -414,7 +414,7 @@ transfer,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devi
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three dimensional plots of data.
 file-handling,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
 diff,Difftastic,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.
-utility,Gaze,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
+launcher,Gaze,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file."
 programming,todocheck,,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.
 browser,s,,https://github.com/zquestz/s,Web search from the terminal. Just opens in your browser.
 text-processing,anew,,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates."
@@ -632,7 +632,7 @@ cheatsheet,topalias,,https://github.com/meteoritt/topalias,"Linux alias generato
 programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible."
 networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 productivity,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal similar to anki.
-system,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
+launcher,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
 transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
 password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them."
 transfer,Nextcloud share URL downloader,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
@@ -640,8 +640,8 @@ file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file ho
 file-handling,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
 conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
 funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.
-system,mprocs,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.
-system,procmux,,https://github.com/napisani/procmux,A TUI utility for running multiple commands in parallel in easily switchable terminals.
+launcher,mprocs,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.
+launcher,procmux,,https://github.com/napisani/procmux,A TUI utility for running multiple commands in parallel in easily switchable terminals.
 transfer,sharing,,https://github.com/parvardegr/sharing,Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.
 games,mazter,,https://github.com/Canop/mazter,A maze in your terminal.
 file-renamer,Tempren,,https://github.com/idle-code/tempren,A powerful file renaming utility that uses flexible template expressions to create new file paths and names.
@@ -653,7 +653,7 @@ git,git-secret,,https://github.com/sobolevn/git-secret,"A bash tool which stores
 git,gita,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repos.
 games,anonymine,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine,Curses mode minesweeper without guessing and other original features.
 games,greed,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game of consumption. Eat as much as you can before munching yourself into a corner.
-system,Mxflow-cli,,https://github.com/metaory/mxflow-cli,"A modern, general purpose CLI task runner with human readable yaml config file."
+launcher,Mxflow-cli,,https://github.com/metaory/mxflow-cli,"A modern, general purpose CLI task runner with human readable yaml config file."
 graphics,vhs,,https://github.com/charmbracelet/vhs,Write terminal GIFs as code for integration testing and demoing your CLI tools.
 system,checksum.sh,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh,"Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere."
 data-management,crudini,,https://github.com/pixelb/crudini,A utility for manipulating ini files.
@@ -904,7 +904,7 @@ note-taking,journalC,,https://github.com/Dr-42/journalC,A simple encrypted termi
 conversion,Vertopal-CLI,,https://github.com/vertopal/vertopal-cli,"Vertopal-CLI is a small, yet powerful utility for converting digital files to a variety of file formats using Vertopal public API."
 text-processing,trurl,,https://github.com/curl/trurl,Command line tool for URL parsing and manipulation.
 programming,umake,,https://github.com/mcandre/unmake,"Makefile linter emphasizing portability, targeting the POSIX make standard."
-system,hypershell,,https://github.com/holepunchto/hypershell,"Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted."
+launcher,hypershell,,https://github.com/holepunchto/hypershell,"Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted."
 shells,N-Commodore,,https://github.com/psprint/n-commodore,"A novel file manager/shell/command-line, where everything is panelized, greppable and remembered."
 games,nc2048,,https://github.com/t0xk/nc2048,A ncurses 2048 game that can be played in the terminal.
 chat,Discordo,,https://github.com/ayn2op/discordo,"A lightweight, secure, and feature-rich Discord terminal client."
@@ -919,9 +919,9 @@ text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Ou
 text-processing,Normalize Country,,https://github.com/sshaw/normalize_country,Convert country names and codes to a standard.
 webdev,Shopify Development Tools,,https://github.com/ScreenStaring/shopify-dev-tools/,Tools to assist with the development and/or maintenance of Shopify apps and stores.
 time-tracker,tmux-pomodoro-plus,,https://github.com/olimorris/tmux-pomodoro-plus,Pomodoro technique into your tmux workflow
-system,Violet,,https://github.com/braheezy/violet,Colorful TUI frontend to run Vagrant commands.
+launcher,Violet,,https://github.com/braheezy/violet,Colorful TUI frontend to run Vagrant commands.
 backup,gwbackupy,,https://github.com/smartondev/gwbackupy,Open source Google Workspace™ backup solution.
-system,Task,https://taskfile.dev/,https://github.com/go-task/task,A task runner / simpler Make alternative written in Go.
+launcher,Task,https://taskfile.dev/,https://github.com/go-task/task,A task runner / simpler Make alternative written in Go.
 games,escaping-figures-game-cli,,https://github.com/akgondber/escaping-figures-game-cli,Count figure's occurences in the escaping figures matrix.
 science,periodic-table-cli,,https://github.com/spirometaxas/periodic-table-cli,An interactive Periodic Table of Elements app for the console!
 git,git-identity,,https://github.com/cookiengineer/git-identity,Automated git alias management.
@@ -934,7 +934,7 @@ git,Kusa,,https://github.com/Ryu0118/Kusa,Displays GitHub contribution graphs.
 file-manager,projectable,,https://github.com/dzfrias/projectable,A TUI file manager built for projects.
 file-explorer,Hop!,,https://github.com/benrutter/hop,"File explorer designed to be fast, simple and user friendly, running on any operating system."
 cheatsheet,ManPDF & ManWEB,,https://github.com/sebastiancarlos/manpdf,Read your Man pages in PDF format. Even online!
-system,lmt,,https://github.com/Rohansjamadagni/lmt,"A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process."
+launcher,lmt,,https://github.com/Rohansjamadagni/lmt,"A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process."
 monitor,rwatch,,https://github.com/davidhfrankelcodes/rwatch,A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
 multimedia,FFMPerative,,https://github.com/remyxai/FFMPerative,"Powered by Large Language Models (LLMs) through an intuitive chat interface, now you can compose video edits in natural language."
 monitor,Batfetch,,https://github.com/ashish-kus/batfetch,A command-line tool that displays detailed information about the battery of your device in a clean and organized way.
@@ -942,7 +942,7 @@ music,musicScraper,,https://github.com/mBaratta96/musicScraper,"CLI tool for scr
 terminal,tmux-session,,https://github.com/BartSte/tmux-session,Manage tmux sessions using fzf.
 games,Dino,,https://github.com/wldfngrs/chrome-dinosaur-terminal,A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
 file-handling,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.
-utility,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for games (or anything), the UNIX way."
+launcher,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for games (or anything), the UNIX way."
 security,securo,,https://github.com/iunary/securo,Encrypt and descrypt files and folders using a symmetric encryption.
 multimedia,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 games,Wordle Solver,,https://gitlab.com/christosangel/wordle-solver,A bash script that can solve wordle riddles.
