@@ -818,7 +818,7 @@ music,PyRadio,,https://github.com/coderholic/pyradio,Curses based internet radio
 shells,cosh,,https://github.com/tomhrr/cosh,Concatenative command-line shell.
 system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sounds when any configured system or external event happens.
 graphics,Mercator,,https://github.com/mrusme/mercator,OpenStreetMap but as terminal user interface (TUI) program.
-utility,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
+terminal,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
 funny,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
 data-management,Miller,,https://github.com/johnkerl/miller,"Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed."
 data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-line interface and a Python library for inferencing Large Language Models to generate textual datasets.
