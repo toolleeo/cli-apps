@@ -363,7 +363,7 @@ productivity,gdir,,https://github.com/pafoster/gdir,A command line tool which qu
 webdev,Mycorrhiza Wiki,https://mycorrhiza.wiki/,https://github.com/bouncepaw/mycorrhiza,A lightweight file-system wiki engine that uses Git for keeping history.
 viewers,ov,,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.
 programming,fastmod,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
-file-handling,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
+launcher,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
 data-management,yq,,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
 text-processing,amber,,https://github.com/dalance/amber,Code search / replace tool.
@@ -730,7 +730,7 @@ viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human reada
 file-renamer,rename-cli,,https://github.com/jhotmann/node-rename-cli,File renamer with TUI interface and preview.
 disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space navigator that traverse the file-system with a TUI interface.
 utility,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army knife for Unix permissions.
-file-handling,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
+launcher,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
 file-handling,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organize your files automatically.
 file-explorer,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
 cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily navigate directories from the command line.
