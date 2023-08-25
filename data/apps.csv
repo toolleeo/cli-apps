@@ -15,7 +15,7 @@ text-processing,grc,,https://github.com/pengwynn/grc,"(Generic Colouriser) can b
 data-management,jq,https://stedolan.github.io/jq/,https://github.com/stedolan/jq,"(JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
 fuzzy-finder,percol,,https://github.com/mooz/percol,"A Python script that ""1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`""; can be used to add interactivity to many regular shell commands."
 fuzzy-finder,pick,,https://github.com/mptre/pick,Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
-data-management,q,http://harelba.github.io/q/,https://github.com/harelba/q,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
+data-management-tabular,q,http://harelba.github.io/q/,https://github.com/harelba/q,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
 font,FIGlet,http://www.figlet.org/,https://github.com/cmatsuoka/figlet,"Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available."
 font,toilet,http://caca.zoy.org/wiki/toilet,https://github.com/cacalabs/toilet,"A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects."
 editors,Emacs,https://www.gnu.org/software/emacs/,https://git.savannah.gnu.org/git/emacs.git,"One of the godfathers of text editors, free long-standing software project, tons of extensions and funcionalities, the biggest drawback (my taste): it needs [E-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html) for being programmed."
@@ -199,8 +199,8 @@ utility,powerline,,https://github.com/powerline/powerline,"Powerline is a status
 online,socli,,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 screensaver,termsaver,http://termsaver.brunobraga.net/,,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
 utility,dateutils,http://www.fresse.org/dateutils/,https://github.com/hroptatyr/dateutils,Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
-data-management,VisiData,https://www.visidata.org/,https://github.com/saulpw/visidata,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
-data-management,csvkit,,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
+data-management-tabular,VisiData,https://www.visidata.org/,https://github.com/saulpw/visidata,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
+data-management-tabular,csvkit,,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
 programming,gdb-dashboard,,https://github.com/cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python.
 password-manager,hide,,https://github.com/whatl3y/hide,AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 password-manager,gopass,https://www.gopass.pw/,https://github.com/gopasspw/gopass,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
@@ -231,7 +231,7 @@ editors,vy,,https://github.com/vyapp/vy,A vim-like in python made from scratch.
 programming,pire,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
 browser,Graphene,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.
 cheatsheet,navi,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
-data-management,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
+data-management-tabular,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
 graphics,pastel,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
 utility,asciinema,,https://github.com/asciinema/asciinema,Terminal session recorder.
 file-explorer,alder,,https://github.com/aweary/alder,Directory tree visualizer.
@@ -254,7 +254,7 @@ online,wikit,,https://github.com/KorySchneider/wikit,A command line program for 
 networking,mitmproxy,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.
 music,yt-audio,,https://github.com/RijulGulati/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage youtube audio."
 games,Language-games,,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.
-data-management,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,,Doing a SQL join with CSV files.
+data-management-tabular,xsv,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,,Doing a SQL join with CSV files.
 networking,bandwhich,,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.
 monitor,dmidecode,https://www.nongnu.org/dmidecode/,https://git.savannah.gnu.org/git/dmidecode.git/,System information utility.
 git,forgit,,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.
@@ -271,7 +271,7 @@ todo-manager,todotxt-machine,https://pypi.org/project/todotxt-machine/,https://g
 games,usolitaire,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
 file-manager,rnr,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
 funny,cbonsai,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
-data-management,Dolt,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
+data-management-tabular,Dolt,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
 transfer,ytfzf,,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
 data-management,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
 disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
@@ -406,7 +406,7 @@ text-processing,teip,,https://github.com/greymd/teip,Select partial standard inp
 text-processing,espanso,,https://github.com/espanso/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.
 text-processing,huniq,,https://github.com/koraa/huniq,"Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates."
 ls,nat,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.
-data-management,csvq,,https://github.com/mithrandie/csvq,SQL-like query language for csv.
+data-management-tabular,csvq,,https://github.com/mithrandie/csvq,SQL-like query language for csv.
 file-dir-cleanup,FClones,,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.
 data-management,dasel,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.
 programming,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
@@ -423,7 +423,7 @@ programming,hors,,https://github.com/WindSoilder/hors,Instant coding answers via
 utility,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
 calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
-data-management,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
+data-management-tabular,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
 rm,rip,,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
 text-search,vgrep,,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
 webdev,urlhunter,,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
@@ -505,9 +505,9 @@ note-taking,Geeknote,,https://github.com/jeffkowalski/geeknote,"A command line c
 note-taking,Terminal velocity,https://vhp.github.io/terminal_velocity/,https://github.com/vhp/terminal_velocity,"A fast, cross-platform note-taking application for the UNIX terminal."
 science,Pubs,,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.
 data-management,IRedis,,https://github.com/laixintao/iredis,Interactive Redis: A Cli for Redis with AutoCompletion and Syntax Highlighting.
-data-management,mycli,,https://github.com/dbcli/mycli,A command line client for MySQL that can do auto-completion and syntax highlighting.
-data-management,pgcli,,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.
-data-management,usql,,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases."
+data-management-tabular,mycli,,https://github.com/dbcli/mycli,A command line client for MySQL that can do auto-completion and syntax highlighting.
+data-management-tabular,pgcli,,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.
+data-management-tabular,usql,,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases."
 music,Instant Music Downloader,,https://github.com/yask123/Instant-Music-Downloader,Instantly download any song!
 music,Spotify TUI,,https://github.com/Rigellute/spotify-tui,A Spotify client for the terminal written in Rust.
 music,dzr,,https://github.com/yne/dzr,"Command Line deezer.com Player for Linux, BSD, Android, Windows."
@@ -616,12 +616,12 @@ typing,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to pr
 graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Multiplatform terminal mandelbrot set explorer.
 note-taking,Noted,,https://github.com/torbratsberg/noted,"Notes library, with viewer and shortcuts to add, delete and edit notes."
 networking,Wishlist,,https://github.com/charmbracelet/wishlist,With Wishlist you can have a single entrypoint for multiple SSH endpoints.
-data-management,termdbms,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go."
+data-management-tabular,termdbms,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go."
 office,Slides,,https://github.com/maaslalani/slides,Terminal based presentation tool.
 productivity,tz,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
 transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
 data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool to view redis data in terminal.
-data-management,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
+data-management-tabular,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
 cheatsheet,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
 financial,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
 package-manager,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
@@ -776,7 +776,7 @@ chat,tweets,,https://github.com/diracdeltas/tweets,Decentralized alternative to 
 history,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers."
 time-tracker,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identifies an anime from an image and yields key data about it.
-data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
+data-management-tabular,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
 productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
@@ -820,7 +820,7 @@ system,sysm,,https://github.com/jafarlihi/sysm,Makes your system play custom sou
 graphics,Mercator,,https://github.com/mrusme/mercator,OpenStreetMap but as terminal user interface (TUI) program.
 terminal,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the terminal. Based on tmux.
 funny,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
-data-management,Miller,,https://github.com/johnkerl/miller,"Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed."
+data-management-tabular,Miller,,https://github.com/johnkerl/miller,"Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed."
 data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-line interface and a Python library for inferencing Large Language Models to generate textual datasets.
 monitor,nvitop,,https://github.com/XuehaiPan/nvitop,"An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management."
 utility,guesswidth,,https://github.com/noborus/guesswidth,Guess the width output without delimiters in commands that output to the terminal.

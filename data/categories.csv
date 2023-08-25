@@ -4,7 +4,8 @@ calc,Calculators,"Calculators for numbers, dates, etc."
 chat,Chat and instant messaging,
 cheatsheet,Commands cheatsheet and snippets,"Tools to manage often used commands, code snippets, cheatsheets and alternative manpages"
 conversion,Conversion,File format converters
-data-management,Data management,
+data-management,Data management,Tools to manage data files
+data-management-tabular,Data management - Tabular data,"Tools to manage tabular data files (CSV, xls, database tables, etc.)"
 transfer,Data transfer,
 cd,Directory changers (alternatives to cd),Tools for improving the efficiency of directory traversal
 chatgpt,ChatGPT / AI,Interfaces and front-ends to GPT engines
