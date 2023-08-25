@@ -36,7 +36,7 @@ To date, **1005** apps/tools covered, organized in **59** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives of cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (38) | [File listing (alternatives of ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (15) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (38) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (15) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -189,7 +189,7 @@ File format converters.
 * [ytfzf](https://github.com/pystardust/ytfzf) - A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
 * [ytmdl](https://github.com/deepjyoti30/ytmdl) - Get songs from Youtube in mp3 format.
 
-## <a name="cd"></a>Directory changers (alternatives of cd)
+## <a name="cd"></a>Directory changers (alternatives to cd)
 
 Tools for improving the efficiency of directory traversal.
 
@@ -325,7 +325,7 @@ Show directory trees and navigate through the file system (but not full featured
 
 ## <a name="file-handling"></a>File and file system handling
 
-File managers, tagging, bookmarking.
+Tools for managing files and directories.
 
 * [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
 * [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
@@ -366,7 +366,7 @@ File managers, tagging, bookmarking.
 * [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
 * [xcp](https://github.com/tarka/xcp) - Extended cp.
 
-## <a name="ls"></a>File listing (alternatives of ls)
+## <a name="ls"></a>File listing (alternatives to ls)
 
 * [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".

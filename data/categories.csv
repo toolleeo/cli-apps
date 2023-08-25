@@ -6,7 +6,7 @@ cheatsheet,Commands cheatsheet and snippets,"Tools to manage often used commands
 conversion,Conversion,File format converters
 data-management,Data management,
 transfer,Data transfer,
-cd,Directory changers (alternatives of cd),Tools for improving the efficiency of directory traversal
+cd,Directory changers (alternatives to cd),Tools for improving the efficiency of directory traversal
 chatgpt,ChatGPT / AI,Interfaces and front-ends to GPT engines
 copilot,Co-pilot,Using GPT tools to generate commands at the command line
 diff,Diff,"File and data diffs, more or less “context” or “semantic” aware"
@@ -14,8 +14,8 @@ disk-analyzer,Disk usage analyzers,
 editors,Editors,Terminal text editors
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
 file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full featured file managers)
-file-handling,File and file system handling,"File managers, tagging, bookmarking"
-ls,File listing (alternatives of ls),
+file-handling,File and file system handling,Tools for managing files and directories
+ls,File listing (alternatives to ls),
 file-manager,File manager,
 file-renamer,File renamers,
 file-system,File systems,
