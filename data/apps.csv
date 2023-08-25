@@ -455,15 +455,15 @@ data-management,osmf,,https://github.com/codesoap/osmar,OpenStreetMap find - A s
 viewers,haxor-news,,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 viewers,texel,,https://github.com/Lauriat/texel,Command line interface for reading spreadsheets inside terminal.
 games,gambit,,https://github.com/maaslalani/gambit,Chess board in your terminal.
-system,bin,,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.
-system,stew,,https://github.com/marwanhawari/stew,An independent package manager for compiled binaries.
+package-manager,bin,,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.
+package-manager,stew,,https://github.com/marwanhawari/stew,An independent package manager for compiled binaries.
 games,clidle,,https://github.com/ajeetdsouza/clidle,"Wordle, now over SSH."
 todo-manager,CLI-Manager,,https://github.com/MikyStar/CLI-Manager,Command Line Interface for managing tasks locally on the fly.
 games,wordle-curses,,https://github.com/knosmos/wordle-curses,A simple TUI wordle game with curses.
 networking,termishare,,https://github.com/qnkhuat/termishare,Peer to peer terminal sharing.
 file-explorer,ictree,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.
 financial,Quoter,,https://github.com/frossm/quoter,The console based stock quote tool.
-system,nala,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.
+package-manager,nala,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.
 games,terminordle,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network."
 git,gh-s,,https://github.com/gennaro-tedesco/gh-s,Search github repositories interactively.
 git,gh-f,,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh cli."
@@ -624,7 +624,7 @@ data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool 
 data-management,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
 cheatsheet,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
 financial,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
-system,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
+package-manager,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
 security,Minisign,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.
 git,gitsummary,,https://github.com/glenreesor/gitsummary,"A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color."
 security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality."
@@ -663,7 +663,7 @@ utility,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in
 funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 utility,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
 funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-system,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage multiple runtime versions with a single CLI tool.
+package-manager,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage multiple runtime versions with a single CLI tool.
 shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua."
 productivity,speedread,,https://github.com/pasky/speedread,A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
 online,pockyt,,https://github.com/achembarpu/pockyt,"Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet."
@@ -780,7 +780,7 @@ data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realt
 productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
-system,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of your CLI tools, if they are installed and what version they are on."
+package-manager,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of your CLI tools, if they are installed and what version they are on."
 cheatsheet,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
 chat,ttchat,,https://github.com/atye/ttchat,Twitch chats in the terminal.
 utility,teetail,,https://github.com/sl236/teetail,"Like tee, but only the tail goes in the file."
@@ -964,8 +964,8 @@ file-handling,Findpick,,https://github.com/thingsiplay/findpick,"General purpose
 ls,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
 utility,Marker,,https://github.com/pindexis/marker,The terminal command palette.
 cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,"Like IntelliSense, but for shells, acting like a bookmark store for commands."
-system,aptitude,,https://salsa.debian.org/apt-team/aptitude,"A TUI front-end to APT, the Debian package manager."
-system,JAPM,,https://github.com/TheAlexDev23/japm,A package manager that uses curses to provide a friendly UI
+package-manager,aptitude,,https://salsa.debian.org/apt-team/aptitude,"A TUI front-end to APT, the Debian package manager."
+package-manager,JAPM,,https://github.com/TheAlexDev23/japm,A package manager that uses curses to provide a friendly UI
 file-handling,Snoop,,https://github.com/Mandrew0822/Snoop,A command-line utility for Linux that provides information about files in a directory.
 viewers,Frogmouth,,https://github.com/Textualize/frogmouth,A Markdown viewer / browser for the terminal.
 financial,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python library for Bitcoin.

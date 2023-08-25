@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1005** apps/tools covered, organized in **56** categories.
+To date, **1005** apps/tools covered, organized in **57** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives of cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (40) | [File listing (alternatives of ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (40) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (44) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives of cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (40) | [File listing (alternatives of ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [Multimedia](#multimedia) (11) | [Networking](#networking) (23) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (32) | [Terminals](#terminal) (11) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (44) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -721,6 +721,19 @@ Calendar managers.
 * [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 * [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
 
+## <a name="package-manager"></a>Package managers
+
+Manage/install/uninstall packages, as source code or binaries.
+
+* [aptitude](https://salsa.debian.org/apt-team/aptitude) - A TUI front-end to APT, the Debian package manager.
+* [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
+* [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
+* [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
+* [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
+* [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
+* [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
+* [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
+
 ## <a name="password-manager"></a>Password managers
 
 * [Bitwarden CLI](https://bitwarden.com/help/cli/) - Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises.
@@ -940,14 +953,10 @@ Music players.
 ## <a name="system"></a>System tools
 
 * [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
-* [aptitude](https://salsa.debian.org/apt-team/aptitude) - A TUI front-end to APT, the Debian package manager.
-* [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
 * [atuin](https://github.com/ellie/atuin) - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 * [Bevel](https://github.com/NorfairKing/bevel) - Command line history in an SQLite database for effective re-use.
-* [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 * [checksum.sh](https://checksum.sh/) - Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.
-* [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 * [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 * [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
@@ -958,7 +967,6 @@ Music players.
 * [hiSHtory](https://github.com/ddworken/hishtory) - A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers.
 * [hstr](https://github.com/dvorka/hstr) - A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities.
 * [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
-* [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 * [killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 * [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
@@ -966,14 +974,11 @@ Music players.
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [mprocs](https://github.com/pvolok/mprocs) - mprocs runs multiple commands in parallel and shows output of each command separately.
 * [Mxflow-cli](https://github.com/metaory/mxflow-cli) - A modern, general purpose CLI task runner with human readable yaml config file.
-* [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
 * [Ntfy](https://github.com/dschep/ntfy) - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
 * [parallel](https://www.gnu.org/software/parallel/) - A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel.
 * [procmux](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
-* [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
 * [sake](https://github.com/alajmo/sake) - A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
-* [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 * [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
 * [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 * [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
