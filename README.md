@@ -947,7 +947,7 @@ Music players.
 * [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 * [checksum.sh](https://checksum.sh/) - Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.
-* [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of you CLI tools, if they are installed and what version they are on.
+* [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 * [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 * [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.

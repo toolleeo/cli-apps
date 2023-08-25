@@ -780,7 +780,7 @@ data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realt
 productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
-system,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of you CLI tools, if they are installed and what version they are on."
+system,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of your CLI tools, if they are installed and what version they are on."
 cheatsheet,Nap,,https://github.com/maaslalani/nap,"Code snippet manager that allows to create and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface."
 chat,ttchat,,https://github.com/atye/ttchat,Twitch chats in the terminal.
 utility,teetail,,https://github.com/sl236/teetail,"Like tee, but only the tail goes in the file."
