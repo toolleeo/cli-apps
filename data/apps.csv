@@ -729,7 +729,7 @@ data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool 
 viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human readable by applying visual formatting.
 file-renamer,rename-cli,,https://github.com/jhotmann/node-rename-cli,File renamer with TUI interface and preview.
 disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space navigator that traverse the file-system with a TUI interface.
-utility,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army knife for Unix permissions.
+file-handling,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swiss Army knife for Unix permissions.
 launcher,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
 file-dir-cleanup,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organize your files automatically.
 file-explorer,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
@@ -867,7 +867,7 @@ funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your te
 monitor,ramfetch,,https://github.com/WhoseTheNerd/ramfetch,A fetch which displays memory info using /proc/meminfo.
 file-dir-cleanup,mat2,,https://0xacab.org/jvoisin/mat2.git,"Metadata removal tool, supporting a wide range of commonly used file formats."
 file-dir-cleanup,Dext,,https://github.com/AfzGit/dext,(Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
-utility,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
+programming,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
 productivity,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
@@ -962,7 +962,7 @@ file-explorer,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer
 productivity,Framed,,https://github.com/mactat/framed,A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
 find,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
 ls,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
-utility,Marker,,https://github.com/pindexis/marker,The terminal command palette.
+launcher,Marker,,https://github.com/pindexis/marker,The terminal command palette.
 cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,"Like IntelliSense, but for shells, acting like a bookmark store for commands."
 package-manager,aptitude,,https://salsa.debian.org/apt-team/aptitude,"A TUI front-end to APT, the Debian package manager."
 package-manager,JAPM,,https://github.com/TheAlexDev23/japm,A package manager that uses curses to provide a friendly UI
