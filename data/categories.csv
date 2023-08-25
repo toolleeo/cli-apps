@@ -15,6 +15,7 @@ editors,Editors,Terminal text editors
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
 file-dir-cleanup,Clean up of files and directories,"Find/remove duplicate files, automatically organize files, etc."
 file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full featured file managers)
+find,File finding (alternatives to find),Search the filesystem looking for files with specific characteristics
 file-handling,File and file system handling,Tools for managing files and directories
 ls,File listing (alternatives to ls),
 file-manager,File manager,
@@ -48,7 +49,7 @@ screensaver,Screen savers,
 system,System tools,
 terminal,Terminals,
 text-processing,Text processing,
-text-search,Text search,
+text-search,Text search (alternatives to grep),"Search files, typically in a recursive manner, to look for some contained text or path (regex)"
 time-tracker,Time trackers,Time and habit trackers
 typing,Typing test and practice,Games and utilities to measure and/or improve the typing ability
 todo-manager,Todo managers,

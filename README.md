@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1005** apps/tools covered, organized in **60** categories.
+To date, **1005** apps/tools covered, organized in **61** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [Clean up of files and directories](#file-dir-cleanup) (11) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (27) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (15) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [Clean up of files and directories](#file-dir-cleanup) (11) | [File explorer and tree visualization](#file-explorer) (8) | [File finding (alternatives to find)](#find) (5) | [File and file system handling](#file-handling) (21) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (15) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search (alternatives to grep)](#text-search) (11) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -339,6 +339,16 @@ Show directory trees and navigate through the file system (but not full featured
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
 * [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 
+## <a name="find"></a>File finding (alternatives to find)
+
+Search the filesystem looking for files with specific characteristics.
+
+* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
+* [Findpick](https://github.com/thingsiplay/findpick) - General purpose file picker combining "find" command with a fuzzy finder.
+* [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
+* [gret](https://github.com/4imothy/gret) - A command-line utility designed to search through directories and files for a regex expression that matches.
+* [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
+
 ## <a name="file-handling"></a>File and file system handling
 
 Tools for managing files and directories.
@@ -347,16 +357,10 @@ Tools for managing files and directories.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
-* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
 * [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-* [Findpick](https://github.com/thingsiplay/findpick) - General purpose file picker combining "find" command with a fuzzy finder.
 * [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
-* [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 * [gcp](https://github.com/aelafifi/gcp/) - `gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
 * [GoCatGo](https://github.com/vaaleyard/gocatgo) - GoCatGo is another pastebin tool with a super focus on transparency.
-* [gret](https://github.com/4imothy/gret) - A command-line utility designed to search through directories and files for a regex expression that matches.
-* [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-* [hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern using Intel Hypescan.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
 * [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 * [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
@@ -1054,11 +1058,14 @@ Music players.
 * [tuc](https://github.com/riquito/tuc) - You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help.
 * [Ultimate Plumber](https://github.com/akavel/up) - Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop.
 
-## <a name="text-search"></a>Text search
+## <a name="text-search"></a>Text search (alternatives to grep)
+
+Search files, typically in a recursive manner, to look for some contained text or path (regex).
 
 * [ack](http://beyondgrep.com/) - A tool like `grep` optimized for programmers; written in Perl, it speeds up searches thanks to skipping non interesting directories, such as `.git`.
 * [ag](https://github.com/ggreer/the_silver_searcher) - (The silver searcher) is a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster.
 * [ast-grep](https://github.com/ast-grep/ast-grep) - A CLI tool for code structrual search, lint and rewriting.
+* [hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern using Intel Hypescan.
 * [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
 * [paragrep](http://software.clapper.org/paragrep/) - Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions, a paragraph is defined as a block of text delimited by an empty or blank line, fully customizable via command line parameters.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern.

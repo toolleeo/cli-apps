@@ -131,7 +131,7 @@ file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,https://github.com/dtrx-py
 ls,exa,https://the.exa.website/,https://github.com/ogham/exa,"Replacement for 'ls' written in Rust, with colors and several additional ""views""."
 ls,lsd,,https://github.com/lsd-rs/lsd,"This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project."
 cd,fasd,,https://github.com/clvv/fasd,"A Commandline Tool That Offers Quick Access to Files and Directories. It offers quick access to files and directories for POSIX shells.  It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line."
-file-handling,fd,,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find. Written in Rust."
+find,fd,,https://github.com/sharkdp/fd,"A simple, fast and user-friendly alternative to find. Written in Rust."
 file-renamer,rename,https://www.kernel.org/pub/linux/utils/util-linux/,,"Included in `util-linux`, allows bulk rename of files with regex support."
 file-renamer,renameutils,http://www.nongnu.org/renameutils/,,"A set of programs to change file and directory names by editing them inplace, I find `imv` especially useful to edit a filename at the program prompt."
 file-dir-cleanup,rmlint,,https://github.com/sahib/rmlint/,"A tool to recursively scan a directory tree looking for duplicate and broken files, it outputs statistics and save the list of files in JSON format, it produce a shell script that can be inspected before running it to delete the desire files."
@@ -381,7 +381,7 @@ file-manager,hunter,,https://github.com/rabite0/hunter,Ranger-like file browser 
 monitor,ytop,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.
 monitor,noti,,https://github.com/variadico/noti,Monitor a process and trigger a notification.
 system,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
-file-handling,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
+find,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
 fuzzy-finder,fzy,,https://github.com/jhawthorn/fzy,Better fuzzy finder.
 graphics,GraphicsMagick,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick/,Swiss army knife of image processing.
 viewers,hexyl,,https://github.com/sharkdp/hexyl,Command-line hex viewer.
@@ -750,7 +750,7 @@ viewers,Grip,,https://github.com/joeyespo/grip,GitHub Readme Instant Preview - P
 cd,z,,https://github.com/rupa/z,Directory changer based on aging and frecency.
 cd,z.lua,,https://github.com/skywind3000/z.lua,Directory changer that learns your habits.
 cd,fz,,https://github.com/changyuheng/fz.sh,Fuzzy tab completion for z.
-file-handling,happyfinder,,https://github.com/hugows/hf,(another) Fuzzy file finder for the command line.
+find,happyfinder,,https://github.com/hugows/hf,(another) Fuzzy file finder for the command line.
 online,Awesome Finder,,https://github.com/mingrammer/awesome-finder,Search the awesome lists from the command line.
 online,Seashells,https://seashells.io/,https://github.com/anishathalye/seashells,Pipe output to the web.
 utility,movie,,https://github.com/mayankchd/movie,A CLI for getting information about a movies and comparing two movies.
@@ -941,7 +941,7 @@ monitor,Batfetch,,https://github.com/ashish-kus/batfetch,A command-line tool tha
 music,musicScraper,,https://github.com/mBaratta96/musicScraper,"CLI tool for scraping information from musical websites (Rateyourmusic, Metal Archives), with nice album ASCII art."
 terminal,tmux-session,,https://github.com/BartSte/tmux-session,Manage tmux sessions using fzf.
 games,Dino,,https://github.com/wldfngrs/chrome-dinosaur-terminal,A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
-file-handling,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.
+find,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.
 launcher,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for games (or anything), the UNIX way."
 security,securo,,https://github.com/iunary/securo,Encrypt and descrypt files and folders using a symmetric encryption.
 multimedia,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
@@ -954,13 +954,13 @@ git,Git Commit Vanity Hash Solver,,https://github.com/trichner/gitc0ffee,"Neat t
 games,blackjack,,https://github.com/acidvegas/blackjack,IRC bot to play blackjack.
 music,mzk,,https://github.com/acidvegas/mzk,Music theory helper.
 multimedia,CreateVideoMeme,,https://github.com/hache0099/CreateMemeVideo,Bash tool to add captions to the top of videos.
-file-handling,hypergrep,,https://github.com/p-ranav/hypergrep,Recursively search directories for a regex pattern using Intel Hypescan.
+text-search,hypergrep,,https://github.com/p-ranav/hypergrep,Recursively search directories for a regex pattern using Intel Hypescan.
 music,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line tool to play songs (or any audio, really) in the terminal."
 online,Shreddit,,https://github.com/x89/Shreddit,Remove your comment history on Reddit as deleting an account does not do so.
 online,magic-tape,,https://gitlab.com/christosangel/magic-tape,Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 file-explorer,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer that can browse the contents of local and remote filesystems with your keyboard or mouse; remotes include GitHub, over SSH, in AWS S3, Google Cloud Storage, or Azure Blob Storage."
 productivity,Framed,,https://github.com/mactat/framed,A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
-file-handling,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
+find,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
 ls,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
 utility,Marker,,https://github.com/pindexis/marker,The terminal command palette.
 cheatsheet,IntelliShell,,https://github.com/lasantosr/intelli-shell,"Like IntelliSense, but for shells, acting like a bookmark store for commands."
