@@ -52,6 +52,7 @@ text-processing,Text processing,
 text-search,Text search (alternatives to grep),"Search files, typically in a recursive manner, to look for some contained text or path (regex)"
 time-tracker,Time trackers,Time and habit trackers
 typing,Typing test and practice,Games and utilities to measure and/or improve the typing ability
+rm,File deletion and trash bin (alternatives to rm),"Tools to manage the deletion of files/directories with improved management of a trash can, with the ability to restore deleted items"
 todo-manager,Todo managers,
 torrent,Torrent,BitTorrent clients
 utility,Utilities,

@@ -424,7 +424,7 @@ utility,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time machi
 calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
-file-handling,rip,,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
+rm,rip,,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
 text-search,vgrep,,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
 webdev,urlhunter,,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
 webdev,lychee,,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust."
@@ -492,9 +492,9 @@ typing,toipe,,https://github.com/Samyak2/toipe,"Yet another typing test, but cra
 networking,bore,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.
 editors,zee,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental."
 monitor,watcher,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
-file-handling,RecoverPy,,https://github.com/PabloLec/RecoverPy,"RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data."
+rm,RecoverPy,,https://github.com/PabloLec/RecoverPy,"RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data."
 file-handling,file-type-cli,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
-file-handling,trash-cli,,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash.
+rm,trash-cli,,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash.
 text-processing,Ultimate Plumber,,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop."
 system,fkill-cli,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.
 system,has,,https://github.com/kdabir/has,Checks presence of various command line tools on the PATH and reports their installed version.
@@ -573,7 +573,7 @@ multimedia,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, w
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 utility,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
-file-handling,Brash,,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
+rm,Brash,,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
 torrent,torrentCLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
 shells,Spaceship,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt."
 programming,cloc,,https://github.com/AlDanial/cloc,"Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages."
@@ -857,7 +857,7 @@ funny,LundukeHoliday,,https://github.com/BryanLunduke/LundukeHoliday,"A simple B
 git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelog Generator that follows Conventional Commit specifications.
 copilot,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
 copilot,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
-file-handling,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
+rm,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 chatgpt,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 writing,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
 viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
