@@ -57,7 +57,7 @@ system,lshw,http://www.ezix.org/project/wiki/HardwareLiSter,https://ezix.org/src
 system,Ntfy,,https://github.com/dschep/ntfy,Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
 system,task-spooler,http://vicerveza.homeunix.net/~viric/soft/ts/,,"A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities."
 monitor,ttyload,http://www.daveltd.com/src/util/ttyload/,https://github.com/lindes/ttyload,"ttyload is a lightweight utility which is intended to offer a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal (""tty"")."
-system,hstr,,https://github.com/dvorka/hstr,"A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities."
+history,hstr,,https://github.com/dvorka/hstr,"A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities."
 system,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/git/parallel.git,"A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel."
 security,cipher,,https://github.com/ash-shell/cipher,An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.  
 security,hashcat,https://hashcat.net/hashcat/,https://github.com/hashcat/hashcat,"A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash."
@@ -469,7 +469,7 @@ git,gh-s,,https://github.com/gennaro-tedesco/gh-s,Search github repositories int
 git,gh-f,,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh cli."
 git,stargazer,,https://github.com/gennaro-tedesco/stargazer,Github stats from the command line.
 webdev,http-tanker,,https://github.com/PierreKieffer/http-tanker,"Terminal application used for API testing; easily create, manage and execute http requests from the terminal."
-system,Bevel,,https://github.com/NorfairKing/bevel,Command line history in an SQLite database for effective re-use.
+history,Bevel,,https://github.com/NorfairKing/bevel,Command line history in an SQLite database for effective re-use.
 data-management,zq,https://zed.brimdata.io/docs/commands/zq/,https://github.com/brimdata/zed,Processor for JSON data with stateful operators and a syntax that is more consistent w.r.t. jq (as claimed by the authors).
 torrent,Mabel,,https://github.com/smmr-software/mabel,"Deriving its name from the Hebrew word """"????,"""" meaning flood, deluge, or (loosely) torrent, Mabel is a fancy BitTorrent client for the terminal."
 text-processing,tuc,,https://github.com/riquito/tuc,"You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help."
@@ -478,7 +478,7 @@ typing,fasttyper,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalisti
 games,GameShell,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun."
 office,Lotus 1-2-3 for Linux,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.
 organizers,addrb,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.
-system,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
+history,atuin,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server."
 graphics,Artem,,https://github.com/FineFindus/artem,"Convert images from multiple formats (jpg, png, webp, etc.) to ASCII art, written in Rust."
 typing,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized results and historical logging.
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
@@ -773,7 +773,7 @@ games,Words,,https://github.com/ludovicianul/words,A set of word-based puzzle ga
 science,Go-L,,https://github.com/Jeadie/Go-L,"Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.)."
 utility,ttyscheme,,https://github.com/kolunmi/ttyscheme,Collection of Color Schemes for the TTY.
 chat,tweets,,https://github.com/diracdeltas/tweets,Decentralized alternative to twitter that uses git as support tool to manage the tweets.
-system,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers."
+history,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers."
 time-tracker,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identifies an anime from an image and yields key data about it.
 data-management,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
