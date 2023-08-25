@@ -195,10 +195,10 @@ online,googler,,https://github.com/jarun/googler,"Google Search, Google Site Sea
 text-processing,lolcat,,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
 monitor,neofetch,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
 calc,pdd,,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
-utility,powerline,,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
+prompt,powerline,,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
 online,socli,,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
 screensaver,termsaver,http://termsaver.brunobraga.net/,,"termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens."
-utility,dateutils,http://www.fresse.org/dateutils/,https://github.com/hroptatyr/dateutils,Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
+data-management,dateutils,http://www.fresse.org/dateutils/,https://github.com/hroptatyr/dateutils,Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line with a strong focus on use cases that arise when dealing with large amounts of financial data.
 data-management-tabular,VisiData,https://www.visidata.org/,https://github.com/saulpw/visidata,"Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease."
 data-management-tabular,csvkit,,https://github.com/wireservice/csvkit,"A suite of command-line tools for converting to and working with CSV, the king of tabular file formats."
 programming,gdb-dashboard,,https://github.com/cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python.
@@ -266,7 +266,7 @@ git,onefetch,,https://github.com/o2sh/onefetch,Git repository summary on your te
 data-management,jtc,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
 email,NeoMutt,https://neomutt.org/,https://github.com/neomutt/neomutt,Patched and up-to-dated mutt fork.
 cheatsheet,kmdr-cli,,https://github.com/ediardo/kmdr-cli,The CLI tool for explaining commands from your terminal.
-utility,Starship,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.
+prompt,Starship,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.
 todo-manager,todotxt-machine,https://pypi.org/project/todotxt-machine/,https://github.com/AnthonyDiGirolamo/todotxt-machine,Interfacce for todo.txt.
 games,usolitaire,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.
 file-manager,rnr,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
@@ -592,7 +592,7 @@ git,git-remote-aws,,https://github.com/nathants/git-remote-aws,Management of enc
 torrent,Stig,,https://github.com/rndusr/stig,Stig is a client application to connect and control the BitTorrent Transmission client app.
 productivity,ancv,,https://github.com/alexpovel/ancv,Renders your (JSON) resume/CV for online & pretty terminal display.
 file-manager,lf,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a terminal file manager written in Go with a heavy inspiration from ranger file manager."
-utility,welcome.sh,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information."
+prompt,welcome.sh,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information."
 productivity,flash-tui,,https://github.com/TBS1996/speki,Flashcard app for the terminal.
 data-management,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
 system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.

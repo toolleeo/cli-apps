@@ -41,6 +41,7 @@ package-manager,Package managers,"Manage/install/uninstall packages, as source c
 password-manager,Password managers,
 productivity,Productivity,
 programming,Programming,
+prompt,Prompts,Prompts and welcome messages
 science,Science,Tools for scientific research and science applications
 security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems"
 shells,Shells,
