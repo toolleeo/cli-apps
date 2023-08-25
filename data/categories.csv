@@ -13,6 +13,7 @@ diff,Diff,"File and data diffs, more or less “context” or “semantic” awa
 disk-analyzer,Disk usage analyzers,
 editors,Editors,Terminal text editors
 email,Email,"Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization"
+file-dir-cleanup,Clean up of files and directories,"Find/remove duplicate files, automatically organize files, etc."
 file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full featured file managers)
 file-handling,File and file system handling,Tools for managing files and directories
 ls,File listing (alternatives to ls),

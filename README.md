@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1005** apps/tools covered, organized in **59** categories.
+To date, **1005** apps/tools covered, organized in **60** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (38) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (15) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (38) | [Data transfer](#transfer) (32) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [Clean up of files and directories](#file-dir-cleanup) (11) | [File explorer and tree visualization](#file-explorer) (8) | [File and file system handling](#file-handling) (27) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (15) | [Multimedia](#multimedia) (11) | [Networking](#networking) (24) | [Note taking](#note-taking) (19) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (18) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (17) | [Programming](#programming) (38) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search](#text-search) (10) | [Time trackers](#time-tracker) (13) | [Typing test and practice](#typing) (7) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (39) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -310,6 +310,22 @@ Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - 
 * [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 * [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
+## <a name="file-dir-cleanup"></a>Clean up of files and directories
+
+Find/remove duplicate files, automatically organize files, etc..
+
+* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
+* [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
+* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
+* [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames, it replaces characters like spaces with standard equivalents, it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
+* [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
+* [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
+* [ff](https://github.com/akymos/ff) - ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.
+* [inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
+* [mat2](https://0xacab.org/jvoisin/mat2.git) - Metadata removal tool, supporting a wide range of commonly used file formats.
+* [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+* [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files, it outputs statistics and save the list of files in JSON format, it produce a shell script that can be inspected before running it to delete the desire files.
+
 ## <a name="file-explorer"></a>File explorer and tree visualization
 
 Show directory trees and navigate through the file system (but not full featured file managers).
@@ -327,18 +343,11 @@ Show directory trees and navigate through the file system (but not full featured
 
 Tools for managing files and directories.
 
-* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
 * [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
-* [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
-* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
-* [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames, it replaces characters like spaces with standard equivalents, it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
-* [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 * [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
 * [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
-* [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
-* [ff](https://github.com/akymos/ff) - ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.
 * [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 * [Findpick](https://github.com/thingsiplay/findpick) - General purpose file picker combining "find" command with a fuzzy finder.
 * [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
@@ -348,16 +357,12 @@ Tools for managing files and directories.
 * [gret](https://github.com/4imothy/gret) - A command-line utility designed to search through directories and files for a regex expression that matches.
 * [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 * [hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern using Intel Hypescan.
-* [inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
-* [mat2](https://0xacab.org/jvoisin/mat2.git) - Metadata removal tool, supporting a wide range of commonly used file formats.
-* [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
 * [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 * [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
 * [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progressbar.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
 * [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
-* [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files, it outputs statistics and save the list of files in JSON format, it produce a shell script that can be inspected before running it to delete the desire files.
 * [rmw](https://remove-to-waste.info/) - (ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 * [Snoop](https://github.com/Mandrew0822/Snoop) - A command-line utility for Linux that provides information about files in a directory.
 * [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
