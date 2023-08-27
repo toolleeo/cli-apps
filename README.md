@@ -1160,7 +1160,7 @@ Tools to manage the deletion of files/directories with improved management of a 
 BitTorrent clients.
 
 * [Deluge](http://deluge-torrent.org/) - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
-* [Mabel](https://github.com/smmr-software/mabel) - Deriving its name from the Hebrew word ""????,"" meaning flood, deluge, or (loosely) torrent, Mabel is a fancy BitTorrent client for the terminal.
+* [Mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal built with Go and the Bubbletea library.
 * [rtorrent](https://github.com/rakshasa/rtorrent) - Bittorrent client uses ncurses and is ideal for use with tmux, screen or dtach.
 * [Stig](https://github.com/rndusr/stig) - Stig is a client application to connect and control the BitTorrent Transmission client app.
 * [torrentCLI](https://github.com/amogusussy/torrentCLI) - Get torrents from the Terminal.
