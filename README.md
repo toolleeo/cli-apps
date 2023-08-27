@@ -140,7 +140,7 @@ Tools to manage data files.
 * [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 * [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographic.
 * [yq](https://github.com/mikefarah/yq) - Portable command-line YAML processor.
-* [zq](https://zed.brimdata.io/docs/commands/zq/) - Processor for JSON data with stateful operators and a syntax that is more consistent w.r.t. jq (as claimed by the authors).
+* [zq](https://zed.brimdata.io/docs/commands/zq/) - A command-line tool that uses the Zed language for pipeline-style search and analytics. It can query a variety of data formats (CSV, JSON, etc.) in files, over HTTP, or in S3 storage.
 
 ## <a name="data-management-tabular"></a>Data management - Tabular data
 
