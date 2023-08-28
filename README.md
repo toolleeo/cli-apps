@@ -810,6 +810,8 @@ Manage/install/uninstall packages, as source code or binaries.
 
 ## <a name="productivity"></a>Productivity
 
+A set of tools for improving own productivity that do not deserve (at the moment) a specific category.
+
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
 * [h-m-m](https://github.com/nadrad/h-m-m) - h-m-m (pronounced like the interjection "hmm") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
