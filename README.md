@@ -32,11 +32,11 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1005** apps/tools covered, organized in **64** categories.
+To date, **1005** apps/tools covered, organized in **65** categories.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (24) | [Data management - Tabular data](#data-management-tabular) (15) | [Data transfer](#transfer) (31) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [Clean up of files and directories](#file-dir-cleanup) (12) | [File explorer and tree visualization](#file-explorer) (8) | [File finding (alternatives to find)](#find) (5) | [File and file system handling](#file-handling) (17) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (16) | [Multimedia](#multimedia) (12) | [Networking](#networking) (24) | [Note taking](#note-taking) (20) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (20) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (13) | [Programming](#programming) (39) | [Prompts](#prompt) (3) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search (alternatives to grep)](#text-search) (11) | [Time trackers](#time-tracker) (15) | [Typing test and practice](#typing) (7) | [File deletion and trash bin (alternatives to rm)](#rm) (5) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (30) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (24) | [Data management - Tabular data](#data-management-tabular) (15) | [Data transfer](#transfer) (31) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [Clean up of files and directories](#file-dir-cleanup) (12) | [File explorer and tree visualization](#file-explorer) (8) | [File finding (alternatives to find)](#find) (5) | [File and file system handling](#file-handling) (17) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Flashcards, Anki and decks](#flashcard) (6) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (16) | [Multimedia](#multimedia) (12) | [Networking](#networking) (24) | [Note taking](#note-taking) (20) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (20) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (7) | [Programming](#programming) (39) | [Prompts](#prompt) (3) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search (alternatives to grep)](#text-search) (11) | [Time trackers](#time-tracker) (15) | [Typing test and practice](#typing) (7) | [File deletion and trash bin (alternatives to rm)](#rm) (5) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (30) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -446,6 +446,17 @@ Ledger tracking, currency conversion, cryptocurrency tools.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 
+## <a name="flashcard"></a>Flashcards, Anki and decks
+
+Manage decks of flashcards and Anki decks.
+
+* [flash-tui](https://github.com/TBS1996/speki) - Flashcard app for the terminal.
+* [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
+* [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
+* [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal similar to anki.
+* [ToRRential Card processor](https://github.com/Constantin1489/trrc) - A command-line program to add a card to Anki using AnkiConnect API.
+* [tui-deck](https://github.com/mebitek/tui-deck) - A TUI frontend for Nextcloud Deck app.
+
 ## <a name="font"></a>Font management
 
 * [FIGlet](http://www.figlet.org/) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
@@ -800,16 +811,10 @@ Manage/install/uninstall packages, as source code or binaries.
 ## <a name="productivity"></a>Productivity
 
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
-* [flash-tui](https://github.com/TBS1996/speki) - Flashcard app for the terminal.
 * [gdir](https://github.com/pafoster/gdir) - A command line tool which queries Google Directions. The tool displays results as human-readable text.
 * [h-m-m](https://github.com/nadrad/h-m-m) - h-m-m (pronounced like the interjection "hmm") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
-* [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
 * [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings.
-* [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
 * [speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
-* [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal similar to anki.
-* [ToRRential Card processor](https://github.com/Constantin1489/trrc) - A command-line program to add a card to Anki using AnkiConnect API.
-* [tui-deck](https://github.com/mebitek/tui-deck) - A TUI frontend for Nextcloud Deck app.
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a linux console.
 

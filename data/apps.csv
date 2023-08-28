@@ -593,7 +593,7 @@ torrent,Stig,,https://github.com/rndusr/stig,Stig is a client application to con
 productivity,ancv,,https://github.com/alexpovel/ancv,Renders your (JSON) resume/CV for online & pretty terminal display.
 file-manager,lf,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a terminal file manager written in Go with a heavy inspiration from ranger file manager."
 prompt,welcome.sh,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information."
-productivity,flash-tui,,https://github.com/TBS1996/speki,Flashcard app for the terminal.
+flashcard,flash-tui,,https://github.com/TBS1996/speki,Flashcard app for the terminal.
 data-management,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
 system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.
 games,hangman,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.
@@ -631,7 +631,7 @@ security,cotp,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command
 cheatsheet,topalias,,https://github.com/meteoritt/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python."
 programming,Kool,,https://github.com/kool-dev/kool,"CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible."
 networking,Optic,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
-productivity,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal similar to anki.
+flashcard,speki,,https://github.com/tbs1996/speki,Manage flashcards in the terminal similar to anki.
 launcher,sake,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
 transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
 password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them."
@@ -777,7 +777,7 @@ history,hiSHtory,,https://github.com/ddworken/hishtory,"A better shell history t
 time-tracker,habitmap,,https://github.com/shuu-wasseo/habitmap,A command-line app to track your habits and visualise how committed you are to making or maintaining them with colorful heatmaps.
 utility,sauce,,https://github.com/cadecuddy/sauce,A novelty CLI tool that identifies an anime from an image and yields key data about it.
 data-management-tabular,Soul,,https://github.com/thevahidal/soul,A SQLite REST and realtime server.
-productivity,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
+flashcard,hardv,,https://github.com/dongyx/hardv,"A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy."
 monitor,zfxtop,,https://github.com/ssleert/zfxtop,Self described as “fetch top written by bubbletea enjoyer”.
 funny,Binary Clock,,https://github.com/tom-on-the-internet/binary-clock,Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 package-manager,cli-tools-info,,https://github.com/Lilja/cli-info,"An overview of your CLI tools, if they are installed and what version they are on."
@@ -834,7 +834,7 @@ chatgpt,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
 multimedia,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
-productivity,py_flashcards,,https://github.com/M4THYOU/py_flashcards,Text-only CLI flashcards parsed from Markdown file.
+flashcard,py_flashcards,,https://github.com/M4THYOU/py_flashcards,Text-only CLI flashcards parsed from Markdown file.
 file-renamer,moove,,https://github.com/urin/moove,Manipulate file names and locations using a text editor.
 shells,Reptyl,,https://github.com/0ut0flin3/Reptyl,A cross-platform command line shell that supports execution of commands in natural language.
 networking,Tunnelmole,,https://github.com/robbie-cahill/tunnelmole-client,Connect to local servers from anywhere.
@@ -948,7 +948,7 @@ multimedia,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pur
 games,Wordle Solver,,https://gitlab.com/christosangel/wordle-solver,A bash script that can solve wordle riddles.
 utility,pangran,,https://github.com/BimoT/pangran,A simple TUI program that checks if you've typed a pangram.
 utility,Polykill,,https://github.com/Bdeering1/polykill,Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
-productivity,ToRRential Card processor,,https://github.com/Constantin1489/trrc,A command-line program to add a card to Anki using AnkiConnect API.
+flashcard,ToRRential Card processor,,https://github.com/Constantin1489/trrc,A command-line program to add a card to Anki using AnkiConnect API.
 music,cue,,https://github.com/ravachol/cue,A command-line music player.
 git,Git Commit Vanity Hash Solver,,https://github.com/trichner/gitc0ffee,"Neat tool to find a 'vanity' hash for a given git commit. Make all your commits hashes start with the prefix c0ffee, cafe, badc0de5 or whatever makes you happy!"
 games,blackjack,,https://github.com/acidvegas/blackjack,IRC bot to play blackjack.
@@ -969,7 +969,7 @@ package-manager,JAPM,,https://github.com/TheAlexDev23/japm,A package manager tha
 file-handling,Snoop,,https://github.com/Mandrew0822/Snoop,A command-line utility for Linux that provides information about files in a directory.
 viewers,Frogmouth,,https://github.com/Textualize/frogmouth,A Markdown viewer / browser for the terminal.
 financial,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python library for Bitcoin.
-productivity,tui-deck,,https://github.com/mebitek/tui-deck,A TUI frontend for Nextcloud Deck app.
+flashcard,tui-deck,,https://github.com/mebitek/tui-deck,A TUI frontend for Nextcloud Deck app.
 copilot,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you."
 todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list manager written In Bash.
 chatgpt,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
