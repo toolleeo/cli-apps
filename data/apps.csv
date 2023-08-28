@@ -276,7 +276,7 @@ transfer,ytfzf,,https://github.com/pystardust/ytfzf,A POSIX script that helps yo
 data-management,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
 disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
-productivity,Clipboard,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.
+note-taking,Clipboard,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.
 music,Siren,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren.git,Siren is a text-based audio player for UNIX-like operating systems.
 financial,Ticker,,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.
 transfer,xh,,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
@@ -618,7 +618,7 @@ note-taking,Noted,,https://github.com/torbratsberg/noted,"Notes library, with vi
 networking,Wishlist,,https://github.com/charmbracelet/wishlist,With Wishlist you can have a single entrypoint for multiple SSH endpoints.
 data-management-tabular,termdbms,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go."
 office,Slides,,https://github.com/maaslalani/slides,Terminal based presentation tool.
-productivity,tz,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
+organizers,tz,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
 transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
 data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool to view redis data in terminal.
 data-management-tabular,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
@@ -848,7 +848,7 @@ monitor,ttop,,https://github.com/inv2004/ttop,"top-like system monitoring tool w
 transfer,Yark,,https://github.com/Owez/yark,YouTube archiving made simple.
 networking,ttyd,,https://github.com/tsl0922/ttyd,Share your terminal over the web.
 file-renamer,mmv-c,,https://github.com/mcauley-penney/mmv-c,Interactively rename files with your favorite editor.
-productivity,avail,,https://github.com/mufeez-amjad/avail,Find available times between all your calendars.
+organizers,avail,,https://github.com/mufeez-amjad/avail,Find available times between all your calendars.
 backup,thread-safe,,https://github.com/dkaslovsky/thread-safe,Keep your favorite Twitter threads safe with a local copy.
 networking,hflow,,https://github.com/comradequinn/hflow,"A command-line, debugging http/s proxy server."
 transfer,Clipsync,,https://github.com/marcopaganini/clipsync,Share your clipboard across multiple machines using an MQTT service.
@@ -959,7 +959,7 @@ music,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line
 online,Shreddit,,https://github.com/x89/Shreddit,Remove your comment history on Reddit as deleting an account does not do so.
 online,magic-tape,,https://gitlab.com/christosangel/magic-tape,Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 file-explorer,browsr,,https://github.com/juftin/browsr,"A pleasant file explorer that can browse the contents of local and remote filesystems with your keyboard or mouse; remotes include GitHub, over SSH, in AWS S3, Google Cloud Storage, or Azure Blob Storage."
-productivity,Framed,,https://github.com/mactat/framed,A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
+file-dir-cleanup,Framed,,https://github.com/mactat/framed,A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
 find,Findpick,,https://github.com/thingsiplay/findpick,"General purpose file picker combining ""find"" command with a fuzzy finder."
 ls,pretty-ls,,https://github.com/ix/pretty-ls,Rust ls clone with pretty colors.
 launcher,Marker,,https://github.com/pindexis/marker,The terminal command palette.
