@@ -70,10 +70,10 @@ def fmt_categories(cats):
     # print(strings_by_letters)
     for g in group_by_letters:
         lines_by_letters[g] = ', '.join(strings_by_letters[g])
-    lines_to_join = [lines_by_letters[key] for key in lines_by_letters if len(lines_by_letters[key])]
+    lines_to_join = ['* ' + lines_by_letters[key] for key in lines_by_letters if len(lines_by_letters[key])]
     # print(lines_by_letters)
-    print(lines_to_join)
-    return '\n\n'.join(lines_to_join)
+    # print(lines_to_join)
+    return '\n'.join(lines_to_join)
 
 
 def fmt_categories_old(cats):

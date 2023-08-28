@@ -29,7 +29,6 @@ Please commit the CSV file only, not the README.
 I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
 
 If you prefer an email, contact me at `toolleeo@gmail.com`.
-['[Backup](#backup) (10)', '[Calculators](#calc) (8), [Chat and instant messaging](#chat) (13), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)', '[Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)', '[Editors](#editors) (23), [Email](#email) (13)', '[File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Flashcards, Anki and decks](#flashcard) (6), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)', '[Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (27)', '[History management](#history) (4)', '[Multimedia](#multimedia) (12)', '[Networking](#networking) (24), [Note taking](#note-taking) (20)', '[Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)', '[Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (3)', '[Science](#science) (15), [Screen savers](#screensaver) (4), [Security and encryption](#security) (21), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (35), [System tools](#system) (18)', '[Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)', '[Utilities](#utility) (30)', '[Versioning](#versioning) (6), [Viewers](#viewers) (36)', '[Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)']
 
 # Summary
 
@@ -38,37 +37,22 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Index
 
-[Backup](#backup) (10)
-
-[Calculators](#calc) (8), [Chat and instant messaging](#chat) (13), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
-
-[Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
-
-[Editors](#editors) (23), [Email](#email) (13)
-
-[File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Flashcards, Anki and decks](#flashcard) (6), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
-
-[Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (27)
-
-[History management](#history) (4)
-
-[Multimedia](#multimedia) (12)
-
-[Networking](#networking) (24), [Note taking](#note-taking) (20)
-
-[Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
-
-[Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (3)
-
-[Science](#science) (15), [Screen savers](#screensaver) (4), [Security and encryption](#security) (21), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (35), [System tools](#system) (18)
-
-[Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
-
-[Utilities](#utility) (30)
-
-[Versioning](#versioning) (6), [Viewers](#viewers) (36)
-
-[Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)
+* [Backup](#backup) (10)
+* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (13), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
+* [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
+* [Editors](#editors) (23), [Email](#email) (13)
+* [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Flashcards, Anki and decks](#flashcard) (6), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
+* [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (27)
+* [History management](#history) (4)
+* [Multimedia](#multimedia) (12)
+* [Networking](#networking) (24), [Note taking](#note-taking) (20)
+* [Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
+* [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (3)
+* [Science](#science) (15), [Screen savers](#screensaver) (4), [Security and encryption](#security) (21), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (35), [System tools](#system) (18)
+* [Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
+* [Utilities](#utility) (30)
+* [Versioning](#versioning) (6), [Viewers](#viewers) (36)
+* [Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
