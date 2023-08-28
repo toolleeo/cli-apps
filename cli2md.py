@@ -76,6 +76,7 @@ def count_apps(apps, categories):
 
 
 def categories_list_to_dict(category_list):
+    category_list = sorted(category_list, key=lambda d: d['name'])
     d = {}
     for c in category_list:
         d[c['label']] = {'name': c['name'], 'description': c['description']}
