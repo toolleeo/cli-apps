@@ -32,11 +32,12 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-To date, **1005** apps/tools covered, organized in **65** categories.
+* Apps/tools covered: **1005**
+* Number of categories: **65**.
 
 # Index
 
-[Backup](#backup) (10) | [Calculators](#calc) (8) | [Chat and instant messaging](#chat) (13) | [Commands cheatsheet and snippets](#cheatsheet) (14) | [Conversion](#conversion) (7) | [Data management](#data-management) (24) | [Data management - Tabular data](#data-management-tabular) (15) | [Data transfer](#transfer) (31) | [Directory changers (alternatives to cd)](#cd) (16) | [ChatGPT / AI](#chatgpt) (8) | [Co-pilot](#copilot) (7) | [Diff](#diff) (9) | [Disk usage analyzers](#disk-analyzer) (12) | [Editors](#editors) (23) | [Email](#email) (13) | [Clean up of files and directories](#file-dir-cleanup) (12) | [File explorer and tree visualization](#file-explorer) (8) | [File finding (alternatives to find)](#find) (5) | [File and file system handling](#file-handling) (17) | [File listing (alternatives to ls)](#ls) (6) | [File manager](#file-manager) (18) | [File renamers](#file-renamer) (11) | [File systems](#file-system) (4) | [Financial tools](#financial) (11) | [Flashcards, Anki and decks](#flashcard) (6) | [Font management](#font) (2) | [Funny tools](#funny) (27) | [Fuzzy finders](#fuzzy-finder) (10) | [Games](#games) (42) | [Git and accessories](#git) (38) | [Graphics](#graphics) (27) | [History management](#history) (4) | [Command launchers](#launcher) (16) | [Multimedia](#multimedia) (12) | [Networking](#networking) (24) | [Note taking](#note-taking) (20) | [Office tools](#office) (8) | [Organizers and calendars](#organizers) (20) | [Online search and resources](#online) (13) | [Package managers](#package-manager) (8) | [Password managers](#password-manager) (14) | [Productivity](#productivity) (7) | [Programming](#programming) (39) | [Prompts](#prompt) (3) | [Science](#science) (15) | [Security and encryption](#security) (21) | [Shells](#shells) (9) | [Sound and music](#music) (30) | [System monitoring](#monitor) (35) | [Screen savers](#screensaver) (4) | [System tools](#system) (18) | [Terminals](#terminal) (12) | [Text processing](#text-processing) (32) | [Text search (alternatives to grep)](#text-search) (11) | [Time trackers](#time-tracker) (15) | [Typing test and practice](#typing) (7) | [File deletion and trash bin (alternatives to rm)](#rm) (5) | [Todo managers](#todo-manager) (22) | [Torrent](#torrent) (7) | [Utilities](#utility) (30) | [Versioning](#versioning) (6) | [Viewers](#viewers) (36) | [Web browser](#browser) (16) | [Web development](#webdev) (23) | [Writing](#writing) (9)
+[Backup](#backup) (10), [Calculators](#calc) (8), [Chat and instant messaging](#chat) (13), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7), [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12), [Editors](#editors) (23), [Email](#email) (13), [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Flashcards, Anki and decks](#flashcard) (6), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10), [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (27), [History management](#history) (4), [Multimedia](#multimedia) (12), [Networking](#networking) (24), [Note taking](#note-taking) (20), [Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20), [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (3), [Science](#science) (15), [Screen savers](#screensaver) (4), [Security and encryption](#security) (21), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (35), [System tools](#system) (18), [Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7), [Utilities](#utility) (30), [Versioning](#versioning) (6), [Viewers](#viewers) (36), [Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -81,6 +82,69 @@ Calculators for numbers, dates, etc..
 * [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
 * [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
+
+## <a name="chatgpt"></a>ChatGPT / AI
+
+Interfaces and front-ends to GPT engines.
+
+* [AI](https://github.com/nitefood/ai-bash-gpt) - A commandline ChatGPT client in BASH with conversation/completion support.
+* [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+* [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
+* [Chatblade](https://github.com/npiv/chatblade) - Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
+* [chatgpt](https://github.com/mglantz/chatgpt) - Simple command line integration to Chat GPT.
+* [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
+* [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
+* [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
+
+## <a name="file-dir-cleanup"></a>Clean up of files and directories
+
+Find/remove duplicate files, automatically organize files, etc..
+
+* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
+* [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
+* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
+* [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames, it replaces characters like spaces with standard equivalents, it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
+* [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
+* [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
+* [ff](https://github.com/akymos/ff) - ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.
+* [Framed](https://github.com/mactat/framed) - A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
+* [inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
+* [mat2](https://0xacab.org/jvoisin/mat2.git) - Metadata removal tool, supporting a wide range of commonly used file formats.
+* [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+* [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files, it outputs statistics and save the list of files in JSON format, it produce a shell script that can be inspected before running it to delete the desire files.
+
+## <a name="copilot"></a>Co-pilot
+
+Using GPT tools to generate commands at the command line.
+
+* [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
+* [aish](https://github.com/chr15m/aish) - A program that retrieve shell script one-liners, ready to be executed in the terminal.
+* [CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
+* [Commandpilot](https://github.com/barthr/commandpilot) - An assistant which uses ChatGPT to aid in constructing commands for bash.
+* [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
+* [Llama Terminal Completion](https://github.com/adammpkins/llama-terminal-completion) - Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts.
+* [Yai](https://github.com/ekkinox/yai) - Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
+
+## <a name="launcher"></a>Command launchers
+
+Tools to launch/execute programs, either interactively, automatically, in parallel, etc..
+
+* [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
+* [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
+* [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
+* [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
+* [Marker](https://github.com/pindexis/marker) - The terminal command palette.
+* [mprocs](https://github.com/pvolok/mprocs) - mprocs runs multiple commands in parallel and shows output of each command separately.
+* [Mxflow-cli](https://github.com/metaory/mxflow-cli) - A modern, general purpose CLI task runner with human readable yaml config file.
+* [parallel](https://www.gnu.org/software/parallel/) - A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel.
+* [procmux](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
+* [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
+* [sake](https://github.com/alajmo/sake) - A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
+* [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
+* [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
+* [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
+* [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
+* [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 
 ## <a name="cheatsheet"></a>Commands cheatsheet and snippets
 
@@ -196,6 +260,20 @@ Tools to manage tabular data files (CSV, xls, database tables, etc.).
 * [ytfzf](https://github.com/pystardust/ytfzf) - A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
 * [ytmdl](https://github.com/deepjyoti30/ytmdl) - Get songs from Youtube in mp3 format.
 
+## <a name="diff"></a>Diff
+
+File and data diffs, more or less “context” or “semantic” aware.
+
+* [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files
+* [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable instead of machine readable.
+* [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
+* [Difftastic](https://github.com/Wilfred/difftastic) - Syntax-aware structured diff tool.
+* [Dirdiff](https://github.com/OCamlPro/dirdiff) - Efficiently compute the differences between two directories.
+* [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
+* [pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
+* [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff.
+
 ## <a name="cd"></a>Directory changers (alternatives to cd)
 
 Tools for improving the efficiency of directory traversal.
@@ -216,45 +294,6 @@ Tools for improving the efficiency of directory traversal.
 * [z](https://github.com/rupa/z) - Directory changer based on aging and frecency.
 * [z.lua](https://github.com/skywind3000/z.lua) - Directory changer that learns your habits.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
-
-## <a name="chatgpt"></a>ChatGPT / AI
-
-Interfaces and front-ends to GPT engines.
-
-* [AI](https://github.com/nitefood/ai-bash-gpt) - A commandline ChatGPT client in BASH with conversation/completion support.
-* [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
-* [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
-* [Chatblade](https://github.com/npiv/chatblade) - Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
-* [chatgpt](https://github.com/mglantz/chatgpt) - Simple command line integration to Chat GPT.
-* [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
-* [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
-* [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
-
-## <a name="copilot"></a>Co-pilot
-
-Using GPT tools to generate commands at the command line.
-
-* [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
-* [aish](https://github.com/chr15m/aish) - A program that retrieve shell script one-liners, ready to be executed in the terminal.
-* [CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
-* [Commandpilot](https://github.com/barthr/commandpilot) - An assistant which uses ChatGPT to aid in constructing commands for bash.
-* [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
-* [Llama Terminal Completion](https://github.com/adammpkins/llama-terminal-completion) - Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts.
-* [Yai](https://github.com/ekkinox/yai) - Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you.
-
-## <a name="diff"></a>Diff
-
-File and data diffs, more or less “context” or “semantic” aware.
-
-* [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files
-* [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable instead of machine readable.
-* [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
-* [Difftastic](https://github.com/Wilfred/difftastic) - Syntax-aware structured diff tool.
-* [Dirdiff](https://github.com/OCamlPro/dirdiff) - Efficiently compute the differences between two directories.
-* [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
-* [pdf-diff](https://github.com/serhack/pdf-diff) - A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf.
-* [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff.
 
 ## <a name="disk-analyzer"></a>Disk usage analyzers
 
@@ -317,22 +356,37 @@ Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - 
 * [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 * [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
-## <a name="file-dir-cleanup"></a>Clean up of files and directories
+## <a name="file-handling"></a>File and file system handling
 
-Find/remove duplicate files, automatically organize files, etc..
+Tools for managing files and directories.
 
-* [backdown](https://github.com/Canop/backdown) - Safely and ergonomically remove duplicate files
-* [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, pdfs, images, etc.
-* [czkawka](https://qarmin.github.io/czkawka/) - Remove unnecessary files from your computer
-* [detox](http://detox.sourceforge.net/) - A utility designed to easily clean up filenames, it replaces characters like spaces with standard equivalents, it also replace UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
-* [Dext](https://github.com/AfzGit/dext) - (Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
-* [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
-* [ff](https://github.com/akymos/ff) - ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.
-* [Framed](https://github.com/mactat/framed) - A CLI tool that simplifies the organization and management of files and directories in a reusable and architectural manner.
-* [inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
-* [mat2](https://0xacab.org/jvoisin/mat2.git) - Metadata removal tool, supporting a wide range of commonly used file formats.
-* [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
-* [rmlint](https://github.com/sahib/rmlint/) - A tool to recursively scan a directory tree looking for duplicate and broken files, it outputs statistics and save the list of files in JSON format, it produce a shell script that can be inspected before running it to delete the desire files.
+* [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
+* [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
+* [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
+* [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+* [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
+* [gcp](https://github.com/aelafifi/gcp/) - `gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
+* [GoCatGo](https://github.com/vaaleyard/gocatgo) - GoCatGo is another pastebin tool with a super focus on transparency.
+* [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
+* [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
+* [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
+* [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progressbar.
+* [Snoop](https://github.com/Mandrew0822/Snoop) - A command-line utility for Linux that provides information about files in a directory.
+* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
+* [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
+* [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
+* [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
+* [xcp](https://github.com/tarka/xcp) - Extended cp.
+
+## <a name="rm"></a>File deletion and trash bin (alternatives to rm)
+
+Tools to manage the deletion of files/directories with improved management of a trash can, with the ability to restore deleted items.
+
+* [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
+* [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
+* [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
+* [rmw](https://remove-to-waste.info/) - (ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
+* [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
 
 ## <a name="file-explorer"></a>File explorer and tree visualization
 
@@ -356,28 +410,6 @@ Search the filesystem looking for files with specific characteristics.
 * [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 * [gret](https://github.com/4imothy/gret) - A command-line utility designed to search through directories and files for a regex expression that matches.
 * [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-
-## <a name="file-handling"></a>File and file system handling
-
-Tools for managing files and directories.
-
-* [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
-* [doppelganger](https://github.com/witchard/doppelganger) - Save and load your shell environment to create doppelganger shells!
-* [dtrx](https://brettcsmith.org/2007/dtrx/) - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows to use one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
-* [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-* [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
-* [gcp](https://github.com/aelafifi/gcp/) - `gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
-* [GoCatGo](https://github.com/vaaleyard/gocatgo) - GoCatGo is another pastebin tool with a super focus on transparency.
-* [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
-* [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
-* [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
-* [pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progressbar.
-* [Snoop](https://github.com/Mandrew0822/Snoop) - A command-line utility for Linux that provides information about files in a directory.
-* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
-* [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
-* [vidir](https://github.com/trapd00r/vidir) - vidir allows editing of the contents of a directory in a text editor.
-* [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
-* [xcp](https://github.com/tarka/xcp) - Extended cp.
 
 ## <a name="ls"></a>File listing (alternatives to ls)
 
@@ -634,27 +666,6 @@ Programs to replace or improve the management of command line history.
 * [hiSHtory](https://github.com/ddworken/hishtory) - A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers.
 * [hstr](https://github.com/dvorka/hstr) - A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities.
 
-## <a name="launcher"></a>Command launchers
-
-Tools to launch/execute programs, either interactively, automatically, in parallel, etc..
-
-* [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
-* [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
-* [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
-* [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
-* [Marker](https://github.com/pindexis/marker) - The terminal command palette.
-* [mprocs](https://github.com/pvolok/mprocs) - mprocs runs multiple commands in parallel and shows output of each command separately.
-* [Mxflow-cli](https://github.com/metaory/mxflow-cli) - A modern, general purpose CLI task runner with human readable yaml config file.
-* [parallel](https://www.gnu.org/software/parallel/) - A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel.
-* [procmux](https://github.com/napisani/procmux) - A TUI utility for running multiple commands in parallel in easily switchable terminals.
-* [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
-* [sake](https://github.com/alajmo/sake) - A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.
-* [Task](https://taskfile.dev/) - A task runner / simpler Make alternative written in Go.
-* [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
-* [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
-* [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
-* [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
-
 ## <a name="multimedia"></a>Multimedia
 
 Programs to specifically deal audio/video files.
@@ -737,6 +748,22 @@ Spreadsheet and presentations.
 * [Teapot](https://www.syntax-k.de/projekte/teapot/) - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
 * [tpp](http://www.ngolde.de/tpp.html) - (text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
 
+## <a name="online"></a>Online search and resources
+
+* [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.  
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+* [Awesome Finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
+* [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (html version) from the terminal.
+* [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
+* [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
+* [pockyt](https://github.com/achembarpu/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
+* [Seashells](https://seashells.io/) - Pipe output to the web.
+* [Shreddit](https://github.com/x89/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
+* [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
+* [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
+* [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
+* [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
+
 ## <a name="organizers"></a>Organizers and calendars
 
 Calendar managers.
@@ -761,22 +788,6 @@ Calendar managers.
 * [tz](https://github.com/oz/tz) - tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
 * [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV synchronization program.
 * [Wyrd](http://freecode.com/projects/wyrd/) - Curses front-end for [Remind](https://www.roaringpenguin.com/products/remind) written in OCaml with vertically scrollable time table.  
-
-## <a name="online"></a>Online search and resources
-
-* [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.  
-* [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
-* [Awesome Finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
-* [ddgr](https://github.com/jarun/ddgr) - A command line utility to search DuckDuckGo (html version) from the terminal.
-* [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
-* [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
-* [pockyt](https://github.com/achembarpu/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
-* [Seashells](https://seashells.io/) - Pipe output to the web.
-* [Shreddit](https://github.com/x89/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
-* [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
-* [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
-* [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
-* [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
 
 ## <a name="package-manager"></a>Package managers
 
@@ -890,6 +901,13 @@ Tools for scientific research and science applications.
 * [slr-kit](https://github.com/robolab-pavia/slr-kit) - Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.
 * [starfetch](https://github.com/Haruno19/starfetch) - Command line tool that displays constellations.
 
+## <a name="screensaver"></a>Screen savers
+
+* [ASCII Saver](https://gitlab.com/mezantrop/ascsaver) - Screensaver for terminals.
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
+* [sclocka](https://github.com/mezantrop/sclocka) - The real screensaver/lock for terminals.
+* [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
+
 ## <a name="security"></a>Security and encryption
 
 Cryptography, ciphered archive managers, encrypted file-systems.
@@ -1001,13 +1019,6 @@ Music players.
 * [ytop](https://github.com/cjbassi/ytop) - TUI system monitor written in Rust.
 * [zfxtop](https://github.com/ssleert/zfxtop) - Self described as “fetch top written by bubbletea enjoyer”.
 
-## <a name="screensaver"></a>Screen savers
-
-* [ASCII Saver](https://gitlab.com/mezantrop/ascsaver) - Screensaver for terminals.
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
-* [sclocka](https://github.com/mezantrop/sclocka) - The real screensaver/lock for terminals.
-* [termsaver](http://termsaver.brunobraga.net/) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
-
 ## <a name="system"></a>System tools
 
 * [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
@@ -1115,28 +1126,6 @@ Time and habit trackers.
 * [utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
 
-## <a name="typing"></a>Typing test and practice
-
-Games and utilities to measure and/or improve the typing ability.
-
-* [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
-* [kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing.
-* [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
-* [thokr](https://github.com/jrnxf/thokr) - Sleek typing tui with visualized results and historical logging.
-* [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavoured.
-* [Typespeed](http://typespeed.sourceforge.net/) - Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words.
-* [typetype](https://github.com/ahmet8zer/typetype) - Minimalistic command line typing game.
-
-## <a name="rm"></a>File deletion and trash bin (alternatives to rm)
-
-Tools to manage the deletion of files/directories with improved management of a trash can, with the ability to restore deleted items.
-
-* [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
-* [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
-* [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
-* [rmw](https://remove-to-waste.info/) - (ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
-* [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
-
 ## <a name="todo-manager"></a>Todo managers
 
 * [CLI-Manager](https://github.com/MikyStar/CLI-Manager) - Command Line Interface for managing tasks locally on the fly.
@@ -1173,6 +1162,18 @@ BitTorrent clients.
 * [torrentCLI](https://github.com/amogusussy/torrentCLI) - Get torrents from the Terminal.
 * [Transgression TUI](https://github.com/PanAeon/transg-tui) - A remote TUI client for the Transmission bittorrent program.
 * [Transmission](https://transmissionbt.com/) - Fast, easy and free bittorrent client.
+
+## <a name="typing"></a>Typing test and practice
+
+Games and utilities to measure and/or improve the typing ability.
+
+* [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
+* [kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing.
+* [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
+* [thokr](https://github.com/jrnxf/thokr) - Sleek typing tui with visualized results and historical logging.
+* [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavoured.
+* [Typespeed](http://typespeed.sourceforge.net/) - Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words.
+* [typetype](https://github.com/ahmet8zer/typetype) - Minimalistic command line typing game.
 
 ## <a name="utility"></a>Utilities
 
