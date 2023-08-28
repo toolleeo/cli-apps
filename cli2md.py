@@ -1,4 +1,5 @@
 import csv
+import string
 
 summary_template = """
 # Summary
@@ -57,9 +58,28 @@ def print_apps(cats, apps):
 
 
 def fmt_categories(cats):
+    group_by_letters = {x: [] for x in string.ascii_uppercase}
+    for c in cats:
+        initial = cats[c]['name'][0].upper()
+        group_by_letters[initial].append(c)
+    # print(group_by_letters)
+    strings_by_letters = {x: [] for x in string.ascii_uppercase}
+    for g in group_by_letters:
+        strings_by_letters[g] = [f"[{cats[c]['name']}](#{c}) ({cats[c]['count']})" for c in group_by_letters[g]]
+    lines_by_letters = {x: [] for x in string.ascii_uppercase}
+    # print(strings_by_letters)
+    for g in group_by_letters:
+        lines_by_letters[g] = ', '.join(strings_by_letters[g])
+    lines_to_join = [lines_by_letters[key] for key in lines_by_letters if len(lines_by_letters[key])]
+    # print(lines_by_letters)
+    print(lines_to_join)
+    return '\n\n'.join(lines_to_join)
+
+
+def fmt_categories_old(cats):
     st = []
     for c in cats:
-        st.append("[{}](#{}) ({})".format(cats[c]['name'], c, cats[c]['count']))
+        st.append(f"[{cats[c]['name']}](#{c}) ({cats[c]['count']})")
     return ', '.join(st)
 
 
