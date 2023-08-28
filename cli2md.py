@@ -60,7 +60,7 @@ def fmt_categories(cats):
     st = []
     for c in cats:
         st.append("[{}](#{}) ({})".format(cats[c]['name'], c, cats[c]['count']))
-    return ' | '.join(st)
+    return ', '.join(st)
 
 
 def count_apps(apps, categories):
