@@ -37,11 +37,12 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Index
 
+* [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (10)
 * [Calculators](#calc) (8), [Chat and instant messaging](#chat) (13), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
-* [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Flashcards, Anki and decks](#flashcard) (6), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
+* [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (28)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (12)
@@ -55,6 +56,17 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
+
+## <a name="flashcard"></a>Anki, decks and flashcards
+
+Manage decks of flashcards and Anki decks.
+
+* [flash-tui](https://github.com/TBS1996/speki) - Flashcard app for the terminal.
+* [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
+* [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
+* [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal similar to anki.
+* [ToRRential Card processor](https://github.com/Constantin1489/trrc) - A command-line program to add a card to Anki using AnkiConnect API.
+* [tui-deck](https://github.com/mebitek/tui-deck) - A TUI frontend for Nextcloud Deck app.
 
 ## <a name="backup"></a>Backup
 
@@ -492,17 +504,6 @@ Ledger tracking, currency conversion, cryptocurrency tools.
 * [paycon](https://github.com/arcorion/paycon) - Converts pay amounts between different time units.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
-
-## <a name="flashcard"></a>Flashcards, Anki and decks
-
-Manage decks of flashcards and Anki decks.
-
-* [flash-tui](https://github.com/TBS1996/speki) - Flashcard app for the terminal.
-* [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
-* [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
-* [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal similar to anki.
-* [ToRRential Card processor](https://github.com/Constantin1489/trrc) - A command-line program to add a card to Anki using AnkiConnect API.
-* [tui-deck](https://github.com/mebitek/tui-deck) - A TUI frontend for Nextcloud Deck app.
 
 ## <a name="font"></a>Font management
 
