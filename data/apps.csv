@@ -1022,3 +1022,4 @@ chat,matrixcli,,https://github.com/saadjsct/matrixcli,A minimal command line mat
 chat,Weechat-Matrix,,https://github.com/poljar/weechat-matrix,A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 chat,Telegram messenger CLI,,https://github.com/vysheng/tg,Command-line interface for Telegram using the readline interface.
 chat,signal-cli,,https://github.com/AsamK/signal-cli,"signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger."
+chat,toxic,,https://github.com/Jfreegman/toxic,A Tox-based instant messaging and video chat client.
