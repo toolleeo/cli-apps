@@ -1018,3 +1018,4 @@ chat,GNU Freetalk,https://www.gnu.org/software/freetalk/,https://git.savannah.gn
 chat,MCABBER,https://mcabber.com/,,"A small XMPP (Jabber) console client including features such as SASL/SSL/TLS support, MUC (Multi-User Chat) support, history logging, command completion, OpenPGP encryption and more."
 chat,gomuks,,https://github.com/tulir/gomuks,A terminal based Matrix client written in Go.
 chat,matrix-commander,,https://github.com/8go/matrix-commander,Simple but convenient CLI-based Matrix client app for sending and receiving.
+chat,matrixcli,,https://github.com/saadjsct/matrixcli,A minimal command line matrix client.
