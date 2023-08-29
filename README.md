@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1006**
+* Apps/tools covered: **1007**
 * Number of categories: **65**.
 
 # Index
@@ -42,7 +42,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
 * [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Flashcards, Anki and decks](#flashcard) (6), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (27)
+* [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (28)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (12)
 * [Networking](#networking) (24), [Note taking](#note-taking) (20)
@@ -667,6 +667,7 @@ Fuzzy finders and generic option pickers.
 * [MapSCII](https://github.com/rastapasta/mapscii) - A Braille & ASCII world map renderer for your console
 * [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+* [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.  
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
 * [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
