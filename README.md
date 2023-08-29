@@ -119,7 +119,7 @@ Calculators for numbers, dates, etc..
 * [ttchat](https://github.com/atye/ttchat) - Twitch chats in the terminal.
 * [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
-* [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
+* [WeeChat](http://weechat.org/) - WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins.
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 
 ## <a name="chatgpt"></a>ChatGPT / AI

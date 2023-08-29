@@ -186,7 +186,7 @@ transfer,youtube-dl,,https://github.com/ytdl-org/youtube-dl/,Downloads videos fr
 chat,finch,http://www.pidgin.im/,,"IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project."
 chat,irssi,http://www.irssi.org,https://github.com/irssi/irssi,"The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols."
 chat,RainbowStream,http://www.rainbowstream.org/,,Twitter client for the terminal allows almost all the operations that can be done from GUI and Web clients.
-chat,WeeChat,http://weechat.org/,https://github.com/weechat/weechat,"A ""fast, light and extensible chat client""."
+chat,WeeChat,http://weechat.org/,https://github.com/weechat/weechat,"WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins."
 chat,ssh-chat,,https://github.com/shazow/ssh-chat,"Custom SSH server written in Go. Instead of a shell, you get a chat prompt."
 organizers,goobook,,https://gitlab.com/goobook/goobook,The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
 utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.com/sunaku/dasht,"Search API docs offline, in your terminal or browser."
