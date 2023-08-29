@@ -32,14 +32,14 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1021**
+* Apps/tools covered: **1022**
 * Number of categories: **65**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (10)
-* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (22), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
+* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (23), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
 * [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
@@ -112,6 +112,7 @@ Calculators for numbers, dates, etc..
 * [RainbowStream](http://www.rainbowstream.org/) - Twitter client for the terminal allows almost all the operations that can be done from GUI and Web clients.
 * [sic](https://tools.suckless.org/sic/) - sic is an extremely simple IRC client. It consists of less than 250 lines of code.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
+* [Telegram messenger CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram using the readline interface.
 * [tiny](https://github.com/osa1/tiny) - tiny is an IRC client written in Rust.
 * [ttchat](https://github.com/atye/ttchat) - Twitch chats in the terminal.
 * [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
