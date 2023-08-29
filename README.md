@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1024**
+* Apps/tools covered: **1025**
 * Number of categories: **65**.
 
 # Index
@@ -49,7 +49,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Networking](#networking) (24), [Note taking](#note-taking) (20)
 * [Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (4)
-* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (36), [System tools](#system) (18)
+* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (9), [Sound and music](#music) (31), [System monitoring](#monitor) (36), [System tools](#system) (18)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
@@ -1003,6 +1003,7 @@ Music players.
 * [musikcube](https://github.com/clangen/musikcube) - A cross-platform, terminal-based audio engine, library, player and server written in C++.
 * [mzk](https://github.com/acidvegas/mzk) - Music theory helper.
 * [ncmpcpp](https://rybczak.net/ncmpcpp/) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
+* [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 * [ogg123](https://www.xiph.org/downloads/) - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
 * [PyRadio](https://github.com/coderholic/pyradio) - Curses based internet radio player.
 * [Siren](https://www.kariliq.nl/siren/) - Siren is a text-based audio player for UNIX-like operating systems.
