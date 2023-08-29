@@ -1017,3 +1017,4 @@ chat,Poezio,https://poez.io/en/,https://codeberg.org/poezio/poezio.git,Poezio is
 chat,GNU Freetalk,https://www.gnu.org/software/freetalk/,https://git.savannah.gnu.org/git/freetalk.git,"A console based chat client for Jabber and other XMPP servers. It has context sensitive auto-completion for buddy names, commands, and even ordinary English words."
 chat,MCABBER,https://mcabber.com/,,"A small XMPP (Jabber) console client including features such as SASL/SSL/TLS support, MUC (Multi-User Chat) support, history logging, command completion, OpenPGP encryption and more."
 chat,gomuks,,https://github.com/tulir/gomuks,A terminal based Matrix client written in Go.
+chat,matrix-commander,,https://github.com/8go/matrix-commander,Simple but convenient CLI-based Matrix client app for sending and receiving.
