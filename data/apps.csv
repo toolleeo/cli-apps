@@ -1032,3 +1032,4 @@ shells,DASH,http://gondor.apana.org.au/~herbert/dash/,git://git.kernel.org/pub/s
 networking,darkhttpd,https://unix4lyfe.org/darkhttpd/,https://github.com/emikulic/darkhttpd,"Darkhttpd is a simple, fast HTTP 1.1 web server for static content. It does not support PHP or CGI etc but is designed to serve static content, which it does very well."
 networking,quark,https://tools.suckless.org/quark/,https://git.suckless.org/quark,quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 networking,Prosody,https://prosody.im/,https://github.com/bjc/prosody,"Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources."
+networking,ejabberd,https://www.ejabberd.im/,https://github.com/processone/ejabberd,"ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language."
