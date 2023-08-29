@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1011**
+* Apps/tools covered: **1012**
 * Number of categories: **65**.
 
 # Index
@@ -49,7 +49,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (36), [System tools](#system) (18)
-* [Terminals](#terminal) (12), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
+* [Terminals](#terminal) (12), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
 * [Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)
@@ -1102,6 +1102,7 @@ Music players.
 * [rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 * [repgrep](https://github.com/acheronfail/repgrep) - A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 * [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
+* [skroll](https://z3bra.org/skroll/) - A small utility that you can use to make a text scroll. Pipe text to it, and it will scroll a given number of letters from right to left.
 * [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 * [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with realtime typing into terminal uses a screenplay where text and timings are specified.
 * [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.

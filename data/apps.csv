@@ -1010,3 +1010,4 @@ science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography man
 monitor,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
 prompt,Basta!,https://www.kylheku.com/cgit/basta/about/,https://www.kylheku.com/git/basta,A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
 security,safe,https://z3bra.org/safe/,git://z3bra.org/safe.git,Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
+text-processing,skroll,https://z3bra.org/skroll/,git://z3bra.org/skroll.git,"A small utility that you can use to make a text scroll. Pipe text to it, and it will scroll a given number of letters from right to left."
