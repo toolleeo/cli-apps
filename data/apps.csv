@@ -1007,3 +1007,4 @@ funny,ascii-movie,,https://github.com/gabe565/ascii-movie,Allows to play the ASC
 text-processing,repgrep,,https://github.com/acheronfail/repgrep,A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 graphics,rclip,,https://github.com/yurijmikhalevich/rclip,AI-Powered Command-Line Photo Search Tool.
 science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography manager.
+monitor,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
