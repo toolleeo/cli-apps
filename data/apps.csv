@@ -1029,3 +1029,4 @@ transfer,yt-dlp,,https://github.com/yt-dlp/yt-dlp,A youtube-dl fork with additio
 conversion,Sfeed,https://codemadness.org/sfeed.html,git://git.codemadness.org/sfeed,Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
 todo-manager,Todoman,,https://github.com/pimutils/todoman,"A simple, standards-based, cli todo (aka: task) manager."
 shells,DASH,http://gondor.apana.org.au/~herbert/dash/,git://git.kernel.org/pub/scm/utils/dash/dash.git,DASH is a POSIX-compliant implementation of /bin/sh that aims to be as small as possible. It does this without sacrificing speed where possible.
+networking,darkhttpd,https://unix4lyfe.org/darkhttpd/,https://github.com/emikulic/darkhttpd,"Darkhttpd is a simple, fast HTTP 1.1 web server for static content. It does not support PHP or CGI etc but is designed to serve static content, which it does very well."
