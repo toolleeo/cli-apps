@@ -32,14 +32,14 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1027**
+* Apps/tools covered: **1028**
 * Number of categories: **65**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (10)
-* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (25), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
+* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (25), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (8)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (32), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
 * [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
@@ -213,6 +213,7 @@ File format converters.
 * [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
+* [Sfeed](https://codemadness.org/sfeed.html) - Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
 * [simtex](https://github.com/simtex-dev/engine) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
 * [Vertopal-CLI](https://github.com/vertopal/vertopal-cli) - Vertopal-CLI is a small, yet powerful utility for converting digital files to a variety of file formats using Vertopal public API.
 

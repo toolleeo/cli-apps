@@ -1026,3 +1026,4 @@ chat,toxic,,https://github.com/Jfreegman/toxic,A Tox-based instant messaging and
 music,ncspot,,https://github.com/hrkfdn/ncspot,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes."
 multimedia,Streamlink,,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player.
 transfer,yt-dlp,,https://github.com/yt-dlp/yt-dlp,A youtube-dl fork with additional features and fixes.
+conversion,Sfeed,https://codemadness.org/sfeed.html,git://git.codemadness.org/sfeed,Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
