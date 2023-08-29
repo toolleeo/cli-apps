@@ -1012,3 +1012,4 @@ prompt,Basta!,https://www.kylheku.com/cgit/basta/about/,https://www.kylheku.com/
 security,safe,https://z3bra.org/safe/,git://z3bra.org/safe.git,Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
 text-processing,skroll,https://z3bra.org/skroll/,git://z3bra.org/skroll.git,"A small utility that you can use to make a text scroll. Pipe text to it, and it will scroll a given number of letters from right to left."
 chat,sic,https://tools.suckless.org/sic/,https://git.suckless.org/sic,sic is an extremely simple IRC client. It consists of less than 250 lines of code.
+chat,Profanity,https://profanity-im.github.io/,https://github.com/profanity-im/profanity,"Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi."
