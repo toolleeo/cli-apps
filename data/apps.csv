@@ -1008,3 +1008,5 @@ text-processing,repgrep,,https://github.com/acheronfail/repgrep,A replacer that 
 graphics,rclip,,https://github.com/yurijmikhalevich/rclip,AI-Powered Command-Line Photo Search Tool.
 science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography manager.
 monitor,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
+prompt,Basta!,https://www.kylheku.com/cgit/basta/about/,https://www.kylheku.com/git/basta,A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
+security,safe,https://z3bra.org/safe/,git://z3bra.org/safe.git,Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.

@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1009**
+* Apps/tools covered: **1011**
 * Number of categories: **65**.
 
 # Index
@@ -47,8 +47,8 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Multimedia](#multimedia) (12)
 * [Networking](#networking) (24), [Note taking](#note-taking) (20)
 * [Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (3)
-* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (21), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (36), [System tools](#system) (18)
+* [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (4)
+* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (9), [Sound and music](#music) (30), [System monitoring](#monitor) (36), [System tools](#system) (18)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (22), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
@@ -893,6 +893,7 @@ A set of tools for improving own productivity that do not deserve (at the moment
 
 Prompts and welcome messages.
 
+* [Basta!](https://www.kylheku.com/cgit/basta/about/) - A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
 * [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
@@ -946,6 +947,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [ots](https://github.com/sniptt-official/ots) - Share end-to-end encrypted secrets with others via a one-time URL.
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) - Easy and secure paper backups of secrets, which takes a text and generates an encrypted QRcode to print on paper.
 * [pgen](https://github.com/ctsrc/Pgen) - Generate passphrases using the wordlists for random passphrases made by the EFF.
+* [safe](https://z3bra.org/safe/) - Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
 * [securo](https://github.com/iunary/securo) - Encrypt and descrypt files and folders using a symmetric encryption.
 * [StegCloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords
 * [uacme](https://github.com/ndilieto/uacme) - ACMEv2 client written in plain C with minimal dependencies.
