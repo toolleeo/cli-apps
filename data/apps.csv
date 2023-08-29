@@ -1024,3 +1024,4 @@ chat,Telegram messenger CLI,,https://github.com/vysheng/tg,Command-line interfac
 chat,signal-cli,,https://github.com/AsamK/signal-cli,"signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger."
 chat,toxic,,https://github.com/Jfreegman/toxic,A Tox-based instant messaging and video chat client.
 music,ncspot,,https://github.com/hrkfdn/ncspot,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes."
+multimedia,Streamlink,,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player.
