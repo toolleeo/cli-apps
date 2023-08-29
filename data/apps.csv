@@ -1025,3 +1025,4 @@ chat,signal-cli,,https://github.com/AsamK/signal-cli,"signal-cli provides an uno
 chat,toxic,,https://github.com/Jfreegman/toxic,A Tox-based instant messaging and video chat client.
 music,ncspot,,https://github.com/hrkfdn/ncspot,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes."
 multimedia,Streamlink,,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player.
+transfer,yt-dlp,,https://github.com/yt-dlp/yt-dlp,A youtube-dl fork with additional features and fixes.
