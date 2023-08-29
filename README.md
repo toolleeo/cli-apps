@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1031**
+* Apps/tools covered: **1032**
 * Number of categories: **65**.
 
 # Index
@@ -46,7 +46,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (28)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (13)
-* [Networking](#networking) (25), [Note taking](#note-taking) (20)
+* [Networking](#networking) (26), [Note taking](#note-taking) (20)
 * [Office tools](#office) (8), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (7), [Programming](#programming) (39), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (31), [System monitoring](#monitor) (36), [System tools](#system) (18)
@@ -730,6 +730,7 @@ Programs to deal with networks and communication.
 * [mosh](https://mosh.org/) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
+* [quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 * [quickserve](https://github.com/haileys/quickserve) - Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle.
 * [redive](https://github.com/neelkarma/redive) - Trace URL redirections in the terminal.
 * [rtop](http://www.rtop-monitor.org/) - rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
