@@ -32,14 +32,14 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1020**
+* Apps/tools covered: **1021**
 * Number of categories: **65**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (10)
-* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (21), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
+* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (22), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (7)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (15), [Data transfer](#transfer) (31), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
 * [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
@@ -117,6 +117,7 @@ Calculators for numbers, dates, etc..
 * [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
 * [WeeChat](http://weechat.org/) - A "fast, light and extensible chat client".
+* [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 
 ## <a name="chatgpt"></a>ChatGPT / AI
 

@@ -1019,3 +1019,4 @@ chat,MCABBER,https://mcabber.com/,,"A small XMPP (Jabber) console client includi
 chat,gomuks,,https://github.com/tulir/gomuks,A terminal based Matrix client written in Go.
 chat,matrix-commander,,https://github.com/8go/matrix-commander,Simple but convenient CLI-based Matrix client app for sending and receiving.
 chat,matrixcli,,https://github.com/saadjsct/matrixcli,A minimal command line matrix client.
+chat,Weechat-Matrix,,https://github.com/poljar/weechat-matrix,A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
