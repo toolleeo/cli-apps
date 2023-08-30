@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1048**
+* Apps/tools covered: **1049**
 * Number of categories: **65**.
 
 # Index
@@ -48,7 +48,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Multimedia](#multimedia) (13)
 * [Networking](#networking) (28), [Note taking](#note-taking) (20)
 * [Office tools](#office) (9), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (8), [Password managers](#password-manager) (14), [Productivity](#productivity) (9), [Programming](#programming) (39), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (9), [Password managers](#password-manager) (14), [Productivity](#productivity) (9), [Programming](#programming) (39), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (31), [System monitoring](#monitor) (37), [System tools](#system) (18)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
@@ -840,6 +840,7 @@ Manage/install/uninstall packages, as source code or binaries.
 * [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
 * [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
+* [getghrel](https://github.com/kavishgr/getghrel) - A user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
 * [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
 * [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
