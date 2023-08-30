@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1049**
+* Apps/tools covered: **1050**
 * Number of categories: **65**.
 
 # Index
@@ -42,7 +42,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (25), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (8)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
-* [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
+* [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (42), [Git and accessories](#git) (38), [Graphics](#graphics) (29)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (13)
@@ -451,6 +451,7 @@ Show directory trees and navigate through the file system (but not full featured
 
 Search the filesystem looking for files with specific characteristics.
 
+* [bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
 * [Findpick](https://github.com/thingsiplay/findpick) - General purpose file picker combining "find" command with a fuzzy finder.
 * [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
