@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1036**
+* Apps/tools covered: **1037**
 * Number of categories: **65**.
 
 # Index
@@ -52,7 +52,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (31), [System monitoring](#monitor) (36), [System tools](#system) (18)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (23), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
-* [Versioning](#versioning) (6), [Viewers](#viewers) (36)
+* [Versioning](#versioning) (6), [Viewers](#viewers) (37)
 * [Web browser](#browser) (16), [Web development](#webdev) (24), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
@@ -1288,6 +1288,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [Newsboat](https://newsboat.org/) - An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 * [nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
+* [Oyomu](https://github.com/EruEri/oyomu) - A command line comic reader and collection manager.
 * [reader](https://github.com/mrusme/reader) - Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
 * [rReader](https://github.com/rainygirl/rreader) - RSS reader client with TUI interface.
 * [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
