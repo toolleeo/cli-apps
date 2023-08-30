@@ -1040,3 +1040,4 @@ monitor,procs,,https://github.com/dalance/procs,A modern replacement for ps writ
 text-processing,Line Select,,https://github.com/urbanogilson/lineselect,"A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision."
 graphics,BlockPaint,,https://github.com/wooster0/blockpaint,BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
 data-management-tabular,pykli,,https://github.com/eshepelyuk/pykli,Interactive ksqlDB command line client with autocompletion and syntax highlighting written in Python.
+todo-manager,mayhem,,https://github.com/BOTbkcd/mayhem,A minimal TUI based task tracker.
