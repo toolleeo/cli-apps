@@ -1034,3 +1034,4 @@ networking,quark,https://tools.suckless.org/quark/,https://git.suckless.org/quar
 networking,Prosody,https://prosody.im/,https://github.com/bjc/prosody,"Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources."
 networking,ejabberd,https://www.ejabberd.im/,https://github.com/processone/ejabberd,"ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language."
 webdev,openring,,https://git.sr.ht/~sircmpwn/openring,"A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog."
+productivity,TUI apps,,https://github.com/learnbyexample/TUI-apps,"A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc."
