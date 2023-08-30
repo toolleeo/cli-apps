@@ -1049,3 +1049,4 @@ cd,menucd,,https://github.com/andy5995/menucd,Directory browser and changer for 
 data-management-tabular,litecli,,https://github.com/dbcli/litecli,CLI for SQLite Databases with auto-completion and syntax highlighting.
 package-manager,getghrel,,https://github.com/kavishgr/getghrel,"A user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience."
 find,bfs,,https://github.com/tavianator/bfs,A breadth-first version of the UNIX find command.
+chat,Servitor,,https://github.com/bentonedmondson/servitor,A command-line Fediverse client that doesn’t require a server.
