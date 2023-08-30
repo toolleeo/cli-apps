@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1053**
+* Apps/tools covered: **1054**
 * Number of categories: **65**.
 
 # Index
@@ -51,7 +51,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (14), [Productivity](#productivity) (9), [Programming](#programming) (39), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (32), [System monitoring](#monitor) (37), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
-* [Utilities](#utility) (30)
+* [Utilities](#utility) (31)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (37)
 * [Web browser](#browser) (16), [Web development](#webdev) (24), [Writing](#writing) (9)
 
@@ -1264,6 +1264,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with RSS feeds.
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 * [Skylab](https://github.com/SerhiiStets/skylab) - A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
+* [sprinkles](https://github.com/KhalilOuali/sprinkles) - Randomly colors input text and outputs it to the terminal.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
