@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1034**
+* Apps/tools covered: **1035**
 * Number of categories: **65**.
 
 # Index
@@ -53,7 +53,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (23), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
-* [Web browser](#browser) (16), [Web development](#webdev) (23), [Writing](#writing) (9)
+* [Web browser](#browser) (16), [Web development](#webdev) (24), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -1337,6 +1337,7 @@ Static site generators, load test tools.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator, all functionalities are provided by plugins that can be combined and chained, written and extendable in Javascript.
 * [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - A lightweight file-system wiki engine that uses Git for keeping history.
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content.
+* [openring](https://git.sr.ht/~sircmpwn/openring) - A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog.
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
 * [Reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
