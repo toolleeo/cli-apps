@@ -1038,3 +1038,4 @@ productivity,TUI apps,,https://github.com/learnbyexample/TUI-apps,"A repository 
 viewers,Oyomu,,https://github.com/EruEri/oyomu,A command line comic reader and collection manager.
 monitor,procs,,https://github.com/dalance/procs,A modern replacement for ps written in Rust.
 text-processing,Line Select,,https://github.com/urbanogilson/lineselect,"A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision."
+graphics,BlockPaint,,https://github.com/wooster0/blockpaint,BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
