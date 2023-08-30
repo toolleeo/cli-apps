@@ -1045,3 +1045,4 @@ office,Slideck,,https://github.com/piotrmurach/slideck,Present Markdown-powered 
 calc,kalc,,https://github.com/bgkillas/kalc,"A complex numbers, 2d/3d graphing, arbitrary precision, vector, cli calculator with real-time output."
 file-explorer,Rust-Traverse,,https://github.com/dmcg310/Rust-Traverse,"Rust traverse is a terminal based file explorer. It is inspired by the NNN file manager. It uses Ratatui for the terminal UI, with Crossterm for the terminal backend."
 productivity,classis,,https://github.com/ginschel/classis,An easy CLI for the terminal fans out there who want to access Open Assistant's API through the terminal or want to use the API in their own aplications.
+cd,menucd,,https://github.com/andy5995/menucd,Directory browser and changer for the command line.
