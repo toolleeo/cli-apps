@@ -1042,3 +1042,4 @@ graphics,BlockPaint,,https://github.com/wooster0/blockpaint,BlockPaint is a pain
 data-management-tabular,pykli,,https://github.com/eshepelyuk/pykli,Interactive ksqlDB command line client with autocompletion and syntax highlighting written in Python.
 todo-manager,mayhem,,https://github.com/BOTbkcd/mayhem,A minimal TUI based task tracker.
 office,Slideck,,https://github.com/piotrmurach/slideck,Present Markdown-powered slide decks in the terminal.
+calc,kalc,,https://github.com/bgkillas/kalc,"A complex numbers, 2d/3d graphing, arbitrary precision, vector, cli calculator with real-time output."

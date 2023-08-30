@@ -32,14 +32,14 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1043**
+* Apps/tools covered: **1044**
 * Number of categories: **65**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (10)
-* [Calculators](#calc) (8), [Chat and instant messaging](#chat) (25), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (8)
+* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (25), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (8)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (16), [Data transfer](#transfer) (32), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (16), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (23), [Email](#email) (13)
 * [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (8), [File finding (alternatives to find)](#find) (5), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
@@ -87,6 +87,7 @@ Calculators for numbers, dates, etc..
 
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [Bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
+* [kalc](https://github.com/bgkillas/kalc) - A complex numbers, 2d/3d graphing, arbitrary precision, vector, cli calculator with real-time output.
 * [kalk](https://github.com/PaddiM8/kalker) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
 * [mdlt](https://github.com/metadelta/mdlt) - A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
 * [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
