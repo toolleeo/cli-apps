@@ -1074,3 +1074,4 @@ file-handling,symlinks,,https://github.com/brandt/symlinks,Symlinks is a simple 
 file-handling,compsize,,https://github.com/kilobyte/compsize,Find compression type/ratio on a file or set of files on a btrfs file system.
 monitor,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
 monitor,LNAV,,https://github.com/tstack/lnav,Log file navigator.
+password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client for Bitwarden that is “stateful”, i.e., it does not require required the manual lock and unlock of the client."
