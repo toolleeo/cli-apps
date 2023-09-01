@@ -1105,3 +1105,4 @@ file-handling,shbin,,https://github.com/Shiphero/shbin/,"Upload code snippets, n
 file-explorer,tere,,https://github.com/mgunyho/tere,Terminal file explorer that is a faster alternative to using cd and ls to browse folders in your terminal.
 diff,dyff,,https://github.com/homeport/dyff,"A diff tool for YAML files, and sometimes JSON."
 transfer,curlie,,https://github.com/rs/curlie,"The power of curl, the ease of use of httpie."
+music,radio-active,,https://github.com/deep5050/radio-active,Internet radio player with 40k+ stations.
