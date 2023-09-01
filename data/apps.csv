@@ -1075,3 +1075,4 @@ file-handling,compsize,,https://github.com/kilobyte/compsize,Find compression ty
 monitor,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
 monitor,LNAV,,https://github.com/tstack/lnav,Log file navigator.
 password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client for Bitwarden that is “stateful”, i.e., it does not require required the manual lock and unlock of the client."
+password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
