@@ -1076,3 +1076,4 @@ monitor,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that show
 monitor,LNAV,,https://github.com/tstack/lnav,Log file navigator.
 password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client for Bitwarden that is “stateful”, i.e., it does not require required the manual lock and unlock of the client."
 password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
+ls,vivid,,https://github.com/sharkdp/vivid,A themeable LS_COLORS generator with a rich filetype datebase.
