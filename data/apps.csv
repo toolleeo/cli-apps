@@ -1073,3 +1073,4 @@ backup,rdiff-backup,https://rdiff-backup.net/,https://github.com/rdiff-backup/rd
 file-handling,symlinks,,https://github.com/brandt/symlinks,Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
 file-handling,compsize,,https://github.com/kilobyte/compsize,Find compression type/ratio on a file or set of files on a btrfs file system.
 monitor,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
+monitor,LNAV,,https://github.com/tstack/lnav,Log file navigator.
