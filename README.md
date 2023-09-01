@@ -32,14 +32,14 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1088**
+* Apps/tools covered: **1089**
 * Number of categories: **65**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (16), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (10)
+* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (17), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (10)
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
@@ -177,6 +177,7 @@ Using GPT tools to generate commands at the command line.
 Tools to launch/execute programs, either interactively, automatically, in parallel, etc..
 
 * [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
+* [foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
 * [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 * [hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted.
 * [lmt](https://github.com/Rohansjamadagni/lmt) - A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process.
