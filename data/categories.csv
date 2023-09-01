@@ -10,6 +10,7 @@ transfer,Data transfer,
 cd,Directory changers (alternatives to cd),Tools for improving the efficiency of directory traversal
 chatgpt,ChatGPT / AI,Interfaces and front-ends to GPT engines
 copilot,Co-pilot,Using GPT tools to generate commands at the command line
+devops,DevOps,Tools for DevOps tasks
 diff,Diff,"File and data diffs, more or less “context” or “semantic” aware"
 disk-analyzer,Disk usage analyzers,
 editors,Editors,Terminal text editors

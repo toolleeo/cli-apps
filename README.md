@@ -32,15 +32,15 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1092**
-* Number of categories: **65**.
+* Apps/tools covered: **1093**
+* Number of categories: **66**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (10)
-* [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (2), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (43), [Git and accessories](#git) (40), [Graphics](#graphics) (31)
@@ -49,7 +49,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Networking](#networking) (32), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (41), [Prompts](#prompt) (4)
-* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (33), [System monitoring](#monitor) (40), [System tools](#system) (21)
+* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (33), [System monitoring](#monitor) (40), [System tools](#system) (20)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (37), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (31)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (37)
@@ -314,6 +314,13 @@ Tools to manage tabular data files (CSV, xls, database tables, etc.).
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 * [ytfzf](https://github.com/pystardust/ytfzf) - A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
 * [ytmdl](https://github.com/deepjyoti30/ytmdl) - Get songs from Youtube in mp3 format.
+
+## <a name="devops"></a>DevOps
+
+Tools for DevOps tasks.
+
+* [OPS](https://github.com/nanovms/ops) - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
+* [SAWS](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 
 ## <a name="diff"></a>Diff
 
@@ -1126,7 +1133,6 @@ Music players.
 * [lshw](http://www.ezix.org/project/wiki/HardwareLiSter) - A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [Ntfy](https://github.com/dschep/ntfy) - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
-* [OPS](https://github.com/nanovms/ops) - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
 * [Rumos](https://github.com/octagony/rumos) - CLI utility for controlling screen brightness.
 * [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
