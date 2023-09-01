@@ -1097,3 +1097,4 @@ devops,Dockly,,https://github.com/lirantal/dockly,"Immersive terminal interface 
 devops,lazydocker,,https://github.com/jesseduffield/lazydocker,"The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library."
 devops,docker-shell,,https://github.com/Trendyol/docker-shell,A simple interactive prompt for Docker.
 programming,np,,https://github.com/sindresorhus/np,A better `npm publish`.
+programming,semantic-release,,https://github.com/semantic-release/semantic-release,"Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package."
