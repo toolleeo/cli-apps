@@ -1086,3 +1086,4 @@ music,ytui-music,,https://github.com/sudipghimire533/ytui-music,Youtube client i
 networking,ttfb,,https://github.com/phip1611/ttfb,ttfb is a CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.
 programming,mk,,https://github.com/pycontribs/mk,mk is a CLI tool that aims to ease contribution to any open-source project by hiding repository implementation details from the casual contributor.
 graphics,ArTTY,,https://github.com/mjwhitta/artty,"Pixel art with optional system info, similar to neofetch."
+programming,stepci,,https://github.com/stepci/stepci,Automated API Testing and Quality Assurance.
