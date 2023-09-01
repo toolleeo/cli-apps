@@ -1098,3 +1098,4 @@ devops,lazydocker,,https://github.com/jesseduffield/lazydocker,"The lazier way t
 devops,docker-shell,,https://github.com/Trendyol/docker-shell,A simple interactive prompt for Docker.
 programming,np,,https://github.com/sindresorhus/np,A better `npm publish`.
 programming,semantic-release,,https://github.com/semantic-release/semantic-release,"Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package."
+chatgpt,clevercli,,https://github.com/clevercli/clevercli,ChatGPT powered CLI utilities. Easily add new prompt types.
