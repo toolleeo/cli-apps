@@ -1068,3 +1068,4 @@ backup,autorestic,https://autorestic.vercel.app/,https://github.com/cupcakearmy/
 backup,Restic,https://restic.net/,https://github.com/restic/restic,"A backup program that is fast, efficient and secure."
 backup,Crestic,https://nils-werner.github.io/crestic/,https://github.com/nils-werner/crestic,Configurable Restic Wrapper.
 backup,Kopia,https://kopia.io/,https://github.com/kopia/kopia,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
+backup,bup,https://bup.github.io/,https://github.com/bup/bup,"Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication."
