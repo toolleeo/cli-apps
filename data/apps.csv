@@ -1067,3 +1067,4 @@ graphics,Graphviz,https://graphviz.org/,https://gitlab.com/graphviz/graphviz/,Gr
 backup,autorestic,https://autorestic.vercel.app/,https://github.com/cupcakearmy/autorestic,"A wrapper around the [restic](https://restic.net/) backup tool, with the goal of simplifying the setup and usage through the use of config files."
 backup,Restic,https://restic.net/,https://github.com/restic/restic,"A backup program that is fast, efficient and secure."
 backup,Crestic,https://nils-werner.github.io/crestic/,https://github.com/nils-werner/crestic,Configurable Restic Wrapper.
+backup,Kopia,https://kopia.io/,https://github.com/kopia/kopia,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
