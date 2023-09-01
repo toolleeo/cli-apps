@@ -1092,3 +1092,4 @@ system,viewport-list-cli,,https://github.com/kevva/viewport-list-cli,Return a li
 launcher,shell2http,,https://github.com/msoap/shell2http,Executing shell commands via HTTP server.
 devops,OPS,,https://github.com/nanovms/ops,"Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance."
 devops,SAWS,,https://github.com/donnemartin/saws,A supercharged AWS command line interface (CLI).
+devops,k9s,,https://github.com/derailed/k9s,Kubernetes CLI To Manage Your Clusters In Style!
