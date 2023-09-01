@@ -1078,3 +1078,4 @@ password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client
 password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
 ls,vivid,,https://github.com/sharkdp/vivid,A themeable LS_COLORS generator with a rich filetype datebase.
 editors,Bob,,https://github.com/MordechaiHadad/bob,"Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions."
+multimedia,videoinfox,,https://github.com/powerhousepro69/videoinfox,Find videos fast. Powerful playlist building and editing. A play queue to load up unlimited playlists. Index unlimited video libraries and find videos by keyword. Download list building without leaving the browser and a Download Queue.
