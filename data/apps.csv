@@ -1093,3 +1093,4 @@ launcher,shell2http,,https://github.com/msoap/shell2http,Executing shell command
 devops,OPS,,https://github.com/nanovms/ops,"Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance."
 devops,SAWS,,https://github.com/donnemartin/saws,A supercharged AWS command line interface (CLI).
 devops,k9s,,https://github.com/derailed/k9s,Kubernetes CLI To Manage Your Clusters In Style!
+devops,Dockly,,https://github.com/lirantal/dockly,"Immersive terminal interface for managing docker containers, services and images."
