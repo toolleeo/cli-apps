@@ -1082,3 +1082,4 @@ multimedia,videoinfox,,https://github.com/powerhousepro69/videoinfox,Find videos
 git,gitnr,,https://github.com/reemus-dev/gitnr,"Create .gitignore files using one or more templates from TopTal, GitHub or your own collection."
 text-processing,rich,,https://github.com/Textualize/rich-cli,"Rich-CLI is a command line toolbox for fancy output in the terminal, built with [Rich](https://github.com/Textualize/rich)."
 text-processing,mdformat,,https://github.com/executablebooks/mdformat,Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
+music,ytui-music,,https://github.com/sudipghimire533/ytui-music,Youtube client in terminal for music (lightweight Youtube client).
