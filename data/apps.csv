@@ -1060,3 +1060,4 @@ networking,mtr,,https://github.com/traviscross/mtr,mtr combines the functionalit
 monitor,HyFetch,,https://github.com/hykilpikonna/hyfetch,"A fork of the abandoned [Neofetch](https://github.com/dylanaraps/neofetch), HyFetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
 games,Frotz,https://davidgriffith.gitlab.io/frotz/,https://gitlab.com/DavidGriffith/frotz,Frotz is an interpreter for Infocom games and other Z-machine games.
 editors,ed,https://www.gnu.org/software/ed/,,"GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts."
+conversion,antiword,https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/,,Reader and converted for the proprietary MS .doc file format.
