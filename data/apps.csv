@@ -1101,3 +1101,4 @@ programming,semantic-release,,https://github.com/semantic-release/semantic-relea
 chatgpt,clevercli,,https://github.com/clevercli/clevercli,ChatGPT powered CLI utilities. Easily add new prompt types.
 text-processing,gtree,,https://github.com/ddddddO/gtree,"Using either Markdown or programmatically to generate directory trees and directories, and to verify directories."
 data-management,gron,,https://github.com/tomnomnom/gron,gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
+file-handling,shbin,,https://github.com/Shiphero/shbin/,"Upload code snippets, notebooks, images or any other content to a Github repository that acts as your internal pastebin, and returns the URL to share it with your team."
