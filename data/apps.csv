@@ -1095,3 +1095,4 @@ devops,SAWS,,https://github.com/donnemartin/saws,A supercharged AWS command line
 devops,k9s,,https://github.com/derailed/k9s,Kubernetes CLI To Manage Your Clusters In Style!
 devops,Dockly,,https://github.com/lirantal/dockly,"Immersive terminal interface for managing docker containers, services and images."
 devops,lazydocker,,https://github.com/jesseduffield/lazydocker,"The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library."
+devops,docker-shell,,https://github.com/Trendyol/docker-shell,A simple interactive prompt for Docker.

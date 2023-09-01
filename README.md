@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1096**
+* Apps/tools covered: **1097**
 * Number of categories: **66**.
 
 # Index
@@ -40,7 +40,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (8), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (10)
-* [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (8), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (9), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (43), [Git and accessories](#git) (40), [Graphics](#graphics) (31)
@@ -322,6 +322,7 @@ Tools for DevOps tasks.
 * [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 * [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
 * [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
+* [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for Docker.
 * [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers, services and images.
 * [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
