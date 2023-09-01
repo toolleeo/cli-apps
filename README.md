@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1064**
+* Apps/tools covered: **1065**
 * Number of categories: **65**.
 
 # Index
@@ -43,7 +43,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (24), [Email](#email) (13)
 * [File and file system handling](#file-handling) (17), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (6), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (43), [Git and accessories](#git) (39), [Graphics](#graphics) (29)
+* [Games](#games) (43), [Git and accessories](#git) (39), [Graphics](#graphics) (30)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (13)
 * [Networking](#networking) (31), [Note taking](#note-taking) (20)
@@ -682,6 +682,7 @@ Fuzzy finders and generic option pickers.
 * [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 * [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 * [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
+* [Graphviz](https://graphviz.org/) - Graphviz is open source graph visualization software. It contains several command line tools to generate and manipulate graphs.
 * [ImageMagick](http://www.imagemagick.org/script/index.php) - Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to "resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bezier curves".
 * [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 * [imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal. Built with bubbletea.

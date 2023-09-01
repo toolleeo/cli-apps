@@ -1063,3 +1063,4 @@ editors,ed,https://www.gnu.org/software/ed/,,"GNU ed is a line-oriented text edi
 conversion,antiword,https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/,,Reader and converted for the proprietary MS .doc file format.
 conversion,wv,https://wvware.sourceforge.net/,,"Utility for performing operations on .doc files. The tools is now deprecated in favor of AbiWord, which uses the same library that is used in the CLI program."
 office,PDFtk,https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/,,PDFtk is a simple tool for doing everyday things with PDF documents.
+graphics,Graphviz,https://graphviz.org/,https://gitlab.com/graphviz/graphviz/,Graphviz is open source graph visualization software. It contains several command line tools to generate and manipulate graphs.
