@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1063**
+* Apps/tools covered: **1064**
 * Number of categories: **65**.
 
 # Index
@@ -47,7 +47,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (13)
 * [Networking](#networking) (31), [Note taking](#note-taking) (20)
-* [Office tools](#office) (9), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
+* [Office tools](#office) (10), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (14), [Productivity](#productivity) (9), [Programming](#programming) (39), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (32), [System monitoring](#monitor) (38), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
@@ -794,6 +794,7 @@ Spreadsheet and presentations.
 * [DeckTape](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
 * [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+* [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - PDFtk is a simple tool for doing everyday things with PDF documents.
 * [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 * [Slideck](https://github.com/piotrmurach/slideck) - Present Markdown-powered slide decks in the terminal.
