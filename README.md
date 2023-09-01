@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1089**
+* Apps/tools covered: **1090**
 * Number of categories: **65**.
 
 # Index
@@ -49,7 +49,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Networking](#networking) (32), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (41), [Prompts](#prompt) (4)
-* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (33), [System monitoring](#monitor) (40), [System tools](#system) (19)
+* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (33), [System monitoring](#monitor) (40), [System tools](#system) (20)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (37), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (31)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (37)
@@ -1129,6 +1129,7 @@ Music players.
 * [Rumos](https://github.com/octagony/rumos) - CLI utility for controlling screen brightness.
 * [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
 * [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
+* [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 
 ## <a name="terminal"></a>Terminals
 
