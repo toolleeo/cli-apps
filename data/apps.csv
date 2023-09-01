@@ -1056,3 +1056,4 @@ utility,sprinkles,,https://github.com/KhalilOuali/sprinkles,Randomly colors inpu
 git,git absorb,,https://github.com/tummychow/git-absorb/,"git commit --fixup, but automatic."
 networking,Termshark,https://termshark.io/,https://github.com/gcla/termshark,"A terminal UI for tshark, inspired by Wireshark."
 networking,sngrep,,https://github.com/irontec/sngrep,Ncurses SIP Messages flow viewer.
+networking,mtr,,https://github.com/traviscross/mtr,mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
