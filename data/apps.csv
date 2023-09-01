@@ -1054,3 +1054,4 @@ music,mfp,,https://github.com/guptarohit/mfp,"A command-line utility for playing
 system,Rumos,,https://github.com/octagony/rumos,CLI utility for controlling screen brightness.
 utility,sprinkles,,https://github.com/KhalilOuali/sprinkles,Randomly colors input text and outputs it to the terminal.
 git,git absorb,,https://github.com/tummychow/git-absorb/,"git commit --fixup, but automatic."
+networking,Termshark,https://termshark.io/,https://github.com/gcla/termshark,"A terminal UI for tshark, inspired by Wireshark."

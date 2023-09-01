@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1055**
+* Apps/tools covered: **1056**
 * Number of categories: **65**.
 
 # Index
@@ -46,7 +46,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Games](#games) (42), [Git and accessories](#git) (39), [Graphics](#graphics) (29)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (13)
-* [Networking](#networking) (28), [Note taking](#note-taking) (20)
+* [Networking](#networking) (29), [Note taking](#note-taking) (20)
 * [Office tools](#office) (9), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (14), [Productivity](#productivity) (9), [Programming](#programming) (39), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (32), [System monitoring](#monitor) (37), [System tools](#system) (19)
@@ -750,6 +750,7 @@ Programs to deal with networks and communication.
 * [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 * [termishare](https://github.com/qnkhuat/termishare) - Peer to peer terminal sharing.
+* [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
 * [TStream](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
 * [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 * [Tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
