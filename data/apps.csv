@@ -1090,3 +1090,4 @@ programming,stepci,,https://github.com/stepci/stepci,Automated API Testing and Q
 launcher,foy,,https://github.com/zaaack/foy,"A simple, light-weight, type-friendly and modern task runner for general purpose."
 system,viewport-list-cli,,https://github.com/kevva/viewport-list-cli,Return a list of devices and their viewports.
 launcher,shell2http,,https://github.com/msoap/shell2http,Executing shell commands via HTTP server.
+system,OPS,,https://github.com/nanovms/ops,"Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance."
