@@ -1089,3 +1089,4 @@ graphics,ArTTY,,https://github.com/mjwhitta/artty,"Pixel art with optional syste
 programming,stepci,,https://github.com/stepci/stepci,Automated API Testing and Quality Assurance.
 launcher,foy,,https://github.com/zaaack/foy,"A simple, light-weight, type-friendly and modern task runner for general purpose."
 system,viewport-list-cli,,https://github.com/kevva/viewport-list-cli,Return a list of devices and their viewports.
+launcher,shell2http,,https://github.com/msoap/shell2http,Executing shell commands via HTTP server.
