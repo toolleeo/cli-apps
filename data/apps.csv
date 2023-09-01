@@ -1059,3 +1059,4 @@ networking,sngrep,,https://github.com/irontec/sngrep,Ncurses SIP Messages flow v
 networking,mtr,,https://github.com/traviscross/mtr,mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 monitor,HyFetch,,https://github.com/hykilpikonna/hyfetch,"A fork of the abandoned [Neofetch](https://github.com/dylanaraps/neofetch), HyFetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
 games,Frotz,https://davidgriffith.gitlab.io/frotz/,https://gitlab.com/DavidGriffith/frotz,Frotz is an interpreter for Infocom games and other Z-machine games.
+editors,ed,https://www.gnu.org/software/ed/,,"GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts."
