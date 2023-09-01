@@ -380,7 +380,7 @@ cd,pazi,,https://github.com/euank/pazi,Fast autojump helper.
 file-manager,hunter,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.
 monitor,ytop,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.
 monitor,noti,,https://github.com/variadico/noti,Monitor a process and trigger a notification.
-system,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
+devops,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
 find,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
 fuzzy-finder,fzy,,https://github.com/jhawthorn/fzy,Better fuzzy finder.
 graphics,GraphicsMagick,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick/,Swiss army knife of image processing.
@@ -583,7 +583,7 @@ programming,Cppcheck,http://cppcheck.net/,https://github.com/danmar/cppcheck/,St
 programming,Frama-C,https://frama-c.com/,https://git.frama-c.com/pub/frama-c/,Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
 games,terdle,,https://github.com/neelkarma/terdle,Wordle implemented in Rust.
 music,MusicPlayerPlus,,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more."
-system,ContainerSSH,,https://github.com/ContainerSSH/ContainerSSH,An SSH Server that Launches Containers in Kubernetes and Docker on demand.
+devops,ContainerSSH,,https://github.com/ContainerSSH/ContainerSSH,An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 funny,Limoji,,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
 games,Minesweeper Game,,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.
 editors,Tilde,https://os.ghalkes.nl/tilde/,https://github.com/gphalkes/tilde,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc."
@@ -995,7 +995,7 @@ copilot,aish,,https://github.com/chr15m/aish,"A program that retrieve shell scri
 git,Lazygit,,https://github.com/jesseduffield/lazygit,A simple terminal UI for git commands that simplify the execution of many operations making them interactive.
 games,guess-word-cli,,https://github.com/akgondber/guess-word-cli,Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
 cd,slingshot,,https://github.com/caio-ishikawa/slingshot,Lightweight command line tool to quickly navigate across folders.
-system,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for docker environments.
+devops,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for docker environments.
 copilot,Llama Terminal Completion,,https://github.com/adammpkins/llama-terminal-completion,"Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts."
 graphics,img2ascii,,https://github.com/JosefVesely/Image-to-ASCII,Convert images to ASCII art.
 writing,write good,,https://github.com/btford/write-good,Naive linter for English prose.
