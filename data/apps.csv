@@ -1072,3 +1072,4 @@ backup,bup,https://bup.github.io/,https://github.com/bup/bup,"Very efficient bac
 backup,rdiff-backup,https://rdiff-backup.net/,https://github.com/rdiff-backup/rdiff-backup,"Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data."
 file-handling,symlinks,,https://github.com/brandt/symlinks,Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
 file-handling,compsize,,https://github.com/kilobyte/compsize,Find compression type/ratio on a file or set of files on a btrfs file system.
+monitor,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
