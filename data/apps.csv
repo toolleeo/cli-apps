@@ -1070,3 +1070,4 @@ backup,Crestic,https://nils-werner.github.io/crestic/,https://github.com/nils-we
 backup,Kopia,https://kopia.io/,https://github.com/kopia/kopia,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
 backup,bup,https://bup.github.io/,https://github.com/bup/bup,"Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication."
 backup,rdiff-backup,https://rdiff-backup.net/,https://github.com/rdiff-backup/rdiff-backup,"Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data."
+file-handling,symlinks,,https://github.com/brandt/symlinks,Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
