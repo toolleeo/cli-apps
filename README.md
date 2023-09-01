@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1097**
+* Apps/tools covered: **1098**
 * Number of categories: **66**.
 
 # Index
@@ -48,7 +48,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Multimedia](#multimedia) (14)
 * [Networking](#networking) (32), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (13), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (41), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (42), [Prompts](#prompt) (4)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (22), [Shells](#shells) (10), [Sound and music](#music) (33), [System monitoring](#monitor) (40), [System tools](#system) (17)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (37), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (31)
@@ -949,6 +949,7 @@ A set of tools for improving own productivity that do not deserve (at the moment
 * [mk](https://github.com/pycontribs/mk) - mk is a CLI tool that aims to ease contribution to any open-source project by hiding repository implementation details from the casual contributor.
 * [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
 * [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
+* [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 * [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
 * [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
