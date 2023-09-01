@@ -193,7 +193,7 @@ utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.
 online,arch-wiki,,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
 online,googler,,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
 text-processing,lolcat,,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
-monitor,neofetch,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
+monitor,neofetch,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice. Currently abandoned."
 calc,pdd,,https://github.com/jarun/pdd,"Tiny date, time diff calculator."
 prompt,powerline,,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile."
 online,socli,,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python.  Search and browse stack overflow without leaving the terminal 
@@ -1057,3 +1057,4 @@ git,git absorb,,https://github.com/tummychow/git-absorb/,"git commit --fixup, bu
 networking,Termshark,https://termshark.io/,https://github.com/gcla/termshark,"A terminal UI for tshark, inspired by Wireshark."
 networking,sngrep,,https://github.com/irontec/sngrep,Ncurses SIP Messages flow viewer.
 networking,mtr,,https://github.com/traviscross/mtr,mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+monitor,HyFetch,,https://github.com/hykilpikonna/hyfetch,"A fork of the abandoned [Neofetch](https://github.com/dylanaraps/neofetch), HyFetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice."
