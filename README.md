@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1103**
+* Apps/tools covered: **1104**
 * Number of categories: **66**.
 
 # Index
@@ -40,7 +40,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (9), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (10)
-* [Data management](#data-management) (25), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (9), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (25), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (9), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (43), [Git and accessories](#git) (40), [Graphics](#graphics) (31)
@@ -363,6 +363,7 @@ Tools for improving the efficiency of directory traversal.
 * [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch between your projects on ZSH. In short, another directory changer.
 * [slingshot](https://github.com/caio-ishikawa/slingshot) - Lightweight command line tool to quickly navigate across folders.
 * [SmartCd](https://github.com/CodesOfRishi/smartcd) - A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.
+* [tere](https://github.com/mgunyho/tere) - Terminal file explorer that is a faster alternative to using cd and ls to browse folders in your terminal.
 * [z](https://github.com/rupa/z) - Directory changer based on aging and frecency.
 * [z.lua](https://github.com/skywind3000/z.lua) - Directory changer that learns your habits.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
