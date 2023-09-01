@@ -32,7 +32,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1101**
+* Apps/tools covered: **1102**
 * Number of categories: **66**.
 
 # Index
@@ -40,7 +40,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (9), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (10)
-* [Data management](#data-management) (24), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (9), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (25), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (32), [DevOps](#devops) (9), [Diff](#diff) (9), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (9), [File finding (alternatives to find)](#find) (6), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (43), [Git and accessories](#git) (40), [Graphics](#graphics) (31)
@@ -243,6 +243,7 @@ Tools to manage data files.
 * [gnuplot](https://www.explainshell.com/explain/1/gnuplot) - Generate two and three dimensional plots of data.
 * [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 * [Graphtage](https://github.com/trailofbits/graphtage) - Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.
+* [gron](https://github.com/tomnomnom/gron) - gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
 * [GROQ](https://github.com/sanity-io/groq-cli) - The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input.
 * [IRedis](https://github.com/laixintao/iredis) - Interactive Redis: A Cli for Redis with AutoCompletion and Syntax Highlighting.
 * [jp](https://github.com/therealklanni/jp) - A tiny commandline tool for parsing JSON from any source.
