@@ -25,7 +25,9 @@ make
 If you have any suggestion or want your project included in the list, you can either open a pull request or send me an email with the necessary information.
 
 If you want to contribute through a pull request, make sure to add new entries to the correct CSV file under the `data/` directory.
-Please commit the CSV file only, not the README.
+In the CSV, the `git` field refers to a **clonable git URL**.
+
+Please commit changes **to the CSV file only**, **not the README**.
 I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
 
 If you prefer an email, contact me at `toolleeo@gmail.com`.
