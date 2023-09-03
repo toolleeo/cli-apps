@@ -1109,3 +1109,4 @@ transfer,curlie,,https://github.com/rs/curlie,"The power of curl, the ease of us
 music,radio-active,,https://github.com/deep5050/radio-active,Internet radio player with 40k+ stations.
 online,Fjira,,https://github.com/mk-5/fjira,The fuzziest Jira command line tool in the world.
 networking,neoss,,https://github.com/PabloLec/neoss,User-friendly and detailed socket statistics with a Terminal UI.
+conversion,unoserver,,https://github.com/unoconv/unoserver/,"Using LibreOffice as a server for converting documents, it allows to convert multiple documents without loading libreoffice into memory every time."
