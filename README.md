@@ -35,7 +35,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 # Summary
 
 * Apps/tools covered: **1118**
-* Number of categories: **67**.
+* Number of categories: **68**.
 
 # Index
 
@@ -51,9 +51,10 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Networking](#networking) (34), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (43), [Prompts](#prompt) (4)
+* [Religion](#religion) (3)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (23), [Shells](#shells) (10), [Sound and music](#music) (34), [System monitoring](#monitor) (41), [System tools](#system) (17)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (25), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
-* [Utilities](#utility) (33)
+* [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (37)
 * [Web browser](#browser) (16), [Web development](#webdev) (24), [Writing](#writing) (9)
 
@@ -993,6 +994,14 @@ Prompts and welcome messages.
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
 * [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
 
+## <a name="religion"></a>Religion
+
+Tools to handle religious material.
+
+* [bbl](https://github.com/nehemiaharchives/bbl) - Read, search Holy Bible in command line.
+* [bible](https://github.com/BibleJS/BibleApp) - Read the Holy Bible via the command line.
+* [ltorah](https://github.com/Mandrew0822/ltorah) - ltorah provides a way to read the ancient hebrew Torah from the command line.
+
 ## <a name="science"></a>Science
 
 Tools for scientific research and science applications.
@@ -1316,8 +1325,6 @@ Games and utilities to measure and/or improve the typing ability.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoisation / caching library for bash scripts and shells
-* [bbl](https://github.com/nehemiaharchives/bbl) - Read, search Holy Bible in command line.
-* [bible](https://github.com/BibleJS/BibleApp) - Read the Holy Bible via the command line.
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
 * [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 * [Cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
@@ -1327,7 +1334,6 @@ Games and utilities to measure and/or improve the typing ability.
 * [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
 * [guesswidth](https://github.com/noborus/guesswidth) - Guess the width output without delimiters in commands that output to the terminal.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
-* [ltorah](https://github.com/Mandrew0822/ltorah) - ltorah provides a way to read the ancient hebrew Torah from the command line.
 * [minicloze](https://github.com/benmanone/minicloze) - Rust-based command-line language-learning game using the Tatoeba database.
 * [mkdesk](https://gitlab.com/mr-draxs/mkdesk) - A program/command to create .desktop files (program launchers) using the terminal.
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movies and comparing two movies.
