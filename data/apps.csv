@@ -1115,3 +1115,4 @@ conversion,jsonify-resume,,https://github.com/ashishbinu/jsonify-resume,A cli th
 todo-manager,boards,,https://github.com/benrutter/boards,Recursive kanban boards based around the filesystem.
 utility,ltorah,,https://github.com/Mandrew0822/ltorah,ltorah provides a way to read the ancient hebrew Torah from the command line.
 utility,minicloze,,https://github.com/benmanone/minicloze,Rust-based command-line language-learning game using the Tatoeba database.
+git,gitnr,,https://github.com/reemus-dev/gitnr,"Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection."

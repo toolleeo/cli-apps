@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1116**
+* Apps/tools covered: **1117**
 * Number of categories: **67**.
 
 # Index
@@ -45,7 +45,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Data management](#data-management) (25), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (33), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (43), [Git and accessories](#git) (40), [Graphics](#graphics) (31)
+* [Games](#games) (43), [Git and accessories](#git) (41), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
 * [Networking](#networking) (33), [Note taking](#note-taking) (20)
@@ -695,6 +695,7 @@ Fuzzy finders and generic option pickers.
 * [Gitea](https://gitea.com/) - Single binary self-hosted Git service.
 * [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 * [gitnr](https://github.com/reemus-dev/gitnr) - Create .gitignore files using one or more templates from TopTal, GitHub or your own collection.
+* [gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection.
 * [gitsummary](https://github.com/glenreesor/gitsummary) - A better git status taht lists stashes, file statuses, branch list, all nicely formatted with color.
 * [GitUI](https://github.com/extrawurst/gitui) - The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git.
 * [grv](https://github.com/rgburke/grv) - Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered.
