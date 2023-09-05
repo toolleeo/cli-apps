@@ -1112,3 +1112,4 @@ networking,neoss,,https://github.com/PabloLec/neoss,User-friendly and detailed s
 conversion,unoserver,,https://github.com/unoconv/unoserver/,"Using LibreOffice as a server for converting documents, it allows to convert multiple documents without loading libreoffice into memory every time."
 security,gocryptfs,https://nuetzlich.net/gocryptfs,https://github.com/rfjakob/gocryptfs/,An encrypted overlay filesystem written in Go.
 conversion,jsonify-resume,,https://github.com/ashishbinu/jsonify-resume,A cli that converts resumes into JSON Resume schema.
+todo-manager,boards,,https://github.com/benrutter/boards,Recursive kanban boards based around the filesystem.
