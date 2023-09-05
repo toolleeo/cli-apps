@@ -1114,3 +1114,4 @@ security,gocryptfs,https://nuetzlich.net/gocryptfs,https://github.com/rfjakob/go
 conversion,jsonify-resume,,https://github.com/ashishbinu/jsonify-resume,A cli that converts resumes into JSON Resume schema.
 todo-manager,boards,,https://github.com/benrutter/boards,Recursive kanban boards based around the filesystem.
 utility,ltorah,,https://github.com/Mandrew0822/ltorah,ltorah provides a way to read the ancient hebrew Torah from the command line.
+utility,minicloze,,https://github.com/benmanone/minicloze,Rust-based command-line language-learning game using the Tatoeba database.
