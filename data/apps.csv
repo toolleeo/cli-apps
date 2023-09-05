@@ -334,7 +334,7 @@ versioning,fossil,https://fossil-scm.org/,https://github.com/drhsqlite/fossil-mi
 editors,Diakonos,,https://github.com/Pistos/diakonos,"A powerful editor with “standard"" keybindings and several advanced features; written in Ruby."
 utility,yank,,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
 terminal,mtm,,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer."
-text-processing,sd,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
+text-search-replace,sd,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
 time-tracker,Watson,,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
 data-management,WOPR,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations and infographic."
 games,Angband,https://rephial.org/,https://github.com/angband/angband,"Angband is a free, single-player dungeon exploration game."
@@ -367,7 +367,7 @@ programming,fastmod,,https://github.com/facebookincubator/fastmod,"A tool to ass
 launcher,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
 data-management,yq,,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
-text-processing,amber,,https://github.com/dalance/amber,Code search / replace tool.
+text-search-replace,amber,,https://github.com/dalance/amber,Code search / replace tool.
 file-renamer,mmv,,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
 webdev,linkchecker,,https://github.com/linkchecker/linkchecker,Check links in web documents or full websites.
 text-processing,brok,,https://github.com/smallhadroncollider/brok,Find broken links in text documents.
@@ -403,7 +403,7 @@ fuzzy-finder,luneta,,https://github.com/fbeline/luneta,Interactive filter that c
 text-search,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
 git,sad,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 file-handling,wfh,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.
-text-processing,teip,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.
+text-search-replace,teip,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.
 text-processing,espanso,,https://github.com/espanso/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.
 text-processing,huniq,,https://github.com/koraa/huniq,"Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates."
 ls,nat,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.
@@ -530,7 +530,7 @@ graphics,kakikun,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool 
 graphics,Aewan,http://aewan.sourceforge.net/,https://sourceforge.net/projects/aewan/,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 graphics,jp2a,https://csl.name/jp2a/,https://sourceforge.net/projects/jp2a/,Command-line tool that converts images to ASCII art in the Linux terminal.
 graphics,LinuxLogo,https://sourceforge.net/projects/linuxlogo/,https://sourceforge.net/projects/linuxlogo/,Display the Linux distribution logo in ASCII format.
-text-processing,pv,http://www.ivarch.com/programs/pv.shtml,https://github.com/a-j-wood/pv,The pv command is used to monitor the progress of data through pipe.
+monitor,pv,http://www.ivarch.com/programs/pv.shtml,https://github.com/a-j-wood/pv,The pv command is used to monitor the progress of data through pipe.
 networking,TStream,,https://github.com/qnkhuat/tstream,"Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched."
 todo-manager,tsk,,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use."
 monitor,The Logfile Navigator,https://lnav.org/,https://github.com/tstack/lnav,An advanced and colorful log file viewer with TUI interface.
@@ -674,7 +674,7 @@ utility,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the c
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
 programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
-text-processing,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
+conversion,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
 writing,alex,,https://github.com/get-alex/alex,"Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text."
 text-processing,HASHA CLI,,https://github.com/sindresorhus/hasha-cli,Hashing made simple. Get the hash of text or stdin.
 text-processing,gzip-size-cli,,https://github.com/sindresorhus/gzip-size-cli,Get the gzipped size of a file.
@@ -873,7 +873,7 @@ productivity,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for manag
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
 transfer,feuille,,https://basedwa.re/tmtt/feuille.git,"A fast, dead-simple socket-based pastebin."
-text-processing,lowdown,https://kristaps.bsd.lv/lowdown/,https://github.com/kristapsdz/lowdown,"Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)"
+conversion,lowdown,https://kristaps.bsd.lv/lowdown/,https://github.com/kristapsdz/lowdown,"Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)"
 utility,bash-cache,,https://github.com/dimo414/bash-cache,A function memoisation / caching library for bash scripts and shells
 utility,bkt,https://bkt.rs,https://github.com/dimo414/bkt,bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
 viewers,mdcat,,https://github.com/swsnr/mdcat,cat for Markdown
@@ -1005,7 +1005,7 @@ screensaver,ASCII Saver,,https://gitlab.com/mezantrop/ascsaver,Screensaver for t
 typing,typetype,,https://github.com/ahmet8zer/typetype,Minimalistic command line typing game.
 todo-manager,geek-life,,https://github.com/ajaxray/geek-life,A full featured TUI task manager.
 funny,ascii-movie,,https://github.com/gabe565/ascii-movie,Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
-text-processing,repgrep,,https://github.com/acheronfail/repgrep,A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
+text-search-replace,repgrep,,https://github.com/acheronfail/repgrep,A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 graphics,rclip,,https://github.com/yurijmikhalevich/rclip,AI-Powered Command-Line Photo Search Tool.
 science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography manager.
 monitor,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.

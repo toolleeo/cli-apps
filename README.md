@@ -35,13 +35,13 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 # Summary
 
 * Apps/tools covered: **1112**
-* Number of categories: **66**.
+* Number of categories: **67**.
 
 # Index
 
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (9), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (11)
+* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (9), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (13)
 * [Data management](#data-management) (25), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (33), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (17), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
@@ -51,8 +51,8 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Networking](#networking) (33), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (43), [Prompts](#prompt) (4)
-* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (23), [Shells](#shells) (10), [Sound and music](#music) (34), [System monitoring](#monitor) (40), [System tools](#system) (17)
-* [Terminals](#terminal) (12), [Text processing](#text-processing) (38), [Text search (alternatives to grep)](#text-search) (11), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
+* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (23), [Shells](#shells) (10), [Sound and music](#music) (34), [System monitoring](#monitor) (41), [System tools](#system) (17)
+* [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (24), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (31)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (37)
 * [Web browser](#browser) (16), [Web development](#webdev) (24), [Writing](#writing) (9)
@@ -224,6 +224,8 @@ File format converters.
 * [antiword](https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/) - Reader and converted for the proprietary MS .doc file format.
 * [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text, output is sent to the standard output.
+* [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
+* [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
 * [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
@@ -1121,6 +1123,7 @@ Music players.
 * [PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) - Robust, featureful, easy-to-use and powerful process manager.
 * [powertop](https://01.org/powertop) - A `top`-like utility to monitor the sources of power consumption, allows to turn on/off many components, quite useful to track possible power-related issues.
 * [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
+* [pv](http://www.ivarch.com/programs/pv.shtml) - The pv command is used to monitor the progress of data through pipe.
 * [ramfetch](https://github.com/WhoseTheNerd/ramfetch) - A fetch which displays memory info using /proc/meminfo.
 * [rwatch](https://github.com/davidhfrankelcodes/rwatch) - A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
@@ -1176,7 +1179,6 @@ Music players.
 
 ## <a name="text-processing"></a>Text processing
 
-* [amber](https://github.com/dalance/amber) - Code search / replace tool.
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 * [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
@@ -1190,25 +1192,19 @@ Music players.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 * [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 * [hck](https://github.com/sstadick/hck) - A sharp cut clone.
-* [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
 * [huniq](https://github.com/koraa/huniq) - Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 * [Line Select](https://github.com/urbanogilson/lineselect) - A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
-* [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
 * [mdformat](https://github.com/executablebooks/mdformat) - Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 * [Normalize Country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard.
 * [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
 * [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
-* [pv](http://www.ivarch.com/programs/pv.shtml) - The pv command is used to monitor the progress of data through pipe.
 * [rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
-* [repgrep](https://github.com/acheronfail/repgrep) - A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 * [rich](https://github.com/Textualize/rich-cli) - Rich-CLI is a command line toolbox for fancy output in the terminal, built with [Rich](https://github.com/Textualize/rich).
-* [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
 * [skroll](https://z3bra.org/skroll/) - A small utility that you can use to make a text scroll. Pipe text to it, and it will scroll a given number of letters from right to left.
 * [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 * [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with realtime typing into terminal uses a screenplay where text and timings are specified.
-* [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 * [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
 * [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
 * [trurl](https://github.com/curl/trurl) - Command line tool for URL parsing and manipulation.
@@ -1230,6 +1226,15 @@ Search files, typically in a recursive manner, to look for some contained text o
 * [sift](https://sift-tool.org/) - Fast and powerful open source alternative to grep; it targets flexibility and performance: can be as fast as "regular" grep and allows to specify complex expressions to find text.
 * [ugrep](https://github.com/Genivia/ugrep) - Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more.
 * [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
+
+## <a name="text-search-replace"></a>Text search and replace (alternatives to sed?)
+
+Tools to search text within files and replace it..
+
+* [amber](https://github.com/dalance/amber) - Code search / replace tool.
+* [repgrep](https://github.com/acheronfail/repgrep) - A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
+* [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
+* [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 
 ## <a name="time-tracker"></a>Time trackers
 
