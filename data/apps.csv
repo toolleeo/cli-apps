@@ -660,7 +660,7 @@ system,checksum.sh,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh
 data-management,crudini,,https://github.com/pixelb/crudini,A utility for manipulating ini files.
 writing,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interface to bring Google Translation in the terminal.
 security,Image Steganography Tool,,https://github.com/7thSamurai/steganography,Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
-utility,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
+religion,bbl,,https://github.com/nehemiaharchives/bbl,"Read, search Holy Bible in command line."
 funny,gof-rs,,https://github.com/omagdy7/gof-rs,Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 time-tracker,MyTimer,,https://github.com/sepandhaghighi/mytimer,Simple timer for the terminal with timer-mode and alarm.
 funny,No More Secrets,,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -670,7 +670,7 @@ productivity,speedread,,https://github.com/pasky/speedread,A simple terminal-bas
 online,pockyt,,https://github.com/achembarpu/pockyt,"Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet."
 viewers,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 viewers,medium-cli,,https://github.com/djadmin/medium-cli,Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
-utility,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
+religion,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
 programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
@@ -1113,7 +1113,7 @@ conversion,unoserver,,https://github.com/unoconv/unoserver/,"Using LibreOffice a
 security,gocryptfs,https://nuetzlich.net/gocryptfs,https://github.com/rfjakob/gocryptfs/,An encrypted overlay filesystem written in Go.
 conversion,jsonify-resume,,https://github.com/ashishbinu/jsonify-resume,A cli that converts resumes into JSON Resume schema.
 todo-manager,boards,,https://github.com/benrutter/boards,Recursive kanban boards based around the filesystem.
-utility,ltorah,,https://github.com/Mandrew0822/ltorah,ltorah provides a way to read the ancient hebrew Torah from the command line.
+religion,ltorah,,https://github.com/Mandrew0822/ltorah,ltorah provides a way to read the ancient hebrew Torah from the command line.
 utility,minicloze,,https://github.com/benmanone/minicloze,Rust-based command-line language-learning game using the Tatoeba database.
 git,gitnr,,https://github.com/reemus-dev/gitnr,"Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection."
 networking,sslh,,https://github.com/yrutschle/sslh,"A ssl/ssh multiplexer (Applicative Protocol Multiplexer) that allows, for example, to share SSH and HTTPS on the same port."
