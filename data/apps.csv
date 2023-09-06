@@ -1117,3 +1117,4 @@ religion,ltorah,,https://github.com/Mandrew0822/ltorah,ltorah provides a way to 
 utility,minicloze,,https://github.com/benmanone/minicloze,Rust-based command-line language-learning game using the Tatoeba database.
 git,gitnr,,https://github.com/reemus-dev/gitnr,"Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection."
 networking,sslh,,https://github.com/yrutschle/sslh,"A ssl/ssh multiplexer (Applicative Protocol Multiplexer) that allows, for example, to share SSH and HTTPS on the same port."
+cd,qcd,,https://github.com/ClaasBontus/qcd_rs,A tool to change to another directory by just by entering commands like `qcd 3` and step back to where you came from with `qcd -o`. Frequently visited directories are stored in a sqlite3 database.
