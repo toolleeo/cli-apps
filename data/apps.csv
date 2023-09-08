@@ -1124,3 +1124,4 @@ data-management-json,JSON.sh,,https://github.com/dominictarr/JSON.sh,"A JSON par
 data-management-json,Jsawk,,https://github.com/micha/jsawk,"Like awk, but for JSON. You work with an array of JSON objects read from stdin, filter them using JavaScript to produce a results array that is printed to stdout."
 data-management-json,json,,https://github.com/trentm/json,"A ""json"" command for massaging JSON on your Unix command line."
 data-management-json,jj,,https://github.com/tidwall/jj,A command line utility that provides a fast and simple way to retrieve or update values from JSON documents.
+data-management-json,rq,,https://github.com/dflemstr/rq,Record Query - A tool for doing record analysis and transformation.
