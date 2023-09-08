@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1143**
+* Apps/tools covered: **1144**
 * Number of categories: **69**.
 
 # Index
@@ -42,7 +42,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (9), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (14)
-* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (38), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (33), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (33), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (43), [Git and accessories](#git) (41), [Graphics](#graphics) (31)
@@ -288,6 +288,7 @@ Tools to manage data files in JSON/YAML and similar formats.
 * [JSON.awk](https://github.com/step-/JSON.awk) - A practical JSON parser written in awk.
 * [JSON.sh](https://github.com/dominictarr/JSON.sh) - A JSON parser written in shell, compatible with ash, bash, dash and zsh.
 * [jsongrep](https://github.com/dsc/jsongrep) - A shell tool to search and select bits out of JSON documents.
+* [jsongrep](https://github.com/terrycojones/jsongrep) - Python for extracting pieces of JSON objects
 * [jsonpp](https://github.com/jmhodges/jsonpp) - A fast command line JSON pretty printer.
 * [jsonv.sh](https://github.com/archan937/jsonv.sh) - A Bash command line tool for converting JSON to CSV.
 * [jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal.
