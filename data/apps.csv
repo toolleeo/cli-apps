@@ -1120,3 +1120,4 @@ networking,sslh,,https://github.com/yrutschle/sslh,"A ssl/ssh multiplexer (Appli
 cd,qcd,,https://github.com/ClaasBontus/qcd_rs,A tool to change to another directory by just by entering commands like `qcd 3` and step back to where you came from with `qcd -o`. Frequently visited directories are stored in a sqlite3 database.
 data-management-json,jid,,https://github.com/simeji/jid,You can drill down JSON interactively by using filtering queries like jq.
 data-management-json,jo,,https://github.com/jpmens/jo,A small utility to create JSON objects from the command line.
+data-management-json,JSON.sh,,https://github.com/dominictarr/JSON.sh,"A JSON parser written in shell, compatible with ash, bash, dash and zsh."
