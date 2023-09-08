@@ -1127,3 +1127,4 @@ data-management-json,jj,,https://github.com/tidwall/jj,A command line utility th
 data-management-json,rq,,https://github.com/dflemstr/rq,Record Query - A tool for doing record analysis and transformation.
 data-management-json,TickTick,,https://github.com/kristopolous/TickTick,"TickTick enables you to put JSON in bash scripts. Yes, just encapsulate them with two back-ticks."
 data-management-json,jshon,,https://github.com/keenerd/jshon,Jshon is a JSON parser designed for maximum convenience within the shell.
+data-management-json,jl,,https://github.com/chrisdone/jl,"jl (""JSON lambda"") is a tiny functional language for querying and manipulating JSON."
