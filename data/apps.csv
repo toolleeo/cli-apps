@@ -438,7 +438,7 @@ graphics,givegif,,https://github.com/passy/givegif,GIFs on the command line.
 git,git-extras,,https://github.com/tj/git-extras,"Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more."
 versioning,Gistup,,https://github.com/mbostock/gistup,"Create a gist from terminal, then use git to update it."
 ls,ll,,https://github.com/antonmedv/ll,ls with git status.
-viewers,fx,,https://github.com/antonmedv/fx,Command-line JSON viewer.
+data-management-json,fx,,https://github.com/antonmedv/fx,Command-line JSON viewer.
 networking,speedtest-net,,https://github.com/ddsol/speedtest.net,Test internet connection speed and ping using speedtest.net.
 backup,shallow-backup,,https://github.com/alichtman/shallow-backup,Git integrated backup tool.
 office,mdp,,https://github.com/visit1985/mdp,A command-line based markdown presentation tool.
@@ -1130,3 +1130,4 @@ data-management-json,jshon,,https://github.com/keenerd/jshon,Jshon is a JSON par
 data-management-json,jl,,https://github.com/chrisdone/jl,"jl (""JSON lambda"") is a tiny functional language for querying and manipulating JSON."
 data-management-json,faq,,https://github.com/jzelinskie/faq,Format Agnostic jQ - process various formats with libjq.
 data-management-json,jsonpp,,https://github.com/jmhodges/jsonpp,A fast command line JSON pretty printer.
+data-management-json,RecordStream,,https://github.com/benbernard/RecordStream,Commandline tools for slicing and dicing JSON records.
