@@ -12,7 +12,7 @@ text-search,sift,https://sift-tool.org/,https://github.com/svent/sift,"Fast and 
 viewers,ccat,,https://github.com/owenthereal/ccat,A `cat` command with colorized output.  
 fuzzy-finder,fzf,,https://github.com/junegunn/fzf,"(FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`."
 text-processing,grc,,https://github.com/pengwynn/grc,"(Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files, different patterns can be associated to file types."
-data-management,jq,https://stedolan.github.io/jq/,https://github.com/stedolan/jq,"(JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
+data-management-json,jq,https://stedolan.github.io/jq/,https://github.com/stedolan/jq,"(JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
 fuzzy-finder,percol,,https://github.com/mooz/percol,"A Python script that ""1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`""; can be used to add interactivity to many regular shell commands."
 fuzzy-finder,pick,,https://github.com/mptre/pick,Utility that allows users to choose one option from a set of choices using an interface with fuzzy search functionality.  
 data-management-tabular,q,http://harelba.github.io/q/,https://github.com/harelba/q,"Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
@@ -264,7 +264,7 @@ games,crappybird-py,,https://github.com/JonPizza/crappybird-py,Flappy bird.
 science,conrad,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.
 note-taking,dn,,https://github.com/tomlockwood/dn,Daily notes command line tool.
 git,onefetch,,https://github.com/o2sh/onefetch,Git repository summary on your terminal.
-data-management,jtc,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
+data-management-json,jtc,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.
 email,NeoMutt,https://neomutt.org/,https://github.com/neomutt/neomutt,Patched and up-to-dated mutt fork.
 cheatsheet,kmdr-cli,,https://github.com/ediardo/kmdr-cli,The CLI tool for explaining commands from your terminal.
 prompt,Starship,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.
@@ -274,7 +274,7 @@ file-manager,rnr,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not
 funny,cbonsai,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree."
 data-management-tabular,Dolt,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository."
 transfer,ytfzf,,https://github.com/pystardust/ytfzf,A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.
-data-management,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
+data-management-json,Graphtage,,https://github.com/trailofbits/graphtage,"Graphtage is a commandline utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files."
 disk-analyzer,duf,,https://github.com/muesli/duf,Disk Usage/Free Utility.
 productivity,tuxi,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 note-taking,Clipboard,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.
@@ -365,7 +365,7 @@ webdev,Mycorrhiza Wiki,https://mycorrhiza.wiki/,https://github.com/bouncepaw/myc
 viewers,ov,,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.
 programming,fastmod,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
 launcher,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
-data-management,yq,,https://github.com/mikefarah/yq,Portable command-line YAML processor.
+data-management-json,yq,,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
 text-search-replace,amber,,https://github.com/dalance/amber,Code search / replace tool.
 file-renamer,mmv,,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.
@@ -400,7 +400,7 @@ time-tracker,habitctl,,https://github.com/blinry/habitctl,Minimalist command lin
 programming,kickstart,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.
 file-renamer,nomino,,https://github.com/yaa110/nomino,Batch rename utility for developers.
 fuzzy-finder,luneta,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
-text-search,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
+data-management-json,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
 git,sad,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 file-handling,wfh,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.
 text-search-replace,teip,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.
@@ -534,7 +534,7 @@ monitor,pv,http://www.ivarch.com/programs/pv.shtml,https://github.com/a-j-wood/p
 networking,TStream,,https://github.com/qnkhuat/tstream,"Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched."
 todo-manager,tsk,,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use."
 monitor,The Logfile Navigator,https://lnav.org/,https://github.com/tstack/lnav,An advanced and colorful log file viewer with TUI interface.
-data-management,gojq,,https://github.com/itchyny/gojq,Pure Go implementation of jq.
+data-management-json,gojq,,https://github.com/itchyny/gojq,Pure Go implementation of jq.
 science,pt.sh,,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.
 terminal,Zellij,,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer."
 todo-manager,xit,,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)"
@@ -595,7 +595,7 @@ productivity,ancv,,https://github.com/alexpovel/ancv,Renders your (JSON) resume/
 file-manager,lf,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a terminal file manager written in Go with a heavy inspiration from ranger file manager."
 prompt,welcome.sh,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information."
 flashcard,flash-tui,,https://github.com/TBS1996/speki,Flashcard app for the terminal.
-data-management,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
+data-management-json,jqp,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.
 system,systeroid,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.
 games,hangman,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.
 writing,CLI-Dictionary,,https://github.com/Lodobo/dict.py,Scripts for downloading and viewing wiktionary entries from Kaikki.org.
@@ -726,7 +726,7 @@ programming,howdoi,,https://github.com/gleitz/howdoi,Instant coding answers via 
 cheatsheet,The Fuck,,https://github.com/nvbn/thefuck,Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
 cheatsheet,tldr,https://tldr.sh/,https://github.com/tldr-pages/tldr,"Client for tldr pages, a community effort to simplify the beloved man pages with practical examples."
 data-management,ramda-cli,,https://github.com/raine/ramda-cli,A tool for processing data with functional pipelines.
-data-management,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
+data-management-json,jp,,https://github.com/therealklanni/jp,A tiny commandline tool for parsing JSON from any source.
 viewers,vj,,https://github.com/busyloop/vj,JSON Humanizer makes JSON human readable by applying visual formatting.
 file-renamer,rename-cli,,https://github.com/jhotmann/node-rename-cli,File renamer with TUI interface and preview.
 disk-analyzer,diskonaut,,https://github.com/imsnif/diskonaut,Terminal disk space navigator that traverse the file-system with a TUI interface.
@@ -763,10 +763,10 @@ financial,cash-cli,,https://github.com/xxczaki/cash-cli,Convert Currency Rates.
 office,DeckTape,,https://github.com/astefanutti/decktape,DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
 file-system,ipfs-deploy,,https://github.com/ipfs-shipyard/ipfs-deploy,Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 time-tracker,doing,,https://github.com/ttscoff/doing,A command line tool for remembering what you were doing and tracking what you've done.
-data-management,underscore-cli,,https://github.com/ddopson/underscore-cli,Command-line utility-belt for hacking JSON and Javascript.
+data-management-json,underscore-cli,,https://github.com/ddopson/underscore-cli,Command-line utility-belt for hacking JSON and Javascript.
 monitor,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-platform command line utility to watch file system changes.
 transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share files from the command line. A fully featured Firefox Send client.
-data-management,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
+data-management-json,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
 cheatsheet,Wat,,https://github.com/dthree/wat,"Instant, central, community-built docs."
 writing,cambd-cli,,https://github.com/rocktimsaikia/cambd,A CLI tool to automate the process to access the Cambridge dictionary.
 productivity,zeitkatze,,https://github.com/leonmavr/zeitkatze,Simplest stopwatch in a linux console.
@@ -1101,7 +1101,7 @@ programming,np,,https://github.com/sindresorhus/np,A better `npm publish`.
 programming,semantic-release,,https://github.com/semantic-release/semantic-release,"Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package."
 chatgpt,clevercli,,https://github.com/clevercli/clevercli,ChatGPT powered CLI utilities. Easily add new prompt types.
 text-processing,gtree,,https://github.com/ddddddO/gtree,"Using either Markdown or programmatically to generate directory trees and directories, and to verify directories."
-data-management,gron,,https://github.com/tomnomnom/gron,gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
+data-management-json,gron,,https://github.com/tomnomnom/gron,gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
 file-handling,shbin,,https://github.com/Shiphero/shbin/,"Upload code snippets, notebooks, images or any other content to a Github repository that acts as your internal pastebin, and returns the URL to share it with your team."
 file-explorer,tere,,https://github.com/mgunyho/tere,Terminal file explorer that is a faster alternative to using cd and ls to browse folders in your terminal.
 diff,dyff,,https://github.com/homeport/dyff,"A diff tool for YAML files, and sometimes JSON."
