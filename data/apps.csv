@@ -1133,3 +1133,4 @@ data-management-json,jsonpp,,https://github.com/jmhodges/jsonpp,A fast command l
 data-management-json,RecordStream,,https://github.com/benbernard/RecordStream,Commandline tools for slicing and dicing JSON records.
 data-management-json,JSON.awk,,https://github.com/step-/JSON.awk,A practical JSON parser written in awk.
 data-management-json,jp,,https://github.com/jmespath/jp,"A command line interface to JMESPath, an expression language for manipulating JSON."
+data-management-json,JSON Command,,https://github.com/zpoley/json-command,JSON command line processing toolkit: no more writing code to inspect or transform JSON objects.
