@@ -249,7 +249,7 @@ funny,sha256-animation,,https://github.com/in3rsha/sha256-animation,Animation of
 browser,cli-arxiv,,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.
 conversion,mdBook,,https://github.com/rust-lang/mdBook,Create book from markdown files.
 password-manager,SpicyPass,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.
-viewers,jc,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.
+data-management-json,jc,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.
 music,muCLIar,,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.
 online,wikit,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.
 networking,mitmproxy,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.
