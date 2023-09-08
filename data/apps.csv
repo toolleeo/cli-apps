@@ -1122,3 +1122,4 @@ data-management-json,jid,,https://github.com/simeji/jid,You can drill down JSON 
 data-management-json,jo,,https://github.com/jpmens/jo,A small utility to create JSON objects from the command line.
 data-management-json,JSON.sh,,https://github.com/dominictarr/JSON.sh,"A JSON parser written in shell, compatible with ash, bash, dash and zsh."
 data-management-json,Jsawk,,https://github.com/micha/jsawk,"Like awk, but for JSON. You work with an array of JSON objects read from stdin, filter them using JavaScript to produce a results array that is printed to stdout."
+data-management-json,json,,https://github.com/trentm/json,"A ""json"" command for massaging JSON on your Unix command line."
