@@ -1141,3 +1141,4 @@ data-management-json,jsed,,https://github.com/jtopjian/jsed,"jsed is a small com
 data-management-json,jtbl,,https://github.com/kellyjonbrazil/jtbl,A simple CLI tool to print JSON and JSON Lines data as a table in the terminal.
 data-management-json,YAML Paths,,https://github.com/wwkimball/yamlpath,"YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax."
 data-management-json,jayin,,https://github.com/we-cli/jayin,Piping with js at terminal.
+data-management-json,jsongrep,,https://github.com/dsc/jsongrep,A shell tool to search and select bits out of JSON documents.
