@@ -1129,3 +1129,4 @@ data-management-json,TickTick,,https://github.com/kristopolous/TickTick,"TickTic
 data-management-json,jshon,,https://github.com/keenerd/jshon,Jshon is a JSON parser designed for maximum convenience within the shell.
 data-management-json,jl,,https://github.com/chrisdone/jl,"jl (""JSON lambda"") is a tiny functional language for querying and manipulating JSON."
 data-management-json,faq,,https://github.com/jzelinskie/faq,Format Agnostic jQ - process various formats with libjq.
+data-management-json,jsonpp,,https://github.com/jmhodges/jsonpp,A fast command line JSON pretty printer.
