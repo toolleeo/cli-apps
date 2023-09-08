@@ -1138,3 +1138,4 @@ data-management-json,jsonv.sh,,https://github.com/archan937/jsonv.sh,A Bash comm
 data-management-json,JSON-Grep,,https://github.com/ploubser/JSON-Grep,JGrep is a command line tool and API for parsing JSON documents based on logical expressions.
 data-management-json,jello,,https://github.com/kellyjonbrazil/jello,"CLI tool to filter JSON and JSON Lines data with Python syntax, similar to - suprise :-), jq!"
 data-management-json,jsed,,https://github.com/jtopjian/jsed,"jsed is a small command-line utility to add, remove, and search for data in a JSON structure."
+data-management-json,jtbl,,https://github.com/kellyjonbrazil/jtbl,A simple CLI tool to print JSON and JSON Lines data as a table in the terminal.
