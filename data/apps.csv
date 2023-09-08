@@ -409,7 +409,7 @@ text-processing,huniq,,https://github.com/koraa/huniq,"Command line utility to r
 ls,nat,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.
 data-management-tabular,csvq,,https://github.com/mithrandie/csvq,SQL-like query language for csv.
 file-dir-cleanup,FClones,,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.
-data-management,dasel,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.
+data-management-json,dasel,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.
 programming,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
 transfer,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three dimensional plots of data.
@@ -1125,3 +1125,4 @@ data-management-json,Jsawk,,https://github.com/micha/jsawk,"Like awk, but for JS
 data-management-json,json,,https://github.com/trentm/json,"A ""json"" command for massaging JSON on your Unix command line."
 data-management-json,jj,,https://github.com/tidwall/jj,A command line utility that provides a fast and simple way to retrieve or update values from JSON documents.
 data-management-json,rq,,https://github.com/dflemstr/rq,Record Query - A tool for doing record analysis and transformation.
+data-management-json,TickTick,,https://github.com/kristopolous/TickTick,"TickTick enables you to put JSON in bash scripts. Yes, just encapsulate them with two back-ticks."
