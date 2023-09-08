@@ -1131,3 +1131,4 @@ data-management-json,jl,,https://github.com/chrisdone/jl,"jl (""JSON lambda"") i
 data-management-json,faq,,https://github.com/jzelinskie/faq,Format Agnostic jQ - process various formats with libjq.
 data-management-json,jsonpp,,https://github.com/jmhodges/jsonpp,A fast command line JSON pretty printer.
 data-management-json,RecordStream,,https://github.com/benbernard/RecordStream,Commandline tools for slicing and dicing JSON records.
+data-management-json,JSON.awk,,https://github.com/step-/JSON.awk,A practical JSON parser written in awk.
