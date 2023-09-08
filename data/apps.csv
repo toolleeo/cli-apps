@@ -1136,3 +1136,4 @@ data-management-json,jp,,https://github.com/jmespath/jp,"A command line interfac
 data-management-json,JSON Command,,https://github.com/zpoley/json-command,JSON command line processing toolkit: no more writing code to inspect or transform JSON objects.
 data-management-json,jsonv.sh,,https://github.com/archan937/jsonv.sh,A Bash command line tool for converting JSON to CSV.
 data-management-json,JSON-Grep,,https://github.com/ploubser/JSON-Grep,JGrep is a command line tool and API for parsing JSON documents based on logical expressions.
+data-management-json,jello,,https://github.com/kellyjonbrazil/jello,"CLI tool to filter JSON and JSON Lines data with Python syntax, similar to - suprise :-), jq!"
