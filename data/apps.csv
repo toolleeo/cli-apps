@@ -1145,3 +1145,4 @@ data-management-json,jsongrep,,https://github.com/dsc/jsongrep,A shell tool to s
 data-management-json,jsongrep,,https://github.com/terrycojones/jsongrep,Python for extracting pieces of JSON objects
 networking,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
 todo-manager,memo,https://www.byteptr.com/memo/,https://github.com/nrosvall/memo,Memo is a Unix-style note-taking software for POSIX compatible systems.
+security,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys."
