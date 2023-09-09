@@ -1143,3 +1143,4 @@ data-management-json,YAML Paths,,https://github.com/wwkimball/yamlpath,"YAML/JSO
 data-management-json,jayin,,https://github.com/we-cli/jayin,Piping with js at terminal.
 data-management-json,jsongrep,,https://github.com/dsc/jsongrep,A shell tool to search and select bits out of JSON documents.
 data-management-json,jsongrep,,https://github.com/terrycojones/jsongrep,Python for extracting pieces of JSON objects
+networking,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
