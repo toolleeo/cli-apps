@@ -1080,7 +1080,6 @@ password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [pass
 ls,vivid,,https://github.com/sharkdp/vivid,A themeable LS_COLORS generator with a rich filetype datebase.
 editors,Bob,,https://github.com/MordechaiHadad/bob,"Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions."
 multimedia,videoinfox,,https://github.com/powerhousepro69/videoinfox,Find videos fast. Powerful playlist building and editing. A play queue to load up unlimited playlists. Index unlimited video libraries and find videos by keyword. Download list building without leaving the browser and a Download Queue.
-git,gitnr,,https://github.com/reemus-dev/gitnr,"Create .gitignore files using one or more templates from TopTal, GitHub or your own collection."
 text-processing,rich,,https://github.com/Textualize/rich-cli,"Rich-CLI is a command line toolbox for fancy output in the terminal, built with [Rich](https://github.com/Textualize/rich)."
 text-processing,mdformat,,https://github.com/executablebooks/mdformat,Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 music,ytui-music,,https://github.com/sudipghimire533/ytui-music,Youtube client in terminal for music (lightweight Youtube client).
