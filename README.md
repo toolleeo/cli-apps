@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1148**
+* Apps/tools covered: **1149**
 * Number of categories: **69**.
 
 # Index
@@ -52,7 +52,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (43), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
-* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (34), [System monitoring](#monitor) (41), [System tools](#system) (17)
+* [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (35), [System monitoring](#monitor) (41), [System tools](#system) (17)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (35)
@@ -1119,6 +1119,7 @@ Music players.
 * [cue](https://github.com/ravachol/cue) - A command-line music player.
 * [dzr](https://github.com/yne/dzr) - Command Line deezer.com Player for Linux, BSD, Android, Windows.
 * [espeak](http://espeak.sourceforge.net/) - A compact open source software speech synthesizer for English and other languages.
+* [Gomu](https://github.com/issadarkthing/gomu) - Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively.
 * [Instant Music Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instantly download any song!
 * [kord](https://github.com/synestematic/kord) - A python framework that provides programmers with a simple api for the creation of music-based applications.
 * [maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.

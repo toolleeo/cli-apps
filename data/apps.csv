@@ -1147,3 +1147,4 @@ networking,SSM,,https://github.com/elliot40404/ssm,A simple SSH manager.
 todo-manager,memo,https://www.byteptr.com/memo/,https://github.com/nrosvall/memo,Memo is a Unix-style note-taking software for POSIX compatible systems.
 security,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a simple and flexible tool for managing secrets, sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats, encrypting the values but not the keys."
 networking,sshuttle,,https://github.com/sshuttle/sshuttle,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+music,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively."
