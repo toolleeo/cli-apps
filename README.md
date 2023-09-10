@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1148**
+* Apps/tools covered: **1149**
 * Number of categories: **69**.
 
 # Index
@@ -44,7 +44,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [ChatGPT / AI](#chatgpt) (9), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (7), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (14), [Conversion](#conversion) (14)
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (33), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
-* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (7), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
+* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (8), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (43), [Git and accessories](#git) (40), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
@@ -539,6 +539,7 @@ Search the filesystem looking for files with specific characteristics.
 
 * [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. 
+* [eza](https://github.com/eza-community/eza) - eza is a modern, _maintained_ replacement for `ls`, built on `exa`.
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
 * [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
