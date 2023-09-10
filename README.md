@@ -538,7 +538,7 @@ Search the filesystem looking for files with specific characteristics.
 ## <a name="ls"></a>File listing (alternatives to ls)
 
 * [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
-* [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views".
+* [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. 
 * [ll](https://github.com/antonmedv/ll) - ls with git status.
 * [lsd](https://github.com/lsd-rs/lsd) - This project is a rewrite of GNU ls with lot of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
 * [nat](https://github.com/willdoescode/nat) - Complete replacement for the `ls` command.
