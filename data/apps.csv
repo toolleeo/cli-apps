@@ -1148,3 +1148,4 @@ security,SOPS,,https://github.com/getsops/sops,"SOPS (Secrets OPerationS) is a s
 networking,sshuttle,,https://github.com/sshuttle/sshuttle,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 music,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively."
 ls,eza,,https://github.com/eza-community/eza,"eza is a modern, _maintained_ replacement for `ls`, built on `exa`."
+music,line,,https://github.com/pd3v/line,Tiny command-line midi sequencer and language for live coding.
