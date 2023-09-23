@@ -1161,3 +1161,4 @@ system,rs-env,,https://github.com/sysid/rs-env,"Hierarchical environment variabl
 browser,Litter,,https://github.com/tuxcanfly/litter,"Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers."
 system,YAS-BDSM,,https://github.com/sebastiancarlos/yas-bdsm,"YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager):  a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager."
 graphics,TermImg,,https://github.com/srlehn/termimg,termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper left corner.
+programming,gup,,https://github.com/nao1215/gup,"Update binaries installed by ""go install"" with goroutines."

@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1162**
+* Apps/tools covered: **1163**
 * Number of categories: **69**.
 
 # Index
@@ -50,7 +50,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Multimedia](#multimedia) (14)
 * [Networking](#networking) (37), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (43), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (44), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
@@ -1002,6 +1002,7 @@ A set of tools for improving own productivity that do not deserve (at the moment
 * [Frama-C](https://frama-c.com/) - Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool for generating regular expressions from user-provided test cases.
+* [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
 * [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 * [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
