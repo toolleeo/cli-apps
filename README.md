@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1167**
+* Apps/tools covered: **1168**
 * Number of categories: **69**.
 
 # Index
@@ -53,7 +53,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (44), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
-* [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
+* [Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
 * [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
@@ -1247,6 +1247,7 @@ Music players.
 
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 * [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
+* [awk](https://github.com/onetrueawk/awk) - A historical, general-purpose text file processor, implements a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
 * [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
 * [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.

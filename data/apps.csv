@@ -1166,3 +1166,4 @@ ls,stree,,https://github.com/orangekame3/stree,A CLI tool designed to visualize 
 file-manager,Yazi,,https://github.com/sxyazi/yazi,"Blazing fast terminal file manager written in Rust, based on async I/O."
 viewers,ucollage,,https://github.com/ckardaris/ucollage,An extensible command line image viewer inspired by vim.
 copilot,Open Interpreter,,https://github.com/KillianLucas/open-interpreter,"OpenAI's Code Interpreter in your terminal, running locally."
+text-processing,awk,,https://github.com/onetrueawk/awk,"A historical, general-purpose text file processor, implements a domain-specific language designed for text processing and typically used as a data extraction and reporting tool."
