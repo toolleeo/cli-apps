@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1165**
+* Apps/tools covered: **1166**
 * Number of categories: **69**.
 
 # Index
@@ -55,7 +55,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Science](#science) (16), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
-* [Versioning](#versioning) (6), [Viewers](#viewers) (35)
+* [Versioning](#versioning) (6), [Viewers](#viewers) (36)
 * [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
@@ -1449,6 +1449,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Experimental "Markdown browser" for the terminal, built with Textual.
 * [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client
 * [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
+* [ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
 * [vj](https://github.com/busyloop/vj) - JSON Humanizer makes JSON human readable by applying visual formatting.
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.

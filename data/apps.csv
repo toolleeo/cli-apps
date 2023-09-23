@@ -1164,3 +1164,4 @@ graphics,TermImg,,https://github.com/srlehn/termimg,termimg tries to draw images
 programming,gup,,https://github.com/nao1215/gup,"Update binaries installed by ""go install"" with goroutines."
 ls,stree,,https://github.com/orangekame3/stree,A CLI tool designed to visualize the directory tree structure of an S3 bucket.
 file-manager,Yazi,,https://github.com/sxyazi/yazi,"Blazing fast terminal file manager written in Rust, based on async I/O."
+viewers,ucollage,,https://github.com/ckardaris/ucollage,An extensible command line image viewer inspired by vim.
