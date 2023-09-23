@@ -1150,3 +1150,4 @@ music,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful C
 ls,eza,,https://github.com/eza-community/eza,"eza is a modern, _maintained_ replacement for `ls`, built on `exa`."
 music,line,,https://github.com/pd3v/line,Tiny command-line midi sequencer and language for live coding.
 git,git-fuzzy,,https://github.com/bigH/git-fuzzy,Interactive `git` with the help of `fzf`.
+games,Terminal Roulette,,https://github.com/levkush/TerminalRoulette,Your own roulette table in the terminal.

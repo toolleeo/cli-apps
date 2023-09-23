@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1151**
+* Apps/tools covered: **1152**
 * Number of categories: **69**.
 
 # Index
@@ -45,7 +45,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (33), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (8), [File manager](#file-manager) (18), [File renamers](#file-renamer) (11), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (43), [Git and accessories](#git) (41), [Graphics](#graphics) (31)
+* [Games](#games) (44), [Git and accessories](#git) (41), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
 * [Networking](#networking) (36), [Note taking](#note-taking) (20)
@@ -695,6 +695,7 @@ Fuzzy finders and generic option pickers.
 * [sssnake](https://github.com/AngelJumbo/sssnake) - (Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.
 * [terdle](https://github.com/neelkarma/terdle) - Wordle implemented in Rust.
 * [Terminal Phase](https://dustycloud.org/blog/terminal-phase-1.0/) - A space shooter game you can play in your terminal.
+* [Terminal Roulette](https://github.com/levkush/TerminalRoulette) - Your own roulette table in the terminal.
 * [terminal_board_games](https://github.com/salt-die/terminally_bored_terminal_board_games) - Board games for the terminal.
 * [terminordle](https://github.com/HP4k1h5/terminordle) - Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.
 * [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal.
