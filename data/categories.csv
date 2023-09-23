@@ -9,7 +9,7 @@ data-management-json,Data management - JSON/YAML/etc.,Tools to manage data files
 data-management-tabular,Data management - Tabular data,"Tools to manage tabular data files (CSV, xls, database tables, etc.)"
 transfer,Data transfer,
 cd,Directory changers (alternatives to cd),Tools for improving the efficiency of directory traversal
-chatgpt,ChatGPT / AI,Interfaces and front-ends to GPT engines
+ai,ChatGPT / AI,Interfaces and front-ends to GPT engines and other artificial intelligence enabled tools
 copilot,Co-pilot,Using GPT tools to generate commands at the command line
 devops,DevOps,Tools for DevOps tasks
 diff,Diff,"File and data diffs, more or less “context” or “semantic” aware"

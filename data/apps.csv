@@ -795,7 +795,7 @@ organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of peri
 networking,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
 security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QRcode to print on paper."
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
-chatgpt,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
+ai,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
 viewers,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
 viewers,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI interface.
@@ -807,7 +807,7 @@ multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The C
 multimedia,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
 security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
 note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
-chatgpt,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
+ai,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
 disk-analyzer,erdtree,,https://github.com/solidiquis/erdtree,A multi-threaded file-tree visualizer and disk usage analyzer.
 games,Solitaire TUI,,https://github.com/brianstrauch/solitaire-tui,Klondike solitaire for the terminal.
 calc,Programmer calculator,,https://github.com/alt-romes/programmer-calculator,"Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits."
@@ -831,7 +831,7 @@ utility,Python re(gex)? exercises,,https://github.com/learnbyexample/TUI-apps/tr
 email,Himalaya,,https://github.com/soywod/himalaya,Command-line interface for email management.
 todo-manager,Dooit,,https://github.com/kraanzu/dooit,"Todo manager with interactive and beautiful UI, and vim keybindings."
 copilot,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which uses ChatGPT to aid in constructing commands for bash.
-chatgpt,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client in BASH with conversation/completion support.
+ai,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client in BASH with conversation/completion support.
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
 multimedia,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
@@ -859,7 +859,7 @@ git,git-cliff,,https://github.com/orhun/git-cliff,A highly customizable Changelo
 copilot,gpt-do,,https://github.com/yasyf/gpt-do,"This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you."
 copilot,aido-cli,,https://github.com/kris7ian/aido-cli,"Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though."
 rm,rmw,https://remove-to-waste.info/,https://github.com/theimpossibleastronaut/rmw/,(ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
-chatgpt,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
+ai,cligpt,,https://github.com/paij0se/cligpt,ChatGPT but in the terminal.
 writing,VocabCLI,,https://github.com/HighnessAtharva/VocabCLI,"Lightweight CLI that allows users to look up word definitions, examples, synonyms and antonyms directly via the command line; it also offers advanced Text Classification and Processing via the use of Natural Language Processing and Machine Learning algorithms."
 viewers,Textual Markdown Browser,,https://github.com/willmcgugan/textual-markdown,"Experimental ""Markdown browser"" for the terminal, built with Textual."
 transfer,rclone-tui,,https://github.com/darkhz/rclone-tui,"Cross-platform manager for rclone, which aims to be on-par with the web GUI."
@@ -973,18 +973,18 @@ financial,bits,,https://github.com/jtraub91/bits,CLI tool and pure Python librar
 flashcard,tui-deck,,https://github.com/mebitek/tui-deck,A TUI frontend for Nextcloud Deck app.
 copilot,Yai,,https://github.com/ekkinox/yai,"Yai (your AI) is an assistant for your terminal, using OpenAI ChatGPT to build and run commands for you."
 todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list manager written In Bash.
-chatgpt,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
+ai,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
 utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
 writing,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
 cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
-chatgpt,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
-chatgpt,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
+ai,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+ai,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 terminal,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
 utility,CAVA,,https://github.com/karlstav/cava,Cross-platform Audio Visualizer.
 games,rooshk,,https://github.com/cmspeedrunner/rooshk,A command line game in which you act as god over a sandbox world.
 file-handling,ForkFS,,https://github.com/SUPERCILEX/forkfs,ForkFS allows you to sandbox a process's changes to your file system.
 organizers,icsp,,https://github.com/loteoo/icsp,Command-line iCalendar (.ics) to CSV utility.
-chatgpt,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT."
+ai,HAL 2023,,https://github.com/Brutuski/hal2023-cli,"Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT."
 science,GCTU,,https://github.com/Mandrew0822/GCTU---Genetic-code-translation-utility,A simple command line tool which allows one to convert DNA code sequences to the different RNA sequences.
 organizers,Girok,,https://github.com/noisrucer/girok,A powerful and beautiful CLI scheduler.
 system,killport,,https://github.com/jkfran/killport,A command-line tool to easily kill processes running on a specified port.
@@ -1098,7 +1098,7 @@ devops,lazydocker,,https://github.com/jesseduffield/lazydocker,"The lazier way t
 devops,docker-shell,,https://github.com/Trendyol/docker-shell,A simple interactive prompt for Docker.
 programming,np,,https://github.com/sindresorhus/np,A better `npm publish`.
 programming,semantic-release,,https://github.com/semantic-release/semantic-release,"Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package."
-chatgpt,clevercli,,https://github.com/clevercli/clevercli,ChatGPT powered CLI utilities. Easily add new prompt types.
+ai,clevercli,,https://github.com/clevercli/clevercli,ChatGPT powered CLI utilities. Easily add new prompt types.
 text-processing,gtree,,https://github.com/ddddddO/gtree,"Using either Markdown or programmatically to generate directory trees and directories, and to verify directories."
 data-management-json,gron,,https://github.com/tomnomnom/gron,gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
 file-handling,shbin,,https://github.com/Shiphero/shbin/,"Upload code snippets, notebooks, images or any other content to a Github repository that acts as your internal pastebin, and returns the URL to share it with your team."
@@ -1152,4 +1152,4 @@ music,line,,https://github.com/pd3v/line,Tiny command-line midi sequencer and la
 git,git-fuzzy,,https://github.com/bigH/git-fuzzy,Interactive `git` with the help of `fzf`.
 games,Terminal Roulette,,https://github.com/levkush/TerminalRoulette,Your own roulette table in the terminal.
 cheatsheet,fzf-help,,https://github.com/BartSte/fzf-help,An fzf extension that allows you to select command line options of a given command; the options are retrieved from the command its `--help` documentation.
-chatgpt,Instrukt,,https://github.com/blob42/Instrukt,"A integrated AI environment in the terminal. Build, test and instruct agents."
+ai,Instrukt,,https://github.com/blob42/Instrukt,"A integrated AI environment in the terminal. Build, test and instruct agents."
