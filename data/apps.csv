@@ -1159,3 +1159,4 @@ ai,safespace,,https://github.com/danlou/safespace,Your local AI counselor. LLM a
 networking,SMBScan,,https://github.com/jeffhacks/smbscan,SMBScan is a tool to enumerate file shares on an internal network.
 system,rs-env,,https://github.com/sysid/rs-env,"Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files."
 browser,Litter,,https://github.com/tuxcanfly/litter,"Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers."
+system,YAS-BDSM,,https://github.com/sebastiancarlos/yas-bdsm,"YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager):  a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager."
