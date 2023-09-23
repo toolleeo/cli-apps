@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1157**
+* Apps/tools covered: **1158**
 * Number of categories: **69**.
 
 # Index
@@ -48,7 +48,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Games](#games) (44), [Git and accessories](#git) (41), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
-* [Networking](#networking) (36), [Note taking](#note-taking) (20)
+* [Networking](#networking) (37), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (43), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
@@ -839,6 +839,7 @@ Programs to deal with networks and communication.
 * [rtop](http://www.rtop-monitor.org/) - rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 * [serve](https://github.com/vercel/serve) - Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
+* [SMBScan](https://github.com/jeffhacks/smbscan) - SMBScan is a tool to enumerate file shares on an internal network.
 * [sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer.
 * [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.

@@ -1156,3 +1156,4 @@ ai,Instrukt,,https://github.com/blob42/Instrukt,"A integrated AI environment in 
 transfer,newsboat_video_downloader,,https://github.com/Jocomol/newsboat_video_downloader,Downloads content from youtube and have them sorted into different folders depending on the channel.
 ai,Mods!,,https://github.com/charmbracelet/mods,"AI for the command line, built for pipelines."
 ai,safespace,,https://github.com/danlou/safespace,Your local AI counselor. LLM app that runs offline from a single binary.
+networking,SMBScan,,https://github.com/jeffhacks/smbscan,SMBScan is a tool to enumerate file shares on an internal network.
