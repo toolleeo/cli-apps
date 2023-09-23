@@ -1149,3 +1149,4 @@ networking,sshuttle,,https://github.com/sshuttle/sshuttle,Transparent proxy serv
 music,Gomu,,https://github.com/issadarkthing/gomu,"Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively."
 ls,eza,,https://github.com/eza-community/eza,"eza is a modern, _maintained_ replacement for `ls`, built on `exa`."
 music,line,,https://github.com/pd3v/line,Tiny command-line midi sequencer and language for live coding.
+git,git-fuzzy,,https://github.com/bigH/git-fuzzy,Interactive `git` with the help of `fzf`.
