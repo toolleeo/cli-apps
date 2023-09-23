@@ -1158,3 +1158,4 @@ ai,Mods!,,https://github.com/charmbracelet/mods,"AI for the command line, built 
 ai,safespace,,https://github.com/danlou/safespace,Your local AI counselor. LLM app that runs offline from a single binary.
 networking,SMBScan,,https://github.com/jeffhacks/smbscan,SMBScan is a tool to enumerate file shares on an internal network.
 system,rs-env,,https://github.com/sysid/rs-env,"Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files."
+browser,Litter,,https://github.com/tuxcanfly/litter,"Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers."

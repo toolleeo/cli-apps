@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1159**
+* Apps/tools covered: **1160**
 * Number of categories: **69**.
 
 # Index
@@ -56,7 +56,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (30)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (35)
-* [Web browser](#browser) (16), [Web development](#webdev) (24), [Writing](#writing) (9)
+* [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
 
@@ -1460,6 +1460,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [Graphene](https://github.com/atsepkov/Graphene) - A text-based web browser that's a joy to use.
 * [Gremlin](https://github.com/actuday6418/gremlin) - Gemini browser for the terminal.
 * [Links](http://www.jikos.cz/~mikulas/links//) - A textual Web browser with tables and frames.  
+* [Litter](https://github.com/tuxcanfly/litter) - Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers.
 * [Lynx](http://lynx.invisible-island.net/) - A highly configurable text-based web browser, one of the oldest CLI browser I'm aware of.
 * [min](https://github.com/a-h/min) - A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files.
 * [Romulus](https://github.com/LukeEmmet/Romulus) - A cross platform Gemini console client in C# with a simple user interface, interactive menus and mouse support.
