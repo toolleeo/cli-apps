@@ -1151,3 +1151,4 @@ ls,eza,,https://github.com/eza-community/eza,"eza is a modern, _maintained_ repl
 music,line,,https://github.com/pd3v/line,Tiny command-line midi sequencer and language for live coding.
 git,git-fuzzy,,https://github.com/bigH/git-fuzzy,Interactive `git` with the help of `fzf`.
 games,Terminal Roulette,,https://github.com/levkush/TerminalRoulette,Your own roulette table in the terminal.
+cheatsheet,fzf-help,,https://github.com/BartSte/fzf-help,An fzf extension that allows you to select command line options of a given command; the options are retrieved from the command its `--help` documentation.
