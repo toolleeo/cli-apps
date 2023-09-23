@@ -1154,3 +1154,4 @@ games,Terminal Roulette,,https://github.com/levkush/TerminalRoulette,Your own ro
 cheatsheet,fzf-help,,https://github.com/BartSte/fzf-help,An fzf extension that allows you to select command line options of a given command; the options are retrieved from the command its `--help` documentation.
 ai,Instrukt,,https://github.com/blob42/Instrukt,"A integrated AI environment in the terminal. Build, test and instruct agents."
 transfer,newsboat_video_downloader,,https://github.com/Jocomol/newsboat_video_downloader,Downloads content from youtube and have them sorted into different folders depending on the channel.
+ai,Mods!,,https://github.com/charmbracelet/mods,"AI for the command line, built for pipelines."
