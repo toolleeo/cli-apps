@@ -1185,3 +1185,4 @@ file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal fi
 networking,sshs,,https://github.com/quantumsheep/sshs,Terminal user interface for SSH.
 shells,Twin,,https://github.com/cosmos72/twin,"Text mode window environment. A ""retro"" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server."
 utility,plzz,,https://github.com/deep5050/plzz,A python CLI to automate daily tasks of both common and advanced users. It allows to easily launch common and different types of operations such as creating random files or check hashes.
+file-manager,walk,,https://github.com/antonmedv/walk,Simple and minimalistic file system navigator.
