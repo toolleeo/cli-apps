@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1176**
+* Apps/tools covered: **1177**
 * Number of categories: **70**.
 
 # Index
@@ -52,7 +52,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (44), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
-* [Science](#science) (16), [Screen recorder](#screen-recorder) (7), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
+* [Science](#science) (16), [Screen recorder](#screen-recorder) (8), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
@@ -1084,6 +1084,7 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 * [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player link [www.terminalizer.com](www.terminalizer.com).
 * [termtosvg](https://github.com/nbedos/termtosvg) - A Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
 * [ttygif](https://github.com/icholy/ttygif) - ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.
+* [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 * [vhs](https://github.com/charmbracelet/vhs) - Write terminal GIFs as code for integration testing and demoing your CLI tools.
 
 ## <a name="screensaver"></a>Screen savers
