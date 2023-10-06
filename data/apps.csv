@@ -1191,3 +1191,4 @@ utility,tmux-fingers,,https://github.com/morantron/tmux-fingers,Copy pasting in 
 utility,Various Scripts,,https://github.com/xkcd386at/scripts,"Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf."
 git,git absorb,,https://github.com/tummychow/git-absorb,"git commit --fixup, but automatic."
 utility,Zsh Angel IQ System,,https://github.com/psprint/zsh-angel-iq-system,"A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife."
+text-processing,JsonGenius,,https://github.com/semanser/JsonGenius,Self-hosted scraping API that extracts structured data described by a JSON Schema.
