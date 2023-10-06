@@ -1184,3 +1184,4 @@ ai,llm-term,,https://github.com/juftin/llm-term,Chat with OpenAI's GPT models di
 file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal file manager written in Rust.
 networking,sshs,,https://github.com/quantumsheep/sshs,Terminal user interface for SSH.
 shells,Twin,,https://github.com/cosmos72/twin,"Text mode window environment. A ""retro"" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server."
+utility,plzz,,https://github.com/deep5050/plzz,A python CLI to automate daily tasks of both common and advanced users. It allows to easily launch common and different types of operations such as creating random files or check hashes.
