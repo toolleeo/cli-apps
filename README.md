@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1189**
+* Apps/tools covered: **1190**
 * Number of categories: **70**.
 
 # Index
@@ -54,7 +54,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Religion](#religion) (3)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
-* [Utilities](#utility) (31)
+* [Utilities](#utility) (32)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
 * [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
 
@@ -1430,6 +1430,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [tmux-fingers](https://github.com/morantron/tmux-fingers) - Copy pasting in terminal with vimium/vimperator like hints.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
+* [Various Scripts](https://github.com/xkcd386at/scripts) - Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf.
 * [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [yank](https://github.com/mptre/yank) - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
