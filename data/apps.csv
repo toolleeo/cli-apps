@@ -1173,3 +1173,5 @@ file-handling,Fast Files,,https://github.com/mintycube/fast-files,"ff is a bash 
 screen-recorder,agg,,https://github.com/asciinema/agg,agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
 screen-recorder,terminalizer,,https://github.com/faressoft/terminalizer,Record your terminal and generate animated gif images or share a web player link [www.terminalizer.com](www.terminalizer.com).
 screen-recorder,t-rec,,https://github.com/sassman/t-rec-rs,Blazingly fast terminal recorder that generates animated gif images for the web written in rust.
+screen-recorder,termtosvg,,https://github.com/nbedos/termtosvg,A Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
+screen-recorder,ttygif,,https://github.com/icholy/ttygif,ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.
