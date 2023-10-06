@@ -234,7 +234,7 @@ browser,Graphene,,https://github.com/atsepkov/Graphene,A text-based web browser 
 cheatsheet,navi,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.
 data-management-tabular,TSV Utilities,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files."
 graphics,pastel,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors."
-utility,asciinema,,https://github.com/asciinema/asciinema,Terminal session recorder.
+screen-recorder,asciinema,,https://github.com/asciinema/asciinema,Terminal session recorder.
 file-explorer,alder,,https://github.com/aweary/alder,Directory tree visualizer.
 diff,diff-so-fancy,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human readable instead of machine readable.
 text-search,ripgrep-all,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc."
@@ -655,7 +655,7 @@ git,gita,,https://github.com/nosarthur/gita,A command-line tool to manage multip
 games,anonymine,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine,Curses mode minesweeper without guessing and other original features.
 games,greed,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game of consumption. Eat as much as you can before munching yourself into a corner.
 launcher,Mxflow-cli,,https://github.com/metaory/mxflow-cli,"A modern, general purpose CLI task runner with human readable yaml config file."
-graphics,vhs,,https://github.com/charmbracelet/vhs,Write terminal GIFs as code for integration testing and demoing your CLI tools.
+screen-recorder,vhs,,https://github.com/charmbracelet/vhs,Write terminal GIFs as code for integration testing and demoing your CLI tools.
 system,checksum.sh,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh,"Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere."
 data-management,crudini,,https://github.com/pixelb/crudini,A utility for manipulating ini files.
 writing,GTT - Google Translate TUI,,https://github.com/eeeXun/GTT,A TUI interface to bring Google Translation in the terminal.
@@ -1170,4 +1170,5 @@ text-processing,awk,,https://github.com/onetrueawk/awk,"A historical, general-pu
 git,git-booster-cli,,https://github.com/akgondber/git-booster-cli/,Improve your git workflow with customizable and runnable blocks.
 funny,daktilo,,https://github.com/orhun/daktilo,Turn your keyboard into a typewriter adding sounds at each keystroke.
 file-handling,Fast Files,,https://github.com/mintycube/fast-files,"ff is a bash script which is a combination of `mkdir` and `touch`. It can create directory structures and files simultaneously and lists the created objects using `eza`, `lsd`, or `ls`."
-utility,agg,,https://github.com/asciinema/agg,agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
+screen-recorder,agg,,https://github.com/asciinema/agg,agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
+screen-recorder,terminalizer,,https://github.com/faressoft/terminalizer,Record your terminal and generate animated gif images or share a web player link [www.terminalizer.com](www.terminalizer.com).

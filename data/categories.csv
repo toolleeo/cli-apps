@@ -51,6 +51,7 @@ security,Security and encryption,"Cryptography, ciphered archive managers, encry
 shells,Shells,
 music,Sound and music,Music players
 monitor,System monitoring,
+screen-recorder,Screen recorder,"Tools to record the content of the terminal and manage the recording (e.g., converting into animated GIFs)"
 screensaver,Screen savers,
 system,System tools,
 terminal,Terminals,
