@@ -1168,3 +1168,4 @@ viewers,ucollage,,https://github.com/ckardaris/ucollage,An extensible command li
 copilot,Open Interpreter,,https://github.com/KillianLucas/open-interpreter,"OpenAI's Code Interpreter in your terminal, running locally."
 text-processing,awk,,https://github.com/onetrueawk/awk,"A historical, general-purpose text file processor, implements a domain-specific language designed for text processing and typically used as a data extraction and reporting tool."
 git,git-booster-cli,,https://github.com/akgondber/git-booster-cli/,Improve your git workflow with customizable and runnable blocks.
+funny,daktilo,,https://github.com/orhun/daktilo,Turn your keyboard into a typewriter adding sounds at each keystroke.
