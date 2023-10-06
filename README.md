@@ -1562,5 +1562,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
+[Awesome Terminal Recorder](https://github.com/orangekame3/awesome-terminal-recorder) - Curated list of outstanding terminal Recorder that make your day brighter! Each item is associated with an animated GIF that shows some examples of usage.
+
 
 
