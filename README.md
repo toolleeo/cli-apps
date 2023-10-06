@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1179**
+* Apps/tools covered: **1180**
 * Number of categories: **70**.
 
 # Index
@@ -50,7 +50,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Multimedia](#multimedia) (14)
 * [Networking](#networking) (37), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (44), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (10), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (19)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
@@ -992,6 +992,7 @@ A set of tools for improving own productivity that do not deserve (at the moment
 ## <a name="programming"></a>Programming
 
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
+* [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
 * [boilr](https://github.com/tmrts/boilr) - Boilerplate template manager that generates files or directories from template repositories.
 * [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
 * [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
