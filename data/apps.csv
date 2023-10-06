@@ -1176,3 +1176,4 @@ screen-recorder,t-rec,,https://github.com/sassman/t-rec-rs,Blazingly fast termin
 screen-recorder,termtosvg,,https://github.com/nbedos/termtosvg,A Unix terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
 screen-recorder,ttygif,,https://github.com/icholy/ttygif,ttygif converts a ttyrec file into gif files. It's a stripped down version of ttyplay that screenshots every frame.
 screen-recorder,ttystudio,,https://github.com/chjj/ttystudio,"Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc."
+screen-recorder,terminal-recorder,,https://github.com/cortezcristian/terminal-recorder,"Terminal recorder allows you to record your bash session, and export it to html so then you can share it with your friends."
