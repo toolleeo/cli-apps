@@ -1179,3 +1179,4 @@ screen-recorder,ttystudio,,https://github.com/chjj/ttystudio,"Record your termin
 screen-recorder,terminal-recorder,,https://github.com/cortezcristian/terminal-recorder,"Terminal recorder allows you to record your bash session, and export it to html so then you can share it with your friends."
 screen-recorder,goscript,,https://github.com/elisescu/goscript,"Goscript is a tool that records the terminal session (well, any command you run it with) and saves the output in a self contained html file that can be run in the browser, to playback the session."
 programming,argbash,,https://github.com/matejak/argbash,Bash argument parsing code generator.
+file-renamer,Bren,https://www.byteptr.com/bren/,https://github.com/nrosvall/bren,"Bren is a command line tool for GNU/Linux (and many others). It has support for GNU Guile scripting. Bren is simple, fast and it's written in C."
