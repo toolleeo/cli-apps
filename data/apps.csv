@@ -1172,3 +1172,4 @@ funny,daktilo,,https://github.com/orhun/daktilo,Turn your keyboard into a typewr
 file-handling,Fast Files,,https://github.com/mintycube/fast-files,"ff is a bash script which is a combination of `mkdir` and `touch`. It can create directory structures and files simultaneously and lists the created objects using `eza`, `lsd`, or `ls`."
 screen-recorder,agg,,https://github.com/asciinema/agg,agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
 screen-recorder,terminalizer,,https://github.com/faressoft/terminalizer,Record your terminal and generate animated gif images or share a web player link [www.terminalizer.com](www.terminalizer.com).
+screen-recorder,t-rec,,https://github.com/sassman/t-rec-rs,Blazingly fast terminal recorder that generates animated gif images for the web written in rust.
