@@ -1578,5 +1578,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [commandlinefu.com](https://www.commandlinefu.com/commands/browse) - The place to record those command-line gems that you return to again and again. That way others can gain from your CLI wisdom and you from theirs too.
 
+[cli.club](https://cli.club/) - A collection of the best CLI/Ncurses software covering a wide range of categories from messaging, music, text editing and more.
+
 
 
