@@ -1183,3 +1183,4 @@ file-renamer,Bren,https://www.byteptr.com/bren/,https://github.com/nrosvall/bren
 ai,llm-term,,https://github.com/juftin/llm-term,Chat with OpenAI's GPT models directly from the command line.
 file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal file manager written in Rust.
 networking,sshs,,https://github.com/quantumsheep/sshs,Terminal user interface for SSH.
+shells,Twin,,https://github.com/cosmos72/twin,"Text mode window environment. A ""retro"" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server."
