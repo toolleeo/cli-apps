@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1194**
+* Apps/tools covered: **1195**
 * Number of categories: **70**.
 
 # Index
@@ -48,7 +48,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Games](#games) (44), [Git and accessories](#git) (43), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
-* [Networking](#networking) (38), [Note taking](#note-taking) (20)
+* [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
@@ -891,6 +891,7 @@ Programs to deal with networks and communication.
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
 * [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast, cross-platform note-taking application for the UNIX terminal.
 * [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) - Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
+* [zk](https://github.com/mickael-menu/zk) - zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
 
 ## <a name="office"></a>Office tools
 
