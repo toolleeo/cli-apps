@@ -1565,5 +1565,7 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [Awesome Terminal Recorder](https://github.com/orangekame3/awesome-terminal-recorder) - Curated list of outstanding terminal Recorder that make your day brighter! Each item is associated with an animated GIF that shows some examples of usage.
 
+[commandlinefu.com](https://www.commandlinefu.com/commands/browse) - The place to record those command-line gems that you return to again and again. That way others can gain from your CLI wisdom and you from theirs too.
+
 
 
