@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1183**
+* Apps/tools covered: **1184**
 * Number of categories: **70**.
 
 # Index
@@ -48,7 +48,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Games](#games) (44), [Git and accessories](#git) (42), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
-* [Networking](#networking) (37), [Note taking](#note-taking) (20)
+* [Networking](#networking) (38), [Note taking](#note-taking) (20)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (9), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
@@ -851,6 +851,7 @@ Programs to deal with networks and communication.
 * [SMBScan](https://github.com/jeffhacks/smbscan) - SMBScan is a tool to enumerate file shares on an internal network.
 * [sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer.
 * [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+* [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 * [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 * [sslh](https://github.com/yrutschle/sslh) - A ssl/ssh multiplexer (Applicative Protocol Multiplexer) that allows, for example, to share SSH and HTTPS on the same port.

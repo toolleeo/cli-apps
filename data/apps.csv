@@ -1182,3 +1182,4 @@ programming,argbash,,https://github.com/matejak/argbash,Bash argument parsing co
 file-renamer,Bren,https://www.byteptr.com/bren/,https://github.com/nrosvall/bren,"Bren is a command line tool for GNU/Linux (and many others). It has support for GNU Guile scripting. Bren is simple, fast and it's written in C."
 ai,llm-term,,https://github.com/juftin/llm-term,Chat with OpenAI's GPT models directly from the command line.
 file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal file manager written in Rust.
+networking,sshs,,https://github.com/quantumsheep/sshs,Terminal user interface for SSH.
