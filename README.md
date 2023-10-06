@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1190**
+* Apps/tools covered: **1191**
 * Number of categories: **70**.
 
 # Index
@@ -45,7 +45,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (34), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (44), [Git and accessories](#git) (42), [Graphics](#graphics) (31)
+* [Games](#games) (44), [Git and accessories](#git) (43), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
 * [Networking](#networking) (38), [Note taking](#note-taking) (20)
@@ -730,6 +730,7 @@ Fuzzy finders and generic option pickers.
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
 * [git](https://git-scm.com/) - The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend.
 * [git absorb](https://github.com/tummychow/git-absorb/) - git commit --fixup, but automatic.
+* [git absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
 * [Git Auto Sync](https://github.com/GitJournal/git-auto-sync) - Automatically commits changes to a git repository, and always keep that repo up to date.
 * [git commander](https://github.com/golbin/git-commander) - A git tool with an easy interactive terminal interface.
 * [Git Commit Vanity Hash Solver](https://github.com/trichner/gitc0ffee) - Neat tool to find a 'vanity' hash for a given git commit. Make all your commits hashes start with the prefix c0ffee, cafe, badc0de5 or whatever makes you happy!

@@ -1189,3 +1189,4 @@ file-manager,walk,,https://github.com/antonmedv/walk,Simple and minimalistic fil
 cd,nav,,https://github.com/dkaslovsky/nav,Terminal navigator for interactive ls workflows.
 utility,tmux-fingers,,https://github.com/morantron/tmux-fingers,Copy pasting in terminal with vimium/vimperator like hints.
 utility,Various Scripts,,https://github.com/xkcd386at/scripts,"Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf."
+git,git absorb,,https://github.com/tummychow/git-absorb,"git commit --fixup, but automatic."
