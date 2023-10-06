@@ -1170,3 +1170,4 @@ text-processing,awk,,https://github.com/onetrueawk/awk,"A historical, general-pu
 git,git-booster-cli,,https://github.com/akgondber/git-booster-cli/,Improve your git workflow with customizable and runnable blocks.
 funny,daktilo,,https://github.com/orhun/daktilo,Turn your keyboard into a typewriter adding sounds at each keystroke.
 file-handling,Fast Files,,https://github.com/mintycube/fast-files,"ff is a bash script which is a combination of `mkdir` and `touch`. It can create directory structures and files simultaneously and lists the created objects using `eza`, `lsd`, or `ls`."
+utility,agg,,https://github.com/asciinema/agg,agg is a command-line tool for generating animated GIF files from asciicast v2 files produced by `asciinema` terminal recorder.
