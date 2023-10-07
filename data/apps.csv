@@ -226,7 +226,7 @@ data-management,GNU Recutils,https://www.gnu.org/software/recutils/manual/,,"Set
 games,terminal_board_games,,https://github.com/salt-die/terminally_bored_terminal_board_games,Board games for the terminal.
 games,minesweeper,,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.
 games,Terminal Phase,https://dustycloud.org/blog/terminal-phase-1.0/,https://gitlab.com/dustyweb/terminal-phase,A space shooter game you can play in your terminal.
-cd,broot,https://dystroy.org/broot/,https://github.com/Canop/broot,"A new way to navigate directory trees on linux, made in rust."
+cd,broot,https://dystroy.org/broot/,https://github.com/Canop/broot,"broot displays an optimized (omitting unnecessary content) tree view of the filesystem, allowing to fuzzy search files and folder, and move to specified directories."
 calc,Nota,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calculator with rich notation.
 editors,vy,,https://github.com/vyapp/vy,A vim-like in python made from scratch.
 programming,pire,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.
