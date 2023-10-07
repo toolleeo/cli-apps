@@ -976,7 +976,7 @@ todo-manager,td,,https://github.com/wolandark/td,Simple & elegant To Do list man
 ai,gpterm,,https://github.com/MakisChristou/gpterm,Yet another command-line chat GPT frontend written in Rust.
 utility,fzf-tab-completion,,https://github.com/lincheney/fzf-tab-completion,Tab completion using fzf.
 writing,Grammatical,,https://github.com/pncnmnp/grammatical,Corrects the spelling and grammar of your text using ChatGPT.
-cd,Apparition,,https://github.com/david-haerer/apparition,Apparate through your file system.
+cd,Apparition,,https://github.com/david-haerer/apparition,"Apparition allows to give names to paths, so that moving to the specific path can be done by using the name; it also allows to manage the list of assigned names."
 ai,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 ai,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 terminal,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
