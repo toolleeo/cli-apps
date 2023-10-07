@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1196**
+* Apps/tools covered: **1194**
 * Number of categories: **70**.
 
 # Index
@@ -42,9 +42,9 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [AI / ChatGPT](#ai) (13), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (8), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (14)
-* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (34), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (34), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (44), [Git and accessories](#git) (44), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Multimedia](#multimedia) (14)
@@ -406,7 +406,6 @@ Tools for improving the efficiency of directory traversal.
 * [fastdiract](https://github.com/dp12/fastdiract) - Lightning-fast cd and command execution.
 * [fz](https://github.com/changyuheng/fz.sh) - Fuzzy tab completion for z.
 * [Jmp](https://github.com/gholmes829/Jmp) - Change directory with smart searching of the path specified through regex.
-* [llama](https://github.com/antonmedv/llama) - Minimalistic file opener and directory changer focused on fuzzy searching the path.
 * [menucd](https://github.com/andy5995/menucd) - Directory browser and changer for the command line.
 * [nav](https://github.com/dkaslovsky/nav) - Terminal navigator for interactive ls workflows.
 * [pazi](https://github.com/euank/pazi) - Fast autojump helper.
@@ -577,7 +576,6 @@ Search the filesystem looking for files with specific characteristics.
 * [rnr](https://github.com/bugnano/rnr) - The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.
 * [TUIFI Manager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
 * [vifm](https://vifm.info/) - "ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt" (cit.).
-* [walk](https://github.com/antonmedv/walk) - Simple and minimalistic file system navigator.
 * [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## <a name="file-renamer"></a>File renamers

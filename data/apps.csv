@@ -353,7 +353,6 @@ monitor,screenFetch,,https://github.com/KittyKatt/screenFetch,It can be used to 
 graphics,inklayers,,https://github.com/toolleeo/inklayers,A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.
 programming,pvcheck,,https://github.com/claudio-unipv/pvcheck,"A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes."
 cd,Jmp,,https://github.com/gholmes829/Jmp,Change directory with smart searching of the path specified through regex.
-cd,llama,,https://github.com/antonmedv/llama,Minimalistic file opener and directory changer focused on fuzzy searching the path.
 git,Gitea,https://gitea.com/,https://github.com/go-gitea/gitea,Single binary self-hosted Git service.
 git,Soft Serve,,https://github.com/charmbracelet/soft-serve,Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
 text-processing,deadlink,,https://github.com/nschloe/deadlink,Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
@@ -1185,7 +1184,6 @@ file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal fi
 networking,sshs,,https://github.com/quantumsheep/sshs,Terminal user interface for SSH.
 shells,Twin,,https://github.com/cosmos72/twin,"Text mode window environment. A ""retro"" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server."
 utility,plzz,,https://github.com/deep5050/plzz,A python CLI to automate daily tasks of both common and advanced users. It allows to easily launch common and different types of operations such as creating random files or check hashes.
-file-manager,walk,,https://github.com/antonmedv/walk,Simple and minimalistic file system navigator.
 cd,nav,,https://github.com/dkaslovsky/nav,Terminal navigator for interactive ls workflows.
 utility,tmux-fingers,,https://github.com/morantron/tmux-fingers,Copy pasting in terminal with vimium/vimperator like hints.
 utility,Various Scripts,,https://github.com/xkcd386at/scripts,"Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf."
