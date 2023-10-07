@@ -416,7 +416,7 @@ Tools for improving the efficiency of directory traversal.
 * [SmartCd](https://github.com/CodesOfRishi/smartcd) - A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.
 * [z](https://github.com/rupa/z) - Directory changer based on aging and frecency.
 * [z.lua](https://github.com/skywind3000/z.lua) - Directory changer that learns your habits.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - It remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes.
 
 ## <a name="disk-analyzer"></a>Disk usage analyzers
 

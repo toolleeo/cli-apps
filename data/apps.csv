@@ -209,7 +209,7 @@ password-manager,pass,https://www.passwordstore.org/,https://git.zx2c4.com/passw
 password-manager,dpg,,,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
 multimedia,yt-splitter,,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 backup,bupstash,,https://github.com/andrewchambers/bupstash,Easy and efficient encrypted backups.
-cd,zoxide,,https://github.com/ajeetdsouza/zoxide,A faster way to navigate your filesystem.
+cd,zoxide,,https://github.com/ajeetdsouza/zoxide,"It remembers which directories you use most frequently, so you can ""jump"" to them in just a few keystrokes."
 viewers,TerminalImageViewer,,https://github.com/stefanhaustein/TerminalImageViewer,Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 monitor,whowatch,https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/,,Monitor Linux Users and Processes in Real Time.
 time-tracker,dijo,,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker."
