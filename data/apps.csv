@@ -734,7 +734,7 @@ file-handling,unix-permissions,,https://github.com/ehmicky/unix-permissions,Swis
 launcher,entr,,https://github.com/eradman/entr,Event Notify Test Runner - Run an arbitrary command when files change.
 file-dir-cleanup,organize-cli,,https://github.com/ManrajGrover/organize-cli,Organize your files automatically.
 file-explorer,tre,,https://github.com/dduan/tre,"`tree` command improved with git awareness, editor aliasing, and colors."
-cd,autojump,,https://github.com/wting/autojump,A cd command that learns - easily navigate directories from the command line.
+cd,autojump,,https://github.com/wting/autojump,A cd command that maintains a database of most visited paths and allows the access to a directory with shortened versions of the path.
 cd,pm,,https://github.com/Angelmmiguel/pm,"The easy way to switch between your projects on ZSH. In short, another directory changer."
 git,git commander,,https://github.com/golbin/git-commander,A git tool with an easy interactive terminal interface.
 git,gitlab-cli,,https://github.com/vishwanatharondekar/gitlab-cli,Create GitLab merge requests.
