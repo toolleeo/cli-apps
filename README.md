@@ -958,7 +958,7 @@ Manage/install/uninstall packages, as source code or binaries.
 * [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
 * [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
-* [shell-bling-ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
+* [Shell Bling Ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
 * [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 
 ## <a name="password-manager"></a>Password managers
