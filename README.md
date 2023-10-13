@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1194**
+* Apps/tools covered: **1195**
 * Number of categories: **70**.
 
 # Index
@@ -42,7 +42,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [AI / ChatGPT](#ai) (13), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (8), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (14)
-* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (34), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (35), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (13)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (44), [Git and accessories](#git) (42), [Graphics](#graphics) (31)
@@ -356,6 +356,7 @@ Tools to manage tabular data files (CSV, xls, database tables, etc.).
 * [sitecopy](http://www.manyfish.co.uk/sitecopy/) - Synchronizes a local copy of a website with a remote copy on a server, does not use SSH/`scp` but FTP for file copy, useful when the remote server does not support secure copy.
 * [stftp](http://stftp.sourceforge.net/) - (simple terminal FTP) aims to be a "easy-to-use and unbloated client for the UNIX (and UNIX-like) console".
 * [tran](https://github.com/abdfnx/tran) - Securely transfer and send anything between computers with TUI.
+* [tshare](https://github.com/trikko/tshare) - The fastest way to share your files on the web, for free.
 * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - File synchronizer. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.
 * [Woof](http://www.home.unix-ag.org/simon/woof.html) - (Web Offer One File) sets up an HTTP webserver to serve files from a given local directory all the users connected to the network can see and download the files.
 * [xh](https://github.com/ducaale/xh) - xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.
