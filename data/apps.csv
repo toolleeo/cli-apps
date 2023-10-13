@@ -1195,3 +1195,4 @@ package-manager,Shell Bling Ubuntu,,https://github.com/hiAndrewQuinn/shell-bling
 system,rfsh,,https://github.com/docsion/rfsh,"Run shell scripts in batch, concurrently, fully customized with variable."
 transfer,tshare,,https://github.com/trikko/tshare,"The fastest way to share your files on the web, for free."
 launcher,climenu,,https://github.com/10xJSChad/climenu,Compact application for creating shell menus with executable entries. Use it to build straightforward static shortcut menus or dynamically generate advanced menus for more complex programs.
+system,ydf,,https://github.com/yunielrc/ydf,A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
