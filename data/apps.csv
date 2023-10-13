@@ -1180,16 +1180,13 @@ screen-recorder,goscript,,https://github.com/elisescu/goscript,"Goscript is a to
 programming,argbash,,https://github.com/matejak/argbash,Bash argument parsing code generator.
 file-renamer,Bren,https://www.byteptr.com/bren/,https://github.com/nrosvall/bren,"Bren is a command line tool for GNU/Linux (and many others). It has support for GNU Guile scripting. Bren is simple, fast and it's written in C."
 ai,llm-term,,https://github.com/juftin/llm-term,Chat with OpenAI's GPT models directly from the command line.
-file-manager,joshuto,,https://github.com/kamiyaa/joshuto,ranger-like terminal file manager written in Rust.
 networking,sshs,,https://github.com/quantumsheep/sshs,Terminal user interface for SSH.
 shells,Twin,,https://github.com/cosmos72/twin,"Text mode window environment. A ""retro"" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server."
 utility,plzz,,https://github.com/deep5050/plzz,A python CLI to automate daily tasks of both common and advanced users. It allows to easily launch common and different types of operations such as creating random files or check hashes.
 cd,nav,,https://github.com/dkaslovsky/nav,Terminal navigator for interactive ls workflows.
 utility,tmux-fingers,,https://github.com/morantron/tmux-fingers,Copy pasting in terminal with vimium/vimperator like hints.
 utility,Various Scripts,,https://github.com/xkcd386at/scripts,"Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf."
-git,git absorb,,https://github.com/tummychow/git-absorb,"git commit --fixup, but automatic."
 utility,Zsh Angel IQ System,,https://github.com/psprint/zsh-angel-iq-system,"A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife."
 text-processing,JsonGenius,,https://github.com/semanser/JsonGenius,Self-hosted scraping API that extracts structured data described by a JSON Schema.
 utility,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
 note-taking,zk,,https://github.com/mickael-menu/zk,zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
-git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"A simple command line program to automatically commit changes to your git repo, and always keep that repo up to date."
