@@ -1190,3 +1190,4 @@ utility,Zsh Angel IQ System,,https://github.com/psprint/zsh-angel-iq-system,"A b
 text-processing,JsonGenius,,https://github.com/semanser/JsonGenius,Self-hosted scraping API that extracts structured data described by a JSON Schema.
 utility,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
 note-taking,zk,,https://github.com/mickael-menu/zk,zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
+system,play,,https://github.com/paololazzari/play,"TUI playground for your favorite programs, such as grep, sed and awk."
