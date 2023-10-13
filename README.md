@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1197**
+* Apps/tools covered: **1198**
 * Number of categories: **70**.
 
 # Index
@@ -52,7 +52,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [Religion](#religion) (3)
-* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (41), [System tools](#system) (22)
+* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (42), [System tools](#system) (22)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (34)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
@@ -1198,6 +1198,7 @@ Music players.
 * [dmidecode](https://www.nongnu.org/dmidecode/) - System information utility.
 * [dysk](https://dystroy.org/dysk) - A thing to get information on your mounted disks
 * [Fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in C.
+* [ghfetch](https://github.com/orangekame3/ghfetch) - ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 * [glances](https://nicolargo.github.io/glances/) - A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
 * [htop](http://hisham.hm/htop/) - An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors.
 * [HyFetch](https://github.com/hykilpikonna/hyfetch) - A fork of the abandoned [Neofetch](https://github.com/dylanaraps/neofetch), HyFetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice.
