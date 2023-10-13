@@ -1194,3 +1194,4 @@ system,play,,https://github.com/paololazzari/play,"TUI playground for your favor
 package-manager,Shell Bling Ubuntu,,https://github.com/hiAndrewQuinn/shell-bling-ubuntu,"A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy."
 system,rfsh,,https://github.com/docsion/rfsh,"Run shell scripts in batch, concurrently, fully customized with variable."
 transfer,tshare,,https://github.com/trikko/tshare,"The fastest way to share your files on the web, for free."
+launcher,climenu,,https://github.com/10xJSChad/climenu,Compact application for creating shell menus with executable entries. Use it to build straightforward static shortcut menus or dynamically generate advanced menus for more complex programs.
