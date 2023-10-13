@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1198**
+* Apps/tools covered: **1199**
 * Number of categories: **70**.
 
 # Index
@@ -51,7 +51,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
-* [Religion](#religion) (3)
+* [Religion](#religion) (4)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (42), [System tools](#system) (22)
 * [Terminals](#terminal) (12), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (34)
@@ -1060,6 +1060,7 @@ Tools to handle religious material.
 * [bbl](https://github.com/nehemiaharchives/bbl) - Read, search Holy Bible in command line.
 * [bible](https://github.com/BibleJS/BibleApp) - Read the Holy Bible via the command line.
 * [ltorah](https://github.com/Mandrew0822/ltorah) - ltorah provides a way to read the ancient hebrew Torah from the command line.
+* [The Rock](https://gitlab.com/NoahJelen/the-rock) - Command line King James bible viewer for Linux systems modeled after Debian's bible-kjv, but with extra features.
 
 ## <a name="science"></a>Science
 
