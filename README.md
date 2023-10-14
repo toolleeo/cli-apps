@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1199**
+* Apps/tools covered: **1200**
 * Number of categories: **70**.
 
 # Index
@@ -53,7 +53,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [Religion](#religion) (4)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (42), [System tools](#system) (22)
-* [Terminals](#terminal) (12), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
+* [Terminals](#terminal) (13), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (34)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (36)
 * [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
@@ -1272,6 +1272,7 @@ Music players.
 * [tmux-session](https://github.com/BartSte/tmux-session) - Manage tmux sessions using fzf.
 * [vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing.
 * [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.  
+* [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
 * [Zellij](https://github.com/zellij-org/zellij) - A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer.
 
 ## <a name="text-processing"></a>Text processing
