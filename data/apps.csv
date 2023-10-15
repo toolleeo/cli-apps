@@ -1200,3 +1200,4 @@ monitor,ghfetch,,https://github.com/orangekame3/ghfetch,ghfetch is a CLI tool to
 religion,The Rock,,https://gitlab.com/NoahJelen/the-rock,"Command line King James bible viewer for Linux systems modeled after Debian's bible-kjv, but with extra features."
 terminal,wezterm,,https://github.com/wez/wezterm,A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
 monitor,bashtop,,https://github.com/aristocratos/bashtop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes."
+monitor,gtop,,https://github.com/aksakalli/gtop,System monitoring dashboard for terminal written in Node.js.
