@@ -319,7 +319,7 @@ music,castero,,https://github.com/xgi/castero,A TUI podcast client for the termi
 security,GnuPG,https://gnupg.org/,https://dev.gnupg.org/source/gnupg.git,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 chat,tiny,,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.
 note-taking,Standard Unix Notes,,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.
-monitor,below,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
+monitor-top,below,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems
 monitor,dysk,https://dystroy.org/dysk,https://github.com/Canop/dysk,A thing to get information on your mounted disks
 webdev,ain,,https://github.com/jonaslu/ain,An HTTP API client for the terminal.
 conversion,BaFi,https://mmalcek.github.io/bafi/,https://github.com/mmalcek/bafi,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates."
