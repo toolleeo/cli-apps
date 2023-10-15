@@ -34,19 +34,19 @@ terminal,screen,https://www.gnu.org/software/screen/,https://git.savannah.gnu.or
 terminal,Tmate,https://tmate.io/,https://github.com/tmate-io/tmate,"A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues."
 terminal,tmux,https://tmux.github.io/,https://github.com/tmux/tmux,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
 terminal,warp,,https://github.com/spolu/warp,Secure and simple terminal sharing.  
-monitor,bpytop,,https://github.com/aristocratos/bpytop,Linux/OSX/FreeBSD resource monitor with a nice interface.
+monitor-top,bpytop,,https://github.com/aristocratos/bpytop,Linux/OSX/FreeBSD resource monitor with a nice interface.
 monitor,glances,https://nicolargo.github.io/glances/,https://github.com/nicolargo/glances,"A comprehensive and detailed system monitoring tool; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
 utility,GoTTY,,https://github.com/yudai/gotty,"A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
 monitor,inxi,http://smxi.org/docs/inxi.htm,https://github.com/smxi/inxi,"A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script."
-monitor,iotop,http://guichaz.free.fr/iotop/,https://repo.or.cz/iotop.git,"""A Python program with a top like UI used to show of behalf of which process is the I/O going on""."
-monitor,htop,http://hisham.hm/htop/,https://github.com/htop-dev/htop,"An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors."
+monitor-top,iotop,http://guichaz.free.fr/iotop/,https://repo.or.cz/iotop.git,"""A Python program with a top like UI used to show of behalf of which process is the I/O going on""."
+monitor-top,htop,http://hisham.hm/htop/,https://github.com/htop-dev/htop,"An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors."
 monitor,multitail,https://www.vanheusden.com/multitail/,https://github.com/folkertvanheusden/multitail,A command to open multiple log files in a single terminal window and monitor them in real-time.  
 monitor,ngrep,http://ngrep.sourceforge.net/,https://github.com/jpr5/ngrep,"(Network grep) applies the `grep` logic to the network layer, allowing to match regular expressions against data payloads of packets; it recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces."
 file-handling,progress,,https://github.com/Xfennec/progress,"A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation."
 monitor,powertop,https://01.org/powertop,https://github.com/fenrus75/powertop,"A `top`-like utility to monitor the sources of power consumption, allows to turn on/off many components, quite useful to track possible power-related issues."
 monitor,sysdig,https://www.sysdig.org/,https://github.com/draios/sysdig,"Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system."
 monitor,smem,https://www.selenic.com/smem/,https://selenic.com/repo/smem,"Python program that reports memory usage; it can report the ""proportional set size"" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation."
-monitor,top,,https://gitlab.com/procps-ng/procps,The classical Unix utility that provides a rolling display of top cpu using processes.  
+monitor-top,top,,https://gitlab.com/procps-ng/procps,The classical Unix utility that provides a rolling display of top cpu using processes.  
 monitor,watch,http://www.linfo.org/watch.html,https://gitlab.com/procps-ng/procps/,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
 productivity,wtf,,https://github.com/wtfutil/wtf,"The personal information dashboard for your terminal, including todos, calendar, JIRA, etc."
 shells,Bash,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/git/bash.git,(Bourne Again SHell) The most widespread system shell to date.  
@@ -378,7 +378,7 @@ cheatsheet,tealdeer,,https://github.com/dbrgn/tealdeer,Very fast implementation 
 file-handling,xcp,,https://github.com/tarka/xcp,Extended cp.
 cd,pazi,,https://github.com/euank/pazi,Fast autojump helper.
 file-manager,hunter,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.
-monitor,ytop,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.
+monitor-top,ytop,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.
 monitor,noti,,https://github.com/variadico/noti,Monitor a process and trigger a notification.
 devops,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
 find,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
@@ -558,7 +558,7 @@ games,Pokete,,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like
 git,czg,,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.
 transfer,portal,,https://github.com/SpatiumPortae/portal,A quick and easy command-line file transfer utility from any computer to another.
 funny,pokeget,,https://github.com/talwat/pokeget,A bash script you can use to display cool sprites of pokemon in your terminal.
-monitor,tiptop,,https://github.com/nschloe/tiptop,"A command-line system monitoring tool in the spirit of top, written in Python. It displays various interesting system stats and graphs them. Works on all operating systems."
+monitor-top,tiptop,,https://github.com/nschloe/tiptop,"A command-line system monitoring tool in the spirit of top, written in Python. It displays various interesting system stats and graphs them. Works on all operating systems."
 webdev,iola,,https://github.com/pvarentsov/iola,A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.
 data-management,lowcharts,,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
 note-taking,nb,,https://github.com/xwmx/nb,"A command line and local web note-taking, bookmarking, archiving, and knowledge base application."
@@ -822,7 +822,7 @@ terminal,peaches,,https://github.com/KCaverly/peaches,A smart switcher for the t
 funny,Maze Solver,,https://github.com/Vlamonster/maze_solver_rust,"Generate, display and solve mazes in an animated way in the terminal."
 data-management-tabular,Miller,,https://github.com/johnkerl/miller,"Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed."
 data-management,datasetGPT,,https://github.com/radi-cho/datasetGPT,A command-line interface and a Python library for inferencing Large Language Models to generate textual datasets.
-monitor,nvitop,,https://github.com/XuehaiPan/nvitop,"An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management."
+monitor-top,nvitop,,https://github.com/XuehaiPan/nvitop,"An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management."
 utility,guesswidth,,https://github.com/noborus/guesswidth,Guess the width output without delimiters in commands that output to the terminal.
 todo-manager,mdt,,https://github.com/basilioss/mdt,A simple command-line markdown todo list manager inspired by t.
 editors,pickaxe,,https://github.com/mdom/pickaxe,The redmine wiki editor.
@@ -844,7 +844,7 @@ password-manager,pa,,https://github.com/biox/pa,"A simple password manager; encr
 rss,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
 editors,VE,http://www.inverary.net/ve/ve.html,,"Lean, fast and feature rich text editor."
 file-manager,TUIFI Manager,,https://github.com/GiorgosXou/TUIFIManager,"A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is."
-monitor,ttop,,https://github.com/inv2004/ttop,"top-like system monitoring tool with TUI, historical data service and triggers."
+monitor-top,ttop,,https://github.com/inv2004/ttop,"top-like system monitoring tool with TUI, historical data service and triggers."
 transfer,Yark,,https://github.com/Owez/yark,YouTube archiving made simple.
 networking,ttyd,,https://github.com/tsl0922/ttyd,Share your terminal over the web.
 file-renamer,mmv-c,,https://github.com/mcauley-penney/mmv-c,Interactively rename files with your favorite editor.
@@ -893,7 +893,7 @@ cheatsheet,docfd,,https://github.com/darrenldl/docfd,TUI fuzzy document finder t
 git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster."
 utility,Skylab,,https://github.com/SerhiiStets/skylab,A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
 multimedia,YouTube TUI,https://siriusmart.github.io/youtube-tui/,https://github.com/Siriusmart/youtube-tui,A lightweight and user friendly TUI for browsing YouTube content from the terminal.
-monitor,PCtrl,,https://github.com/MohamedSherifNoureldin/PCtrl,"Robust, featureful, easy-to-use and powerful process manager."
+monitor-top,PCtrl,,https://github.com/MohamedSherifNoureldin/PCtrl,"Robust, featureful, easy-to-use and powerful process manager."
 git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"Automatically commits changes to a git repository, and always keep that repo up to date."
 note-taking,meudeus,,https://github.com/dj8yfo/meudeus,A skim-based `*.md` explore and surf tool.
 diff,Dirdiff,,https://github.com/OCamlPro/dirdiff,Efficiently compute the differences between two directories.
@@ -1007,7 +1007,7 @@ funny,ascii-movie,,https://github.com/gabe565/ascii-movie,Allows to play the ASC
 text-search-replace,repgrep,,https://github.com/acheronfail/repgrep,A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 graphics,rclip,,https://github.com/yurijmikhalevich/rclip,AI-Powered Command-Line Photo Search Tool.
 science,bibtools,,https://github.com/pkgw/bibtools,Command-line bibliography manager.
-monitor,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
+monitor-top,TTV,,https://github.com/caio-ishikawa/term-task-viewer,terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
 prompt,Basta!,https://www.kylheku.com/cgit/basta/about/,https://www.kylheku.com/git/basta,A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
 security,safe,https://z3bra.org/safe/,git://z3bra.org/safe.git,Password protected secret keeper. Secrets are encrypted and stored on disk using a key derivated from your master password - no keys to manage.
 text-processing,skroll,https://z3bra.org/skroll/,git://z3bra.org/skroll.git,"A small utility that you can use to make a text scroll. Pipe text to it, and it will scroll a given number of letters from right to left."
@@ -1036,7 +1036,7 @@ networking,ejabberd,https://www.ejabberd.im/,https://github.com/processone/ejabb
 rss,openring,,https://git.sr.ht/~sircmpwn/openring,"A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog."
 productivity,TUI apps,,https://github.com/learnbyexample/TUI-apps,"A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc."
 viewers,Oyomu,,https://github.com/EruEri/oyomu,A command line comic reader and collection manager.
-monitor,procs,,https://github.com/dalance/procs,A modern replacement for ps written in Rust.
+monitor-top,procs,,https://github.com/dalance/procs,A modern replacement for ps written in Rust.
 text-processing,Line Select,,https://github.com/urbanogilson/lineselect,"A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision."
 graphics,BlockPaint,,https://github.com/wooster0/blockpaint,BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
 data-management-tabular,pykli,,https://github.com/eshepelyuk/pykli,Interactive ksqlDB command line client with autocompletion and syntax highlighting written in Python.
@@ -1072,7 +1072,7 @@ backup,bup,https://bup.github.io/,https://github.com/bup/bup,"Very efficient bac
 backup,rdiff-backup,https://rdiff-backup.net/,https://github.com/rdiff-backup/rdiff-backup,"Reverse differential backup tool, over a network or locally, using the same protocol as rsync to transfer and store data."
 file-handling,symlinks,,https://github.com/brandt/symlinks,Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
 file-handling,compsize,,https://github.com/kilobyte/compsize,Find compression type/ratio on a file or set of files on a btrfs file system.
-monitor,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
+monitor-top,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
 monitor,LNAV,,https://github.com/tstack/lnav,Log file navigator.
 password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client for Bitwarden that is “stateful”, i.e., it does not require required the manual lock and unlock of the client."
 password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
@@ -1199,9 +1199,9 @@ system,ydf,,https://github.com/yunielrc/ydf,A disruptive dotfiles manager+. Be r
 online,ghfetch,,https://github.com/orangekame3/ghfetch,ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 religion,The Rock,,https://gitlab.com/NoahJelen/the-rock,"Command line King James bible viewer for Linux systems modeled after Debian's bible-kjv, but with extra features."
 terminal,wezterm,,https://github.com/wez/wezterm,A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
-monitor,bashtop,,https://github.com/aristocratos/bashtop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes."
-monitor,gtop,,https://github.com/aksakalli/gtop,System monitoring dashboard for terminal written in Node.js.
-monitor,vtop,,https://github.com/MrRio/vtop,Alternative to top with several additional stats.
-monitor,atop,https://www.atoptool.nl/index.php,,"Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc."
-monitor,nmon,https://nmon.sourceforge.io/pmwiki.php,,Nigel's performance Monitor for Linux.
+monitor-top,bashtop,,https://github.com/aristocratos/bashtop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes."
+monitor-top,gtop,,https://github.com/aksakalli/gtop,System monitoring dashboard for terminal written in Node.js.
+monitor-top,vtop,,https://github.com/MrRio/vtop,Alternative to top with several additional stats.
+monitor-top,atop,https://www.atoptool.nl/index.php,,"Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc."
+monitor-top,nmon,https://nmon.sourceforge.io/pmwiki.php,,Nigel's performance Monitor for Linux.
 email,Notmuch,,https://git.notmuchmail.org/git/notmuch,"Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages."
