@@ -1204,3 +1204,4 @@ monitor,gtop,,https://github.com/aksakalli/gtop,System monitoring dashboard for 
 monitor,vtop,,https://github.com/MrRio/vtop,Alternative to top with several additional stats.
 monitor,atop,https://www.atoptool.nl/index.php,,"Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc."
 monitor,nmon,https://nmon.sourceforge.io/pmwiki.php,,Nigel's performance Monitor for Linux.
+email,Notmuch,,https://git.notmuchmail.org/git/notmuch,"Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages."
