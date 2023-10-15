@@ -35,27 +35,27 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 # Summary
 
 * Apps/tools covered: **1206**
-* Number of categories: **70**.
+* Number of categories: **71**.
 
 # Index
 
 * [AI / ChatGPT](#ai) (13), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (8), [Command launchers](#launcher) (19), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (14)
-* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (39), [Data management - Tabular data](#data-management-tabular) (17), [Data transfer](#transfer) (35), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
+* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (8), [Command launchers](#launcher) (19), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (12)
+* [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (42), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (35), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (45), [Git and accessories](#git) (42), [Graphics](#graphics) (31)
 * [History management](#history) (4)
-* [Multimedia](#multimedia) (14)
+* [Markdown](#markdown) (11), [Multimedia](#multimedia) (14)
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (14), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Productivity](#productivity) (9), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [Religion](#religion) (4)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (47), [System tools](#system) (22)
-* [Terminals](#terminal) (13), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
+* [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (34)
-* [Versioning](#versioning) (6), [Viewers](#viewers) (36)
+* [Versioning](#versioning) (6), [Viewers](#viewers) (24)
 * [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
@@ -234,8 +234,6 @@ File format converters.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text, output is sent to the standard output.
 * [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
 * [jsonify-resume](https://github.com/ashishbinu/jsonify-resume) - A cli that converts resumes into JSON Resume schema.
-* [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
-* [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
 * [Sfeed](https://codemadness.org/sfeed.html) - Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
@@ -281,11 +279,13 @@ Tools to manage data files in JSON/YAML and similar formats.
 * [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
 * [jj](https://github.com/tidwall/jj) - A command line utility that provides a fast and simple way to retrieve or update values from JSON documents.
 * [jl](https://github.com/chrisdone/jl) - jl ("JSON lambda") is a tiny functional language for querying and manipulating JSON.
+* [jless](https://pauljuliusmartinez.github.io/) - Command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from the command line.
 * [jp](https://github.com/therealklanni/jp) - A tiny commandline tool for parsing JSON from any source.
 * [jp](https://github.com/jmespath/jp) - A command line interface to JMESPath, an expression language for manipulating JSON.
 * [jq](https://stedolan.github.io/jq/) - (JSON Query?) is sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
 * [jqp](https://github.com/noahgorstein/jqp) - A TUI playground for exploring jq.
+* [jqview](https://github.com/fiatjaf/jqview) - Simplest possible native GUI for inspecting JSON.
 * [Jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON. You work with an array of JSON objects read from stdin, filter them using JavaScript to produce a results array that is printed to stdout.
 * [jsed](https://github.com/jtopjian/jsed) - jsed is a small command-line utility to add, remove, and search for data in a JSON structure.
 * [jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
@@ -304,6 +304,7 @@ Tools to manage data files in JSON/YAML and similar formats.
 * [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
 * [TickTick](https://github.com/kristopolous/TickTick) - TickTick enables you to put JSON in bash scripts. Yes, just encapsulate them with two back-ticks.
 * [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
+* [vj](https://github.com/busyloop/vj) - JSON Humanizer makes JSON human readable by applying visual formatting.
 * [YAML Paths](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
 * [yq](https://github.com/mikefarah/yq) - Portable command-line YAML processor.
 
@@ -323,8 +324,10 @@ Tools to manage tabular data files (CSV, xls, database tables, etc.).
 * [q](http://harelba.github.io/q/) - Executes SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; support to all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`).
 * [Soul](https://github.com/thevahidal/soul) - A SQLite REST and realtime server.
 * [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.
+* [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
 * [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing databases, written in pure Go.
 * [TSV Utilities](https://github.com/eBay/tsv-utils) - Command line tools for large, tabular data files.
+* [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 * [usql](https://github.com/xo/usql) - Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases.
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [xsv](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/) - Doing a SQL join with CSV files.
@@ -805,6 +808,22 @@ Programs to replace or improve the management of command line history.
 * [Bevel](https://github.com/NorfairKing/bevel) - Command line history in an SQLite database for effective re-use.
 * [hiSHtory](https://github.com/ddworken/hishtory) - A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers.
 * [hstr](https://github.com/dvorka/hstr) - A tool for managing the history, powerful visual search and execution of previous commands, history editing capabilities.
+
+## <a name="markdown"></a>Markdown
+
+Utilities to display and convert Markdown files.
+
+* [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
+* [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown viewer / browser for the terminal.
+* [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz!
+* [Grip](https://github.com/joeyespo/grip) - GitHub Readme Instant Preview - Preview markdown files as GitHub would render them.
+* [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
+* [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
+* [mdcat](https://github.com/swsnr/mdcat) - cat for Markdown
+* [mdformat](https://github.com/executablebooks/mdformat) - Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
+* [mdt](https://github.com/robolab-pavia/mdt) - MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
+* [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer for the terminal.
+* [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Experimental "Markdown browser" for the terminal, built with Textual.
 
 ## <a name="multimedia"></a>Multimedia
 
@@ -1289,7 +1308,6 @@ Music players.
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
 * [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
 * [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
-* [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 * [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust. Not limited to the command line.
 * [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 * [grc](https://github.com/pengwynn/grc) - (Generic Colouriser) can be configured to parse a given text stream and to colorize it according to regexp written in configuration files, different patterns can be associated to file types.
@@ -1302,7 +1320,6 @@ Music players.
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 * [Line Select](https://github.com/urbanogilson/lineselect) - A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
-* [mdformat](https://github.com/executablebooks/mdformat) - Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 * [Normalize Country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard.
 * [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
 * [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
@@ -1467,15 +1484,8 @@ Games and utilities to measure and/or improve the typing ability.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
 * [Canto Curses](https://github.com/themoken/canto-curses) - Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
 * [ccat](https://github.com/owenthereal/ccat) - A `cat` command with colorized output.  
-* [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown viewer / browser for the terminal.
-* [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz!
-* [Grip](https://github.com/joeyespo/grip) - GitHub Readme Instant Preview - Preview markdown files as GitHub would render them.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
-* [jless](https://pauljuliusmartinez.github.io/) - Command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-* [jqview](https://github.com/fiatjaf/jqview) - Simplest possible native GUI for inspecting JSON.
-* [mdcat](https://github.com/swsnr/mdcat) - cat for Markdown
-* [mdt](https://github.com/robolab-pavia/mdt) - MarkDown in the Terminal. A markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization.
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
@@ -1486,17 +1496,12 @@ Games and utilities to measure and/or improve the typing ability.
 * [Oyomu](https://github.com/EruEri/oyomu) - A command line comic reader and collection manager.
 * [reader](https://github.com/mrusme/reader) - Reader parses a web page for its actual content and displays it in nicely highlighted text on the command line
 * [rReader](https://github.com/rainygirl/rreader) - RSS reader client with TUI interface.
-* [tabview](https://github.com/TabViewer/tabview) - Python curses command line CSV and tabular data viewer.
-* [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer for the terminal.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 * [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash.
 * [texel](https://github.com/Lauriat/texel) - Command line interface for reading spreadsheets inside terminal.
-* [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Experimental "Markdown browser" for the terminal, built with Textual.
 * [TubiTui](https://codeberg.org/777/TubiTui.git) - A lightweight, libre, TUI-based YouTube client
-* [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 * [ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim.
 * [viu](https://github.com/learn-anything/command-line-tools) - Command-line application to view images from the terminal written in Rust.
-* [vj](https://github.com/busyloop/vj) - JSON Humanizer makes JSON human readable by applying visual formatting.
 * [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application that searches and streams videos from YouTube.
 
 ## <a name="browser"></a>Web browser
