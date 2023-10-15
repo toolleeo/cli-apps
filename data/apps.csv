@@ -1202,3 +1202,4 @@ terminal,wezterm,,https://github.com/wez/wezterm,A GPU-accelerated cross-platfor
 monitor,bashtop,,https://github.com/aristocratos/bashtop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes."
 monitor,gtop,,https://github.com/aksakalli/gtop,System monitoring dashboard for terminal written in Node.js.
 monitor,vtop,,https://github.com/MrRio/vtop,Alternative to top with several additional stats.
+monitor,atop,https://www.atoptool.nl/index.php,,"Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc."
