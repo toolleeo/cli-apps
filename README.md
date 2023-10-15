@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1207**
+* Apps/tools covered: **1206**
 * Number of categories: **73**.
 
 # Index
@@ -44,18 +44,18 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (8), [Command launchers](#launcher) (19), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (11)
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (42), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (35), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (11), [Font management](#font) (2), [Funny tools](#funny) (27), [Fuzzy finders](#fuzzy-finder) (10)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
 * [Games](#games) (45), [Git and accessories](#git) (42), [Graphics](#graphics) (31)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11), [Multimedia](#multimedia) (14)
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Programming](#programming) (45), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (17), [Productivity](#productivity) (10), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
-* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (28), [System tools](#system) (22)
+* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (29), [System tools](#system) (22)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
-* [Utilities](#utility) (33)
-* [Versioning](#versioning) (6), [Viewers](#viewers) (19)
+* [Utilities](#utility) (29)
+* [Versioning](#versioning) (6), [Viewers](#viewers) (20)
 * [Web browser](#browser) (17), [Web development](#webdev) (23), [Writing](#writing) (9)
 
 Some links to [related resources](#resources).
@@ -610,6 +610,7 @@ Ledger tracking, currency conversion, cryptocurrency tools.
 
 * [bits](https://github.com/jtraub91/bits) - CLI tool and pure Python library for Bitcoin.
 * [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+* [Cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 * [cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
 * [hledger](https://hledger.org/) - A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format.
 * [Invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line.
@@ -647,6 +648,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 * [matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 * [Maze Solver](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
 * [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* [paclear](https://github.com/orangekame3/paclear) - paclear is a clear command with pacman animation.
 * [pokeget](https://github.com/talwat/pokeget) - A bash script you can use to display cool sprites of pokemon in your terminal.
 * [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 * [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
@@ -1008,7 +1010,6 @@ Programs to list and monitor currently running processes; alternatives to the `t
 
 * [atop](https://www.atoptool.nl/index.php) - Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc.
 * [bashtop](https://github.com/aristocratos/bashtop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-* [bottom](https://github.com/ClementTsang/bottom) - A customizable cross-platform graphical process/system monitor for the terminal.
 * [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
 * [Btop++](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop).
 * [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal written in Node.js.
@@ -1272,6 +1273,7 @@ Music players.
 * [sysdig](https://www.sysdig.org/) - Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system.
 * [The Logfile Navigator](https://lnav.org/) - An advanced and colorful log file viewer with TUI interface.
 * [ttyload](http://www.daveltd.com/src/util/ttyload/) - ttyload is a lightweight utility which is intended to offer a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal ("tty").
+* [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 * [watch](http://www.linfo.org/watch.html) - Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides "diff" functionality to highlight the changing characters between outputs.
 * [watcher](https://github.com/sethigeet/watcher) - Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.
 * [whowatch](https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/) - Monitor Linux Users and Processes in Real Time.
@@ -1454,8 +1456,6 @@ Games and utilities to measure and/or improve the typing ability.
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoisation / caching library for bash scripts and shells
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
-* [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
-* [Cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
@@ -1468,7 +1468,6 @@ Games and utilities to measure and/or improve the typing ability.
 * [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
 * [oji](https://github.com/xxczaki/oji) - Interactive text emoji creator.
 * [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-* [paclear](https://github.com/orangekame3/paclear) - paclear is a clear command with pacman animation.
 * [pangran](https://github.com/BimoT/pangran) - A simple TUI program that checks if you've typed a pangram.
 * [plzz](https://github.com/deep5050/plzz) - A python CLI to automate daily tasks of both common and advanced users. It allows to easily launch common and different types of operations such as creating random files or check hashes.
 * [Polykill](https://github.com/Bdeering1/polykill) - Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
@@ -1480,7 +1479,6 @@ Games and utilities to measure and/or improve the typing ability.
 * [tmux-fingers](https://github.com/morantron/tmux-fingers) - Copy pasting in terminal with vimium/vimperator like hints.
 * [ttyscheme](https://github.com/kolunmi/ttyscheme) - Collection of Color Schemes for the TTY.
 * [Various Scripts](https://github.com/xkcd386at/scripts) - Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf.
-* [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 * [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from the terminal.
 * [yank](https://github.com/mptre/yank) - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
 * [Zsh Angel IQ System](https://github.com/psprint/zsh-angel-iq-system) - A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife.
@@ -1499,6 +1497,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [baca](https://github.com/wustho/baca) - Lets you indulge in your favorite e-books in the comfort of your terminal.
 * [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
+* [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 * [ccat](https://github.com/owenthereal/ccat) - A `cat` command with colorized output.  
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.

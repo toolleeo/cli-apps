@@ -420,7 +420,7 @@ browser,s,,https://github.com/zquestz/s,Web search from the terminal. Just opens
 text-processing,anew,,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates."
 data-management-tabular,TV,,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 programming,hors,,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
-utility,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
+monitor,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
 calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management-tabular,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
@@ -571,7 +571,7 @@ password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,https://github.co
 fuzzy-finder,choose,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 multimedia,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video."
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
-utility,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
+financial,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
 rm,Brash,,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
 torrent,torrentCLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
@@ -979,7 +979,7 @@ cd,Apparition,,https://github.com/david-haerer/apparition,"Apparition allows to 
 ai,AIChat,,https://github.com/sigoden/aichat,Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 ai,Chatblade,,https://github.com/npiv/chatblade,Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 terminal,vtm,,https://github.com/netxs-group/vtm,Virtual terminal multiplexer with window manager and session sharing.
-utility,CAVA,,https://github.com/karlstav/cava,Cross-platform Audio Visualizer.
+viewers,CAVA,,https://github.com/karlstav/cava,Cross-platform Audio Visualizer.
 games,rooshk,,https://github.com/cmspeedrunner/rooshk,A command line game in which you act as god over a sandbox world.
 file-handling,ForkFS,,https://github.com/SUPERCILEX/forkfs,ForkFS allows you to sandbox a process's changes to your file system.
 organizers,icsp,,https://github.com/loteoo/icsp,Command-line iCalendar (.ics) to CSV utility.
@@ -1188,7 +1188,7 @@ utility,tmux-fingers,,https://github.com/morantron/tmux-fingers,Copy pasting in 
 utility,Various Scripts,,https://github.com/xkcd386at/scripts,"Various script, mainly in shell and perl, to perform tasks such as combining head and tail, or other common tools accessed using fzf."
 utility,Zsh Angel IQ System,,https://github.com/psprint/zsh-angel-iq-system,"A bunch of intelligent extensions to Zsh, including an in-shell Ctags browser, an extension to Zinit plugin manager and Angel Swiss Knife."
 text-processing,JsonGenius,,https://github.com/semanser/JsonGenius,Self-hosted scraping API that extracts structured data described by a JSON Schema.
-utility,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
+funny,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
 note-taking,zk,,https://github.com/mickael-menu/zk,zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
 system,play,,https://github.com/paololazzari/play,"TUI playground for your favorite programs, such as grep, sed and awk."
 package-manager,Shell Bling Ubuntu,,https://github.com/hiAndrewQuinn/shell-bling-ubuntu,"A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy."
@@ -1205,4 +1205,3 @@ monitor-top,vtop,,https://github.com/MrRio/vtop,Alternative to top with several 
 monitor-top,atop,https://www.atoptool.nl/index.php,,"Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc."
 monitor-top,nmon,https://nmon.sourceforge.io/pmwiki.php,,Nigel's performance Monitor for Linux.
 email,Notmuch,,https://git.notmuchmail.org/git/notmuch,"Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages."
-monitor-top,bottom,,https://github.com/ClementTsang/bottom,A customizable cross-platform graphical process/system monitor for the terminal.
