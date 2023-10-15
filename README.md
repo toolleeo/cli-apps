@@ -34,7 +34,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 # Summary
 
-* Apps/tools covered: **1206**
+* Apps/tools covered: **1207**
 * Number of categories: **73**.
 
 # Index
@@ -50,7 +50,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Markdown](#markdown) (11), [Multimedia](#multimedia) (14)
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (17), [Productivity](#productivity) (10), [Programming](#programming) (45), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (28), [System tools](#system) (22)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed?)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
@@ -1008,6 +1008,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 
 * [atop](https://www.atoptool.nl/index.php) - Atop is TUI performance monitor for Linux; it reports the activity of all processes (even if processes have finished during the interval), daily logging of system and process activity for long-term analysis, overloaded system resources, etc.
 * [bashtop](https://github.com/aristocratos/bashtop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+* [bottom](https://github.com/ClementTsang/bottom) - A customizable cross-platform graphical process/system monitor for the terminal.
 * [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
 * [Btop++](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop).
 * [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal written in Node.js.
