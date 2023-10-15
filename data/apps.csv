@@ -165,7 +165,7 @@ browser,Links,http://www.jikos.cz/~mikulas/links//,,A textual Web browser with t
 browser,Elinks,http://elinks.cz/,https://repo.or.cz/elinks.git,"""Advanced and well-established feature-rich text mode web browser""; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor."
 browser,Lynx,http://lynx.invisible-island.net/,,"A highly configurable text-based web browser, one of the oldest CLI browser I'm aware of."
 browser,w3m,http://w3m.sourceforge.net/,https://sourceforge.net/projects/w3m/,"A text-based web browser as well as a pager like `less`, it can be used as a text formatting tool which typesets HTML into plain text."
-viewers,Newsbeuter,http://newsbeuter.org/,https://github.com/akrennmair/newsbeuter,"""The Mutt of RSS Feed Readers"": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard."
+rss,Newsbeuter,http://newsbeuter.org/,https://github.com/akrennmair/newsbeuter,"""The Mutt of RSS Feed Readers"": Newsbeuter is an open-source RSS/Atom feed reader for text terminals. Has great configurability and vast number of features, making it a slick and fast feed reader that can be completely controlled via keyboard."
 email,alpine,http://www.washington.edu/alpine/,,"Mail client which aims at being ""fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users""."
 email,alot,,https://github.com/pazz/alot,"MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support."
 email,mbsync,http://isync.sourceforge.net/mbsync.html,,"Mailboxes synchronization tool, allows to download email locally, MailDir format supported."
@@ -667,7 +667,7 @@ package-manager,asdf,https://asdf-vm.com/,https://github.com/asdf-vm/asdf,Manage
 shells,Cat9,,https://github.com/letoram/cat9,"Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua."
 productivity,speedread,,https://github.com/pasky/speedread,A simple terminal-based open source Spritz-alike filter that shows input text as a per-word RSVP (rapid serial visual presentation) aligned on optimal reading points.
 online,pockyt,,https://github.com/achembarpu/pockyt,"Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet."
-viewers,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
+rss,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An RSS/Atom feed reader for the text console. It's an actively maintained fork of Newsbeuter.
 viewers,medium-cli,,https://github.com/djadmin/medium-cli,Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 religion,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
@@ -796,9 +796,9 @@ security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure 
 utility,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
 ai,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
-viewers,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
-viewers,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI interface.
-utility,rss-cli,,https://github.com/Clortox/rss-cli,A unix-inspired cli application for interacting with RSS feeds.
+rss,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
+rss,rReader,,https://github.com/rainygirl/rreader,RSS reader client with TUI interface.
+rss,rss-cli,,https://github.com/Clortox/rss-cli,A unix-inspired cli application for interacting with RSS feeds.
 security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the wordlists for random passphrases made by the EFF.
 password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databases from your terminal.
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
@@ -841,7 +841,7 @@ networking,Tunnelmole,,https://github.com/robbie-cahill/tunnelmole-client,Connec
 fuzzy-finder,shmenu,,https://github.com/duclos-cavalcanti/shmenu,Menu TUI tool written solely in bash.
 monitor,Fastfetch,,https://github.com/LinusDierheimer/fastfetch,"Like neofetch, but much faster because written in C."
 password-manager,pa,,https://github.com/biox/pa,"A simple password manager; encryption via age, written in portable posix shell."
-viewers,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
+rss,nom,,https://github.com/guyfedwards/nom,RSS reader for the terminal.
 editors,VE,http://www.inverary.net/ve/ve.html,,"Lean, fast and feature rich text editor."
 file-manager,TUIFI Manager,,https://github.com/GiorgosXou/TUIFIManager,"A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is."
 monitor,ttop,,https://github.com/inv2004/ttop,"top-like system monitoring tool with TUI, historical data service and triggers."
@@ -1026,14 +1026,14 @@ chat,toxic,,https://github.com/Jfreegman/toxic,A Tox-based instant messaging and
 music,ncspot,,https://github.com/hrkfdn/ncspot,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes."
 multimedia,Streamlink,,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player.
 transfer,yt-dlp,,https://github.com/yt-dlp/yt-dlp,A youtube-dl fork with additional features and fixes.
-conversion,Sfeed,https://codemadness.org/sfeed.html,git://git.codemadness.org/sfeed,Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
+rss,Sfeed,https://codemadness.org/sfeed.html,git://git.codemadness.org/sfeed,Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
 todo-manager,Todoman,,https://github.com/pimutils/todoman,"A simple, standards-based, cli todo (aka: task) manager."
 shells,DASH,http://gondor.apana.org.au/~herbert/dash/,git://git.kernel.org/pub/scm/utils/dash/dash.git,DASH is a POSIX-compliant implementation of /bin/sh that aims to be as small as possible. It does this without sacrificing speed where possible.
 networking,darkhttpd,https://unix4lyfe.org/darkhttpd/,https://github.com/emikulic/darkhttpd,"Darkhttpd is a simple, fast HTTP 1.1 web server for static content. It does not support PHP or CGI etc but is designed to serve static content, which it does very well."
 networking,quark,https://tools.suckless.org/quark/,https://git.suckless.org/quark,quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 networking,Prosody,https://prosody.im/,https://github.com/bjc/prosody,"Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources."
 networking,ejabberd,https://www.ejabberd.im/,https://github.com/processone/ejabberd,"ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language."
-webdev,openring,,https://git.sr.ht/~sircmpwn/openring,"A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog."
+rss,openring,,https://git.sr.ht/~sircmpwn/openring,"A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog."
 productivity,TUI apps,,https://github.com/learnbyexample/TUI-apps,"A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc."
 viewers,Oyomu,,https://github.com/EruEri/oyomu,A command line comic reader and collection manager.
 monitor,procs,,https://github.com/dalance/procs,A modern replacement for ps written in Rust.
