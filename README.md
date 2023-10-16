@@ -62,7 +62,7 @@ Some links to [related resources](#resources).
 
 ## <a name="ai"></a>AI / ChatGPT
 
-Interfaces and front-ends to GPT engines and other artificial intelligence enabled tools.
+Interfaces and front-ends to GPT engines and other tools powered by artificial intelligence and Natural Language Processing.
 
 * [AI](https://github.com/nitefood/ai-bash-gpt) - A commandline ChatGPT client in BASH with conversation/completion support.
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
@@ -91,6 +91,8 @@ Manage decks of flashcards and Anki decks.
 
 ## <a name="backup"></a>Backup
 
+Tools to manage the backup of files and directories.
+
 * [autorestic](https://autorestic.vercel.app/) - A wrapper around the [restic](https://restic.net/) backup tool, with the goal of simplifying the setup and usage through the use of config files.
 * [borg](https://www.borgbackup.org/) - Encrypted backups with a clean and simple interface, easy to use and set up, possibility to mount the backup archive with FUSE and inspect it as a regular file system.
 * [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
@@ -110,7 +112,7 @@ Manage decks of flashcards and Anki decks.
 
 ## <a name="calc"></a>Calculators
 
-Calculators for numbers, dates, etc..
+Calculators for mathematical operations among numbers, dates, base conversions, etc..
 
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [Bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
@@ -123,6 +125,8 @@ Calculators for numbers, dates, etc..
 * [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 
 ## <a name="chat"></a>Chat and instant messaging
+
+Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Mattermost, Matrix, Slack, Telegram, Reddit.
 
 * [Discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 * [finch](http://www.pidgin.im/) - IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project.
@@ -170,7 +174,7 @@ Find/remove duplicate files, automatically organize files, etc..
 
 ## <a name="copilot"></a>Co-pilot
 
-Using GPT tools to generate commands at the command line.
+Programs that use GPT and GPT-like engines to generate commands at the command line or code in general from natural language.
 
 * [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
 * [aish](https://github.com/chr15m/aish) - A program that retrieve shell script one-liners, ready to be executed in the terminal.
@@ -183,7 +187,7 @@ Using GPT tools to generate commands at the command line.
 
 ## <a name="launcher"></a>Command launchers
 
-Tools to launch/execute programs, either interactively, automatically, in parallel, etc..
+Applications to launch/execute programs, either interactively, automatically, in parallel, etc..
 
 * [climenu](https://github.com/10xJSChad/climenu) - Compact application for creating shell menus with executable entries. Use it to build straightforward static shortcut menus or dynamically generate advanced menus for more complex programs.
 * [entr](https://github.com/eradman/entr) - Event Notify Test Runner - Run an arbitrary command when files change.
@@ -206,7 +210,7 @@ Tools to launch/execute programs, either interactively, automatically, in parall
 
 ## <a name="cheatsheet"></a>Commands cheatsheet and snippets
 
-Tools to manage often used commands, code snippets, cheatsheets and alternative manpages.
+Tools to manage often used commands, code snippets, and alternative manual pages.
 
 * [docfd](https://github.com/darrenldl/docfd) - TUI fuzzy document finder that looks for documentation files in markdown and txt format in the directory tree.
 * [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
@@ -261,7 +265,7 @@ Tools to manage data files.
 
 ## <a name="data-management-json"></a>Data management - JSON/YAML/etc.
 
-Tools to manage data files in JSON/YAML and similar formats.
+Tools to manage data files, dedicated to JSON, YAML and other similar formats.
 
 * [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
 * [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ - process various formats with libjq.
@@ -308,7 +312,7 @@ Tools to manage data files in JSON/YAML and similar formats.
 
 ## <a name="data-management-tabular"></a>Data management - Tabular data
 
-Tools to manage tabular data files (CSV, xls, database tables, etc.).
+Tools to manage tabular data files, such as CSV, spreadsheets, and database tables.
 
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
 * [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
@@ -331,6 +335,8 @@ Tools to manage tabular data files (CSV, xls, database tables, etc.).
 * [xsv](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/) - Doing a SQL join with CSV files.
 
 ## <a name="transfer"></a>Data transfer
+
+Programs for transferring files and data between different machines.
 
 * [aria2](https://github.com/aria2/aria2) - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
 * [Clipsync](https://github.com/marcopaganini/clipsync) - Share your clipboard across multiple machines using an MQTT service.
@@ -371,7 +377,7 @@ Tools to manage tabular data files (CSV, xls, database tables, etc.).
 
 ## <a name="devops"></a>DevOps
 
-Tools for DevOps tasks.
+Applications for supporting DevOps tasks, such as containers or cloud systems management.
 
 * [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 * [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
@@ -386,7 +392,7 @@ Tools for DevOps tasks.
 
 ## <a name="diff"></a>Diff
 
-File and data diffs, more or less “context” or “semantic” aware.
+Calculation of diffs between files and data, even with context or semantic awareness (i.e., considering the meaning of the data).
 
 * [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
@@ -401,7 +407,7 @@ File and data diffs, more or less “context” or “semantic” aware.
 
 ## <a name="cd"></a>Directory changers (alternatives to cd)
 
-Tools for improving the efficiency of directory traversal.
+Programs for improving the efficiency of directory traversal by remembering common paths and other approaches; alternatives to the `cd` command.
 
 * [Apparition](https://github.com/david-haerer/apparition) - Apparition allows to give names to paths, so that moving to the specific path can be done by using the name; it also allows to manage the list of assigned names.
 * [autojump](https://github.com/wting/autojump) - A cd command that maintains a database of most visited paths and allows the access to a directory with shortened versions of the path.
@@ -424,6 +430,8 @@ Tools for improving the efficiency of directory traversal.
 
 ## <a name="disk-analyzer"></a>Disk usage analyzers
 
+Programs to analyze and summarize the usage of disks, visualize and report the size of directories and sub-directories, etc..
+
 * [cdu](http://arsunik.free.fr/prog/cdu.html) - cdu (colored `du`) is a perl script that calls `du` and displays a pretty histogram with optional colors allowing to immediately see the directories which take most disk space.
 * [dfc](https://github.com/rolinh/dfc) - Report file system space usage information with style.
 * [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator that traverse the file-system with a TUI interface.
@@ -439,7 +447,7 @@ Tools for improving the efficiency of directory traversal.
 
 ## <a name="editors"></a>Editors
 
-Terminal text editors.
+Text editors.
 
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
 * [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
@@ -469,7 +477,7 @@ Terminal text editors.
 
 ## <a name="email"></a>Email
 
-Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - MUA), mail synchronization.
+Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search.
 
 * [aerc](https://aerc-mail.org/) - A pretty good email client
 * [alot](https://github.com/pazz/alot) - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.
@@ -488,7 +496,7 @@ Email clients ([Mail User Agents](https://en.wikipedia.org/wiki/Email_client) - 
 
 ## <a name="file-handling"></a>File and file system handling
 
-Tools for managing files and directories.
+Tools for managing files and directories (copy, move, extraction from compressed archives, change permissions, etc.).
 
 * [compsize](https://github.com/kilobyte/compsize) - Find compression type/ratio on a file or set of files on a btrfs file system.
 * [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
@@ -512,7 +520,7 @@ Tools for managing files and directories.
 
 ## <a name="rm"></a>File deletion and trash bin (alternatives to rm)
 
-Tools to manage the deletion of files/directories with improved management of a trash can, with the ability to restore deleted items.
+Tools to manage the deletion of files/directories, often with the support of a trash can, i.e., the ability to restore deleted items.
 
 * [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
@@ -537,7 +545,7 @@ Show directory trees and navigate through the file system (but not full featured
 
 ## <a name="find"></a>File finding (alternatives to find)
 
-Search the filesystem looking for files with specific characteristics.
+Search the filesystem looking for files with specific characteristics, e.g., names; alternatives to `find`.
 
 * [bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. Written in Rust.
@@ -548,6 +556,8 @@ Search the filesystem looking for files with specific characteristics.
 * [plocate](https://plocate.sesse.net/) - A much faster locate; plocate is a locate based on posting lists, completely replacing mlocate with a much faster (and smaller) index.
 
 ## <a name="ls"></a>File listing (alternatives to ls)
+
+List directory content and files, with colors or icons; alternatives to `ls`.
 
 * [colorls](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the `ls` output with color and icons.
 * [exa](https://the.exa.website/) - Replacement for 'ls' written in Rust, with colors and several additional "views". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. 
@@ -560,6 +570,8 @@ Search the filesystem looking for files with specific characteristics.
 * [vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase.
 
 ## <a name="file-manager"></a>File manager
+
+Applications for interactively managing files and directories.
 
 * [cfiles](https://github.com/mananapr/cfiles) - ncurses file manager written in C with vim like keybindings
 * [clifm](https://github.com/leo-arch/clifm) - A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.
@@ -583,6 +595,8 @@ Search the filesystem looking for files with specific characteristics.
 
 ## <a name="file-renamer"></a>File renamers
 
+Utilities to rename files and directories: address multiple items with one command, interactively edit the name within an editor, etc..
+
 * [Bren](https://www.byteptr.com/bren/) - Bren is a command line tool for GNU/Linux (and many others). It has support for GNU Guile scripting. Bren is simple, fast and it's written in C.
 * [F2](https://github.com/ayoisaiah/f2) - Cross-platform command-line tool for batch renaming files and directories quickly and safely.
 * [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
@@ -597,6 +611,8 @@ Search the filesystem looking for files with specific characteristics.
 * [Tempren](https://github.com/idle-code/tempren) - A powerful file renaming utility that uses flexible template expressions to create new file paths and names.
 
 ## <a name="file-system"></a>File systems
+
+File systems with specific features; e.g., the possibility to add tags and labels to files.
 
 * [ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 * [sshfs](https://github.com/libfuse/sshfs) - Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.  
@@ -617,7 +633,7 @@ Services that watch files for changes and perform actions when something happens
 
 ## <a name="financial"></a>Financial tools
 
-Ledger tracking, currency conversion, cryptocurrency tools.
+Personal ledger trackers, currency converters, and tools to manage and track cryptocurrencies.
 
 * [bits](https://github.com/jtraub91/bits) - CLI tool and pure Python library for Bitcoin.
 * [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
@@ -634,12 +650,14 @@ Ledger tracking, currency conversion, cryptocurrency tools.
 
 ## <a name="font"></a>Font management
 
+Utilities to manage system fonts and to generate text using ASCII-art-like characters.
+
 * [FIGlet](http://www.figlet.org/) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
 * [toilet](http://caca.zoy.org/wiki/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
 ## <a name="funny"></a>Funny tools
 
-Miscellaneous of tools that provide some funny/aesthetical functionality.
+Miscellaneous of tools that provide some funny/aesthetical functionality (animations, funny quotes, original message visualization, etc.).
 
 * [ascii-movie](https://github.com/gabe565/ascii-movie) - Allows to play the ASCII art Star War movie locally or it can open a connection to play it over SSH or telnet.
 * [asciicquarium](http://www.robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
@@ -672,7 +690,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality.
 
 ## <a name="fuzzy-finder"></a>Fuzzy finders
 
-Fuzzy finders and generic option pickers.
+Fuzzy finders and generic option pickers in lists of strings.
 
 * [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
@@ -686,6 +704,8 @@ Fuzzy finders and generic option pickers.
 * [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 
 ## <a name="games"></a>Games
+
+Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 
 * [Angband](https://rephial.org/) - Angband is a free, single-player dungeon exploration game.
 * [anonymine](https://oskog97.com/projects/anonymine/) - Curses mode minesweeper without guessing and other original features.
@@ -735,6 +755,8 @@ Fuzzy finders and generic option pickers.
 
 ## <a name="git"></a>Git and accessories
 
+Tools to support and extend the functionalities of the `git` version tracker.
+
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [czg](https://github.com/Zhengqbbb/cz-git) - Interactively generate standardized commit messages.
 * [Export Pull Requests](https://github.com/sshaw/export-pull-requests/) - Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket.
@@ -780,6 +802,8 @@ Fuzzy finders and generic option pickers.
 
 ## <a name="graphics"></a>Graphics
 
+Applications to process images, colors and ASCII art.
+
 * [Aewan](http://aewan.sourceforge.net/) - Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.
 * [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc.) to ASCII art, written in Rust.
 * [ArTTY](https://github.com/mjwhitta/artty) - Pixel art with optional system info, similar to neofetch.
@@ -824,7 +848,7 @@ Programs to replace or improve the management of command line history.
 
 ## <a name="markdown"></a>Markdown
 
-Utilities to display and convert Markdown files.
+Utilities to display, convert and reformat Markdown files.
 
 * [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 * [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown viewer / browser for the terminal.
@@ -840,7 +864,7 @@ Utilities to display and convert Markdown files.
 
 ## <a name="networking"></a>Networking
 
-Programs to deal with networks and communication.
+Networks and communication tools: bandwidth monitoring, packet inspection, remote connection, VPNs, terminal sharing, etc..
 
 * [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 * [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
@@ -883,6 +907,8 @@ Programs to deal with networks and communication.
 
 ## <a name="note-taking"></a>Note taking
 
+Tools to take, organize and manage notes.
+
 * [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 * [Clipboard](https://getclipboard.app/) - An easy-to-use information management tool that acts like an external brain.
 * [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
@@ -907,7 +933,7 @@ Programs to deal with networks and communication.
 
 ## <a name="office"></a>Office tools
 
-Spreadsheet and presentations.
+Programs to manage spreadsheets and to make presentations.
 
 * [DeckTape](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
 * [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
@@ -921,6 +947,8 @@ Spreadsheet and presentations.
 * [tpp](http://www.ngolde.de/tpp.html) - (text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
 
 ## <a name="online"></a>Online search and resources
+
+Tools that interact with online resources to provide their services, e.g., searches, wiki, etc..
 
 * [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.  
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -940,7 +968,7 @@ Spreadsheet and presentations.
 
 ## <a name="organizers"></a>Organizers and calendars
 
-Calendar managers.
+Calendar and appointment managers.
 
 * [addrb](https://github.com/mrusme/addrb) - A lightweight CLI / TUI address book that supports CardDAV.
 * [avail](https://github.com/mufeez-amjad/avail) - Find available times between all your calendars.
@@ -965,7 +993,7 @@ Calendar managers.
 
 ## <a name="package-manager"></a>Package managers
 
-Manage/install/uninstall packages, as source code or binaries.
+Package managers to manage/install/uninstall software packages, as source code or binaries.
 
 * [aptitude](https://salsa.debian.org/apt-team/aptitude) - A TUI front-end to APT, the Debian package manager.
 * [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
@@ -979,6 +1007,8 @@ Manage/install/uninstall packages, as source code or binaries.
 * [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 
 ## <a name="password-manager"></a>Password managers
+
+Programs to store and manage collections of password and other login/authentication information.
 
 * [Bitwarden CLI](https://bitwarden.com/help/cli/) - Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises.
 * [cpass](https://github.com/xlucn/cpass) - Another console UI for pass.
@@ -1022,7 +1052,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 
 ## <a name="productivity"></a>Productivity
 
-A set of tools for improving own productivity that do not deserve (at the moment) a specific category.
+Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps.
 
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
 * [classis](https://github.com/ginschel/classis) - An easy CLI for the terminal fans out there who want to access Open Assistant's API through the terminal or want to use the API in their own aplications.
@@ -1036,6 +1066,8 @@ A set of tools for improving own productivity that do not deserve (at the moment
 * [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a linux console.
 
 ## <a name="programming"></a>Programming
+
+Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc..
 
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
 * [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
@@ -1085,7 +1117,7 @@ A set of tools for improving own productivity that do not deserve (at the moment
 
 ## <a name="prompt"></a>Prompts
 
-Prompts and welcome messages.
+Prompts and welcome messages at the command line.
 
 * [Basta!](https://www.kylheku.com/cgit/basta/about/) - A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
@@ -1107,7 +1139,7 @@ RSS feed visualizers, converters and managers.
 
 ## <a name="religion"></a>Religion
 
-Tools to handle religious material.
+Tools to handle religious material, e.g. reading the Holy Bible.
 
 * [bbl](https://github.com/nehemiaharchives/bbl) - Read, search Holy Bible in command line.
 * [bible](https://github.com/BibleJS/BibleApp) - Read the Holy Bible via the command line.
@@ -1116,7 +1148,7 @@ Tools to handle religious material.
 
 ## <a name="science"></a>Science
 
-Tools for scientific research and science applications.
+Packages for scientific research and science applications, e.g., bibliography and publication management.
 
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
 * [bibtools](https://github.com/pkgw/bibtools) - Command-line bibliography manager.
@@ -1151,6 +1183,8 @@ Tools to record the content of the terminal and manage the recording (e.g., conv
 * [vhs](https://github.com/charmbracelet/vhs) - Write terminal GIFs as code for integration testing and demoing your CLI tools.
 
 ## <a name="screensaver"></a>Screen savers
+
+Screen savers with animations for the idle times of the computer.
 
 * [ASCII Saver](https://gitlab.com/mezantrop/ascsaver) - Screensaver for terminals.
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
@@ -1188,6 +1222,8 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 
 ## <a name="shells"></a>Shells
 
+Shell programs that enables the interaction through the terminal.
+
 * [Bash](https://www.gnu.org/software/bash/) - (Bourne Again SHell) The most widespread system shell to date.  
 * [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua.
 * [cosh](https://github.com/tomhrr/cosh) - Concatenative command-line shell.
@@ -1202,7 +1238,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 
 ## <a name="music"></a>Sound and music
 
-Music players.
+Music players, podcast, synthesizers, downloaders, online radios.
 
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.  
 * [BadaBoomBooks](https://github.com/WirlyWirly/BadaBoomBooks) - Quickly organize audiobooks using a terminal and web-browser.
@@ -1246,6 +1282,8 @@ Music players.
 
 ## <a name="monitor"></a>System monitoring
 
+Applications to display the usage of system resources: network, memory, power, etc..
+
 * [Batfetch](https://github.com/ashish-kus/batfetch) - A command-line tool that displays detailed information about the battery of your device in a clean and organized way.
 * [dmidecode](https://www.nongnu.org/dmidecode/) - System information utility.
 * [dysk](https://dystroy.org/dysk) - A thing to get information on your mounted disks
@@ -1272,6 +1310,8 @@ Music players.
 
 ## <a name="system"></a>System tools
 
+System management tools, such as for brightness control, dotfile and environment variable management, notifications, etc..
+
 * [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 * [checksum.sh](https://checksum.sh/) - Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.
@@ -1295,6 +1335,8 @@ Music players.
 
 ## <a name="terminal"></a>Terminals
 
+Terminal and terminal multiplexers.
+
 * [byobu](http://byobu.co/) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [dtach](https://github.com/crigler/dtach) - A program written in C that emulates the detach feature of screen.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
@@ -1310,6 +1352,8 @@ Music players.
 * [Zellij](https://github.com/zellij-org/zellij) - A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer.
 
 ## <a name="text-processing"></a>Text processing
+
+Text processing utilities to cut or sort lines, find dead links, colorize command output, etc..
 
 * [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 * [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
@@ -1345,7 +1389,7 @@ Music players.
 
 ## <a name="text-search"></a>Text search (alternatives to grep)
 
-Search files, typically in a recursive manner, to look for some contained text or path (regex).
+Search files and exploring directory trees to look for text or patterns (RegEx) contained in files; alternatives to the `grep` command.
 
 * [ack](http://beyondgrep.com/) - A tool like `grep` optimized for programmers; written in Perl, it speeds up searches thanks to skipping non interesting directories, such as `.git`.
 * [ag](https://github.com/ggreer/the_silver_searcher) - (The silver searcher) is a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster.
@@ -1360,7 +1404,7 @@ Search files, typically in a recursive manner, to look for some contained text o
 
 ## <a name="text-search-replace"></a>Text search and replace (alternatives to sed)
 
-Tools to search text within files and replace it..
+Tools to search text within files and perform operations on it, such as text replacement; alternatives to `sed`.
 
 * [amber](https://github.com/dalance/amber) - Code search / replace tool.
 * [repgrep](https://github.com/acheronfail/repgrep) - A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
@@ -1369,7 +1413,7 @@ Tools to search text within files and replace it..
 
 ## <a name="time-tracker"></a>Time trackers
 
-Time and habit trackers.
+Time and habit trackers to measure the amount of time spent on different activities.
 
 * [arbtt](http://arbtt.nomeata.de/) - (automatic, rule-based time tracker) runs in background, collecting information regarding open windows, focussed ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
 * [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
@@ -1388,6 +1432,8 @@ Time and habit trackers.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
 
 ## <a name="todo-manager"></a>Todo managers
+
+Todo list and task managers.
 
 * [boards](https://github.com/benrutter/boards) - Recursive kanban boards based around the filesystem.
 * [CLI-Manager](https://github.com/MikyStar/CLI-Manager) - Command Line Interface for managing tasks locally on the fly.
@@ -1418,7 +1464,7 @@ Time and habit trackers.
 
 ## <a name="torrent"></a>Torrent
 
-BitTorrent clients.
+Clients and download managers using the BitTorrent protocol.
 
 * [Deluge](http://deluge-torrent.org/) - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
 * [Mabel](https://github.com/smmr-software/mabel) - A fancy BitTorrent client for the terminal built with Go and the Bubbletea library.
@@ -1441,6 +1487,8 @@ Games and utilities to measure and/or improve the typing ability.
 * [typetype](https://github.com/ahmet8zer/typetype) - Minimalistic command line typing game.
 
 ## <a name="utility"></a>Utilities
+
+Miscellaneous utilities that are not do not fit in other categories and they are not numerous enough that they do not require a dedicated category.
 
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoisation / caching library for bash scripts and shells
@@ -1474,6 +1522,8 @@ Games and utilities to measure and/or improve the typing ability.
 
 ## <a name="versioning"></a>Versioning
 
+Tools for file versioning that are not related to git.
+
 * [Bazaar](http://bazaar.canonical.com/en/) - Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.
 * [fossil](https://fossil-scm.org/) - A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.
 * [gee](https://github.com/human37/gee) - CLI repository manager and automation tool written in rust.
@@ -1499,6 +1549,8 @@ Programs to process and manage video files (downloader, editing, players, etc.).
 
 ## <a name="viewers"></a>Viewers
 
+File viewers for images and other formats (e.g., e-books).
+
 * [baca](https://github.com/wustho/baca) - Lets you indulge in your favorite e-books in the comfort of your terminal.
 * [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
@@ -1522,6 +1574,8 @@ Programs to process and manage video files (downloader, editing, players, etc.).
 
 ## <a name="browser"></a>Web browser
 
+Web browsers with textual interface.
+
 * [Amfora](https://github.com/makew0rld/amfora) - Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
 * [asuka](https://git.sr.ht/~julienxx/asuka) - A Gemini Project client written in Rust with NCurses.
 * [Bombadillo](https://bombadillo.colorfield.space/) - A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
@@ -1542,7 +1596,7 @@ Programs to process and manage video files (downloader, editing, players, etc.).
 
 ## <a name="webdev"></a>Web development
 
-Static site generators, load test tools.
+Web development tools, including load test tools, API clients and managers, link checkers and extractors, etc..
 
 * [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
 * [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
@@ -1570,7 +1624,7 @@ Static site generators, load test tools.
 
 ## <a name="writing"></a>Writing
 
-Tools to assist the writing of text (translation, spell checking, etc.).
+Tools to assist the writing of text and documents, including translation, spell checking, etc..
 
 * [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text.
 * [cambd-cli](https://github.com/rocktimsaikia/cambd) - A CLI tool to automate the process to access the Cambridge dictionary.
