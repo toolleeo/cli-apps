@@ -20,6 +20,7 @@ file-dir-cleanup,Clean up of files and directories,"Find/remove duplicate files,
 file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full featured file managers)
 find,File finding (alternatives to find),Search the filesystem looking for files with specific characteristics
 file-handling,File and file system handling,Tools for managing files and directories
+file-watch,File watching for changes,Services that watch files for changes and perform actions when something happens
 ls,File listing (alternatives to ls),
 file-manager,File manager,
 file-renamer,File renamers,
