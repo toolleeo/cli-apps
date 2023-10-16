@@ -35,7 +35,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 # Summary
 
 * Apps/tools covered: **1206**
-* Number of categories: **74**.
+* Number of categories: **75**.
 
 # Index
 
@@ -50,7 +50,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Programming](#programming) (44), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (33), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (39), [System monitoring](#monitor) (23), [System tools](#system) (20)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
@@ -1066,19 +1066,31 @@ Applications for improving own productivity that do not deserve (at the moment) 
 * [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal, including todos, calendar, JIRA, etc.
 * [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a linux console.
 
+## <a name="programming-boilerplate"></a>Program templates and boilerplate
+
+Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects.
+
+* [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
+* [boilr](https://github.com/tmrts/boilr) - Boilerplate template manager that generates files or directories from template repositories.
+* [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
+* [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
+* [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
+* [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+* [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
+* [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
+* [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
+* [upnup](https://github.com/tomit4/upnup) - A command line utility that generates a LICENSE file in the current working directory.
+
 ## <a name="programming"></a>Programming
 
 Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc..
 
-* [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for software projects.
 * [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-* [boilr](https://github.com/tmrts/boilr) - Boilerplate template manager that generates files or directories from template repositories.
 * [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
 * [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
 * [cloc](https://github.com/AlDanial/cloc) - Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.
-* [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
 * [CodeMark CLI](https://github.com/rootCircle/codemark-cli) - Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.
-* [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [Cppcheck](http://cppcheck.net/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
 * [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
 * [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
@@ -1089,19 +1101,13 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install" with goroutines.
 * [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-* [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
 * [Kool](https://github.com/kool-dev/kool) - CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.
 * [Leetcode-go](https://github.com/Manan-Prakash-Singh/leetcode-go) - A simple CLI tool for searching, downloading and submitting problems to leetcode.
-* [legit](https://github.com/captainsafia/legit) - Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
-* [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
 * [mk](https://github.com/pycontribs/mk) - mk is a CLI tool that aims to ease contribution to any open-source project by hiding repository implementation details from the casual contributor.
-* [mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for easily generating the text of the most common licenses.
 * [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 * [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 * [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
-* [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
 * [pvcheck](https://github.com/claudio-unipv/pvcheck) - A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.
-* [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
 * [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Golang, and Java.
 * [release-it](https://github.com/release-it/release-it) - Automate releases for Git repositories and/or Node.js packages.
 * [rr](https://rr-project.org/) - Debug the recording, deterministically, as many times as you want.
@@ -1113,7 +1119,6 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
 * [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
 * [umake](https://github.com/mcandre/unmake) - Makefile linter emphasizing portability, targeting the POSIX make standard.
-* [upnup](https://github.com/tomit4/upnup) - A command line utility that generates a LICENSE file in the current working directory.
 
 ## <a name="prompt"></a>Prompts
 

@@ -387,7 +387,7 @@ graphics,GraphicsMagick,http://www.graphicsmagick.org/,https://sourceforge.net/p
 viewers,hexyl,,https://github.com/sharkdp/hexyl,Command-line hex viewer.
 programming,temci,,https://github.com/parttimenerd/temci,Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
 system,just,,https://github.com/casey/just,Handy way to save and run project-specific commands.
-programming,license-up,,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.
+programming-boilerplate,license-up,,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.
 system,mackup,,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux).
 file-renamer,massren,,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.
 programming,scons,,https://github.com/SCons/scons,Software construction tool.
@@ -396,7 +396,7 @@ webdev,snallygaster,,https://github.com/hannob/snallygaster,Tool to scan for sec
 graphics,svgcleaner,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.
 security,wifi-password,,https://github.com/rauchg/wifi-password,Get wifi pass.
 time-tracker,habitctl,,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.
-programming,kickstart,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.
+programming-boilerplate,kickstart,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.
 file-renamer,nomino,,https://github.com/yaa110/nomino,Batch rename utility for developers.
 fuzzy-finder,luneta,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.
 data-management-json,jiq,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.
@@ -409,7 +409,7 @@ ls,nat,,https://github.com/willdoescode/nat,Complete replacement for the `ls` co
 data-management-tabular,csvq,,https://github.com/mithrandie/csvq,SQL-like query language for csv.
 file-dir-cleanup,FClones,,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.
 data-management-json,dasel,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.
-programming,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
+programming-boilerplate,Proji,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.
 transfer,pbgopy,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.
 data-management,gnuplot,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three dimensional plots of data.
 file-handling,conan,,https://github.com/mirage/conan,Find clue about the type of the file.
@@ -671,7 +671,7 @@ rss,Newsboat,https://newsboat.org/,https://github.com/newsboat/newsboat,An RSS/A
 viewers,medium-cli,,https://github.com/djadmin/medium-cli,Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 religion,bible,,https://github.com/BibleJS/BibleApp,Read the Holy Bible via the command line.
 utility,moviemon,,https://github.com/iCHAIT/moviemon,A Python program that displays all the information about all your movies in the command line.
-programming,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
+programming-boilerplate,legit,,https://github.com/captainsafia/legit,Automagically generates a LICENSE file for the current working directory that you are in or a license header for a file where applicable.
 utility,oji,,https://github.com/xxczaki/oji,Interactive text emoji creator.
 conversion,hget,,https://github.com/bevacqua/hget,"A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically."
 writing,alex,,https://github.com/get-alex/alex,"Catch insensitive, inconsiderate writing, by finding gender favoring, polarizing, race related, or other unequal phrasing in text."
@@ -686,7 +686,7 @@ text-processing,fullname-cli,,https://github.com/sindresorhus/fullname-cli,Get t
 graphics,gifgen,,https://github.com/lukechilds/gifgen,Simple high quality GIF encoding.
 graphics,gifsicle,,https://github.com/kohler/gifsicle,"Create, manipulate, and optimize GIF images and animations."
 versioning,SnowFS,,https://github.com/snowtrack/snowfs,"A high-performance application and node library for binary file versioning, initially made for the graphics industry."
-programming,readme-md-generator,,https://github.com/kefranabg/readme-md-generator,CLI that generates beautiful README.md files.
+programming-boilerplate,readme-md-generator,,https://github.com/kefranabg/readme-md-generator,CLI that generates beautiful README.md files.
 security,StegCloak,,https://github.com/kurolabs/stegcloak,Hide secrets with invisible characters in plain text securely using passwords
 file-manager,fff,,https://github.com/dylanaraps/fff,"Fast, simple file manager written in bash."
 networking,mosh,https://mosh.org/,https://github.com/mobile-shell/mosh,Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
@@ -695,20 +695,20 @@ financial,moeda,,https://github.com/thompsonemerson/moeda,A foreign exchange rat
 webdev,crawley,,https://github.com/s0rg/crawley,Unix-way web crawler: crawls web pages and prints any link it can find.
 calc,mdlt,,https://github.com/metadelta/mdlt,A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
 networking,serve,,https://github.com/vercel/serve,"Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents."
-programming,mklicense,,https://github.com/cezaraugusto/mklicense,CLI tool for easily generating the text of the most common licenses.
+programming-boilerplate,mklicense,,https://github.com/cezaraugusto/mklicense,CLI tool for easily generating the text of the most common licenses.
 webdev,surge,https://surge.sh,https://github.com/sintaxi/surge,Static web publishing on surge.sh CDN.
 webdev,s3cmd,,https://github.com/s3tools/s3cmd,Command line tool for managing Amazon S3 and CloudFront services.
 utility,flog,,https://github.com/mingrammer/flog,"A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog."
 chat,PingMe,,https://github.com/kha7iq/pingme,"Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others."
 programming,release-it,,https://github.com/release-it/release-it,Automate releases for Git repositories and/or Node.js packages.
-programming,clog,,https://github.com/clog-tool/clog-cli,Creates a changelog automatically from local git metadata.
-programming,Cookiecutter,,https://github.com/cookiecutter/cookiecutter,"A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
+programming-boilerplate,clog,,https://github.com/clog-tool/clog-cli,Creates a changelog automatically from local git metadata.
+programming-boilerplate,Cookiecutter,,https://github.com/cookiecutter/cookiecutter,"A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
 chat,kirc,http://kirc.io/,https://github.com/mcpcpc/kirc,A tiny IRC client written in POSIX C99.
 programming,cgasm,,https://github.com/bnagy/cgasm,"Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation."
 webdev,is-up-cli,,https://github.com/sindresorhus/is-up-cli,Check whether a website is up or down using the [isitup.org](https://isitup.org/) API.
 webdev,pageres-cli,,https://github.com/sindresorhus/pageres-cli,Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
 graphics,deviceframe,,https://github.com/c0bra/deviceframe,Put device frames around mobile/web/progressive app screenshots.
-programming,add-gitignore,,https://github.com/TejasQ/add-gitignore,Interactively generate a .gitignore for software projects.
+programming-boilerplate,add-gitignore,,https://github.com/TejasQ/add-gitignore,Interactively generate a .gitignore for software projects.
 time-tracker,Timetrap,,https://github.com/samg/timetrap,A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
 time-tracker,Timewarrior,,https://github.com/GothenburgBitFactory/timewarrior,"A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting."
 graphics,MapSCII,,https://github.com/rastapasta/mapscii,A Braille & ASCII world map renderer for your console
@@ -716,7 +716,7 @@ note-taking,idea,,https://github.com/IonicaBizau/idea,A lightweight tool for kee
 todo-manager,td-cli,,https://github.com/darrikonn/td-cli,"A command line todo manager, where you can organize and manage your todos across multiple projects."
 time-tracker,utt,,https://github.com/larose/utt,Ultimate Time Tracker - A simple command-line time tracker written in Python.
 system,active-win-cli,,https://github.com/sindresorhus/active-win-cli,Get the title/id/etc of the active window.
-programming,boilr,,https://github.com/tmrts/boilr,Boilerplate template manager that generates files or directories from template repositories.
+programming-boilerplate,boilr,,https://github.com/tmrts/boilr,Boilerplate template manager that generates files or directories from template repositories.
 markdown,DocToc,,https://github.com/thlorenz/doctoc,Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 networking,xiringuito,,https://github.com/ivanilves/xiringuito,VPN made easy! No configuration. No VPN servers. No hassle. Using SSH capabilities.
 security,acmetool,,https://github.com/hlandau/acmetool,Easy-to-use command line tool for automatically acquiring certificates from ACME servers (such as Let's Encrypt).
@@ -867,7 +867,7 @@ funny,ctree,,https://github.com/gleich/ctree,A Christmas tree right from your te
 monitor,ramfetch,,https://github.com/WhoseTheNerd/ramfetch,A fetch which displays memory info using /proc/meminfo.
 file-dir-cleanup,mat2,,https://0xacab.org/jvoisin/mat2.git,"Metadata removal tool, supporting a wide range of commonly used file formats."
 file-dir-cleanup,Dext,,https://github.com/AfzGit/dext,(Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
-programming,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
+programming-boilerplate,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
 productivity,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.

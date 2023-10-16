@@ -46,6 +46,7 @@ package-manager,Package managers,"Package managers to manage/install/uninstall s
 password-manager,Password managers,Programs to store and manage collections of password and other login/authentication information
 productivity,Productivity,"Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps"
 programming,Programming,"Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc."
+programming-boilerplate,Program templates and boilerplate,"Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects"
 prompt,Prompts,Prompts and welcome messages at the command line
 religion,Religion,"Tools to handle religious material, e.g. reading the Holy Bible"
 rss,RSS,"RSS feed visualizers, converters and managers"
