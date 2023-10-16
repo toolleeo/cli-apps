@@ -41,7 +41,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 
 * [AI / ChatGPT](#ai) (13), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (8), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (11)
+* [Calculators](#calc) (9), [Chat and instant messaging](#chat) (26), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (18), [Commands cheatsheet and snippets](#cheatsheet) (15), [Conversion](#conversion) (11)
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (42), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (36), [DevOps](#devops) (10), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
@@ -50,7 +50,7 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Programming](#programming) (45), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Programming](#programming) (44), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
 * [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (39), [System monitoring](#monitor) (23), [System tools](#system) (20)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
@@ -179,6 +179,7 @@ Programs that use GPT and GPT-like engines to generate commands at the command l
 * [aido-cli](https://github.com/kris7ian/aido-cli) - Looks another interface to online GPT models to execute command through natural language. Very poor documentation and readme, though.
 * [aish](https://github.com/chr15m/aish) - A program that retrieve shell script one-liners, ready to be executed in the terminal.
 * [CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) - CLI tool that uses GPT4 to turn natural language commands into their Bash/ZShell/PowerShell equivalents.
+* [codemancer](https://0xmmo.github.io/codemancer/) - Code with GPT-4 from your command line.
 * [Commandpilot](https://github.com/barthr/commandpilot) - An assistant which uses ChatGPT to aid in constructing commands for bash.
 * [gpt-do](https://github.com/yasyf/gpt-do) - This is a handy-dandy CLI for when you don't know wtf to do; instead of furiously grepping through man pages, simply use do (or ddo if on bash/zsh), and have GPT-3 do all the magic for you.
 * [Llama Terminal Completion](https://github.com/adammpkins/llama-terminal-completion) - Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts.
@@ -1076,7 +1077,6 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
 * [cloc](https://github.com/AlDanial/cloc) - Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.
 * [clog](https://github.com/clog-tool/clog-cli) - Creates a changelog automatically from local git metadata.
-* [codemancer](https://0xmmo.github.io/codemancer/) - Code with GPT-4 from your command line.
 * [CodeMark CLI](https://github.com/rootCircle/codemark-cli) - Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.
 * [Cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [Cppcheck](http://cppcheck.net/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
