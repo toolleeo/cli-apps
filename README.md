@@ -45,14 +45,14 @@ If you prefer an email, contact me at `toolleeo@gmail.com`.
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (42), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (36), [DevOps](#devops) (9), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (45), [Git and accessories](#git) (42), [Graphics](#graphics) (31)
+* [Games](#games) (45), [Git and accessories](#git) (42), [Graphics](#graphics) (32)
 * [History management](#history) (4)
-* [Markdown](#markdown) (11), [Multimedia](#multimedia) (14)
+* [Markdown](#markdown) (11), [Multimedia](#multimedia) (11)
 * [Networking](#networking) (38), [Note taking](#note-taking) (21)
 * [Office tools](#office) (10), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Programming](#programming) (45), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
-* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (36), [System monitoring](#monitor) (23), [System tools](#system) (22)
+* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (38), [System monitoring](#monitor) (23), [System tools](#system) (22)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (7)
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Viewers](#viewers) (20)
@@ -783,6 +783,7 @@ Fuzzy finders and generic option pickers.
 * [Artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc.) to ASCII art, written in Rust.
 * [ArTTY](https://github.com/mjwhitta/artty) - Pixel art with optional system info, similar to neofetch.
 * [BlockPaint](https://github.com/wooster0/blockpaint) - BlockPaint is a painting program that allows you to draw pixel graphics in the terminal using the mouse.
+* [catnip](https://github.com/sweetbbak/catnip) - An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 * [chafa](https://github.com/hpjansson/chafa) - Terminal graphics for the 21st century.
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 * [D2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -840,10 +841,7 @@ Utilities to display and convert Markdown files.
 
 Programs to specifically deal audio/video files.
 
-* [BadaBoomBooks](https://github.com/WirlyWirly/BadaBoomBooks) - Quickly organize audiobooks using a terminal and web-browser.
-* [catnip](https://github.com/sweetbbak/catnip) - An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 * [CreateVideoMeme](https://github.com/hache0099/CreateMemeVideo) - Bash tool to add captions to the top of videos.
-* [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
 * [Editly](https://github.com/mifi/editly) - A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
 * [ffmpeg](https://ffmpeg.org/) - The Swiss knife of video editing from the command line.
 * [FFMPerative](https://github.com/remyxai/FFMPerative) - Powered by Large Language Models (LLMs) through an intuitive chat interface, now you can compose video edits in natural language.
@@ -1222,9 +1220,11 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 Music players.
 
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.  
+* [BadaBoomBooks](https://github.com/WirlyWirly/BadaBoomBooks) - Quickly organize audiobooks using a terminal and web-browser.
 * [beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.
 * [castero](https://github.com/xgi/castero) - A TUI podcast client for the terminal.
 * [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.  
+* [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
 * [cue](https://github.com/ravachol/cue) - A command-line music player.
 * [dzr](https://github.com/yne/dzr) - Command Line deezer.com Player for Linux, BSD, Android, Windows.
 * [espeak](http://espeak.sourceforge.net/) - A compact open source software speech synthesizer for English and other languages.

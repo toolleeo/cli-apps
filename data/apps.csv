@@ -803,7 +803,7 @@ security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the word
 password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databases from your terminal.
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
 multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
-multimedia,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
+music,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
 security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
 note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
 ai,ata,,https://github.com/rikhuijzer/ata,Ask the Terminal Anything: OpenAI GPT in the terminal.
@@ -833,7 +833,7 @@ copilot,Commandpilot,,https://github.com/barthr/commandpilot,An assistant which 
 ai,AI,,https://github.com/nitefood/ai-bash-gpt,A commandline ChatGPT client in BASH with conversation/completion support.
 security,feroxbuster,,https://github.com/epi052/feroxbuster,"A fast, simple, recursive content discovery tool written in Rust."
 text-search,ugrep,,https://github.com/Genivia/ugrep,"Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more."
-multimedia,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
+music,BadaBoomBooks,,https://github.com/WirlyWirly/BadaBoomBooks,Quickly organize audiobooks using a terminal and web-browser.
 flashcard,py_flashcards,,https://github.com/M4THYOU/py_flashcards,Text-only CLI flashcards parsed from Markdown file.
 file-renamer,moove,,https://github.com/urin/moove,Manipulate file names and locations using a text editor.
 shells,Reptyl,,https://github.com/0ut0flin3/Reptyl,A cross-platform command line shell that supports execution of commands in natural language.
@@ -944,7 +944,7 @@ games,Dino,,https://github.com/wldfngrs/chrome-dinosaur-terminal,A C++ and ncurs
 find,gret,,https://github.com/4imothy/gret,A command-line utility designed to search through directories and files for a regex expression that matches.
 launcher,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for games (or anything), the UNIX way."
 security,securo,,https://github.com/iunary/securo,Encrypt and descrypt files and folders using a symmetric encryption.
-multimedia,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
+graphics,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 games,Wordle Solver,,https://gitlab.com/christosangel/wordle-solver,A bash script that can solve wordle riddles.
 utility,pangran,,https://github.com/BimoT/pangran,A simple TUI program that checks if you've typed a pangram.
 utility,Polykill,,https://github.com/Bdeering1/polykill,Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
