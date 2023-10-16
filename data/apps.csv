@@ -47,7 +47,7 @@ monitor,powertop,https://01.org/powertop,https://github.com/fenrus75/powertop,"A
 monitor,sysdig,https://www.sysdig.org/,https://github.com/draios/sysdig,"Sysdig captures system calls and events from the Linux kernel.  You can save, filter, and analyze the data with our CLI or our desktop app.  Think of sysdig as strace + tcpdump + htop + iftop + lsof + wireshark for your entire system."
 monitor,smem,https://www.selenic.com/smem/,https://selenic.com/repo/smem,"Python program that reports memory usage; it can report the ""proportional set size"" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation."
 monitor-top,top,,https://gitlab.com/procps-ng/procps,The classical Unix utility that provides a rolling display of top cpu using processes.  
-monitor,watch,http://www.linfo.org/watch.html,https://gitlab.com/procps-ng/procps/,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
+file-handling,watch,http://www.linfo.org/watch.html,https://gitlab.com/procps-ng/procps/,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
 productivity,wtf,,https://github.com/wtfutil/wtf,"The personal information dashboard for your terminal, including todos, calendar, JIRA, etc."
 shells,Bash,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/git/bash.git,(Bourne Again SHell) The most widespread system shell to date.  
 shells,Fish,https://fishshell.com/,https://github.com/fish-shell/fish-shell,"""A command line shell for the 90s""; focused on user-friendliness, with powerful autosuggestions, colors, ""sane scripting"" (w.r.t. to Bash)."
@@ -363,7 +363,7 @@ productivity,gdir,,https://github.com/pafoster/gdir,A command line tool which qu
 webdev,Mycorrhiza Wiki,https://mycorrhiza.wiki/,https://github.com/bouncepaw/mycorrhiza,A lightweight file-system wiki engine that uses Git for keeping history.
 viewers,ov,,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.
 programming,fastmod,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere""."
-launcher,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
+file-handling,watchexec,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.
 data-management-json,yq,,https://github.com/mikefarah/yq,Portable command-line YAML processor.
 text-processing,squeeze,,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc)."
 text-search-replace,amber,,https://github.com/dalance/amber,Code search / replace tool.
@@ -763,7 +763,7 @@ office,DeckTape,,https://github.com/astefanutti/decktape,DeckTape is a high-qual
 file-system,ipfs-deploy,,https://github.com/ipfs-shipyard/ipfs-deploy,Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 time-tracker,doing,,https://github.com/ttscoff/doing,A command line tool for remembering what you were doing and tracking what you've done.
 data-management-json,underscore-cli,,https://github.com/ddopson/underscore-cli,Command-line utility-belt for hacking JSON and Javascript.
-monitor,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-platform command line utility to watch file system changes.
+file-handling,Chokidar CLI,,https://github.com/open-cli-tools/chokidar-cli,Fast cross-platform command line utility to watch file system changes.
 transfer,ffsend,,https://github.com/timvisee/ffsend,Easily and securely share files from the command line. A fully featured Firefox Send client.
 data-management-json,GROQ,,https://github.com/sanity-io/groq-cli,"The CLI tool consumes both JSON and NDJSON documents. You can pass in data from a local file, or from piping to standard input."
 cheatsheet,Wat,,https://github.com/dthree/wat,"Instant, central, community-built docs."
@@ -935,7 +935,7 @@ file-manager,projectable,,https://github.com/dzfrias/projectable,A TUI file mana
 file-explorer,Hop!,,https://github.com/benrutter/hop,"File explorer designed to be fast, simple and user friendly, running on any operating system."
 cheatsheet,ManPDF & ManWEB,,https://github.com/sebastiancarlos/manpdf,Read your Man pages in PDF format. Even online!
 launcher,lmt,,https://github.com/Rohansjamadagni/lmt,"A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process."
-monitor,rwatch,,https://github.com/davidhfrankelcodes/rwatch,A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
+file-handling,rwatch,,https://github.com/davidhfrankelcodes/rwatch,A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
 multimedia,FFMPerative,,https://github.com/remyxai/FFMPerative,"Powered by Large Language Models (LLMs) through an intuitive chat interface, now you can compose video edits in natural language."
 monitor,Batfetch,,https://github.com/ashish-kus/batfetch,A command-line tool that displays detailed information about the battery of your device in a clean and organized way.
 music,musicScraper,,https://github.com/mBaratta96/musicScraper,"CLI tool for scraping information from musical websites (Rateyourmusic, Metal Archives), with nice album ASCII art."
