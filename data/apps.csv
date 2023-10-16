@@ -484,7 +484,7 @@ typing,thokr,,https://github.com/jrnxf/thokr,Sleek typing tui with visualized re
 online,socialscan,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.
 music,termusic,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.
 financial,cointop,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
-system,pulsemixer,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
+music,pulsemixer,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.
 cd,fastdiract,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.
 file-dir-cleanup,inventory,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.
 funny,Draw,,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
@@ -541,7 +541,7 @@ security,uacme,,https://github.com/ndilieto/uacme,ACMEv2 client written in plain
 music,Tizonia,,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices."
 music,Tera,,https://github.com/shinokada/tera,"Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only."
 games,sssnake,,https://github.com/AngelJumbo/sssnake,(Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.
-system,Devbox,,https://github.com/jetpack-io/devbox,Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
+devops,Devbox,,https://github.com/jetpack-io/devbox,Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
 git,gh-stars,,https://github.com/aymanbagabas/gh-stars,A GitHub CLI extension to show repository stargazers.
 browser,asuka,https://git.sr.ht/~julienxx/asuka,https://git.sr.ht/~julienxx/asuka,A Gemini Project client written in Rust with NCurses.
 browser,Gremlin,,https://github.com/actuday6418/gremlin,Gemini browser for the terminal.
