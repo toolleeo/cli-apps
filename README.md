@@ -1222,7 +1222,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 
 ## <a name="shells"></a>Shells
 
-Shell programs that enables the interaction through the terminal.
+Shell programs that enable the interaction through the terminal.
 
 * [Bash](https://www.gnu.org/software/bash/) - (Bourne Again SHell) The most widespread system shell to date.  
 * [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua.
