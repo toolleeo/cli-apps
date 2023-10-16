@@ -36,7 +36,7 @@ graphics,Graphics,
 history,History management,Programs to replace or improve the management of command line history
 launcher,Command launchers,"Tools to launch/execute programs, either interactively, automatically, in parallel, etc."
 markdown,Markdown,Utilities to display and convert Markdown files
-multimedia,Multimedia,Programs to specifically deal audio/video files
+video,Video,"Programs to process and manage video files (downloader, editing, players, etc.)"
 networking,Networking,Programs to deal with networks and communication
 note-taking,Note taking,
 office,Office tools,Spreadsheet and presentations

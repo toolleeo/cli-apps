@@ -207,7 +207,7 @@ password-manager,hide,,https://github.com/whatl3y/hide,AES-256 bit encrypted pas
 password-manager,gopass,https://www.gopass.pw/,https://github.com/gopasspw/gopass,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 password-manager,pass,https://www.passwordstore.org/,https://git.zx2c4.com/password-store/,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
 password-manager,dpg,,,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
-multimedia,yt-splitter,,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
+video,yt-splitter,,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 backup,bupstash,,https://github.com/andrewchambers/bupstash,Easy and efficient encrypted backups.
 cd,zoxide,,https://github.com/ajeetdsouza/zoxide,"It remembers which directories you use most frequently, so you can ""jump"" to them in just a few keystrokes."
 viewers,TerminalImageViewer,,https://github.com/stefanhaustein/TerminalImageViewer,Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
@@ -513,8 +513,8 @@ music,Spotify TUI,,https://github.com/Rigellute/spotify-tui,A Spotify client for
 music,dzr,,https://github.com/yne/dzr,"Command Line deezer.com Player for Linux, BSD, Android, Windows."
 music,beets,,https://github.com/beetbox/beets,"Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes."
 music,musikcube,,https://github.com/clangen/musikcube,"A cross-platform, terminal-based audio engine, library, player and server written in C++."
-multimedia,Editly,,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
-multimedia,ffmpeg,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.
+video,Editly,,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg.
+video,ffmpeg,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.
 shells,xonsh,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
 financial,hledger,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
 git,fzf-git.sh,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf."
@@ -569,7 +569,7 @@ utility,ora,,https://github.com/sindresorhus/ora,Elegant terminal spinner.
 monitor,hyperfine,,https://github.com/sharkdp/hyperfine,A command-line benchmarking tool.
 password-manager,Bitwarden CLI,https://bitwarden.com/help/cli/,https://github.com/bitwarden/cli,"Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises."
 fuzzy-finder,choose,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
-multimedia,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video."
+video,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing Youtube audio and video."
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 financial,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
@@ -744,7 +744,7 @@ graphics,Korkut,,https://github.com/oguzhaninan/korkut,"Quick and simple image p
 screensaver,pipes.sh,,https://github.com/pipeseroni/pipes.sh,Animated pipes terminal screensaver.
 calc,Bitwise,,https://github.com/mellowcandle/bitwise,Base conversion and bit manipulator in ncurses.
 programming,rebound,,https://github.com/shobrook/rebound,"Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Golang, and Java."
-multimedia,ffscreencast,,https://github.com/cytopia/ffscreencast,A ffmpeg screencast with video overlay and multi monitor support.
+video,ffscreencast,,https://github.com/cytopia/ffscreencast,A ffmpeg screencast with video overlay and multi monitor support.
 time-tracker,Moro,,https://github.com/getmoro/moro,"A command line tool for tracking work hours, as simple as it can get."
 markdown,Grip,,https://github.com/joeyespo/grip,GitHub Readme Instant Preview - Preview markdown files as GitHub would render them.
 cd,z,,https://github.com/rupa/z,Directory changer based on aging and frecency.
@@ -802,7 +802,7 @@ rss,rss-cli,,https://github.com/Clortox/rss-cli,A unix-inspired cli application 
 security,pgen,,https://github.com/ctsrc/Pgen,Generate passphrases using the wordlists for random passphrases made by the EFF.
 password-manager,keydex,,https://github.com/shikaan/keydex,Manage KeePass databases from your terminal.
 utility,Keep,,https://github.com/keephq/keep,"Simple alerting tool, with declarative syntax and builtin providers."
-multimedia,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
+video,lotc,,https://github.com/ranelpadon/lord-of-the-clips,"(Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips."
 music,cTune,,https://github.com/An7ar35/ctune,A ncurses based internet radio player written in C for Linux.
 security,enc,,https://github.com/life4/enc,"A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more."
 note-taking,NoteSH,,https://github.com/Cvaniak/NoteSH,"Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!"
@@ -892,7 +892,7 @@ fuzzy-finder,smenu,,https://github.com/p-gen/smenu,"Started as a lightweight and
 cheatsheet,docfd,,https://github.com/darrenldl/docfd,TUI fuzzy document finder that looks for documentation files in markdown and txt format in the directory tree.
 git,BFG Repo-Cleaner,,https://github.com/rtyley/bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster."
 utility,Skylab,,https://github.com/SerhiiStets/skylab,A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
-multimedia,YouTube TUI,https://siriusmart.github.io/youtube-tui/,https://github.com/Siriusmart/youtube-tui,A lightweight and user friendly TUI for browsing YouTube content from the terminal.
+video,YouTube TUI,https://siriusmart.github.io/youtube-tui/,https://github.com/Siriusmart/youtube-tui,A lightweight and user friendly TUI for browsing YouTube content from the terminal.
 monitor-top,PCtrl,,https://github.com/MohamedSherifNoureldin/PCtrl,"Robust, featureful, easy-to-use and powerful process manager."
 git,Git Auto Sync,,https://github.com/GitJournal/git-auto-sync,"Automatically commits changes to a git repository, and always keep that repo up to date."
 note-taking,meudeus,,https://github.com/dj8yfo/meudeus,A skim-based `*.md` explore and surf tool.
@@ -936,7 +936,7 @@ file-explorer,Hop!,,https://github.com/benrutter/hop,"File explorer designed to 
 cheatsheet,ManPDF & ManWEB,,https://github.com/sebastiancarlos/manpdf,Read your Man pages in PDF format. Even online!
 launcher,lmt,,https://github.com/Rohansjamadagni/lmt,"A program that can be used to run applications with resource limits enforced using cgroupsv2 on Linux; it allows to set limits on CPU usage, memory usage, and the number of cores for a process."
 file-watch,rwatch,,https://github.com/davidhfrankelcodes/rwatch,A Rust re-implementation of the classic Unix watch command that allows you to run a command repeatedly and watch its output.
-multimedia,FFMPerative,,https://github.com/remyxai/FFMPerative,"Powered by Large Language Models (LLMs) through an intuitive chat interface, now you can compose video edits in natural language."
+video,FFMPerative,,https://github.com/remyxai/FFMPerative,"Powered by Large Language Models (LLMs) through an intuitive chat interface, now you can compose video edits in natural language."
 monitor,Batfetch,,https://github.com/ashish-kus/batfetch,A command-line tool that displays detailed information about the battery of your device in a clean and organized way.
 music,musicScraper,,https://github.com/mBaratta96/musicScraper,"CLI tool for scraping information from musical websites (Rateyourmusic, Metal Archives), with nice album ASCII art."
 terminal,tmux-session,,https://github.com/BartSte/tmux-session,Manage tmux sessions using fzf.
@@ -953,7 +953,7 @@ music,cue,,https://github.com/ravachol/cue,A command-line music player.
 git,Git Commit Vanity Hash Solver,,https://github.com/trichner/gitc0ffee,"Neat tool to find a 'vanity' hash for a given git commit. Make all your commits hashes start with the prefix c0ffee, cafe, badc0de5 or whatever makes you happy!"
 games,blackjack,,https://github.com/acidvegas/blackjack,IRC bot to play blackjack.
 music,mzk,,https://github.com/acidvegas/mzk,Music theory helper.
-multimedia,CreateVideoMeme,,https://github.com/hache0099/CreateMemeVideo,Bash tool to add captions to the top of videos.
+video,CreateVideoMeme,,https://github.com/hache0099/CreateMemeVideo,Bash tool to add captions to the top of videos.
 text-search,hypergrep,,https://github.com/p-ranav/hypergrep,Recursively search directories for a regex pattern using Intel Hypescan.
 music,maestro-cli,,https://github.com/PrajwalVandana/maestro-cli,"A command-line tool to play songs (or any audio, really) in the terminal."
 online,Shreddit,,https://github.com/x89/Shreddit,Remove your comment history on Reddit as deleting an account does not do so.
@@ -1024,7 +1024,7 @@ chat,Telegram messenger CLI,,https://github.com/vysheng/tg,Command-line interfac
 chat,signal-cli,,https://github.com/AsamK/signal-cli,"signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger."
 chat,toxic,,https://github.com/Jfreegman/toxic,A Tox-based instant messaging and video chat client.
 music,ncspot,,https://github.com/hrkfdn/ncspot,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes."
-multimedia,Streamlink,,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player.
+video,Streamlink,,https://github.com/streamlink/streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player.
 transfer,yt-dlp,,https://github.com/yt-dlp/yt-dlp,A youtube-dl fork with additional features and fixes.
 rss,Sfeed,https://codemadness.org/sfeed.html,git://git.codemadness.org/sfeed,Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
 todo-manager,Todoman,,https://github.com/pimutils/todoman,"A simple, standards-based, cli todo (aka: task) manager."
@@ -1078,7 +1078,7 @@ password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client
 password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
 ls,vivid,,https://github.com/sharkdp/vivid,A themeable LS_COLORS generator with a rich filetype datebase.
 editors,Bob,,https://github.com/MordechaiHadad/bob,"Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions."
-multimedia,videoinfox,,https://github.com/powerhousepro69/videoinfox,Find videos fast. Powerful playlist building and editing. A play queue to load up unlimited playlists. Index unlimited video libraries and find videos by keyword. Download list building without leaving the browser and a Download Queue.
+video,videoinfox,,https://github.com/powerhousepro69/videoinfox,Find videos fast. Powerful playlist building and editing. A play queue to load up unlimited playlists. Index unlimited video libraries and find videos by keyword. Download list building without leaving the browser and a Download Queue.
 text-processing,rich,,https://github.com/Textualize/rich-cli,"Rich-CLI is a command line toolbox for fancy output in the terminal, built with [Rich](https://github.com/Textualize/rich)."
 markdown,mdformat,,https://github.com/executablebooks/mdformat,Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 music,ytui-music,,https://github.com/sudipghimire533/ytui-music,Youtube client in terminal for music (lightweight Youtube client).
