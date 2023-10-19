@@ -1,10 +1,10 @@
 # The largest Awesome List of CLI/TUI programs
 
-This repository contains a list of CLI/TUI apps with links and a short description.
+This repository - to the best of my knowledge - contains the largest collection of CLI/TUI tools available in the form of awesome list.
 
-To the best of my knowledge, this is the largest collection of CLI/TUI tools available in the form of awesome list.
+To contribute, see the [contribution section](#contribute).
 
-To contribute, see [this section](#contribute).
+Some links are available to [related resources](#resources).
 
 # Summary
 
@@ -31,8 +31,6 @@ To contribute, see [this section](#contribute).
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
 * [Web browser](#browser) (17), [Web development](#webdev) (23), [Writing](#writing) (9)
-
-Some links to [related resources](#resources).
 
 ## <a name="ai"></a>AI / ChatGPT
 

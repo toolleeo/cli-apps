@@ -11,8 +11,6 @@ summary_template = """
 # Index
 
 {cats}
-
-Some links to [related resources](#resources).
 """
 
 resources_template = """
