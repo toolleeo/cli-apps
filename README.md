@@ -4,8 +4,6 @@ This repository contains a list of CLI/TUI apps with links and a short descripti
 
 To the best of my knowledge, this is the largest collection of CLI/TUI tools available in the form of awesome list.
 
-If you are looking for additional information, you may like [CLIpedia](https://robot.unipv.it/clipedia/), a growing blog about CLI/TUI programs.
-
 To contribute, see [this section](#contribute).
 
 # Summary
@@ -1649,6 +1647,8 @@ A list of some online resoures that contribute interesting links to apps and inf
 [commandlinefu.com](https://www.commandlinefu.com/commands/browse) - The place to record those command-line gems that you return to again and again. That way others can gain from your CLI wisdom and you from theirs too.
 
 [cli.club](https://cli.club/) - A collection of the best CLI/Ncurses software covering a wide range of categories from messaging, music, text editing and more.
+
+[Toolleeo’s CLIpedia](https://robot.unipv.it/clipedia/) - Blog with information on CLI apps, screenshots and other details (license, author, etc.).
 
 
 
