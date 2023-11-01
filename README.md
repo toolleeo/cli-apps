@@ -275,6 +275,7 @@ Tools to manage data files, dedicated to JSON, YAML and other similar formats.
 * [jsonv.sh](https://github.com/archan937/jsonv.sh) - A Bash command line tool for converting JSON to CSV.
 * [jtbl](https://github.com/kellyjonbrazil/jtbl) - A simple CLI tool to print JSON and JSON Lines data as a table in the terminal.
 * [jtc](https://github.com/ldn-softdev/jtc) - JSON manipulation and transformation.
+* [play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 * [RecordStream](https://github.com/benbernard/RecordStream) - Commandline tools for slicing and dicing JSON records.
 * [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
 * [TickTick](https://github.com/kristopolous/TickTick) - TickTick enables you to put JSON in bash scripts. Yes, just encapsulate them with two back-ticks.
