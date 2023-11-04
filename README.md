@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1210**
+* Apps/tools covered: **1211**
 * Number of categories: **75**.
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (14), [Data management - JSON/YAML/etc.](#data-management-json) (42), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (36), [DevOps](#devops) (10), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (28), [Fuzzy finders](#fuzzy-finder) (10)
-* [Games](#games) (45), [Git and accessories](#git) (42), [Graphics](#graphics) (32)
+* [Games](#games) (46), [Git and accessories](#git) (42), [Graphics](#graphics) (32)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (39), [Note taking](#note-taking) (21)
@@ -690,6 +690,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.
 * [crappybird-py](https://github.com/JonPizza/crappybird-py) - Flappy bird.
 * [Dino](https://github.com/wldfngrs/chrome-dinosaur-terminal) - A C++ and ncurses rendering of the popular chrome dinosaur game on the terminal.
+* [Durak](https://github.com/levkush/durak) - Durak card game for two in a terminal.
 * [Dwarf fortress](http://www.bay12games.com/dwarves/) - A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities.
 * [escaping-figures-game-cli](https://github.com/akgondber/escaping-figures-game-cli) - Count figure's occurences in the escaping figures matrix.
 * [Flapioca](https://github.com/kbrgl/flapioca) - A Flappy Bird-inspired terminal game written in Go.
