@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1212**
+* Apps/tools covered: **1213**
 * Number of categories: **75**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (46), [Git and accessories](#git) (42), [Graphics](#graphics) (32)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (39), [Note taking](#note-taking) (21)
+* [Networking](#networking) (40), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (33), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
@@ -872,6 +872,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [SSM](https://github.com/elliot40404/ssm) - A simple SSH manager.
 * [termishare](https://github.com/qnkhuat/termishare) - Peer to peer terminal sharing.
 * [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
+* [TGORQ](https://github.com/vitor-augusto1/tgorq) - Terminal GO ReQuest (TGORQ) is a Vim-like lightweight CLI tool for performing HTTP requests.
 * [TStream](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
 * [ttfb](https://github.com/phip1611/ttfb) - ttfb is a CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.
 * [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
