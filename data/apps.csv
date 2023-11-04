@@ -1190,7 +1190,7 @@ utility,Zsh Angel IQ System,,https://github.com/psprint/zsh-angel-iq-system,"A b
 text-processing,JsonGenius,,https://github.com/semanser/JsonGenius,Self-hosted scraping API that extracts structured data described by a JSON Schema.
 funny,paclear,,https://github.com/orangekame3/paclear,paclear is a clear command with pacman animation.
 note-taking,zk,,https://github.com/mickael-menu/zk,zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
-system,play,,https://github.com/paololazzari/play,"TUI playground for your favorite programs, such as grep, sed and awk."
+data-management,play,,https://github.com/paololazzari/play,"TUI playground for your favorite programs, such as grep, sed and awk."
 package-manager,Shell Bling Ubuntu,,https://github.com/hiAndrewQuinn/shell-bling-ubuntu,"A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy."
 system,rfsh,,https://github.com/docsion/rfsh,"Run shell scripts in batch, concurrently, fully customized with variable."
 transfer,tshare,,https://github.com/trikko/tshare,"The fastest way to share your files on the web, for free."
