@@ -1210,3 +1210,4 @@ networking,echo,,https://github.com/devem-tech/echo,Speedy API emulation facilit
 office,presenterm,,https://github.com/mfontanini/presenterm,A terminal slideshow tool.
 webdev,kanha,,https://github.com/pwnwriter/kanha,A web-app pentesting suite written in Rust.
 games,Durak,,https://github.com/levkush/durak,Durak card game for two in a terminal.
+webdev,dummy,,https://github.com/sterrasec/dummy,Generator of static files for testing file upload. It can generate the png file of any number of bytes!
