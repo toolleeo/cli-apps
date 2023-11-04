@@ -1215,3 +1215,4 @@ networking,TGORQ,,https://github.com/vitor-augusto1/tgorq,Terminal GO ReQuest (T
 science,BibMan,https://ductri.github.io/note/2023/09/27/bibman.html,https://github.com/ductri/BibMan,A TUI bibliography manager. It aims to support only the most basis features as a general bibliography manager.
 music,radio-beats,,https://github.com/quangnguyen30192/radio-beats,Rofi-like menu for playing radio stations.
 graphics,haylxon,,https://github.com/pwnwriter/haylxon,Blazing-fast tool to grab screenshots of your domain list right from terminal.
+programming,DEM,https://www.axemsolutions.io/dem_doc/index.html,https://github.com/axem-solutions/dem,Containerized Development Environment Manager for embedded development.
