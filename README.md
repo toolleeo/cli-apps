@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1209**
+* Apps/tools covered: **1210**
 * Number of categories: **75**.
 
 # Index
@@ -30,7 +30,7 @@ Some links are available to [related resources](#resources).
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
-* [Web browser](#browser) (17), [Web development](#webdev) (23), [Writing](#writing) (9)
+* [Web browser](#browser) (17), [Web development](#webdev) (24), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -1586,6 +1586,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [Hugo](https://gohugo.io/) - The world's fastest framework for building websites.
 * [iola](https://github.com/pvarentsov/iola) - A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.
 * [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down using the [isitup.org](https://isitup.org/) API.
+* [kanha](https://github.com/pwnwriter/kanha) - A web-app pentesting suite written in Rust.
 * [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
 * [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator, all functionalities are provided by plugins that can be combined and chained, written and extendable in Javascript.
