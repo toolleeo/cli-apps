@@ -1207,3 +1207,4 @@ monitor-top,nmon,https://nmon.sourceforge.io/pmwiki.php,,Nigel's performance Mon
 email,Notmuch,,https://git.notmuchmail.org/git/notmuch,"Notmuch is a command-line based program for indexing, searching, reading, and tagging large collections of email messages."
 typing,Typr,,https://github.com/DriftingOtter/Typr,"`typr` is a Python-based application that utilizes the 'rich' module to provide you with a simple yet satisfying tui when typing, `typr` is designed to be simple and easy to use."
 networking,echo,,https://github.com/devem-tech/echo,Speedy API emulation facilitated by a reverse proxy and mock json server.
+office,presenterm,,https://github.com/mfontanini/presenterm,A terminal slideshow tool.
