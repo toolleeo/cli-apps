@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1213**
+* Apps/tools covered: **1214**
 * Number of categories: **75**.
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (18), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (33), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
-* [Science](#science) (16), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (39), [System monitoring](#monitor) (23), [System tools](#system) (20)
+* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (11), [Sound and music](#music) (39), [System monitoring](#monitor) (23), [System tools](#system) (20)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (26), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
@@ -1132,6 +1132,7 @@ Tools to handle religious material, e.g. reading the Holy Bible.
 Packages for scientific research and science applications, e.g., bibliography and publication management.
 
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
+* [BibMan](https://ductri.github.io/note/2023/09/27/bibman.html) - A TUI bibliography manager. It aims to support only the most basis features as a general bibliography manager.
 * [bibtools](https://github.com/pkgw/bibtools) - Command-line bibliography manager.
 * [cobib](https://gitlab.com/mrossinek/cobib) - Simple, command-line based bibliography management tool.
 * [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
