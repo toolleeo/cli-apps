@@ -1226,5 +1226,5 @@ transfer,tdl,,https://github.com/iyear/tdl,"Beautuful and feature-rich Telegram 
 transfer,lux,,https://github.com/iawia002/lux,"Lux is a fast and simple video downloader built with Go."
 transfer,gallery-dl,,https://github.com/mikf/gallery-dl,"Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites."
 data-management,sampler,,https://github.com/sqshq/sampler,"Sampler is a tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
-launcher,pueue,,https://github.com/Nukesor/pueue,"Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks."
-funny,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from "The Matrix". Streams of random characters will endlessly scroll down your terminal screen."
+launcher,pueue,,https://github.com/Nukesor/pueue,"aboba"
+funny,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from ""The Matrix"". Streams of random characters will endlessly scroll down your terminal screen."
