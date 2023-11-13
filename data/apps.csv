@@ -326,7 +326,6 @@ conversion,BaFi,https://mmalcek.github.io/bafi/,https://github.com/mmalcek/bafi,
 text-processing,hck,,https://github.com/sstadick/hck,A sharp cut clone.
 games,rpg-cli,,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!
 disk-analyzer,dua,,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
-note-taking,jnrl,,https://github.com/maebert/jrnl,Collect your thoughts and notes without leaving the command line.
 data-management-tabular,tabview,,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.
 versioning,Bazaar,http://bazaar.canonical.com/en/,,"Multiplatform version control system supporting diffferent workflows; it is part of the GNU Project, and it is free software sponsored by Canonical."
 git,grv,,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits and diffs to be viewed, searched and filtered."
