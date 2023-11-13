@@ -1220,22 +1220,22 @@ file-handling,rm-trash,,https://github.com/nateshmbhat/rm-trash,"A ""rm-trash"" 
 shells,Nushell,,https://github.com/nushell/nushell,"A modern shell written in Rust, where all data is structured."
 shells,Elvish,,https://github.com/elves/elvish,"Elvish is a versatile interactive shell and expressive programming language, combined into one seamless package."
 shells,Ion,,https://github.com/redox-os/ion,"Ion is a modern system shell that features a simple, yet powerful, syntax"
-calc,Numbat,,https://github.com/sharkdp/numbat,"Numbat is a calculator for scientific computations with first class support for physical dimensions and units."
+calc,Numbat,,https://github.com/sharkdp/numbat,Numbat is a calculator for scientific computations with first class support for physical dimensions and units.
 monitor-top,s-tui,,https://github.com/amanusk/s-tui,"Stress-Terminal UI, s-tui, monitors CPU temperature, frequency, power and utilization in a graphical way from the terminal."
-transfer,tdl,,https://github.com/iyear/tdl,"Beautuful and feature-rich Telegram downloader, written in Go."
-transfer,lux,,https://github.com/iawia002/lux,"Lux is a fast and simple video downloader built with Go."
-transfer,gallery-dl,,https://github.com/mikf/gallery-dl,"Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites."
+transfer,tdl,,https://github.com/iyear/tdl,"Beautiful and feature-rich Telegram downloader, written in Go."
+transfer,lux,,https://github.com/iawia002/lux,Lux is a fast and simple video downloader built with Go.
+transfer,gallery-dl,,https://github.com/mikf/gallery-dl,Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites.
 data-management,sampler,,https://github.com/sqshq/sampler,"Sampler is a tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
-launcher,pueue,,https://github.com/Nukesor/pueue,"Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks."
+launcher,pueue,,https://github.com/Nukesor/pueue,Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks.
 funny,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from ""The Matrix"". Streams of random characters will endlessly scroll down your terminal screen."
-funny,boxes,,https://github.com/ascii-boxes/boxes,"Boxes is a command line filter program which draws ASCII art boxes around your input text."
+funny,boxes,,https://github.com/ascii-boxes/boxes,Boxes is a command line filter program which draws ASCII art boxes around your input text.
 data-management-json,jaq,,https://github.com/01mf02/jaq,"jaq is a clone of the JSON data processing tool jq, that aims to support a large subset of jq's syntax and operations."
 cheatsheet,pet,,https://github.com/knqyf263/pet,"Pet is a simple command-line snippet manager, written in Go."
-cheatsheet,halp,,https://github.com/orhun/halp,"halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags."
-cheatsheet,carapace,,https://github.com/rsteube/carapace-bin,"Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells."
-file-watch,reflex,,https://github.com/cespare/reflex,"Reflex is a small tool to watch a directory and rerun a command when certain files change."
-note-taking,jrnl,,https://github.com/jrnl-org/jrnl,"jrnl is a simple journal application for the command line."
+cheatsheet,halp,,https://github.com/orhun/halp,halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags.
+cheatsheet,carapace,,https://github.com/rsteube/carapace-bin,Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells.
+file-watch,reflex,,https://github.com/cespare/reflex,Reflex is a small tool to watch a directory and rerun a command when certain files change.
+note-taking,jrnl,,https://github.com/jrnl-org/jrnl,jrnl is a simple journal application for the command line.
 networking,gping,,https://github.com/orf/gping,"Ping, but with a graph."
 networking,websocat,,https://github.com/vi/websocat,"Netcat, curl and socat for WebSockets."
 networking,dog,,https://github.com/ogham/dog,"dog is a command-line DNS client. It has colourful output, understands normal command-line argument syntax, supports the DNS-over-TLS and DNS-over-HTTPS protocols, and can emit JSON."
-networking,oha,,https://github.com/hatoo/oha,"oha is a tiny program that sends some load to a web application and show realtime tui"
+networking,oha,,https://github.com/hatoo/oha,oha is a tiny program that sends some load to a web application and show realtime tui
