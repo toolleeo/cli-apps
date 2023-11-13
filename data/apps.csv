@@ -1218,7 +1218,7 @@ programming,DEM,https://www.axemsolutions.io/dem_doc/index.html,https://github.c
 file-handling,rm-trash,,https://github.com/nateshmbhat/rm-trash,"A ""rm-trash"" is meant to be used in place of rm system command in linux . This script will safely delete your files and put them in the trash for later retrieval."
 shells,Nushell,,https://github.com/nushell/nushell,"A modern shell written in Rust, where all data is structured."
 shells,Elvish,,https://github.com/elves/elvish,"Elvish is a versatile interactive shell and expressive programming language, combined into one seamless package."
-shells,Ion,,https://github.com/redox-os/ion,"Ion is a modern system shell that features a simple, yet powerful, syntax"
+shells,Ion,,https://github.com/redox-os/ion,"Ion is a modern system shell that features a simple, yet powerful, syntax."
 calc,Numbat,,https://github.com/sharkdp/numbat,Numbat is a calculator for scientific computations with first class support for physical dimensions and units.
 monitor-top,s-tui,,https://github.com/amanusk/s-tui,"Stress-Terminal UI, s-tui, monitors CPU temperature, frequency, power and utilization in a graphical way from the terminal."
 transfer,tdl,,https://github.com/iyear/tdl,"Beautiful and feature-rich Telegram downloader, written in Go."
@@ -1233,8 +1233,8 @@ cheatsheet,pet,,https://github.com/knqyf263/pet,"Pet is a simple command-line sn
 cheatsheet,halp,,https://github.com/orhun/halp,halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags.
 cheatsheet,carapace,,https://github.com/rsteube/carapace-bin,Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells.
 file-watch,reflex,,https://github.com/cespare/reflex,Reflex is a small tool to watch a directory and rerun a command when certain files change.
-note-taking,jrnl,,https://github.com/jrnl-org/jrnl,jrnl is a simple journal application for the command line.
+note-taking,jrnl,,https://github.com/jrnl-org/jrnl,"jrnl is a simple journal application for the command line to easily create, search, and view journal entries; journals are stored as human-readable plain text, and can also be encrypted using AES encryption."
 networking,gping,,https://github.com/orf/gping,"Ping, but with a graph."
 networking,websocat,,https://github.com/vi/websocat,"Netcat, curl and socat for WebSockets."
 networking,dog,,https://github.com/ogham/dog,"dog is a command-line DNS client. It has colourful output, understands normal command-line argument syntax, supports the DNS-over-TLS and DNS-over-HTTPS protocols, and can emit JSON."
-networking,oha,,https://github.com/hatoo/oha,oha is a tiny program that sends some load to a web application and show realtime tui
+networking,oha,,https://github.com/hatoo/oha,oha is a tiny program that sends some load to a web application and show realtime tui.
