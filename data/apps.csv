@@ -1241,3 +1241,4 @@ networking,oha,,https://github.com/hatoo/oha,oha is a tiny program that sends so
 todo-manager,Redo.vc,https://redo.vc,https://github.com/sottey/redo.vc,"Redo.vc is a tool for command line fans that allows you to track your tasks. It is a full featured todo manager with tagging, projects, recurring tasks and much more, all stored in a JSON file so it is super portable and tooling new apps for the data format is super easy."
 todo-manager,wish,,https://github.com/levkush/wish,A delightful wish list manager to keep track of your dreams and desires!
 data-management,redis_tui,,https://github.com/mat2cc/redis_tui,Redis terminal browser application.
+graphics,terminal-art,,https://github.com/Eric-Lennartson/terminal-art,Art made in the terminal: rotating cube.
