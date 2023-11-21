@@ -1259,4 +1259,3 @@ monitor-top,nvtop,,https://github.com/Syllo/nvtop,"A top like task monitor for A
 monitor-top,radeontop,,https://github.com/clbr/radeontop,"View your AMD GPU utilization, both for the total activity percent and individual blocks."
 monitor,macchina,,https://github.com/Macchina-CLI/macchina,"Fast, minimal and customizable system information frontend."
 font,cfonts,,https://github.com/dominikwilkowski/cfonts,А command line tool for generating ANSI fonts in the console. 
-
