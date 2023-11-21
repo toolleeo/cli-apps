@@ -1239,3 +1239,4 @@ networking,websocat,,https://github.com/vi/websocat,"Netcat, curl and socat for 
 networking,dog,,https://github.com/ogham/dog,"dog is a command-line DNS client. It has colourful output, understands normal command-line argument syntax, supports the DNS-over-TLS and DNS-over-HTTPS protocols, and can emit JSON."
 networking,oha,,https://github.com/hatoo/oha,oha is a tiny program that sends some load to a web application and show realtime tui.
 todo-manager,Redo.vc,https://redo.vc,https://github.com/sottey/redo.vc,"Redo.vc is a tool for command line fans that allows you to track your tasks. It is a full featured todo manager with tagging, projects, recurring tasks and much more, all stored in a JSON file so it is super portable and tooling new apps for the data format is super easy."
+todo-manager,wish,,https://github.com/levkush/wish,A delightful wish list manager to keep track of your dreams and desires!
