@@ -1242,21 +1242,21 @@ todo-manager,Redo.vc,https://redo.vc,https://github.com/sottey/redo.vc,"Redo.vc 
 todo-manager,wish,,https://github.com/levkush/wish,A delightful wish list manager to keep track of your dreams and desires!
 data-management,redis_tui,,https://github.com/mat2cc/redis_tui,Redis terminal browser application.
 graphics,terminal-art,,https://github.com/Eric-Lennartson/terminal-art,Art made in the terminal: rotating cube.
-git,gitleaks,,https://github.com/gitleaks/gitleaks,Tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos.
+git,gitleaks,,https://github.com/gitleaks/gitleaks,"Tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos."
 git,mergestat-lite,,https://github.com/mergestat/mergestat-lite,A command-line tool for running SQL queries on git repositories and related data sources.
 git,git-quick-stats,,https://github.com/arzzen/git-quick-stats,A simple and efficient way to access various statistics in a git repository.
 git,git-recall,,https://github.com/Fakerr/git-recall,A simple tool that allows you to easily go through your commits and check what you or other contributors in your team did.
-networking,goaccess,,https://github.com/allinurl/goaccess,GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics.
+networking,goaccess,,https://github.com/allinurl/goaccess,"GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics."
 networking,wuzz,,https://github.com/asciimoo/wuzz,Interactive cli tool for HTTP inspection.
 security,vet,,https://github.com/safedep/vet,Tool for identifying risks in open source software supply chain.
-graphics,Diagon,,https://github.com/ArthurSonzogni/Diagon,Diagon is an interactive interpreter, that transforms markdown-style expression into an ascii-art representation.
+graphics,Diagon,,https://github.com/ArthurSonzogni/Diagon,"Diagon is an interactive interpreter, that transforms markdown-style expression into an ascii-art representation."
 graphics,colout,,https://github.com/nojhan/colout,colout read lines of text stream on the standard input and output characters matching a given regular expression pattern in given color and style.
 devops,ctop,,https://github.com/bcicen/ctop,Top-like interface for container metrics.
 devops,distrobox,,https://github.com/89luca89/distrobox,Use any Linux distribution inside your terminal as docker or podman containers.
 monitor-top,gputop,,https://github.com/wookayin/gpustat,A simple command-line utility for querying and monitoring GPU status.
-monitor-top,amdgpu_top,,A tool that display AMD GPU utilization and information, gathered from performance counters (GRBM, GRBM2), sensors, fdinfo, and AMDGPU driver.
-monitor-top,nvtop,,https://github.com/Syllo/nvtop,A top like task monitor for AMD, Intel and NVIDIA GPUs, that can handle multiple GPUs and print information about them in a htop-familiar way.
-monitor-top,radeontop,,https://github.com/clbr/radeontop,View your AMD GPU utilization, both for the total activity percent and individual blocks.
-monitor,macchina,,https://github.com/Macchina-CLI/macchina,Fast, minimal and customizable system information frontend.
+monitor-top,amdgpu_top,,"A tool that display AMD GPU utilization and information, gathered from performance counters (GRBM, GRBM2), sensors, fdinfo, and AMDGPU driver."
+monitor-top,nvtop,,https://github.com/Syllo/nvtop,"A top like task monitor for AMD, Intel and NVIDIA GPUs, that can handle multiple GPUs and print information about them in a htop-familiar way."
+monitor-top,radeontop,,https://github.com/clbr/radeontop,"View your AMD GPU utilization, both for the total activity percent and individual blocks."
+monitor,macchina,,https://github.com/Macchina-CLI/macchina,"Fast, minimal and customizable system information frontend."
 font,cfonts,,https://github.com/dominikwilkowski/cfonts,А command line tool for generating ANSI fonts in the console. 
 
