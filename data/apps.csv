@@ -1254,7 +1254,7 @@ graphics,colout,,https://github.com/nojhan/colout,colout read lines of text stre
 devops,ctop,,https://github.com/bcicen/ctop,Top-like interface for container metrics.
 devops,distrobox,,https://github.com/89luca89/distrobox,Use any Linux distribution inside your terminal as docker or podman containers.
 monitor-top,gputop,,https://github.com/wookayin/gpustat,A simple command-line utility for querying and monitoring GPU status.
-monitor-top,amdgpu_top,,"A tool that display AMD GPU utilization and information, gathered from performance counters (GRBM, GRBM2), sensors, fdinfo, and AMDGPU driver."
+monitor-top,amdgpu-top,,https://github.com/Umio-Yasuno/amdgpu_top,"A tool that display AMD GPU utilization and information, gathered from performance counters (GRBM, GRBM2), sensors, fdinfo, and AMDGPU driver."
 monitor-top,nvtop,,https://github.com/Syllo/nvtop,"A top like task monitor for AMD, Intel and NVIDIA GPUs, that can handle multiple GPUs and print information about them in a htop-familiar way."
 monitor-top,radeontop,,https://github.com/clbr/radeontop,"View your AMD GPU utilization, both for the total activity percent and individual blocks."
 monitor,macchina,,https://github.com/Macchina-CLI/macchina,"Fast, minimal and customizable system information frontend."
