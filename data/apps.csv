@@ -1242,3 +1242,4 @@ todo-manager,Redo.vc,https://redo.vc,https://github.com/sottey/redo.vc,"Redo.vc 
 todo-manager,wish,,https://github.com/levkush/wish,A delightful wish list manager to keep track of your dreams and desires!
 data-management,redis_tui,,https://github.com/mat2cc/redis_tui,Redis terminal browser application.
 graphics,terminal-art,,https://github.com/Eric-Lennartson/terminal-art,Art made in the terminal: rotating cube.
+chat,tgbounce,,https://github.com/azhuchkov/tgbounce,"Simple Telegram Assistant that allows replying to messages, clicking buttons from bots, marking messages as read, logging notable messages, and providing desktop notifications, among other features."
