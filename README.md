@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1244**
+* Apps/tools covered: **1245**
 * Number of categories: **75**.
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
-* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (14), [Sound and music](#music) (40), [System monitoring](#monitor) (23), [System tools](#system) (19)
+* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (14), [Sound and music](#music) (40), [System monitoring](#monitor) (23), [System tools](#system) (20)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (28), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
@@ -1329,6 +1329,7 @@ System management tools, such as for brightness control, dotfile and environment
 * [conspy](http://conspy.sourceforge.net/) - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 * [has](https://github.com/kdabir/has) - Checks presence of various command line tools on the PATH and reports their installed version.
+* [inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete with support for 600+ command line tools.
 * [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 * [killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 * [lshw](http://www.ezix.org/project/wiki/HardwareLiSter) - A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.

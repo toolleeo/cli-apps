@@ -1243,3 +1243,4 @@ todo-manager,wish,,https://github.com/levkush/wish,A delightful wish list manage
 data-management,redis_tui,,https://github.com/mat2cc/redis_tui,Redis terminal browser application.
 graphics,terminal-art,,https://github.com/Eric-Lennartson/terminal-art,Art made in the terminal: rotating cube.
 chat,tgbounce,,https://github.com/azhuchkov/tgbounce,"Simple Telegram Assistant that allows replying to messages, clicking buttons from bots, marking messages as read, logging notable messages, and providing desktop notifications, among other features."
+system,inshellisense,,https://github.com/microsoft/inshellisense,IDE style command line auto complete with support for 600+ command line tools.
