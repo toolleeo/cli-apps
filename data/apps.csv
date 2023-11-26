@@ -1248,3 +1248,4 @@ fuzzy-finder,lSel,,https://github.com/unsigned-enby/lSel,Simple no-fuss TUI sele
 system,argc-completions,,https://github.com/sigoden/argc-completions,Autocompletion for any shell and any command.
 package-manager,hysp,,https://github.com/pwnwriter/hysp,An independent package manager that every hacker deserves.
 security,jdvrif,,https://github.com/CleasbyCode/jdvrif,CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
+system,Kill,,https://github.com/unsigned-enby/Kill,Small bash-only script for killing processes/sending signals.
