@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1248**
+* Apps/tools covered: **1249**
 * Number of categories: **75**.
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
 * [Package managers](#package-manager) (11), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
-* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (14), [Sound and music](#music) (40), [System monitoring](#monitor) (23), [System tools](#system) (21)
+* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (25), [Shells](#shells) (14), [Sound and music](#music) (40), [System monitoring](#monitor) (23), [System tools](#system) (21)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (28), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (29)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
@@ -1001,7 +1001,7 @@ Package managers to manage/install/uninstall software packages, as source code o
 * [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
 * [getghrel](https://github.com/kavishgr/getghrel) - A user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
-* [hysp](https://github.com/pwnwriter/hysp) - 📦 An independent package manager that every hacker deserves.
+* [hysp](https://github.com/pwnwriter/hysp) - An independent package manager that every hacker deserves.
 * [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
 * [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
@@ -1216,6 +1216,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [gocryptfs](https://nuetzlich.net/gocryptfs) - An encrypted overlay filesystem written in Go.
 * [hashcat](https://hashcat.net/hashcat/) - A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash.
 * [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
+* [jdvrif](https://github.com/CleasbyCode/jdvrif) - CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
 * [LUKS](https://guardianproject.info/code/luks/) - Hard disk encryption tool; it stores all setup information in the partition header, enabling easy data transport or migration.
 * [Minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 * [OAuth2c](https://github.com/cloudentity/oauth2c) - A command-line tool for interacting with OAuth 2.0 authorization servers.
