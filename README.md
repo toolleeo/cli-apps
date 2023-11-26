@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1250**
+* Apps/tools covered: **1251**
 * Number of categories: **75**.
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (44), [Note taking](#note-taking) (21)
-* [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
+* [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (11), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (25), [Shells](#shells) (14), [Sound and music](#music) (40), [System monitoring](#monitor) (23), [System tools](#system) (22)
@@ -985,6 +985,7 @@ Calendar and appointment managers.
 * [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.  
 * [pal](http://palcal.sourceforge.net/) - Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
 * [peroutine](https://github.com/UlyssesZh/peroutine) - Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime.
+* [plann](https://github.com/tobixen/plann) - Command-line interface to online calendars.
 * [ppl addressbook](http://ppladdressbook.org/) - `ppl` is free software made out of other free software.  It's built on top of Ruby and Git, and the completely free vcard address book format.
 * [Remind](https://dianne.skoll.ca/projects/remind/) - Calendar program with possibility to set complex rules to define events; custom, powerful text-based storage format.
 * [remint](https://sr.ht/~mlaparie/remint/) - A simple terminal UI wrapper for D. Skoll's Remind calendar program

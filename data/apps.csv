@@ -1249,3 +1249,4 @@ system,argc-completions,,https://github.com/sigoden/argc-completions,Autocomplet
 package-manager,hysp,,https://github.com/pwnwriter/hysp,An independent package manager that every hacker deserves.
 security,jdvrif,,https://github.com/CleasbyCode/jdvrif,CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
 system,Kill,,https://github.com/unsigned-enby/Kill,Small bash-only script for killing processes/sending signals.
+organizers,plann,,https://github.com/tobixen/plann,Command-line interface to online calendars.
