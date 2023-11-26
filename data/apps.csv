@@ -1246,3 +1246,4 @@ chat,tgbounce,,https://github.com/azhuchkov/tgbounce,"Simple Telegram Assistant 
 system,inshellisense,,https://github.com/microsoft/inshellisense,IDE style command line auto complete with support for 600+ command line tools.
 fuzzy-finder,lSel,,https://github.com/unsigned-enby/lSel,Simple no-fuss TUI selection menu for use in scripts.
 system,argc-completions,,https://github.com/sigoden/argc-completions,Autocompletion for any shell and any command.
+package-manager,hysp,,https://github.com/pwnwriter/hysp,📦 An independent package manager that every hacker deserves.

@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1247**
+* Apps/tools covered: **1248**
 * Number of categories: **75**.
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (44), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (20)
-* [Package managers](#package-manager) (10), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (11), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (8), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (24), [Shells](#shells) (14), [Sound and music](#music) (40), [System monitoring](#monitor) (23), [System tools](#system) (21)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (28), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
@@ -1001,6 +1001,7 @@ Package managers to manage/install/uninstall software packages, as source code o
 * [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
 * [getghrel](https://github.com/kavishgr/getghrel) - A user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
+* [hysp](https://github.com/pwnwriter/hysp) - 📦 An independent package manager that every hacker deserves.
 * [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
 * [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
