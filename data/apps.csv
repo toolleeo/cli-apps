@@ -1267,3 +1267,4 @@ utility,asciit,,https://github.com/Q1CHENL/asciit,"A more compact and intuitive 
 security,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
 networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
 networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
+music,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
