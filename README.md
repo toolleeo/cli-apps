@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1266**
+* Apps/tools covered: **1267**
 * Number of categories: **75**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (48), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (46), [Note taking](#note-taking) (21)
+* [Networking](#networking) (47), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (11), [Password managers](#password-manager) (18), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (9), [Religion](#religion) (4)
@@ -905,6 +905,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [TStream](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
 * [ttfb](https://github.com/phip1611/ttfb) - ttfb is a CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.
 * [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
+* [tunblkctl](https://github.com/azhuchkov/tunblkctl) - Command-line frontend for Tunnelblick.
 * [Tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
 * [websocat](https://github.com/vi/websocat) - Netcat, curl and socat for WebSockets.
 * [Wishlist](https://github.com/charmbracelet/wishlist) - With Wishlist you can have a single entrypoint for multiple SSH endpoints.
