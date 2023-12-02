@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1257**
+* Apps/tools covered: **1258**
 * Number of categories: **75**.
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (40), [DevOps](#devops) (10), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (30), [Fuzzy finders](#fuzzy-finder) (11)
-* [Games](#games) (47), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
+* [Games](#games) (48), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (44), [Note taking](#note-taking) (21)
@@ -705,6 +705,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [bastet](http://fph.altervista.org/prog/bastet.html) - (Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.  
 * [blackjack](https://github.com/acidvegas/blackjack) - IRC bot to play blackjack.
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
+* [Cemetery Escape](https://github.com/tom-on-the-internet/cemetery-escape) - A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts.
 * [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.
