@@ -1251,3 +1251,4 @@ security,jdvrif,,https://github.com/CleasbyCode/jdvrif,CLI tool to embed or extr
 system,Kill,,https://github.com/unsigned-enby/Kill,Small bash-only script for killing processes/sending signals.
 organizers,plann,,https://github.com/tobixen/plann,Command-line interface to online calendars.
 music,pytunes,,https://github.com/bernhardfritz/pytunes,Self-hosted music streaming service.
+launcher,sofi,,https://github.com/don-aman/sofi,Terminal-based application launcher written in POSIX-compliant shell.
