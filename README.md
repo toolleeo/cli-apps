@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1267**
+* Apps/tools covered: **1268**
 * Number of categories: **75**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (48), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (47), [Note taking](#note-taking) (21)
+* [Networking](#networking) (48), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (11), [Password managers](#password-manager) (18), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (9), [Religion](#religion) (4)
@@ -897,6 +897,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 * [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+* [sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web.
 * [sslh](https://github.com/yrutschle/sslh) - A ssl/ssh multiplexer (Applicative Protocol Multiplexer) that allows, for example, to share SSH and HTTPS on the same port.
 * [SSM](https://github.com/elliot40404/ssm) - A simple SSH manager.
 * [termishare](https://github.com/qnkhuat/termishare) - Peer to peer terminal sharing.

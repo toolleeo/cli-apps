@@ -1266,3 +1266,4 @@ music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allo
 utility,asciit,,https://github.com/Q1CHENL/asciit,"A more compact and intuitive ASCII table in your terminal: an alternative to ""man 7 ascii"" and ""ascii""."
 security,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
 networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
+networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
