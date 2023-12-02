@@ -1269,3 +1269,4 @@ networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line fronte
 networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
 music,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
 utility,config-file-validator,,https://github.com/Boeing/config-file-validator,Cross Platform tool to validate configuration files.
+networking,recon,,https://github.com/jreisinger/recon,Gather public info about network hosts.

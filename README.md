@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1270**
+* Apps/tools covered: **1271**
 * Number of categories: **75**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (48), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (48), [Note taking](#note-taking) (21)
+* [Networking](#networking) (49), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (11), [Password managers](#password-manager) (18), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (9), [Religion](#religion) (4)
@@ -885,6 +885,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 * [quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 * [quickserve](https://github.com/haileys/quickserve) - Quickserve is a very simple HTTP server written in Python that is intended for quickly sharing files on an ad-hoc basis. Aside from opening a port in your firewall if you have one, quickserve requires no set-up and should work with no hassle.
+* [recon](https://github.com/jreisinger/recon) - Gather public info about network hosts.
 * [redive](https://github.com/neelkarma/redive) - Trace URL redirections in the terminal.
 * [rtop](http://www.rtop-monitor.org/) - rtop is a simple, agent-less, remote server monitoring tool that works over plain SSH. Written in golang, it does not need any software to be installed on the server that you want to monitor. It works by establishing an SSH session, and running commands on the remote server to collect system metrics.
 * [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
