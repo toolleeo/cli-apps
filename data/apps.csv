@@ -1253,3 +1253,4 @@ organizers,plann,,https://github.com/tobixen/plann,Command-line interface to onl
 music,pytunes,,https://github.com/bernhardfritz/pytunes,Self-hosted music streaming service.
 launcher,sofi,,https://github.com/don-aman/sofi,Terminal-based application launcher written in POSIX-compliant shell.
 utility,ps1palette,,https://github.com/WDoyle123/ps1palette,Streamline Bash PS1 customisation through script automation for prompt colour coding and .bashrc integration.
+transfer,downloader-cli,,https://github.com/deepjyoti30/downloader-cli,A simple downloader written in Python with an awesome customizable progressbar.
