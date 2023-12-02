@@ -1255,3 +1255,4 @@ launcher,sofi,,https://github.com/don-aman/sofi,Terminal-based application launc
 utility,ps1palette,,https://github.com/WDoyle123/ps1palette,Streamline Bash PS1 customisation through script automation for prompt colour coding and .bashrc integration.
 transfer,downloader-cli,,https://github.com/deepjyoti30/downloader-cli,A simple downloader written in Python with an awesome customizable progressbar.
 todo-manager,kanban-python,,https://github.com/Zaloog/kanban-python,Kanban Terminal App written in Python.
+games,go-sweep,,https://github.com/maxpaulus43/go-sweep,Minesweeper game in the command line programmed in Go.

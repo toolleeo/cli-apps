@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1256**
+* Apps/tools covered: **1257**
 * Number of categories: **75**.
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (40), [DevOps](#devops) (10), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (30), [Fuzzy finders](#fuzzy-finder) (11)
-* [Games](#games) (46), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
+* [Games](#games) (47), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (44), [Note taking](#note-taking) (21)
@@ -718,6 +718,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [Frotz](https://davidgriffith.gitlab.io/frotz/) - Frotz is an interpreter for Infocom games and other Z-machine games.
 * [gambit](https://github.com/maaslalani/gambit) - Chess board in your terminal.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
+* [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper game in the command line programmed in Go.
 * [gof-rs](https://github.com/omagdy7/gof-rs) - Game of life rendered in your terminal with over 500+ unique patterns to choose from.
 * [greed](http://www.catb.org/~esr/greed/) - A game of consumption. Eat as much as you can before munching yourself into a corner.
 * [guess-word-cli](https://github.com/akgondber/guess-word-cli) - Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
