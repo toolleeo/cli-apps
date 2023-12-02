@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1259**
+* Apps/tools covered: **1260**
 * Number of categories: **75**.
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (44), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
-* [Package managers](#package-manager) (11), [Password managers](#password-manager) (16), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (11), [Password managers](#password-manager) (17), [Process viewers and monitoring (alternatives to top)](#monitor-top) (19), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (9), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (25), [Shells](#shells) (14), [Sound and music](#music) (41), [System monitoring](#monitor) (23), [System tools](#system) (22)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
@@ -1025,6 +1025,7 @@ Programs to store and manage collections of password and other login/authenticat
 * [keydex](https://github.com/shikaan/keydex) - Manage KeePass databases from your terminal.
 * [kpcli](http://kpcli.sourceforge.net/) - A command line interface for KeePass.
 * [pa](https://github.com/biox/pa) - A simple password manager; encryption via age, written in portable posix shell.
+* [pash](https://github.com/dylanaraps/pash) - A simple password manager using GPG written in POSIX sh.
 * [pass](https://www.passwordstore.org/) - With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities.
 * [passage](https://github.com/FiloSottile/passage) - A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
 * [passfzf](https://git.sr.ht/~mlaparie/passfzf) - A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them.

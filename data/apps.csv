@@ -1258,3 +1258,4 @@ todo-manager,kanban-python,,https://github.com/Zaloog/kanban-python,Kanban Termi
 games,go-sweep,,https://github.com/maxpaulus43/go-sweep,Minesweeper game in the command line programmed in Go.
 games,Cemetery Escape,,https://github.com/tom-on-the-internet/cemetery-escape,"A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts."
 rss,Newsraft,,https://codeberg.org/newsraft/newsraft,Newsraft is a feed reader with ncurses user interface. It is greatly inspired by Newsboat and tries to be its lightweight counterpart.
+password-manager,pash,,https://github.com/dylanaraps/pash,A simple password manager using GPG written in POSIX sh.
