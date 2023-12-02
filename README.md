@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1271**
+* Apps/tools covered: **1272**
 * Number of categories: **75**.
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (19), [Data transfer](#transfer) (40), [DevOps](#devops) (10), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (2), [Funny tools](#funny) (30), [Fuzzy finders](#fuzzy-finder) (11)
-* [Games](#games) (48), [Git and accessories](#git) (42), [Graphics](#graphics) (34)
+* [Games](#games) (48), [Git and accessories](#git) (43), [Graphics](#graphics) (34)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (49), [Note taking](#note-taking) (21)
@@ -773,6 +773,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [git-cz](https://github.com/streamich/git-cz) - Semantic Git commits.
 * [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - Interactive `git` with the help of `fzf`.
+* [git-heatgrid](https://github.com/denshakhov/git-heatgrid) - Visualize git commits as a calendar heatmap.
 * [git-identity](https://github.com/cookiengineer/git-identity) - Automated git alias management.
 * [git-peek](https://github.com/Jarred-Sumner/git-peek) - git peek is the fastest way to open a remote git repository in your local text editor.
 * [git-remote-aws](https://github.com/nathants/git-remote-aws) - Management of encrypted git hosting.
