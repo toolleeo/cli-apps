@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1269**
+* Apps/tools covered: **1270**
 * Number of categories: **75**.
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (9), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (26), [Shells](#shells) (14), [Sound and music](#music) (43), [System monitoring](#monitor) (23), [System tools](#system) (22)
 * [Terminals](#terminal) (13), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (4), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
-* [Utilities](#utility) (31)
+* [Utilities](#utility) (32)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
 * [Web browser](#browser) (17), [Web development](#webdev) (25), [Writing](#writing) (9)
 
@@ -1530,6 +1530,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoisation / caching library for bash scripts and shells
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
+* [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
