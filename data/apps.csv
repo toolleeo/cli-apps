@@ -1262,3 +1262,4 @@ password-manager,pash,,https://github.com/dylanaraps/pash,A simple password mana
 password-manager,pass,,https://github.com/acidvegas/pass,POSIX password manager that keeps passwords inside gpg encrypted files inside a simple directory tree.
 networking,ssh-menu,,https://github.com/antonjah/ssh-menu,A very simple terminal tool that renders an interactive menu with your ssh profiles listed.
 networking,sshed,,https://github.com/trntv/sshed,sshed is a ssh config editor and bookmarks manager.
+music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allows to edit the metadata of music files.
