@@ -867,7 +867,7 @@ monitor,ramfetch,,https://github.com/WhoseTheNerd/ramfetch,A fetch which display
 file-dir-cleanup,mat2,,https://0xacab.org/jvoisin/mat2.git,"Metadata removal tool, supporting a wide range of commonly used file formats."
 file-dir-cleanup,Dext,,https://github.com/AfzGit/dext,(Directories by Extensions) is a script that moves (or copies) files of the same extension into a folder.
 programming-boilerplate,upnup,,https://github.com/tomit4/upnup,A command line utility that generates a LICENSE file in the current working directory.
-productivity,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
+todo-manager,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
 transfer,feuille,,https://basedwa.re/tmtt/feuille.git,"A fast, dead-simple socket-based pastebin."
@@ -1259,3 +1259,32 @@ monitor-top,nvtop,,https://github.com/Syllo/nvtop,"A top like task monitor for A
 monitor-top,radeontop,,https://github.com/clbr/radeontop,"View your AMD GPU utilization, both for the total activity percent and individual blocks."
 monitor,macchina,,https://github.com/Macchina-CLI/macchina,"Fast, minimal and customizable system information frontend."
 font,cfonts,,https://github.com/dominikwilkowski/cfonts,А command line tool for generating ANSI fonts in the console. 
+chat,tgbounce,,https://github.com/azhuchkov/tgbounce,"Simple Telegram Assistant that allows replying to messages, clicking buttons from bots, marking messages as read, logging notable messages, and providing desktop notifications, among other features."
+system,inshellisense,,https://github.com/microsoft/inshellisense,IDE style command line auto complete with support for 600+ command line tools.
+fuzzy-finder,lSel,,https://github.com/unsigned-enby/lSel,Simple no-fuss TUI selection menu for use in scripts.
+system,argc-completions,,https://github.com/sigoden/argc-completions,Autocompletion for any shell and any command.
+package-manager,hysp,,https://github.com/pwnwriter/hysp,An independent package manager that every hacker deserves.
+security,jdvrif,,https://github.com/CleasbyCode/jdvrif,CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
+system,Kill,,https://github.com/unsigned-enby/Kill,Small bash-only script for killing processes/sending signals.
+organizers,plann,,https://github.com/tobixen/plann,Command-line interface to online calendars.
+music,pytunes,,https://github.com/bernhardfritz/pytunes,Self-hosted music streaming service.
+launcher,sofi,,https://github.com/don-aman/sofi,Terminal-based application launcher written in POSIX-compliant shell.
+utility,ps1palette,,https://github.com/WDoyle123/ps1palette,Streamline Bash PS1 customisation through script automation for prompt colour coding and .bashrc integration.
+transfer,downloader-cli,,https://github.com/deepjyoti30/downloader-cli,A simple downloader written in Python with an awesome customizable progressbar.
+todo-manager,kanban-python,,https://github.com/Zaloog/kanban-python,Kanban Terminal App written in Python.
+games,go-sweep,,https://github.com/maxpaulus43/go-sweep,Minesweeper game in the command line programmed in Go.
+games,Cemetery Escape,,https://github.com/tom-on-the-internet/cemetery-escape,"A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts."
+rss,Newsraft,,https://codeberg.org/newsraft/newsraft,Newsraft is a feed reader with ncurses user interface. It is greatly inspired by Newsboat and tries to be its lightweight counterpart.
+password-manager,pash,,https://github.com/dylanaraps/pash,A simple password manager using GPG written in POSIX sh.
+password-manager,pass,,https://github.com/acidvegas/pass,POSIX password manager that keeps passwords inside gpg encrypted files inside a simple directory tree.
+networking,ssh-menu,,https://github.com/antonjah/ssh-menu,A very simple terminal tool that renders an interactive menu with your ssh profiles listed.
+networking,sshed,,https://github.com/trntv/sshed,sshed is a ssh config editor and bookmarks manager.
+music,fme,,https://github.com/andreykaere/fme,Flexible metadata editor that allows to edit the metadata of music files.
+utility,asciit,,https://github.com/Q1CHENL/asciit,"A more compact and intuitive ASCII table in your terminal: an alternative to ""man 7 ascii"" and ""ascii""."
+security,van-gonography,,https://github.com/JoshuaKasa/van-gonography,Hide your files of any type inside a image of your choice using steganography.
+networking,tunblkctl,,https://github.com/azhuchkov/tunblkctl,Command-line frontend for Tunnelblick.
+networking,sshx,,https://github.com/ekzhang/sshx,"Fast, collaborative live terminal sharing over the web."
+music,kew,,https://github.com/ravachol/kew,A command-line music player with gapless playback and simple playlist management.
+utility,config-file-validator,,https://github.com/Boeing/config-file-validator,Cross Platform tool to validate configuration files.
+networking,recon,,https://github.com/jreisinger/recon,Gather public info about network hosts.
+git,git-heatgrid,,https://github.com/denshakhov/git-heatgrid,Visualize git commits as a calendar heatmap.
