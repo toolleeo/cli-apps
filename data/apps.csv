@@ -1287,3 +1287,4 @@ music,kew,,https://github.com/ravachol/kew,A command-line music player with gapl
 utility,config-file-validator,,https://github.com/Boeing/config-file-validator,Cross Platform tool to validate configuration files.
 networking,recon,,https://github.com/jreisinger/recon,Gather public info about network hosts.
 git,git-heatgrid,,https://github.com/denshakhov/git-heatgrid,Visualize git commits as a calendar heatmap.
+data-management-tabular,gobang,,https://github.com/TaKO8Ki/gobang,A cross-platform TUI database management tool written in Rust.
