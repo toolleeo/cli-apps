@@ -1292,3 +1292,4 @@ data-management-tabular,sqlite-utils,,https://github.com/simonw/sqlite-utils,Pyt
 fuzzy-finder,fss,,https://github.com/5n00py/fss,User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
 terminal,tmux-nested,,https://github.com/niqodea/tmux-nested,Plugin for nested tmux workflows.
 text-search-replace,srgn,,https://github.com/alexpovel/srgn,"A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`."
+package-manager,upt,,https://github.com/sigoden/upt,Universal Package-management Tool for any OS.
