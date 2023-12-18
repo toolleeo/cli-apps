@@ -1289,3 +1289,4 @@ networking,recon,,https://github.com/jreisinger/recon,Gather public info about n
 git,git-heatgrid,,https://github.com/denshakhov/git-heatgrid,Visualize git commits as a calendar heatmap.
 data-management-tabular,gobang,,https://github.com/TaKO8Ki/gobang,A cross-platform TUI database management tool written in Rust.
 data-management-tabular,sqlite-utils,,https://github.com/simonw/sqlite-utils,Python CLI utility and library for manipulating SQLite databases.
+fuzzy-finder,fss,,https://github.com/5n00py/fss,User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.

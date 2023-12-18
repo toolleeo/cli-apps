@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1290**
+* Apps/tools covered: **1291**
 * Number of categories: **75**.
 
 # Index
@@ -18,7 +18,7 @@ Some links are available to [related resources](#resources).
 * [Calculators](#calc) (10), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (19), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (11)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (21), [Data transfer](#transfer) (40), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
-* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (30), [Fuzzy finders](#fuzzy-finder) (11)
+* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (30), [Fuzzy finders](#fuzzy-finder) (12)
 * [Games](#games) (48), [Git and accessories](#git) (47), [Graphics](#graphics) (36)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -689,6 +689,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 Fuzzy finders and generic option pickers in lists of strings.
 
 * [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
+* [fss](https://github.com/5n00py/fss) - User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
 * [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
 * [lSel](https://github.com/unsigned-enby/lSel) - Simple no-fuss TUI selection menu for use in scripts.
