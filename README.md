@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1294**
+* Apps/tools covered: **1295**
 * Number of categories: **75**.
 
 # Index
@@ -30,7 +30,7 @@ Some links are available to [related resources](#resources).
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (32)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
-* [Web browser](#browser) (17), [Web development](#webdev) (25), [Writing](#writing) (9)
+* [Web browser](#browser) (17), [Web development](#webdev) (26), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -1664,6 +1664,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
 * [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
 * [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+* [django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI).
 * [dummy](https://github.com/sterrasec/dummy) - Generator of static files for testing file upload. It can generate the png file of any number of bytes!
 * [http-tanker](https://github.com/PierreKieffer/http-tanker) - Terminal application used for API testing; easily create, manage and execute http requests from the terminal.
 * [HTTPie](https://github.com/httpie/httpie) - HTTPie for Terminal: human-friendly CLI HTTP client for the API era.
