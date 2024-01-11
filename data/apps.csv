@@ -1297,3 +1297,4 @@ webdev,django-tui,,https://github.com/anze3db/django-tui,Inspect and run Django 
 calc,HIP35,,https://github.com/leonmavr/HIP35,HP-35 RPN calculator emulator in C++17 with a terminal user interface.
 security,pdvzip,,https://github.com/CleasbyCode/pdvzip,"CLI tool to embed a ZIP file within a PNG image to create a tweetable and ""executable"" PNG-ZIP polyglot file. Post & share your PNG-ZIP image on compatible sites."
 launcher,Sway-Talisman,,https://github.com/sebastiancarlos/sway-talisman,"Terminal application launcher in scratchpad, minimalist and native."
+funny,ascii-matrix,,https://gitlab.com/christosangel/ascii-matrix,"This script written in the C language, will render the matrix effect in the terminal, while rendering ascii art loaded from a txt file, at the center of the terminal window."
