@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1300**
+* Apps/tools covered: **1301**
 * Number of categories: **75**.
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (12), [Password managers](#password-manager) (18), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (9), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (28), [Shells](#shells) (14), [Sound and music](#music) (43), [System monitoring](#monitor) (25), [System tools](#system) (22)
-* [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (10), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
+* [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (32)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
 * [Web browser](#browser) (17), [Web development](#webdev) (26), [Writing](#writing) (9)
@@ -1453,6 +1453,7 @@ Search files and exploring directory trees to look for text or patterns (RegEx) 
 * [ack](http://beyondgrep.com/) - A tool like `grep` optimized for programmers; written in Perl, it speeds up searches thanks to skipping non interesting directories, such as `.git`.
 * [ag](https://github.com/ggreer/the_silver_searcher) - (The silver searcher) is a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster.
 * [ast-grep](https://github.com/ast-grep/ast-grep) - A CLI tool for code structrual search, lint and rewriting.
+* [hae](https://github.com/eeroel/hae) - Like grep but with natural language queries; useful to retrieve paragraphs of text that deal with specific topics.
 * [hypergrep](https://github.com/p-ranav/hypergrep) - Recursively search directories for a regex pattern using Intel Hypescan.
 * [paragrep](http://software.clapper.org/paragrep/) - Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions, a paragraph is defined as a block of text delimited by an empty or blank line, fully customizable via command line parameters.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern.

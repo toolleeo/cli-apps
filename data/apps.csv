@@ -1299,3 +1299,4 @@ security,pdvzip,,https://github.com/CleasbyCode/pdvzip,"CLI tool to embed a ZIP 
 launcher,Sway-Talisman,,https://github.com/sebastiancarlos/sway-talisman,"Terminal application launcher in scratchpad, minimalist and native."
 funny,ascii-matrix,,https://gitlab.com/christosangel/ascii-matrix,"This script written in the C language, will render the matrix effect in the terminal, while rendering ascii art loaded from a txt file, at the center of the terminal window."
 monitor,tmon,,https://github.com/pondda/tmon,A tiny system monitor for linux.
+text-search,hae,,https://github.com/eeroel/hae,Like grep but with natural language queries; useful to retrieve paragraphs of text that deal with specific topics.
