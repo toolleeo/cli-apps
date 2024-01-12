@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1319**
+* Apps/tools covered: **1320**
 * Number of categories: **76**.
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (29), [Shells](#shells) (14), [Sound and music](#music) (45), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
-* [Utilities](#utility) (32)
+* [Utilities](#utility) (33)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
 
@@ -1581,6 +1581,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [Autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoisation / caching library for bash scripts and shells
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
+* [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.

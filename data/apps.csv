@@ -1318,3 +1318,4 @@ graphics,durdraw,,https://github.com/cmang/durdraw,"Versatile ASCII and ANSI Art
 browser,carbonyl,,https://github.com/fathyb/carbonyl,Chromium running inside your terminal.
 package-manager,app,,https://github.com/hkdb/app,A cross-platform package management assistant with super powers.
 monitor,GFetch,,https://github.com/tanaybhomia/GFetch,A simple fetch script written in Python.
+utility,chet-client,,https://github.com/Hillside-Labs/chet-client,Measure your commands to speed up your development.
