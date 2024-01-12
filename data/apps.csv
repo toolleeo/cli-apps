@@ -1307,3 +1307,4 @@ file-handling,gcstree,,https://github.com/owlinux1000/gcstree,Tree command for G
 rm,gtrash,,https://github.com/umlx5h/gtrash,Modern Trash CLI manager for Linux system trash written in Go.
 rss,TermFeed,,https://github.com/iamaziz/TermFeed,A simple terminal feed reader.
 office,qpdf,,https://github.com/qpdf/qpdf,"QPDF: A content-preserving PDF document transformer that allows to perform several types of operations on PDF files, such as splitting, merging, etc."
+fuzzy-finder,cmenu,,https://github.com/10xJSChad/cmenu,"Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout."
