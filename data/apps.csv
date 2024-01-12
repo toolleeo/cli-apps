@@ -518,7 +518,7 @@ shells,xonsh,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets
 financial,hledger,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format."
 git,fzf-git.sh,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf."
 conversion,simtex,,https://github.com/simtex-dev/engine,"simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file."
-file-dir-cleanup,ff,,https://github.com/akymos/ff,"ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command."
+cd,ff,,https://github.com/akymos/ff,"ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command."
 games,othello-cli,,https://github.com/LelsersLasers/othello-cli,"othello-cli is a cli version of Othello (Reversi) written in Rust. You can play against another player, the AI, or watch two AIs play each other."
 financial,paycon,,https://github.com/arcorion/paycon,Converts pay amounts between different time units.
 transfer,Jitter,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets."
