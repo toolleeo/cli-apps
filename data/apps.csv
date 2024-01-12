@@ -1300,3 +1300,4 @@ launcher,Sway-Talisman,,https://github.com/sebastiancarlos/sway-talisman,"Termin
 funny,ascii-matrix,,https://gitlab.com/christosangel/ascii-matrix,"This script written in the C language, will render the matrix effect in the terminal, while rendering ascii art loaded from a txt file, at the center of the terminal window."
 monitor,tmon,,https://github.com/pondda/tmon,A tiny system monitor for linux.
 text-search,hae,,https://github.com/eeroel/hae,Like grep but with natural language queries; useful to retrieve paragraphs of text that deal with specific topics.
+system,bashmount,,https://github.com/jamielinux/bashmount,Tool to mount and unmount removable media from the command-line with a nice interface to list the available options..
