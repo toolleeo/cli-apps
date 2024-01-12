@@ -8,12 +8,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1314**
+* Apps/tools covered: **1315**
 * Number of categories: **76**.
 
 # Index
 
-* [AI / ChatGPT](#ai) (13), [Anki, decks and flashcards](#flashcard) (6)
+* [AI / ChatGPT](#ai) (14), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (11)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (21), [Data transfer](#transfer) (39), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
@@ -45,6 +45,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
 * [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
 * [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
+* [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
 * [Instrukt](https://github.com/blob42/Instrukt) - A integrated AI environment in the terminal. Build, test and instruct agents.
 * [llm-term](https://github.com/juftin/llm-term) - Chat with OpenAI's GPT models directly from the command line.
 * [Mods!](https://github.com/charmbracelet/mods) - AI for the command line, built for pipelines.
