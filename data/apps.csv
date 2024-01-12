@@ -1324,3 +1324,4 @@ security,eddy,,https://github.com/70sh1/eddy,"Simple, fast CLI file encryption t
 science,gol-tui,,https://github.com/MathiasSven/gol-tui,Conway's Game of Life TUI.
 office,gpa-calculator,,https://github.com/kitesi/gpa-calculator,GPA calculator CLI app that stores data in local files; written in Go.
 online,pure-recipe,,https://github.com/atiumcache/pure-recipe,"Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a markdown file."
+versioning,Jujutsu,,https://github.com/martinvonz/jj,A Git-compatible VCS that is both simple and powerful.

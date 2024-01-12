@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1325**
+* Apps/tools covered: **1326**
 * Number of categories: **76**.
 
 # Index
@@ -29,7 +29,7 @@ Some links are available to [related resources](#resources).
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (45), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (33)
-* [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
+* [Versioning](#versioning) (7), [Video](#video) (11), [Viewers](#viewers) (20)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -1624,6 +1624,7 @@ Tools for file versioning that are not related to git.
 * [fossil](https://fossil-scm.org/) - A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.
 * [gee](https://github.com/human37/gee) - CLI repository manager and automation tool written in rust.
 * [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
+* [Jujutsu](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful.
 * [Mercurial](https://www.mercurial-scm.org/) - Free, distributed source control management tool.
 * [SnowFS](https://github.com/snowtrack/snowfs) - A high-performance application and node library for binary file versioning, initially made for the graphics industry.
 
