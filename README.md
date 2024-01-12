@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1324**
+* Apps/tools covered: **1325**
 * Number of categories: **76**.
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (51), [Note taking](#note-taking) (21)
-* [Office tools](#office) (13), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
+* [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (13), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (45), [System monitoring](#monitor) (27), [System tools](#system) (23)
@@ -992,6 +992,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 * [magic-tape](https://gitlab.com/christosangel/magic-tape) - Magic-tape is an image supporting fuzzy finder command line interface YouTube client.
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, manage, and automate the collection of articles in [Pocket](https://getpocket.com), an application for managing a reading list of articles from the Internet.
+* [pure-recipe](https://github.com/atiumcache/pure-recipe) - Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a markdown file.
 * [Seashells](https://seashells.io/) - Pipe output to the web.
 * [Shreddit](https://github.com/x89/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
