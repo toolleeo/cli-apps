@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1316**
+* Apps/tools covered: **1317**
 * Number of categories: **76**.
 
 # Index
@@ -30,7 +30,7 @@ Some links are available to [related resources](#resources).
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (32)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
-* [Web browser](#browser) (17), [Web development](#webdev) (27), [Writing](#writing) (9)
+* [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -1668,6 +1668,7 @@ Web browsers with textual interface.
 * [asuka](https://git.sr.ht/~julienxx/asuka) - A Gemini Project client written in Rust with NCurses.
 * [Bombadillo](https://bombadillo.colorfield.space/) - A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
 * [browsh](https://www.brow.sh/) - It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs.
+* [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal.
 * [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
 * [Elinks](http://elinks.cz/) - "Advanced and well-established feature-rich text mode web browser"; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.
 * [gplaces](https://github.com/dimkr/gplaces) - Simple but powerful terminal Gemini client.
