@@ -1303,3 +1303,4 @@ text-search,hae,,https://github.com/eeroel/hae,Like grep but with natural langua
 system,bashmount,,https://github.com/jamielinux/bashmount,Tool to mount and unmount removable media from the command-line with a nice interface to list the available options..
 music,discodos,,https://github.com/JOJ0/discodos,A CLI tool for DJ's and record collectors based on the discogs.com collection feature that allows to analyze and organize DJ sets.
 pastebin,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.
+file-handling,gcstree,,https://github.com/owlinux1000/gcstree,Tree command for GCS (Google Cloud Storage).
