@@ -1314,3 +1314,4 @@ security,SSH-Snake,,https://github.com/MegaManSec/SSH-Snake,"SSH-Snake is a self
 file-renamer,VisioNomicon,,https://github.com/rehanzo/VisioNomicon,A utility that leverages GPT-4V to rename image files based on their content.
 music,opencubicplayer,,https://github.com/mywave82/opencubicplayer,"Open Cubic Player (unix fork) is a music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene."
 ai,ht,,https://github.com/catallo/ht,A shell command that answers your questions about shell commands using OpenAI GPT.
+graphics,durdraw,,https://github.com/cmang/durdraw,"Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes."
