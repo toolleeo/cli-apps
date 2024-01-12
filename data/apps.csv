@@ -1310,3 +1310,4 @@ office,qpdf,,https://github.com/qpdf/qpdf,"QPDF: A content-preserving PDF docume
 option-picker,cmenu,,https://github.com/10xJSChad/cmenu,"Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout."
 monitor,updo,,https://github.com/Owloops/updo,Uptime monitoring CLI tool with alerting and advanced settings.
 webdev,beachpatrol,,https://github.com/sebastiancarlos/beachpatrol,A CLI tool to replace and automate your everyday web browser.
+security,SSH-Snake,,https://github.com/MegaManSec/SSH-Snake,"SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery."
