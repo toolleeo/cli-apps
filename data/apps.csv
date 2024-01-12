@@ -1309,3 +1309,4 @@ rss,TermFeed,,https://github.com/iamaziz/TermFeed,A simple terminal feed reader.
 office,qpdf,,https://github.com/qpdf/qpdf,"QPDF: A content-preserving PDF document transformer that allows to perform several types of operations on PDF files, such as splitting, merging, etc."
 option-picker,cmenu,,https://github.com/10xJSChad/cmenu,"Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout."
 monitor,updo,,https://github.com/Owloops/updo,Uptime monitoring CLI tool with alerting and advanced settings.
+webdev,beachpatrol,,https://github.com/sebastiancarlos/beachpatrol,A CLI tool to replace and automate your everyday web browser.
