@@ -636,7 +636,7 @@ transfer,shcopy,,https://github.com/aymanbagabas/shcopy,Copy text to your system
 password-manager,passfzf,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them."
 transfer,Nextcloud share URL downloader,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
 file-handling,pcopy,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl."
-file-handling,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
+pastebin,GoCatGo,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.
 conversion,NestedTextTo,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML."
 funny,matrix-webcam,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.
 launcher,mprocs,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.
@@ -870,7 +870,7 @@ programming-boilerplate,upnup,,https://github.com/tomit4/upnup,A command line ut
 todo-manager,kabmat,,https://github.com/PlankCipher/kabmat,TUI program for managing kanban boards with vim-like keybindings.
 security,OAuth2c,,https://github.com/cloudentity/oauth2c,A command-line tool for interacting with OAuth 2.0 authorization servers.
 graphics,D2,,https://github.com/terrastruct/d2,D2 is a modern diagram scripting language that turns text to diagrams.
-transfer,feuille,,https://basedwa.re/tmtt/feuille.git,"A fast, dead-simple socket-based pastebin."
+pastebin,feuille,,https://basedwa.re/tmtt/feuille.git,"A fast, dead-simple socket-based pastebin."
 markdown,lowdown,https://kristaps.bsd.lv/lowdown/,https://github.com/kristapsdz/lowdown,"Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)"
 utility,bash-cache,,https://github.com/dimo414/bash-cache,A function memoisation / caching library for bash scripts and shells
 utility,bkt,https://bkt.rs,https://github.com/dimo414/bkt,bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
@@ -1302,4 +1302,4 @@ monitor,tmon,,https://github.com/pondda/tmon,A tiny system monitor for linux.
 text-search,hae,,https://github.com/eeroel/hae,Like grep but with natural language queries; useful to retrieve paragraphs of text that deal with specific topics.
 system,bashmount,,https://github.com/jamielinux/bashmount,Tool to mount and unmount removable media from the command-line with a nice interface to list the available options..
 music,discodos,,https://github.com/JOJ0/discodos,A CLI tool for DJ's and record collectors based on the discogs.com collection feature that allows to analyze and organize DJ sets.
-transfer,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.
+pastebin,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.

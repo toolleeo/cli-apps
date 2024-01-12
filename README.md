@@ -9,22 +9,22 @@ Some links are available to [related resources](#resources).
 # Summary
 
 * Apps/tools covered: **1304**
-* Number of categories: **75**.
+* Number of categories: **76**.
 
 # Index
 
 * [AI / ChatGPT](#ai) (13), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (11)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (21), [Data transfer](#transfer) (41), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (21), [Data transfer](#transfer) (39), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (18), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
-* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (31), [Fuzzy finders](#fuzzy-finder) (12)
+* [File and file system handling](#file-handling) (19), [File deletion and trash bin (alternatives to rm)](#rm) (5), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (12), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (31), [Fuzzy finders](#fuzzy-finder) (12)
 * [Games](#games) (48), [Git and accessories](#git) (47), [Graphics](#graphics) (36)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (51), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
-* [Package managers](#package-manager) (12), [Password managers](#password-manager) (18), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (12), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (9), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (28), [Shells](#shells) (14), [Sound and music](#music) (44), [System monitoring](#monitor) (25), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
@@ -331,7 +331,6 @@ Programs for transferring files and data between different machines.
 * [curl](https://curl.haxx.se/) - A tool and library for transferring data with URL syntax, supports a lot of protocols.
 * [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 * [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
-* [feuille](https://basedwa.re/tmtt/feuille.git) - A fast, dead-simple socket-based pastebin.
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites.
 * [Jitter](https://github.com/kevspau/jitter) - A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets.
@@ -341,7 +340,6 @@ Programs for transferring files and data between different machines.
 * [newsboat_video_downloader](https://github.com/Jocomol/newsboat_video_downloader) - Downloads content from youtube and have them sorted into different folders depending on the channel.
 * [Nextcloud share URL downloader](https://github.com/aertslab/nextcloud_share_url_downloader) - Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
 * [OnionShare](https://onionshare.org/) - "An open source tool that lets you securely and anonymously share a file of any size." 
-* [paste69](https://github.com/watzon/paste69) - Simple CURL-able pastebin.
 * [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices.
 * [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
 * [portal](https://github.com/SpatiumPortae/portal) - A quick and easy command-line file transfer utility from any computer to another.
@@ -500,7 +498,6 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 * [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
 * [gcp](https://github.com/aelafifi/gcp) - `gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
-* [GoCatGo](https://github.com/vaaleyard/gocatgo) - GoCatGo is another pastebin tool with a super focus on transparency.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
 * [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 * [progress](https://github.com/Xfennec/progress) - A tool to monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses an ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
@@ -1059,6 +1056,14 @@ Programs to store and manage collections of password and other login/authenticat
 * [safe.sh](https://github.com/windowsrefund/safe) - Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html).
 * [SpicyPass](https://github.com/JFreegman/SpicyPass) - A light-weight password manager with a focus on simplicity and security.
 * [titan](https://www.byteptr.com/titan/) - Password management belongs to the command line, deep into the Unix heartland, the shell. Titan is written in C and is available under the MIT license.
+
+## <a name="pastebin"></a>Pastebin
+
+Services that allows online sharing of text and other content.
+
+* [feuille](https://basedwa.re/tmtt/feuille.git) - A fast, dead-simple socket-based pastebin.
+* [GoCatGo](https://github.com/vaaleyard/gocatgo) - GoCatGo is another pastebin tool with a super focus on transparency.
+* [paste69](https://github.com/watzon/paste69) - Simple CURL-able pastebin.
 
 ## <a name="monitor-top"></a>Process viewers and monitoring (alternatives to top)
 

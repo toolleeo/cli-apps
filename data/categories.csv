@@ -44,6 +44,7 @@ organizers,Organizers and calendars,Calendar and appointment managers
 online,Online search and resources,"Tools that interact with online resources to provide their services, e.g., searches, wiki, etc."
 package-manager,Package managers,"Package managers to manage/install/uninstall software packages, as source code or binaries"
 password-manager,Password managers,Programs to store and manage collections of password and other login/authentication information
+pastebin,Pastebin,Services that allows online sharing of text and other content
 productivity,Productivity,"Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps"
 programming,Programming,"Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc."
 programming-boilerplate,Program templates and boilerplate,"Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects"
