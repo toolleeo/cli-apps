@@ -1305,3 +1305,4 @@ music,discodos,,https://github.com/JOJ0/discodos,A CLI tool for DJ's and record 
 pastebin,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.
 file-handling,gcstree,,https://github.com/owlinux1000/gcstree,Tree command for GCS (Google Cloud Storage).
 rm,gtrash,,https://github.com/umlx5h/gtrash,Modern Trash CLI manager for Linux system trash written in Go.
+rss,TermFeed,,https://github.com/iamaziz/TermFeed,A simple terminal feed reader.

@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1306**
+* Apps/tools covered: **1307**
 * Number of categories: **76**.
 
 # Index
@@ -25,7 +25,7 @@ Some links are available to [related resources](#resources).
 * [Networking](#networking) (51), [Note taking](#note-taking) (21)
 * [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (12), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
-* [RSS](#rss) (9), [Religion](#religion) (4)
+* [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (28), [Shells](#shells) (14), [Sound and music](#music) (44), [System monitoring](#monitor) (25), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (32)
@@ -1186,6 +1186,7 @@ RSS feed visualizers, converters and managers.
 * [rReader](https://github.com/rainygirl/rreader) - RSS reader client with TUI interface.
 * [rss-cli](https://github.com/Clortox/rss-cli) - A unix-inspired cli application for interacting with RSS feeds.
 * [Sfeed](https://codemadness.org/sfeed.html) - Sfeed is a RSS and Atom parser (and some format programs). It converts RSS or Atom feeds from XML to a TAB-separated file.
+* [TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
 
 ## <a name="religion"></a>Religion
 
