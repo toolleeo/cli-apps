@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1323**
+* Apps/tools covered: **1324**
 * Number of categories: **76**.
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (51), [Note taking](#note-taking) (21)
-* [Office tools](#office) (12), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
+* [Office tools](#office) (13), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (13), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (45), [System monitoring](#monitor) (27), [System tools](#system) (23)
@@ -966,6 +966,7 @@ Tools to take, organize and manage notes.
 Programs to manage spreadsheets and to make presentations.
 
 * [DeckTape](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
+* [gpa-calculator](https://github.com/kitesi/gpa-calculator) - GPA calculator CLI app that stores data in local files; written in Go.
 * [Lotus 1-2-3 for Linux](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - PDFtk is a simple tool for doing everyday things with PDF documents.
