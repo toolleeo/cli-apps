@@ -1320,3 +1320,4 @@ package-manager,app,,https://github.com/hkdb/app,A cross-platform package manage
 monitor,GFetch,,https://github.com/tanaybhomia/GFetch,A simple fetch script written in Python.
 utility,chet-client,,https://github.com/Hillside-Labs/chet-client,Measure your commands to speed up your development.
 games,2048-cli,,https://github.com/Frost-Phoenix/2048-cli,A 2048 clone that run in the terminal.
+security,eddy,,https://github.com/70sh1/eddy,"Simple, fast CLI file encryption tool."
