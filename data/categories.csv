@@ -29,7 +29,7 @@ financial,Financial tools,"Personal ledger trackers, currency converters, and to
 flashcard,"Anki, decks and flashcards",Manage decks of flashcards and Anki decks
 font,Font management,Utilities to manage system fonts and to generate text using ASCII-art-like characters
 funny,Funny tools,"Miscellaneous of tools that provide some funny/aesthetical functionality (animations, funny quotes, original message visualization, etc.)"
-fuzzy-finder,Fuzzy finders,Fuzzy finders and generic option pickers in lists of strings
+option-picker,Fuzzy finders and option pickers,Fuzzy finders and generic option pickers in lists of strings
 games,Games,"Board games, puzzles, roguelikes, role-play, adventures, card games, etc."
 git,Git and accessories,Tools to support and extend the functionalities of the `git` version tracker
 graphics,Graphics,"Applications to process images, colors and ASCII art"
