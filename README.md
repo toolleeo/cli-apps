@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1313**
+* Apps/tools covered: **1314**
 * Number of categories: **76**.
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (12), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (12), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (29), [Shells](#shells) (14), [Sound and music](#music) (44), [System monitoring](#monitor) (26), [System tools](#system) (23)
+* [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (29), [Shells](#shells) (14), [Sound and music](#music) (45), [System monitoring](#monitor) (26), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (31), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (5), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (32)
 * [Versioning](#versioning) (6), [Video](#video) (11), [Viewers](#viewers) (20)
@@ -1334,6 +1334,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [ncmpcpp](https://rybczak.net/ncmpcpp/) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
 * [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 * [ogg123](https://www.xiph.org/downloads/) - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format.
+* [opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork) is a music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene.
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio.
 * [PyRadio](https://github.com/coderholic/pyradio) - Curses based internet radio player.
 * [pytunes](https://github.com/bernhardfritz/pytunes) - Self-hosted music streaming service.
