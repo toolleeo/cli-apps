@@ -1317,3 +1317,4 @@ ai,ht,,https://github.com/catallo/ht,A shell command that answers your questions
 graphics,durdraw,,https://github.com/cmang/durdraw,"Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes."
 browser,carbonyl,,https://github.com/fathyb/carbonyl,Chromium running inside your terminal.
 package-manager,app,,https://github.com/hkdb/app,A cross-platform package management assistant with super powers.
+monitor,GFetch,,https://github.com/tanaybhomia/GFetch,A simple fetch script written in Python.
