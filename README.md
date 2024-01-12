@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1307**
+* Apps/tools covered: **1308**
 * Number of categories: **76**.
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (51), [Note taking](#note-taking) (21)
-* [Office tools](#office) (11), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
+* [Office tools](#office) (12), [Online search and resources](#online) (15), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (12), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (34), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (17), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (28), [Shells](#shells) (14), [Sound and music](#music) (44), [System monitoring](#monitor) (25), [System tools](#system) (23)
@@ -966,6 +966,7 @@ Programs to manage spreadsheets and to make presentations.
 * [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 * [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - PDFtk is a simple tool for doing everyday things with PDF documents.
 * [presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool.
+* [qpdf](https://github.com/qpdf/qpdf) - QPDF: A content-preserving PDF document transformer that allows to perform several types of operations on PDF files, such as splitting, merging, etc.
 * [sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 * [Slideck](https://github.com/piotrmurach/slideck) - Present Markdown-powered slide decks in the terminal.
