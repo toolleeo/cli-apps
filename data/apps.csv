@@ -1326,3 +1326,4 @@ office,gpa-calculator,,https://github.com/kitesi/gpa-calculator,GPA calculator C
 online,pure-recipe,,https://github.com/atiumcache/pure-recipe,"Input a recipe URL and receive well-formatted, ad-free recipes to your terminal, or save the output to a markdown file."
 versioning,Jujutsu,,https://github.com/martinvonz/jj,A Git-compatible VCS that is both simple and powerful.
 text-search-replace,Rep,,https://github.com/robenkleene/rep-grep,"Rep is a command-line utility that takes grep-formatted lines via standard input, and performs a find-and-replace on them."
+file-renamer,Ren,,https://github.com/robenkleene/ren-find,"Ren is a command-line utility that takes find-formatted lines via standard input, and batch renames them."
