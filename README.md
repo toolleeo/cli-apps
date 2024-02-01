@@ -8,12 +8,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1337**
+* Apps/tools covered: **1338**
 * Number of categories: **76**.
 
 # Index
 
-* [AI / ChatGPT](#ai) (14), [Anki, decks and flashcards](#flashcard) (6)
+* [AI / ChatGPT](#ai) (15), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (12)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (22), [Data transfer](#transfer) (39), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
@@ -49,6 +49,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [Instrukt](https://github.com/blob42/Instrukt) - A integrated AI environment in the terminal. Build, test and instruct agents.
 * [llm-term](https://github.com/juftin/llm-term) - Chat with OpenAI's GPT models directly from the command line.
 * [Mods!](https://github.com/charmbracelet/mods) - AI for the command line, built for pipelines.
+* [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 
 ## <a name="flashcard"></a>Anki, decks and flashcards

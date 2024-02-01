@@ -1336,3 +1336,4 @@ data-management-tabular,YAS-QWIN,,https://github.com/sebastiancarlos/yas-qwin,YA
 webdev,Ballast,,https://github.com/synoet/ballast,A simple API load testing tool that lets you compare performance snapshots of your API.
 text-processing,toc,,https://github.com/AlphaJack/toc,Generate a table of contents from the comments of a file.
 music,sptui,,https://github.com/szktkfm/sptui,"Spotify TUI player, written in Go."
+ai,osh,,https://github.com/charyan/osh,Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
