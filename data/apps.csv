@@ -1333,3 +1333,4 @@ utility,gentoo-install,,https://github.com/oddlama/gentoo-install,"This project 
 games,tui-sudoku,,https://gitlab.com/christosangel/tui-sudoku,"tui-sudoku is a configurable terminal interface sudoku game, with quite a few features."
 package-manager,flatpak-cli,,https://github.com/sweetbbak/flatpak-cli,A command line program to search and install flatpaks from the flathub repo using a fzf like interface.
 data-management-tabular,YAS-QWIN,,https://github.com/sebastiancarlos/yas-qwin,YAS-QWIN (Yet Another SQL-Query Writing Interface) is a CLI tool for building (and optionally running) SQL queries.
+webdev,Ballast,,https://github.com/synoet/ballast,A simple API load testing tool that lets you compare performance snapshots of your API.
