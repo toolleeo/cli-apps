@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1333**
+* Apps/tools covered: **1334**
 * Number of categories: **76**.
 
 # Index
@@ -16,7 +16,7 @@ Some links are available to [related resources](#resources).
 * [AI / ChatGPT](#ai) (14), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (12)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (21), [Data transfer](#transfer) (39), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (22), [Data transfer](#transfer) (39), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (7), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (8), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (31), [Fuzzy finders and option pickers](#option-picker) (13)
 * [Games](#games) (49), [Git and accessories](#git) (47), [Graphics](#graphics) (37)
@@ -321,6 +321,7 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 * [usql](https://github.com/xo/usql) - Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases.
 * [VisiData](https://www.visidata.org/) - Interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [xsv](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/) - Doing a SQL join with CSV files.
+* [YAS-QWIN](https://github.com/sebastiancarlos/yas-qwin) - YAS-QWIN (Yet Another SQL-Query Writing Interface) is a CLI tool for building (and optionally running) SQL queries.
 
 ## <a name="transfer"></a>Data transfer
 
