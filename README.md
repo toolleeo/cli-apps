@@ -1789,6 +1789,8 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [cli.club](https://cli.club/) - A collection of the best CLI/Ncurses software covering a wide range of categories from messaging, music, text editing and more.
 
+[texteditors.org](https://texteditors.org/cgi-bin/wiki.pl?search=HomePage) - A huge collection of links to resources on text editor. It contains references to non-CLI programs.
+
 
 
 # <a name="contribute"></a>How to contribute
