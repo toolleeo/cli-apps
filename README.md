@@ -8,12 +8,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1338**
+* Apps/tools covered: **1339**
 * Number of categories: **76**.
 
 # Index
 
-* [AI / ChatGPT](#ai) (15), [Anki, decks and flashcards](#flashcard) (6)
+* [AI / ChatGPT](#ai) (16), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (12)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (22), [Data transfer](#transfer) (39), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
@@ -41,6 +41,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
 * [Chatblade](https://github.com/npiv/chatblade) - Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 * [chatgpt](https://github.com/mglantz/chatgpt) - Simple command line integration to Chat GPT.
+* [clai](https://github.com/iivvoo/clai) - Command Line AI is a command line integration for openai. It's setup to help you learn new shell commands and construct more complex commands.
 * [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
 * [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
