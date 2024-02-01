@@ -1331,3 +1331,4 @@ conversion,transflac,,https://bitbucket.org/gbcox/transflac.git/,A repository co
 programming,scriptisto,,https://github.com/igor-petruk/scriptisto,"A language-agnostic ""shebang interpreter"" that enables you to write scripts in compiled languages."
 utility,gentoo-install,,https://github.com/oddlama/gentoo-install,"This project aspires to be your favourite way to install gentoo. It aims to provide a smooth installation experience, both for beginners and experts. You may configure it by using a menuconfig-inspired interface or simply via a config file."
 games,tui-sudoku,,https://gitlab.com/christosangel/tui-sudoku,"tui-sudoku is a configurable terminal interface sudoku game, with quite a few features."
+package-manager,flatpak-cli,,https://github.com/sweetbbak/flatpak-cli,A command line program to search and install flatpaks from the flathub repo using a fzf like interface.
