@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1336**
+* Apps/tools covered: **1337**
 * Number of categories: **76**.
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (21)
 * [Package managers](#package-manager) (14), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (23), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (35), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (45), [System monitoring](#monitor) (27), [System tools](#system) (23)
+* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (34)
 * [Versioning](#versioning) (7), [Video](#video) (11), [Viewers](#viewers) (20)
@@ -1357,6 +1357,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [Siren](https://www.kariliq.nl/siren/) - Siren is a text-based audio player for UNIX-like operating systems.
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust.
 * [spotify-player](https://github.com/aome510/spotify-player) - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
+* [sptui](https://github.com/szktkfm/sptui) - Spotify TUI player, written in Go.
 * [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
 * [termusic](https://github.com/tramhao/termusic) - Terminal Music Player written in Rust.
 * [Tizonia](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.

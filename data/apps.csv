@@ -1335,3 +1335,4 @@ package-manager,flatpak-cli,,https://github.com/sweetbbak/flatpak-cli,A command 
 data-management-tabular,YAS-QWIN,,https://github.com/sebastiancarlos/yas-qwin,YAS-QWIN (Yet Another SQL-Query Writing Interface) is a CLI tool for building (and optionally running) SQL queries.
 webdev,Ballast,,https://github.com/synoet/ballast,A simple API load testing tool that lets you compare performance snapshots of your API.
 text-processing,toc,,https://github.com/AlphaJack/toc,Generate a table of contents from the comments of a file.
+music,sptui,,https://github.com/szktkfm/sptui,"Spotify TUI player, written in Go."
