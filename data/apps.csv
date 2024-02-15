@@ -1341,3 +1341,4 @@ ai,clai,,https://github.com/iivvoo/clai,Command Line AI is a command line integr
 organizers,pbook,,https://github.com/proh14/pbook,A simple phonebook manager for TUI lovers.
 transfer,smartscp,,https://github.com/lengyijun/smartscp,"A replacement of scp, but auto skip git-ignored files; it's just a wrapper of sshfs and xcp."
 viewers,Lob TUI,,https://github.com/pythops/lobtui,TUI for lobste.rs website.
+ai,Elia,,https://github.com/darrenburns/elia,A terminal ChatGPT client built with Textual.
