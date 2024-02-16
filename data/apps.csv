@@ -1347,3 +1347,4 @@ viewers,epy,,https://github.com/wustho/epy,"CLI Ebook (epub2, epub3, fb2, mobi) 
 networking,gg,,https://github.com/mzz2017/gg,A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
 note-taking,mn,,https://github.com/misopog/mn,A dead simple note-taking script.
 find,rawhide,,https://github.com/raforg/rawhide,Find files using pretty C expressions.
+utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
