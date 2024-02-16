@@ -1348,3 +1348,4 @@ networking,gg,,https://github.com/mzz2017/gg,A command-line tool for one-click p
 note-taking,mn,,https://github.com/misopog/mn,A dead simple note-taking script.
 find,rawhide,,https://github.com/raforg/rawhide,Find files using pretty C expressions.
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
+conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plaintext YAML files.

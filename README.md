@@ -8,14 +8,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1349**
+* Apps/tools covered: **1350**
 * Number of categories: **76**.
 
 # Index
 
 * [AI / ChatGPT](#ai) (17), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (12)
+* [Calculators](#calc) (11), [Chat and instant messaging](#chat) (27), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (22), [Data transfer](#transfer) (40), [DevOps](#devops) (12), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (31), [Fuzzy finders and option pickers](#option-picker) (13)
@@ -219,6 +219,7 @@ File format converters.
 * [antiword](https://web.archive.org/web/20071002133135/http://www.winfield.demon.nl/) - Reader and converted for the proprietary MS .doc file format.
 * [BaFi](https://mmalcek.github.io/bafi/) - Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.
 * [catdoc](http://www.wagner.pp.ru/~vitus/software/catdoc/) - Command line converter from Microsoft Word to plain text, output is sent to the standard output.
+* [hecat](https://gitlab.com/nodiscc/hecat) - A generic automation tool around data stored as plaintext YAML files.
 * [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
 * [jsonify-resume](https://github.com/ashishbinu/jsonify-resume) - A cli that converts resumes into JSON Resume schema.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
