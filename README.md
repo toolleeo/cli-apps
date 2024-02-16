@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1343**
+* Apps/tools covered: **1344**
 * Number of categories: **76**.
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
-* [Utilities](#utility) (34)
+* [Utilities](#utility) (35)
 * [Versioning](#versioning) (7), [Video](#video) (11), [Viewers](#viewers) (21)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
@@ -1603,6 +1603,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 * [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
+* [envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
 * [gentoo-install](https://github.com/oddlama/gentoo-install) - This project aspires to be your favourite way to install gentoo. It aims to provide a smooth installation experience, both for beginners and experts. You may configure it by using a menuconfig-inspired interface or simply via a config file.
