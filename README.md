@@ -1796,19 +1796,19 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 # <a name="contribute"></a>How to contribute
 
-If you have any suggestion or want your project included in the list, you can contribute in the following ways.
+If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
 
 ## Open an issue
 
 To suggest a new program, check the existence of the program in the list.
-If it is not present, you can open an issue including the following list:
+If it is not present, you can open an issue including the following items:
 
 - `name`: Name of the program
 - `homepage`: URL of the homepage (if it exists)
 - `git`: URL of a clonable git repository (if it exists)
-- `description`: Text to the description of the program
+- `description`: Text with the description of the program
 
-One or both of the two item `homepage` or `git` must be present.
+At least one of the two items `homepage` and `git` must be present.
 
 ## Pull request on `data/apps.csv`
 
