@@ -1344,3 +1344,4 @@ viewers,Lob TUI,,https://github.com/pythops/lobtui,TUI for lobste.rs website.
 ai,Elia,,https://github.com/darrenburns/elia,A terminal ChatGPT client built with Textual.
 utility,envio,,https://github.com/envio-cli/envio,Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 viewers,epy,,https://github.com/wustho/epy,"CLI Ebook (epub2, epub3, fb2, mobi) Reader."
+networking,gg,,https://github.com/mzz2017/gg,A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
