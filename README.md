@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1363**
+* Apps/tools covered: **1364**
 * Number of categories: **76**.
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (54), [Note taking](#note-taking) (22)
 * [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (14), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (24), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (15), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (24), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
@@ -1056,6 +1056,7 @@ Package managers to manage/install/uninstall software packages, as source code o
 * [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
 * [bin](https://github.com/marcosnils/bin) - Manages binary files downloaded from different sources.
 * [cli-tools-info](https://github.com/Lilja/cli-info) - An overview of your CLI tools, if they are installed and what version they are on.
+* [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 * [flatpak-cli](https://github.com/sweetbbak/flatpak-cli) - A command line program to search and install flatpaks from the flathub repo using a fzf like interface.
 * [getghrel](https://github.com/kavishgr/getghrel) - A user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
 * [hysp](https://github.com/pwnwriter/hysp) - An independent package manager that every hacker deserves.
