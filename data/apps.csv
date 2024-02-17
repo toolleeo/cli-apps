@@ -1360,3 +1360,4 @@ data-management-tabular,daff,,https://github.com/paulfitz/daff,"Efficient table 
 chat,devzat,,https://github.com/quackduck/devzat,Custom SSH server that takes you to a chat instead of a shell prompt.
 devops,dive,,https://github.com/wagoodman/dive,A tool for exploring each layer in a docker image.
 devops,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
+networking,dug,,https://github.com/unfrl/dug,A global DNS propagation checker that gives pretty output.

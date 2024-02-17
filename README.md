@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1361**
+* Apps/tools covered: **1362**
 * Number of categories: **76**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (49), [Git and accessories](#git) (47), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (53), [Note taking](#note-taking) (22)
+* [Networking](#networking) (54), [Note taking](#note-taking) (22)
 * [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (14), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (24), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -904,6 +904,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
 * [darkhttpd](https://unix4lyfe.org/darkhttpd/) - Darkhttpd is a simple, fast HTTP 1.1 web server for static content. It does not support PHP or CGI etc but is designed to serve static content, which it does very well.
 * [dog](https://github.com/ogham/dog) - dog is a command-line DNS client. It has colourful output, understands normal command-line argument syntax, supports the DNS-over-TLS and DNS-over-HTTPS protocols, and can emit JSON.
+* [dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output.
 * [echo](https://github.com/devem-tech/echo) - Speedy API emulation facilitated by a reverse proxy and mock json server.
 * [ejabberd](https://www.ejabberd.im/) - ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language.
 * [geoiplookup](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
