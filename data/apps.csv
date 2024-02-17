@@ -1364,3 +1364,4 @@ networking,dug,,https://github.com/unfrl/dug,A global DNS propagation checker th
 git,dunk,,https://github.com/darrenburns/dunk,Prettier git diffs in the terminal.
 package-manager,eget,,https://github.com/zyedidia/eget,Easily install prebuilt binaries from GitHub.
 versioning,fnc,https://fnc.bsdbox.org/index,,Interactive text-based user interface for Fossil.
+font,fnt,,https://github.com/alexmyczko/fnt,"apt for fonts, the missing font manager for macOS/linux."

@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1365**
+* Apps/tools covered: **1366**
 * Number of categories: **76**.
 
 # Index
@@ -18,7 +18,7 @@ Some links are available to [related resources](#resources).
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (28), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (23), [Data transfer](#transfer) (40), [DevOps](#devops) (14), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
-* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (3), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
+* [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
 * [Games](#games) (49), [Git and accessories](#git) (48), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -664,6 +664,7 @@ Utilities to manage system fonts and to generate text using ASCII-art-like chara
 
 * [cfonts](https://github.com/dominikwilkowski/cfonts) - А command line tool for generating ANSI fonts in the console. 
 * [FIGlet](http://www.figlet.org/) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
+* [fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux.
 * [toilet](http://caca.zoy.org/wiki/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
 ## <a name="funny"></a>Funny tools
