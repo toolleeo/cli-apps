@@ -1361,3 +1361,4 @@ chat,devzat,,https://github.com/quackduck/devzat,Custom SSH server that takes yo
 devops,dive,,https://github.com/wagoodman/dive,A tool for exploring each layer in a docker image.
 devops,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
 networking,dug,,https://github.com/unfrl/dug,A global DNS propagation checker that gives pretty output.
+git,dunk,,https://github.com/darrenburns/dunk,Prettier git diffs in the terminal.
