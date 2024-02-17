@@ -1355,3 +1355,4 @@ networking,asn,,https://github.com/nitefood/asn,"Server for the following servic
 viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
 monitor-top,bottom,,https://github.com/ClementTsang/bottom,Yet another cross-platform graphical process/system monitor.
 viewers,brows,,https://github.com/rubysolo/brows,CLI GitHub release browser.
+programming,cgdb,,https://github.com/cgdb/cgdb,Console front-end to the GNU debugger.
