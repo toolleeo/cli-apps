@@ -1357,3 +1357,4 @@ monitor-top,bottom,,https://github.com/ClementTsang/bottom,Yet another cross-pla
 viewers,brows,,https://github.com/rubysolo/brows,CLI GitHub release browser.
 programming,cgdb,,https://github.com/cgdb/cgdb,Console front-end to the GNU debugger.
 data-management-tabular,daff,,https://github.com/paulfitz/daff,"Efficient table comparison and alignment, supporting formats like CSV and SQLite, useful for data analysis and synchronization tasks."
+chat,devzat,,https://github.com/quackduck/devzat,Custom SSH server that takes you to a chat instead of a shell prompt.
