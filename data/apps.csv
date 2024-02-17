@@ -1350,3 +1350,4 @@ find,rawhide,,https://github.com/raforg/rawhide,Find files using pretty C expres
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plaintext YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
+ai,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
