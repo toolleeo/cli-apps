@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1353**
+* Apps/tools covered: **1354**
 * Number of categories: **76**.
 
 # Index
@@ -29,7 +29,7 @@ Some links are available to [related resources](#resources).
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (37)
-* [Versioning](#versioning) (7), [Video](#video) (11), [Viewers](#viewers) (22)
+* [Versioning](#versioning) (7), [Video](#video) (11), [Viewers](#viewers) (23)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -1674,6 +1674,7 @@ File viewers for images and other formats (e.g., e-books).
 
 * [baca](https://github.com/wustho/baca) - Lets you indulge in your favorite e-books in the comfort of your terminal.
 * [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
+* [bbcli](https://github.com/hako/bbcli) - Browse BBC News like a hacker.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
 * [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 * [ccat](https://github.com/owenthereal/ccat) - A `cat` command with colorized output.  

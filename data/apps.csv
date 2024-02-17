@@ -1352,3 +1352,4 @@ conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool aro
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
 ai,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
 networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
+viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
