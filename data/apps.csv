@@ -1399,3 +1399,4 @@ utility,tempy,,https://github.com/noprobelm/tempy,"A simple, visually pleasing w
 data-management-tabular,textql,,https://github.com/dinedal/textql,Execute SQL against structured text like CSV or TSV.
 utility,tickrs,,https://github.com/tarkah/tickrs,Realtime ticker data in your terminal.
 chat,toot,,https://github.com/ihabunek/toot,Mastodon CLI & TUI.
+package-manager,topgrade,,https://github.com/topgrade-rs/topgrade,Upgrade all the things.
