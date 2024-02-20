@@ -1400,3 +1400,4 @@ data-management-tabular,textql,,https://github.com/dinedal/textql,Execute SQL ag
 utility,tickrs,,https://github.com/tarkah/tickrs,Realtime ticker data in your terminal.
 chat,toot,,https://github.com/ihabunek/toot,Mastodon CLI & TUI.
 package-manager,topgrade,,https://github.com/topgrade-rs/topgrade,Upgrade all the things.
+networking,tproxy,,https://github.com/kevwan/tproxy,A cli tool to proxy and analyze TCP connections.
