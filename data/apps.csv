@@ -1393,3 +1393,4 @@ chat,scli,,https://github.com/isamert/scli,A simple terminal user interface for 
 utility,sizeof,,https://github.com/zackproser/sizeof,"Experimental CLI, written alongside ChatGPT4 and GItHub Copilot."
 monitor,slurm,,https://github.com/mattthias/slurm,Yet another network load monitor.
 monitor,sntop,,https://sourceforge.net/projects/sntop,A simple network top for monitoring connectivity.
+todo-manager,taskwarrior-tui,,https://github.com/kdheepak/taskwarrior-tui,A terminal user interface for taskwarrior.
