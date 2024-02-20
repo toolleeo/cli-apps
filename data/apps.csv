@@ -1394,3 +1394,4 @@ utility,sizeof,,https://github.com/zackproser/sizeof,"Experimental CLI, written 
 monitor,slurm,,https://github.com/mattthias/slurm,Yet another network load monitor.
 monitor,sntop,,https://sourceforge.net/projects/sntop,A simple network top for monitoring connectivity.
 todo-manager,taskwarrior-tui,,https://github.com/kdheepak/taskwarrior-tui,A terminal user interface for taskwarrior.
+monitor,tcpterm,,https://github.com/sachaos/tcpterm,tcpterm is a packet visualizer in TUI.
