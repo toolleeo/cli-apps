@@ -1861,6 +1861,8 @@ A list of some online resoures that contribute interesting links to apps and inf
 
 [texteditors.org](https://texteditors.org/cgi-bin/wiki.pl?search=HomePage) - A huge collection of links to resources on text editor. It contains references to non-CLI programs.
 
+[Terminal Trove](https://terminaltrove.com/) - Collection of terminal CLI/TUI programs, with one page per program, nice screenshots and animated GIFs.
+
 
 
 # <a name="contribute"></a>How to contribute
