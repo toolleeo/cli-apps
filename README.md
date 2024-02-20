@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1402**
+* Apps/tools covered: **1403**
 * Number of categories: **76**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (49), [Git and accessories](#git) (50), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (58), [Note taking](#note-taking) (22)
+* [Networking](#networking) (59), [Note taking](#note-taking) (22)
 * [Office tools](#office) (15), [Online search and resources](#online) (17), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (16), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (25), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -961,6 +961,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
 * [TGORQ](https://github.com/vitor-augusto1/tgorq) - Terminal GO ReQuest (TGORQ) is a Vim-like lightweight CLI tool for performing HTTP requests.
 * [tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
+* [trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool.
 * [TStream](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
 * [ttfb](https://github.com/phip1611/ttfb) - ttfb is a CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.
 * [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.

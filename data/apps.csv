@@ -1401,3 +1401,4 @@ utility,tickrs,,https://github.com/tarkah/tickrs,Realtime ticker data in your te
 chat,toot,,https://github.com/ihabunek/toot,Mastodon CLI & TUI.
 package-manager,topgrade,,https://github.com/topgrade-rs/topgrade,Upgrade all the things.
 networking,tproxy,,https://github.com/kevwan/tproxy,A cli tool to proxy and analyze TCP connections.
+networking,trippy,,https://github.com/fujiapple852/trippy,A network diagnostic tool.
