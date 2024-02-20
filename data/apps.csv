@@ -1395,3 +1395,4 @@ monitor,slurm,,https://github.com/mattthias/slurm,Yet another network load monit
 monitor,sntop,,https://sourceforge.net/projects/sntop,A simple network top for monitoring connectivity.
 todo-manager,taskwarrior-tui,,https://github.com/kdheepak/taskwarrior-tui,A terminal user interface for taskwarrior.
 monitor,tcpterm,,https://github.com/sachaos/tcpterm,tcpterm is a packet visualizer in TUI.
+utility,tempy,,https://github.com/noprobelm/tempy,"A simple, visually pleasing weather report in your terminal."
