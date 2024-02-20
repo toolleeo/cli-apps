@@ -1397,3 +1397,4 @@ todo-manager,taskwarrior-tui,,https://github.com/kdheepak/taskwarrior-tui,A term
 monitor,tcpterm,,https://github.com/sachaos/tcpterm,tcpterm is a packet visualizer in TUI.
 utility,tempy,,https://github.com/noprobelm/tempy,"A simple, visually pleasing weather report in your terminal."
 data-management-tabular,textql,,https://github.com/dinedal/textql,Execute SQL against structured text like CSV or TSV.
+utility,tickrs,,https://github.com/tarkah/tickrs,Realtime ticker data in your terminal.
