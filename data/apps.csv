@@ -1389,3 +1389,4 @@ devops,planor,,https://github.com/mrusme/planor,"The Cloud Aviator: TUI client f
 office,pysentation,,https://github.com/mimseyedi/pysentation,pysentation is a CLI for displaying Python presentations.
 data-management-tabular,qsv,,https://github.com/jqnatividad/qsv,"CSVs sliced, diced & analyzed."
 monitor,s-tui,,https://github.com/amanusk/s-tui,Terminal-based CPU stress and monitoring utility.
+chat,scli,,https://github.com/isamert/scli,A simple terminal user interface for signal messenger.
