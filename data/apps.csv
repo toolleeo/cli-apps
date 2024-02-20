@@ -1406,3 +1406,4 @@ typing,ttyper,,https://github.com/max-niederman/ttyper,Terminal-based typing tes
 chat,tut,,https://github.com/RasmusLindroth/tut,TUI for Mastodon with vim inspired keys.
 chat,twitch-tui,,https://github.com/Xithrius/twitch-tui,Twitch chat in the terminal.
 system,ugm,,https://github.com/ariasmn/ugm,A terminal based UNIX user and group browser.
+text-processing,wg-cmd,,https://github.com/AndrianBdn/wg-cmd,TUI for managing WireGuard configuration files.
