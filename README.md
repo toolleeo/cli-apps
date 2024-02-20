@@ -8,14 +8,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1405**
+* Apps/tools covered: **1406**
 * Number of categories: **76**.
 
 # Index
 
 * [AI / ChatGPT](#ai) (19), [Anki, decks and flashcards](#flashcard) (6)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (11), [Chat and instant messaging](#chat) (31), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
+* [Calculators](#calc) (11), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (40), [DevOps](#devops) (15), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (15)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
@@ -137,6 +137,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 * [tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
+* [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 * [WeeChat](http://weechat.org/) - WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins.
 * [Weechat-Matrix](https://github.com/poljar/weechat-matrix) - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 
