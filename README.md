@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1375**
+* Apps/tools covered: **1376**
 * Number of categories: **76**.
 
 # Index
@@ -29,7 +29,7 @@ Some links are available to [related resources](#resources).
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (37)
-* [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (25)
+* [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -1702,6 +1702,7 @@ File viewers for images and other formats (e.g., e-books).
 * [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 * [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
+* [hnterm](https://github.com/ggerganov/hnterm) - Hacker News in the terminal.
 * [Lob TUI](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization.
