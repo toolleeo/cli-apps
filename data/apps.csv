@@ -1384,3 +1384,4 @@ system,nemu,,https://github.com/nemuTUI/nemu,Ncurses UI for QEMU.
 networking,liboping,,https://github.com/octo/liboping,Protocol independent ANSI-C ping library and command line utility.
 file-handling,ouch,,https://github.com/ouch-org/ouch,Painless compression and decompression in the terminal.
 editors,ox,,https://github.com/curlpipe/ox,An independent Rust text editor.
+office,patat,,https://github.com/jaspervdj/patat,Terminal-based presentations using Pandoc.
