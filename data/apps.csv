@@ -1373,3 +1373,4 @@ ai,ChatGPTerminator,,https://github.com/AineeJames/ChatGPTerminator,GPTerminator
 productivity,gtt,,https://github.com/eeeXun/gtt,"Google Translate TUI (Originally), now supporting Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso."
 viewers,hackernews-TUI,,https://github.com/aome510/hackernews-TUI,A Terminal UI to browse Hacker News.
 data-management-tabular,harlequin,,https://github.com/tconbeer/harlequin,The SQL IDE for Your Terminal.
+networking,havn,,https://github.com/mrjackwills/havn,A fast configurable port scanner with reasonable defaults.

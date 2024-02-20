@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1374**
+* Apps/tools covered: **1375**
 * Number of categories: **76**.
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (49), [Git and accessories](#git) (50), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (54), [Note taking](#note-taking) (22)
+* [Networking](#networking) (55), [Note taking](#note-taking) (22)
 * [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (15), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (25), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -917,6 +917,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [gg](https://github.com/mzz2017/gg) - A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics.
 * [gping](https://github.com/orf/gping) - Ping, but with a graph.
+* [havn](https://github.com/mrjackwills/havn) - A fast configurable port scanner with reasonable defaults.
 * [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
 * [ipcalc](http://jodies.de/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
 * [mitmproxy](https://mitmproxy.org/) - An interactive HTTPS proxy.
