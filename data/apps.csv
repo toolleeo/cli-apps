@@ -1403,3 +1403,4 @@ package-manager,topgrade,,https://github.com/topgrade-rs/topgrade,Upgrade all th
 networking,tproxy,,https://github.com/kevwan/tproxy,A cli tool to proxy and analyze TCP connections.
 networking,trippy,,https://github.com/fujiapple852/trippy,A network diagnostic tool.
 typing,ttyper,,https://github.com/max-niederman/ttyper,Terminal-based typing test.
+chat,tut,,https://github.com/RasmusLindroth/tut,TUI for Mastodon with vim inspired keys.
