@@ -1385,3 +1385,4 @@ networking,liboping,,https://github.com/octo/liboping,Protocol independent ANSI-
 file-handling,ouch,,https://github.com/ouch-org/ouch,Painless compression and decompression in the terminal.
 editors,ox,,https://github.com/curlpipe/ox,An independent Rust text editor.
 office,patat,,https://github.com/jaspervdj/patat,Terminal-based presentations using Pandoc.
+devops,planor,,https://github.com/mrusme/planor,"The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)."
