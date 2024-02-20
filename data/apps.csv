@@ -1366,3 +1366,4 @@ package-manager,eget,,https://github.com/zyedidia/eget,Easily install prebuilt b
 versioning,fnc,https://fnc.bsdbox.org/index,,Interactive text-based user interface for Fossil.
 font,fnt,,https://github.com/alexmyczko/fnt,"apt for fonts, the missing font manager for macOS/linux."
 git,gh-dash,,https://github.com/dlvhdr/gh-dash,A beautiful CLI dashboard for GitHub.
+git,git-cc,,https://github.com/SKalt/git-cc,A git extension to help write conventional commits.
