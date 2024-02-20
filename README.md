@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1379**
+* Apps/tools covered: **1380**
 * Number of categories: **76**.
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (15), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (25), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
-* [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
+* [Terminals](#terminal) (14), [Text processing](#text-processing) (33), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (37)
 * [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
@@ -1496,6 +1496,7 @@ Text processing utilities to cut or sort lines, find dead links, colorize comman
 * [JsonGenius](https://github.com/semanser/JsonGenius) - Self-hosted scraping API that extracts structured data described by a JSON Schema.
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 * [Line Select](https://github.com/urbanogilson/lineselect) - A powerful utility enabling interactive line selection from stdin, allowing to seamlessly integrate, pause, select, and refine your pipeline, enhancing data processing precision.
+* [logshark](https://github.com/ugosan/logshark) - Logshark is a debugger CLI for JSON logs written in Go.
 * [lolcat](https://github.com/busyloop/lolcat) - Ruby Gem to colorize the output of the cat command.
 * [Normalize Country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard.
 * [Output as Format ](https://github.com/sshaw/output-as-format) - Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes.
