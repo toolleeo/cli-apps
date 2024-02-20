@@ -1410,3 +1410,4 @@ text-processing,wg-cmd,,https://github.com/AndrianBdn/wg-cmd,TUI for managing Wi
 online,wiki-tui,,https://github.com/Builditluc/wiki-tui,A simple and easy to use Wikipedia Text User Interface.
 time-tracker,zeit,,https://github.com/mrusme/zeit,A command line tool for tracking time spent on activities.
 monitor-top,zenith,,https://github.com/bvaisvil/zenith,"Sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage"
+transfer,zrok,,https://github.com/openziti/zrok,"Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti."
