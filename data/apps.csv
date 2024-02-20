@@ -1408,3 +1408,4 @@ chat,twitch-tui,,https://github.com/Xithrius/twitch-tui,Twitch chat in the termi
 system,ugm,,https://github.com/ariasmn/ugm,A terminal based UNIX user and group browser.
 text-processing,wg-cmd,,https://github.com/AndrianBdn/wg-cmd,TUI for managing WireGuard configuration files.
 online,wiki-tui,,https://github.com/Builditluc/wiki-tui,A simple and easy to use Wikipedia Text User Interface.
+time-tracker,zeit,,https://github.com/mrusme/zeit,A command line tool for tracking time spent on activities.

@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1409**
+* Apps/tools covered: **1410**
 * Number of categories: **76**.
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (16), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (25), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (31), [System tools](#system) (25)
-* [Terminals](#terminal) (14), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (7), [Typing test and practice](#typing) (9)
+* [Terminals](#terminal) (14), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (7), [Typing test and practice](#typing) (9)
 * [Utilities](#utility) (40)
 * [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
@@ -1583,6 +1583,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 * [tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - Pomodoro technique into your tmux workflow
 * [utt](https://github.com/larose/utt) - Ultimate Time Tracker - A simple command-line time tracker written in Python.
 * [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
+* [zeit](https://github.com/mrusme/zeit) - A command line tool for tracking time spent on activities.
 
 ## <a name="todo-manager"></a>Todo managers
 
