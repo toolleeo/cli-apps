@@ -1377,3 +1377,4 @@ networking,havn,,https://github.com/mrjackwills/havn,A fast configurable port sc
 viewers,hnterm,,https://github.com/ggerganov/hnterm,Hacker News in the terminal.
 networking,humble-explorer,,https://github.com/koenvervloesem/humble-explorer,"Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner."
 online,jira-cli,,https://github.com/ankitpokhrel/jira-cli,Feature-rich interactive Jira command line.
+file-explorer,kupo,,https://github.com/darrenburns/kupo,"A terminal file browser, kupo!"
