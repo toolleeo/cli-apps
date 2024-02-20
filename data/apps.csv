@@ -1388,3 +1388,4 @@ office,patat,,https://github.com/jaspervdj/patat,Terminal-based presentations us
 devops,planor,,https://github.com/mrusme/planor,"The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)."
 office,pysentation,,https://github.com/mimseyedi/pysentation,pysentation is a CLI for displaying Python presentations.
 data-management-tabular,qsv,,https://github.com/jqnatividad/qsv,"CSVs sliced, diced & analyzed."
+monitor,s-tui,,https://github.com/amanusk/s-tui,Terminal-based CPU stress and monitoring utility.
