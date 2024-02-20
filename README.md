@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1369**
+* Apps/tools covered: **1370**
 * Number of categories: **76**.
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (15), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (25), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
+* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
 * [Utilities](#utility) (37)
 * [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (24)
@@ -1298,6 +1298,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [Firejail](https://firejail.wordpress.com/) - A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 * [GnuPG](https://gnupg.org/) - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 * [gocryptfs](https://nuetzlich.net/gocryptfs) - An encrypted overlay filesystem written in Go.
+* [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!
 * [hashcat](https://hashcat.net/hashcat/) - A robust and efficient password cracking tool that can help you recover lost passwords, audit password security, benchmark, or just figure out what data is stored in a hash.
 * [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Simple C++ Encryption and Steganography tool that uses Password-Protected-Encryption to secure a file's contents.
 * [jdvrif](https://github.com/CleasbyCode/jdvrif) - CLI tool to embed or extract files via a JPG image. Post & share your embedded JPG image on compatible sites.
