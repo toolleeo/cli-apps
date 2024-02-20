@@ -1391,3 +1391,4 @@ data-management-tabular,qsv,,https://github.com/jqnatividad/qsv,"CSVs sliced, di
 monitor,s-tui,,https://github.com/amanusk/s-tui,Terminal-based CPU stress and monitoring utility.
 chat,scli,,https://github.com/isamert/scli,A simple terminal user interface for signal messenger.
 utility,sizeof,,https://github.com/zackproser/sizeof,"Experimental CLI, written alongside ChatGPT4 and GItHub Copilot."
+monitor,slurm,,https://github.com/mattthias/slurm,Yet another network load monitor.
