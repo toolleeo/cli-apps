@@ -1351,3 +1351,4 @@ utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the cla
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plaintext YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
 ai,ollama,https://ollama.com/,https://github.com/ollama/ollama,Get up and running with large language models locally.
+flashcard,mdfc,,https://github.com/bttger/markdown-flashcards,Easily create and study flashcards using a markdown file with spaced repetition.
