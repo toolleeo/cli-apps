@@ -1372,3 +1372,4 @@ security,gpg-tui,,https://github.com/orhun/gpg-tui,Manage your GnuPG keys with e
 ai,ChatGPTerminator,,https://github.com/AineeJames/ChatGPTerminator,GPTerminator provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
 productivity,gtt,,https://github.com/eeeXun/gtt,"Google Translate TUI (Originally), now supporting Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso."
 viewers,hackernews-TUI,,https://github.com/aome510/hackernews-TUI,A Terminal UI to browse Hacker News.
+data-management-tabular,harlequin,,https://github.com/tconbeer/harlequin,The SQL IDE for Your Terminal.
