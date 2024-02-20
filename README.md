@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1368**
+* Apps/tools covered: **1369**
 * Number of categories: **76**.
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (54), [Note taking](#note-taking) (22)
 * [Office tools](#office) (13), [Online search and resources](#online) (16), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (15), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (24), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (15), [Password managers](#password-manager) (18), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (25), [Productivity](#productivity) (9), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (30), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (27), [System tools](#system) (23)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (32), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (15), [Todo managers](#todo-manager) (30), [Torrent](#torrent) (7), [Typing test and practice](#typing) (8)
@@ -1112,6 +1112,7 @@ Programs to list and monitor currently running processes; alternatives to the `t
 * [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 * [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor with a nice interface.
 * [Btop++](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop).
+* [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
 * [gputop](https://github.com/wookayin/gpustat) - A simple command-line utility for querying and monitoring GPU status.
 * [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal written in Node.js.
 * [htop](http://hisham.hm/htop/) - An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors.
