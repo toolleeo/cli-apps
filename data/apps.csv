@@ -1380,3 +1380,4 @@ online,jira-cli,,https://github.com/ankitpokhrel/jira-cli,Feature-rich interacti
 file-explorer,kupo,,https://github.com/darrenburns/kupo,"A terminal file browser, kupo!"
 text-processing,logshark,,https://github.com/ugosan/logshark,Logshark is a debugger CLI for JSON logs written in Go.
 email,meli,,https://github.com/meli/meli,Terminal mail client.
+system,nemu,,https://github.com/nemuTUI/nemu,Ncurses UI for QEMU.
