@@ -1370,3 +1370,4 @@ git,git-cc,,https://github.com/SKalt/git-cc,A git extension to help write conven
 monitor-top,gotop,,https://github.com/xxxserxxx/gotop,A terminal based graphical activity monitor inspired by gtop and vtop.
 security,gpg-tui,,https://github.com/orhun/gpg-tui,Manage your GnuPG keys with ease!
 ai,ChatGPTerminator,,https://github.com/AineeJames/ChatGPTerminator,GPTerminator provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
+productivity,gtt,,https://github.com/eeeXun/gtt,"Google Translate TUI (Originally), now supporting Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso."
