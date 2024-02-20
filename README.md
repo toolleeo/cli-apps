@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1366**
+* Apps/tools covered: **1367**
 * Number of categories: **76**.
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (23), [Data transfer](#transfer) (40), [DevOps](#devops) (14), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (25), [Email](#email) (14)
 * [File and file system handling](#file-handling) (20), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (10), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
-* [Games](#games) (49), [Git and accessories](#git) (48), [Graphics](#graphics) (37)
+* [Games](#games) (49), [Git and accessories](#git) (49), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (54), [Note taking](#note-taking) (22)
@@ -786,6 +786,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [Export Pull Requests](https://github.com/sshaw/export-pull-requests) - Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket.
 * [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 * [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf.
+* [gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub.
 * [gh-f](https://github.com/gennaro-tedesco/gh-f) - The ultimate, compact and snappy fzf extension for gh cli.
 * [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search github repositories interactively.
 * [gh-stars](https://github.com/aymanbagabas/gh-stars) - A GitHub CLI extension to show repository stargazers.
