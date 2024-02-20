@@ -1396,3 +1396,4 @@ monitor,sntop,,https://sourceforge.net/projects/sntop,A simple network top for m
 todo-manager,taskwarrior-tui,,https://github.com/kdheepak/taskwarrior-tui,A terminal user interface for taskwarrior.
 monitor,tcpterm,,https://github.com/sachaos/tcpterm,tcpterm is a packet visualizer in TUI.
 utility,tempy,,https://github.com/noprobelm/tempy,"A simple, visually pleasing weather report in your terminal."
+data-management-tabular,textql,,https://github.com/dinedal/textql,Execute SQL against structured text like CSV or TSV.
