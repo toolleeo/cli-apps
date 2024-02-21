@@ -1350,5 +1350,66 @@ find,rawhide,,https://github.com/raforg/rawhide,Find files using pretty C expres
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plaintext YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
+ai,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
+networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
+viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
+monitor-top,bottom,,https://github.com/ClementTsang/bottom,Yet another cross-platform graphical process/system monitor.
+viewers,brows,,https://github.com/rubysolo/brows,CLI GitHub release browser.
+programming,cgdb,,https://github.com/cgdb/cgdb,Console front-end to the GNU debugger.
+data-management-tabular,daff,,https://github.com/paulfitz/daff,"Efficient table comparison and alignment, supporting formats like CSV and SQLite, useful for data analysis and synchronization tasks."
+chat,devzat,,https://github.com/quackduck/devzat,Custom SSH server that takes you to a chat instead of a shell prompt.
+devops,dive,,https://github.com/wagoodman/dive,A tool for exploring each layer in a docker image.
+devops,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
+networking,dug,,https://github.com/unfrl/dug,A global DNS propagation checker that gives pretty output.
+git,dunk,,https://github.com/darrenburns/dunk,Prettier git diffs in the terminal.
+package-manager,eget,,https://github.com/zyedidia/eget,Easily install prebuilt binaries from GitHub.
+versioning,fnc,https://fnc.bsdbox.org/index,,Interactive text-based user interface for Fossil.
+font,fnt,,https://github.com/alexmyczko/fnt,"apt for fonts, the missing font manager for macOS/linux."
+git,gh-dash,,https://github.com/dlvhdr/gh-dash,A beautiful CLI dashboard for GitHub.
+git,git-cc,,https://github.com/SKalt/git-cc,A git extension to help write conventional commits.
+monitor-top,gotop,,https://github.com/xxxserxxx/gotop,A terminal based graphical activity monitor inspired by gtop and vtop.
+security,gpg-tui,,https://github.com/orhun/gpg-tui,Manage your GnuPG keys with ease!
+ai,ChatGPTerminator,,https://github.com/AineeJames/ChatGPTerminator,GPTerminator provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
+productivity,gtt,,https://github.com/eeeXun/gtt,"Google Translate TUI (Originally), now supporting Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso."
+viewers,hackernews-TUI,,https://github.com/aome510/hackernews-TUI,A Terminal UI to browse Hacker News.
+data-management-tabular,harlequin,,https://github.com/tconbeer/harlequin,The SQL IDE for Your Terminal.
+networking,havn,,https://github.com/mrjackwills/havn,A fast configurable port scanner with reasonable defaults.
+viewers,hnterm,,https://github.com/ggerganov/hnterm,Hacker News in the terminal.
+networking,humble-explorer,,https://github.com/koenvervloesem/humble-explorer,"Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner."
+online,jira-cli,,https://github.com/ankitpokhrel/jira-cli,Feature-rich interactive Jira command line.
+file-explorer,kupo,,https://github.com/darrenburns/kupo,"A terminal file browser, kupo!"
+text-processing,logshark,,https://github.com/ugosan/logshark,Logshark is a debugger CLI for JSON logs written in Go.
+email,meli,,https://github.com/meli/meli,Terminal mail client.
+system,nemu,,https://github.com/nemuTUI/nemu,Ncurses UI for QEMU.
+networking,liboping,,https://github.com/octo/liboping,Protocol independent ANSI-C ping library and command line utility.
+file-handling,ouch,,https://github.com/ouch-org/ouch,Painless compression and decompression in the terminal.
+editors,ox,,https://github.com/curlpipe/ox,An independent Rust text editor.
+office,patat,,https://github.com/jaspervdj/patat,Terminal-based presentations using Pandoc.
+devops,planor,,https://github.com/mrusme/planor,"The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)."
+office,pysentation,,https://github.com/mimseyedi/pysentation,pysentation is a CLI for displaying Python presentations.
+data-management-tabular,qsv,,https://github.com/jqnatividad/qsv,"CSVs sliced, diced & analyzed."
+monitor,s-tui,,https://github.com/amanusk/s-tui,Terminal-based CPU stress and monitoring utility.
+chat,scli,,https://github.com/isamert/scli,A simple terminal user interface for signal messenger.
+utility,sizeof,,https://github.com/zackproser/sizeof,"Experimental CLI, written alongside ChatGPT4 and GItHub Copilot."
+monitor,slurm,,https://github.com/mattthias/slurm,Yet another network load monitor.
+monitor,sntop,,https://sourceforge.net/projects/sntop,A simple network top for monitoring connectivity.
+todo-manager,taskwarrior-tui,,https://github.com/kdheepak/taskwarrior-tui,A terminal user interface for taskwarrior.
+monitor,tcpterm,,https://github.com/sachaos/tcpterm,tcpterm is a packet visualizer in TUI.
+utility,tempy,,https://github.com/noprobelm/tempy,"A simple, visually pleasing weather report in your terminal."
+data-management-tabular,textql,,https://github.com/dinedal/textql,Execute SQL against structured text like CSV or TSV.
+utility,tickrs,,https://github.com/tarkah/tickrs,Realtime ticker data in your terminal.
+chat,toot,,https://github.com/ihabunek/toot,Mastodon CLI & TUI.
+package-manager,topgrade,,https://github.com/topgrade-rs/topgrade,Upgrade all the things.
+networking,tproxy,,https://github.com/kevwan/tproxy,A cli tool to proxy and analyze TCP connections.
+networking,trippy,,https://github.com/fujiapple852/trippy,A network diagnostic tool.
+typing,ttyper,,https://github.com/max-niederman/ttyper,Terminal-based typing test.
+chat,tut,,https://github.com/RasmusLindroth/tut,TUI for Mastodon with vim inspired keys.
+chat,twitch-tui,,https://github.com/Xithrius/twitch-tui,Twitch chat in the terminal.
+system,ugm,,https://github.com/ariasmn/ugm,A terminal based UNIX user and group browser.
+text-processing,wg-cmd,,https://github.com/AndrianBdn/wg-cmd,TUI for managing WireGuard configuration files.
+online,wiki-tui,,https://github.com/Builditluc/wiki-tui,A simple and easy to use Wikipedia Text User Interface.
+time-tracker,zeit,,https://github.com/mrusme/zeit,A command line tool for tracking time spent on activities.
+monitor-top,zenith,,https://github.com/bvaisvil/zenith,"Sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage"
+transfer,zrok,,https://github.com/openziti/zrok,"Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti."
 ai,ollama,https://ollama.com/,https://github.com/ollama/ollama,Get up and running with large language models locally.
 flashcard,mdfc,,https://github.com/bttger/markdown-flashcards,Easily create and study flashcards using a markdown file with spaced repetition.
