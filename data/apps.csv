@@ -1416,3 +1416,16 @@ password-manager,kpxhs,,https://github.com/akazukin5151/kpxhs,Interactive Keepas
 password-manager,kpcli,,https://github.com/rebkwok/kpcli,Command line interface for keepass database.
 ai,ollama,https://ollama.com/,https://github.com/ollama/ollama,Get up and running with large language models locally.
 flashcard,mdfc,,https://github.com/bttger/markdown-flashcards,Easily create and study flashcards using a markdown file with spaced repetition.
+file-handling,logrotate,,https://github.com/logrotate/logrotate,Rotate, compress and mail logs.
+cd,enhancd,,https://github.com/babarot/enhancd,A next-generation cd command with your interactive filter.
+versioning,myrepo,,https://myrepos.branchable.com/,A repository management tool.
+programming,bashly,https://bashly.dannyb.co/,https://github.com/DannyBen/bashly,Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.
+calc,maxima,,https://maxima.sourceforge.io/,Maxima is a manipulation system for symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, polynomials, sets, lists, vectors, matrices and tensors.
+calc,genius,,https://github.com/GNOME/genius,Genius calculator is a general purpose calculator and mathematics tool
+with many features.
+calc,AngouriMathCLI,,https://github.com/asc-community/AngouriMathCLI,CLI calculator based on AngouriMath.
+devops,mkdkr,,https://github.com/rosineygp/mkdkr,Super small and powerful framework for build CI pipeline, scripted with Makefile and isolated with docker.
+networking,Kapow!,,https://github.com/BBVA/kapow,"Say we have a nice cozy shell command that solves our problem. Kapow! lets us easily turn that into an HTTP API."
+devops,bocker,,https://github.com/p8952/bocker,Docker implemented in around 100 lines of bash.
+devops,podman,https://podman.io/,https://github.com/containers/podman,Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
+system,quickemu,,https://github.com/quickemu-project/quickemu,Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
