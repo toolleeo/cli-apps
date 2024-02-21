@@ -1411,3 +1411,4 @@ online,wiki-tui,,https://github.com/Builditluc/wiki-tui,A simple and easy to use
 time-tracker,zeit,,https://github.com/mrusme/zeit,A command line tool for tracking time spent on activities.
 monitor-top,zenith,,https://github.com/bvaisvil/zenith,"Sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage"
 transfer,zrok,,https://github.com/openziti/zrok,"Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti."
+password-manager,tresor,,https://github.com/Zaphoood/tresor,A KeePass TUI written in Go using Bubble Tea.
