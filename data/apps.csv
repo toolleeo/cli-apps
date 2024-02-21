@@ -1412,3 +1412,4 @@ time-tracker,zeit,,https://github.com/mrusme/zeit,A command line tool for tracki
 monitor-top,zenith,,https://github.com/bvaisvil/zenith,"Sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage"
 transfer,zrok,,https://github.com/openziti/zrok,"Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti."
 password-manager,tresor,,https://github.com/Zaphoood/tresor,A KeePass TUI written in Go using Bubble Tea.
+password-manager,kpxhs,,https://github.com/akazukin5151/kpxhs,Interactive Keepass database TUI viewer written in Haskell.
