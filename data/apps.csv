@@ -205,7 +205,7 @@ data-management-tabular,csvkit,,https://github.com/wireservice/csvkit,"A suite o
 programming,gdb-dashboard,,https://github.com/cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python.
 password-manager,hide,,https://github.com/whatl3y/hide,AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 password-manager,gopass,https://www.gopass.pw/,https://github.com/gopasspw/gopass,gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
-password-manager,pass,https://www.passwordstore.org/,https://git.zx2c4.com/password-store,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
+password-manager,password-store,https://www.passwordstore.org/,https://git.zx2c4.com/password-store,"With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities."
 password-manager,dpg,,,"The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything."
 video,yt-splitter,,https://github.com/redsolver/yt-splitter,Downloads and splits audio tracks from a YouTube video according to the chapters/tracks. Useful for compilations or full album uploads.
 backup,bupstash,,https://github.com/andrewchambers/bupstash,Easy and efficient encrypted backups.
@@ -221,7 +221,7 @@ viewers,youtube-viewer,,https://github.com/trizen/youtube-viewer,Lightweight app
 note-taking,posce,,https://github.com/vdt/posce,A note-taking toolkit for your command line.
 disk-analyzer,dutree,,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.
 diff,ydiff,,https://github.com/ymattw/ydiff,"View colored, incremental diff."
-password-manager,kpcli,http://kpcli.sourceforge.net/,https://sourceforge.net/projects/kpcli,A command line interface for KeePass.
+password-manager,kpcli,http://kpcli.sourceforge.net/,https://github.com/rebkwok/kpcli,A command line interface for KeePass databases.
 data-management,GNU Recutils,https://www.gnu.org/software/recutils/manual/,,"Set of tools and libraries to access human-editable, text-based databases called recfiles."
 games,terminal_board_games,,https://github.com/salt-die/terminally_bored_terminal_board_games,Board games for the terminal.
 games,minesweeper,,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.
@@ -609,7 +609,6 @@ todo-manager,devtodo,https://swapoff.org/devtodo.html,https://github.com/droundy
 security,cream,https://z3bra.org/cream/,git://git.z3bra.org/cream.git,"Encrypt and decrypt streams of data with only a master password. The key is derivated from the password + salt combo, and used to encrypt data byte per byte."
 organizers,remint,https://sr.ht/~mlaparie/remint/,https://git.sr.ht/~mlaparie/remint,A simple terminal UI wrapper for D. Skoll's Remind calendar program
 email,tmpmail,,https://github.com/sdushantha/tmpmail,A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
-email,meli,,https://git.meli.delivery/meli/meli.git,BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
 games,Flapioca,,https://github.com/kbrgl/flapioca,A Flappy Bird-inspired terminal game written in Go.
 typing,kboard,,https://github.com/CamiloGarciaLaRotta/kboard,Terminal game to practice keyboard typing.
 graphics,mandelbrot-cli,,https://github.com/MicheleFiladelfia/mandelbrot-cli,Multiplatform terminal mandelbrot set explorer.
@@ -1072,7 +1071,6 @@ backup,rdiff-backup,https://rdiff-backup.net/,https://github.com/rdiff-backup/rd
 file-handling,symlinks,,https://github.com/brandt/symlinks,Symlinks is a simple tool that helps find and remedy problematic symbolic links on a system.
 file-handling,compsize,,https://github.com/kilobyte/compsize,Find compression type/ratio on a file or set of files on a btrfs file system.
 monitor-top,Btop++,,https://github.com/aristocratos/btop,"Resource monitor that shows usage and stats for processor, memory, disks, network and processes. C++ version and continuation of [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop)."
-monitor,LNAV,,https://github.com/tstack/lnav,Log file navigator.
 password-manager,rbw,,https://github.com/doy/rbw,"Unofficial command line client for Bitwarden that is “stateful”, i.e., it does not require required the manual lock and unlock of the client."
 password-manager,passage,,https://github.com/FiloSottile/passage,A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
 ls,vivid,,https://github.com/sharkdp/vivid,A themeable LS_COLORS generator with a rich filetype datebase.
@@ -1388,7 +1386,6 @@ office,patat,,https://github.com/jaspervdj/patat,Terminal-based presentations us
 devops,planor,,https://github.com/mrusme/planor,"The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)."
 office,pysentation,,https://github.com/mimseyedi/pysentation,pysentation is a CLI for displaying Python presentations.
 data-management-tabular,qsv,,https://github.com/jqnatividad/qsv,"CSVs sliced, diced & analyzed."
-monitor,s-tui,,https://github.com/amanusk/s-tui,Terminal-based CPU stress and monitoring utility.
 chat,scli,,https://github.com/isamert/scli,A simple terminal user interface for signal messenger.
 utility,sizeof,,https://github.com/zackproser/sizeof,"Experimental CLI, written alongside ChatGPT4 and GItHub Copilot."
 monitor,slurm,,https://github.com/mattthias/slurm,Yet another network load monitor.
@@ -1413,4 +1410,3 @@ monitor-top,zenith,,https://github.com/bvaisvil/zenith,"Sort of like top or htop
 transfer,zrok,,https://github.com/openziti/zrok,"Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti."
 password-manager,tresor,,https://github.com/Zaphoood/tresor,A KeePass TUI written in Go using Bubble Tea.
 password-manager,kpxhs,,https://github.com/akazukin5151/kpxhs,Interactive Keepass database TUI viewer written in Haskell.
-password-manager,kpcli,,https://github.com/rebkwok/kpcli,Command line interface for keepass database.

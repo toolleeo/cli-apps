@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1415**
+* Apps/tools covered: **1411**
 * Number of categories: **76**.
 
 # Index
@@ -17,16 +17,16 @@ Some links are available to [related resources](#resources).
 * [Backup](#backup) (16)
 * [Calculators](#calc) (11), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (15), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
-* [Editors](#editors) (26), [Email](#email) (15)
+* [Editors](#editors) (26), [Email](#email) (14)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
 * [Games](#games) (49), [Git and accessories](#git) (50), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (59), [Note taking](#note-taking) (22)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (16), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (31), [System tools](#system) (25)
+* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (25)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (7), [Typing test and practice](#typing) (9)
 * [Utilities](#utility) (40)
 * [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (26)
@@ -500,7 +500,6 @@ Email clients (MUA - Mail User Agents), mail synchronization, generation indexin
 * [alpine](http://www.washington.edu/alpine/) - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
 * [Himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management.
 * [mbsync](http://isync.sourceforge.net/mbsync.html) - Mailboxes synchronization tool, allows to download email locally, MailDir format supported.
-* [meli](https://git.meli.delivery/meli/meli.git) - BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
 * [meli](https://github.com/meli/meli) - Terminal mail client.
 * [Mutt](http://www.mutt.org/) - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
 * [NeoMutt](https://neomutt.org/) - Patched and up-to-dated mutt fork.
@@ -1104,15 +1103,14 @@ Programs to store and manage collections of password and other login/authenticat
 * [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 * [hide](https://github.com/whatl3y/hide) - AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 * [keydex](https://github.com/shikaan/keydex) - Manage KeePass databases from your terminal.
-* [kpcli](http://kpcli.sourceforge.net/) - A command line interface for KeePass.
-* [kpcli](https://github.com/rebkwok/kpcli) - Command line interface for keepass database.
+* [kpcli](http://kpcli.sourceforge.net/) - A command line interface for KeePass databases.
 * [kpxhs](https://github.com/akazukin5151/kpxhs) - Interactive Keepass database TUI viewer written in Haskell.
 * [pa](https://github.com/biox/pa) - A simple password manager; encryption via age, written in portable posix shell.
 * [pash](https://github.com/dylanaraps/pash) - A simple password manager using GPG written in POSIX sh.
-* [pass](https://www.passwordstore.org/) - With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities.
 * [pass](https://github.com/acidvegas/pass) - POSIX password manager that keeps passwords inside gpg encrypted files inside a simple directory tree.
 * [passage](https://github.com/FiloSottile/passage) - A fork of [password-store](https://www.passwordstore.org) that uses [age](https://age-encryption.org) as a backend instead of GnuPG.
 * [passfzf](https://git.sr.ht/~mlaparie/passfzf) - A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them.
+* [password-store](https://www.passwordstore.org/) - With pass, each password lives inside of a gpg encrypted file whose filename is the title of the website or resource that requires the password. These encrypted files may be organized into meaningful folder hierarchies, copied from computer to computer, and, in general, manipulated using standard command line file management utilities.
 * [Pswd](https://github.com/Mandrew0822/pswd) - A secure password generator written in C.
 * [rbw](https://github.com/doy/rbw) - Unofficial command line client for Bitwarden that is “stateful”, i.e., it does not require required the manual lock and unlock of the client.
 * [safe.sh](https://github.com/windowsrefund/safe) - Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html).
@@ -1431,7 +1429,6 @@ Applications to display the usage of system resources: network, memory, power, e
 * [HyFetch](https://github.com/hykilpikonna/hyfetch) - A fork of the abandoned [Neofetch](https://github.com/dylanaraps/neofetch), HyFetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice.
 * [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 * [inxi](http://smxi.org/docs/inxi.htm) - A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script.
-* [LNAV](https://github.com/tstack/lnav) - Log file navigator.
 * [macchina](https://github.com/Macchina-CLI/macchina) - Fast, minimal and customizable system information frontend.
 * [multitail](https://www.vanheusden.com/multitail/) - A command to open multiple log files in a single terminal window and monitor them in real-time.  
 * [neofetch](https://github.com/dylanaraps/neofetch) - Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice. Currently abandoned.
@@ -1440,7 +1437,6 @@ Applications to display the usage of system resources: network, memory, power, e
 * [powertop](https://01.org/powertop) - A `top`-like utility to monitor the sources of power consumption, allows to turn on/off many components, quite useful to track possible power-related issues.
 * [pv](http://www.ivarch.com/programs/pv.shtml) - The pv command is used to monitor the progress of data through pipe.
 * [ramfetch](https://github.com/WhoseTheNerd/ramfetch) - A fetch which displays memory info using /proc/meminfo.
-* [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.
 * [slurm](https://github.com/mattthias/slurm) - Yet another network load monitor.
 * [smem](https://www.selenic.com/smem/) - Python program that reports memory usage; it can report the "proportional set size" (PSS), a meaningful representation of the amount of memory used by libraries and applications in a virtual memory system; it has built-in chart generation.
