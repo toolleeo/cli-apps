@@ -8,8 +8,8 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools covered: **1411**
-* Number of categories: **76**.
+* Apps/tools: **1411**
+* Categories: **76**.
 
 # Index
 

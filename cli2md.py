@@ -5,8 +5,8 @@ import string
 summary_template = """
 # Summary
 
-* Apps/tools covered: **{n_apps}**
-* Number of categories: **{n_cats}**.
+* Apps/tools: **{n_apps}**
+* Categories: **{n_cats}**.
 
 # Index
 
