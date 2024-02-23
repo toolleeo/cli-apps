@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 # Summary
 
 * Apps/tools: **1411**
-* Categories: **76**.
+* Categories: **76**
 
 # Index
 

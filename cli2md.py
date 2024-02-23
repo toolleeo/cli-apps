@@ -6,7 +6,7 @@ summary_template = """
 # Summary
 
 * Apps/tools: **{n_apps}**
-* Categories: **{n_cats}**.
+* Categories: **{n_cats}**
 
 # Index
 
