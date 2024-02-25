@@ -148,7 +148,7 @@ funny,fortune,http://software.clapper.org/fortune/,https://github.com/bmc/fortun
 funny,Steam Locomotive,http://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html,https://github.com/mtoyoda/sl,A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.  
 funny,ternimal,,https://github.com/p-e-w/ternimal,Simulate a lifeform in the terminal.
 funny,StarWars vision,,,See Star Wars in ASCII with ``telnet towel.blinkenlights.nl`` (server seems down recently - I leave the link in the hope that it will be resumed in the future).
-games,bastet,http://fph.altervista.org/prog/bastet.html,https://github.com/fph/bastet/,(Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.  
+games,bastet,http://fph.altervista.org/prog/bastet.html,https://github.com/fph/bastet,(Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.  
 games,Cataclysm: Dark Days Ahead,https://cataclysmdda.org/,https://github.com/CleverRaven/Cataclysm-DDA,Open source turn-based survival RPG development project.
 games,Dwarf fortress,http://www.bay12games.com/dwarves/,,"A fantasy game using ASCII art graphical representation of the game environment, it features a rich environment with many options and possibilities."
 games,freesweep,http://www.upl.cs.wisc.edu/~hartmann/sweep/,,"A Minesweeper clone for the terminal which allows you to configure settings such as table rows and columns up to 1024x1024!), percentage of bombs, colors and also has a highscores table."
@@ -182,7 +182,7 @@ transfer,qrcp,https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-
 transfer,rsync,https://download.samba.org/pub/rsync/rsync.html,https://github.com/WayneD/rsync,"Mirror directories across networked machines, handles diffs/changed files, works across SSH, plenty of parameters."
 transfer,sitecopy,http://www.manyfish.co.uk/sitecopy/,,"Synchronizes a local copy of a website with a remote copy on a server, does not use SSH/`scp` but FTP for file copy, useful when the remote server does not support secure copy."
 transfer,stftp,http://stftp.sourceforge.net/,https://sourceforge.net/projects/stftp,"(simple terminal FTP) aims to be a ""easy-to-use and unbloated client for the UNIX (and UNIX-like) console""."
-transfer,Woof,http://www.home.unix-ag.org/simon/woof.html,https://github.com/simon-budig/woof/,(Web Offer One File) sets up an HTTP webserver to serve files from a given local directory all the users connected to the network can see and download the files.
+transfer,Woof,http://www.home.unix-ag.org/simon/woof.html,https://github.com/simon-budig/woof,(Web Offer One File) sets up an HTTP webserver to serve files from a given local directory all the users connected to the network can see and download the files.
 transfer,youtube-dl,,https://github.com/ytdl-org/youtube-dl,Downloads videos from [YouTube](https://www.youtube.com/) and some other sites useful for automated bulk downloads.
 chat,finch,http://www.pidgin.im/,,"IM program supporting many protocols, including Yahoo!, AIM, IRC, or WLM; comes with the `Pidgin` project."
 chat,irssi,http://www.irssi.org,https://github.com/irssi/irssi,"The most popular IRC client for the command-line; a flexible program, with many options and supporting many protocols."
@@ -619,7 +619,7 @@ office,Slides,,https://github.com/maaslalani/slides,Terminal based presentation 
 organizers,tz,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
 transfer,tran,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.
 data-management,Redis Viewer,,https://github.com/SaltFishPr/redis-viewer,A tool to view redis data in terminal.
-data-management-tabular,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk/,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
+data-management-tabular,csvtk,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go."
 cheatsheet,ehh,,https://github.com/lennardv2/ehh,Command-line tool for remembering linux/terminal commands.
 financial,Lakshmi,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.
 package-manager,pypi-command-line,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org."
