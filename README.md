@@ -8,28 +8,28 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1411**
+* Apps/tools: **1425**
 * Categories: **76**
 
 # Index
 
-* [AI / ChatGPT](#ai) (19), [Anki, decks and flashcards](#flashcard) (6)
+* [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (11), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (15), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (19), [Disk usage analyzers](#disk-analyzer) (12)
+* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (9), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (20), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
+* [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
 * [Games](#games) (49), [Git and accessories](#git) (50), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (59), [Note taking](#note-taking) (22)
+* [Networking](#networking) (60), [Note taking](#note-taking) (22)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (36), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (37), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (25)
+* [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (14), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (26)
 * [Terminals](#terminal) (14), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (7), [Typing test and practice](#typing) (9)
 * [Utilities](#utility) (40)
-* [Versioning](#versioning) (8), [Video](#video) (11), [Viewers](#viewers) (26)
+* [Versioning](#versioning) (9), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -53,6 +53,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [Instrukt](https://github.com/blob42/Instrukt) - A integrated AI environment in the terminal. Build, test and instruct agents.
 * [llm-term](https://github.com/juftin/llm-term) - Chat with OpenAI's GPT models directly from the command line.
 * [Mods!](https://github.com/charmbracelet/mods) - AI for the command line, built for pipelines.
+* [ollama](https://ollama.com/) - Get up and running with large language models locally.
 * [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 
@@ -62,6 +63,7 @@ Manage decks of flashcards and Anki decks.
 
 * [flash-tui](https://github.com/TBS1996/speki) - Flashcard app for the terminal.
 * [hardv](https://github.com/dongyx/hardv) - A CLI flashcard app for UNIX-compatible systems, conforming to the UNIX philosophy.
+* [mdfc](https://github.com/bttger/markdown-flashcards) - Easily create and study flashcards using a markdown file with spaced repetition.
 * [py_flashcards](https://github.com/M4THYOU/py_flashcards) - Text-only CLI flashcards parsed from Markdown file.
 * [speki](https://github.com/tbs1996/speki) - Manage flashcards in the terminal similar to anki.
 * [ToRRential Card processor](https://github.com/Constantin1489/trrc) - A command-line program to add a card to Anki using AnkiConnect API.
@@ -92,11 +94,14 @@ Tools to manage the backup of files and directories.
 
 Calculators for mathematical operations among numbers, dates, base conversions, etc..
 
+* [AngouriMathCLI](https://github.com/asc-community/AngouriMathCLI) - CLI calculator based on AngouriMath.
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [Bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
+* [genius](https://github.com/GNOME/genius) - Genius calculator is a general purpose calculator and mathematics tool with many features.
 * [HIP35](https://github.com/leonmavr/HIP35) - HP-35 RPN calculator emulator in C++17 with a terminal user interface.
 * [kalc](https://github.com/bgkillas/kalc) - A complex numbers, 2d/3d graphing, arbitrary precision, vector, cli calculator with real-time output.
 * [kalk](https://github.com/PaddiM8/kalker) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
+* [maxima](https://maxima.sourceforge.io/) - Maxima is a manipulation system for symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, polynomials, sets, lists, vectors, matrices and tensors.
 * [mdlt](https://github.com/metadelta/mdlt) - A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
 * [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
 * [Numbat](https://github.com/sharkdp/numbat) - Numbat is a calculator for scientific computations with first class support for physical dimensions and units.
@@ -388,6 +393,7 @@ Programs for transferring files and data between different machines.
 
 Applications for supporting DevOps tasks, such as containers or cloud systems management.
 
+* [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
 * [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 * [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
 * [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
@@ -400,8 +406,10 @@ Applications for supporting DevOps tasks, such as containers or cloud systems ma
 * [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
 * [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 * [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+* [mkdkr](https://github.com/rosineygp/mkdkr) - Super small and powerful framework for build CI pipeline, scripted with Makefile and isolated with docker.
 * [OPS](https://github.com/nanovms/ops) - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
 * [planor](https://github.com/mrusme/planor) - The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...).
+* [podman](https://podman.io/) - Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
 * [SAWS](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 
 ## <a name="diff"></a>Diff
@@ -427,6 +435,7 @@ Programs for improving the efficiency of directory traversal by remembering comm
 * [autojump](https://github.com/wting/autojump) - A cd command that maintains a database of most visited paths and allows the access to a directory with shortened versions of the path.
 * [broot](https://dystroy.org/broot/) - broot displays an optimized (omitting unnecessary content) tree view of the filesystem, allowing to fuzzy search files and folder, and move to specified directories.
 * [cdwe](https://github.com/synoet/cdwe) - (cd with env vars) Wrapper of the cd command that sets and unsets env vars when you change dir based on a config file.
+* [enhancd](https://github.com/babarot/enhancd) - A next-generation cd command with your interactive filter.
 * [fasd](https://github.com/clvv/fasd) - It offers quick access to files and directories for POSIX shells by keeping track of files and directories you have accessed, so that you can quickly reference them in the command line.
 * [fastdiract](https://github.com/dp12/fastdiract) - Lightning-fast cd and command execution.
 * [ff](https://github.com/akymos/ff) - ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.
@@ -523,6 +532,7 @@ Tools for managing files and directories (copy, move, extraction from compressed
 * [ForkFS](https://github.com/SUPERCILEX/forkfs) - ForkFS allows you to sandbox a process's changes to your file system.
 * [gcp](https://github.com/aelafifi/gcp) - `gcp` (Goffi's cp) is an advanced file copier tool, heavily inspired from the traditional `cp` command utility, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes.
 * [gcstree](https://github.com/owlinux1000/gcstree) - Tree command for GCS (Google Cloud Storage).
+* [logrotate](https://github.com/logrotate/logrotate) - Rotate, compress and mail logs.
 * [ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal.
 * [PathPicker](https://facebook.github.io/PathPicker/) - A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories.
 * [pcopy](https://github.com/binwiederhier/pcopy) - A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
@@ -932,6 +942,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
 * [humble-explorer](https://github.com/koenvervloesem/humble-explorer) - Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
 * [ipcalc](http://jodies.de/ipcalc) - Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
+* [Kapow!](https://github.com/BBVA/kapow) - Say we have a nice cozy shell command that solves our problem. Kapow! lets us easily turn that into an HTTP API.
 * [liboping](https://github.com/octo/liboping) - Protocol independent ANSI-C ping library and command line utility.
 * [mitmproxy](https://mitmproxy.org/) - An interactive HTTPS proxy.
 * [mosh](https://mosh.org/) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
@@ -1193,6 +1204,7 @@ Utilities that generate licenses, documentation structure (README files), projec
 Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc..
 
 * [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
+* [bashly](https://bashly.dannyb.co/) - Bashly is a command line application (written in Ruby) that lets you generate feature-rich bash command line tools.
 * [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.
 * [cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger.
 * [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
@@ -1470,6 +1482,7 @@ System management tools, such as for brightness control, dotfile and environment
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU.
 * [Ntfy](https://github.com/dschep/ntfy) - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
+* [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [rfsh](https://github.com/docsion/rfsh) - Run shell scripts in batch, concurrently, fully customized with variable.
 * [rs-env](https://github.com/sysid/rs-env) - Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files.
 * [Rumos](https://github.com/octagony/rumos) - CLI utility for controlling screen brightness.
@@ -1704,6 +1717,7 @@ Tools for file versioning that are not related to git.
 * [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
 * [Jujutsu](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful.
 * [Mercurial](https://www.mercurial-scm.org/) - Free, distributed source control management tool.
+* [myrepo](https://myrepos.branchable.com/) - A repository management tool.
 * [SnowFS](https://github.com/snowtrack/snowfs) - A high-performance application and node library for binary file versioning, initially made for the graphics industry.
 
 ## <a name="video"></a>Video
