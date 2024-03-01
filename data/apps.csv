@@ -1430,3 +1430,4 @@ terminal,alacritty,https://alacritty.org,https://github.com/alacritty/alacritty,
 terminal,kitty,https://sw.kovidgoyal.net/kitty/,https://github.com/kovidgoyal/kitty,"A fast, feature-rich, GPU based terminal emulator."
 terminal,extraterm,https://extraterm.org/,https://github.com/sedwards2009/extraterm,"The swiss army chainsaw of terminal emulators."
 terminal,st,https://st.suckless.org/,https://git.suckless.org/st/,A simple terminal implementation for X.
+terminal,wterm,,https://github.com/TornadoCookie/wterm,A native Wayland terminal emulator based on an st fork using wld.
