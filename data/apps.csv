@@ -1431,3 +1431,4 @@ terminal,kitty,https://sw.kovidgoyal.net/kitty/,https://github.com/kovidgoyal/ki
 terminal,extraterm,https://extraterm.org/,https://github.com/sedwards2009/extraterm,"The swiss army chainsaw of terminal emulators."
 terminal,st,https://st.suckless.org/,https://git.suckless.org/st/,A simple terminal implementation for X.
 terminal,wterm,,https://github.com/TornadoCookie/wterm,A native Wayland terminal emulator based on an st fork using wld.
+terminal,mlterm,https://mlterm.sourceforge.net/,https://github.com/arakiken/mlterm,"A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency."
