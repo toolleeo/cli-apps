@@ -1428,3 +1428,4 @@ terminal,abduco,https://www.brain-dump.org/projects/abduco,https://github.com/ma
 terminal,dvtm,https://www.brain-dump.org/projects/dvtm,https://github.com/martanne/dvtm/,Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
 terminal,alacritty,https://alacritty.org,https://github.com/alacritty/alacritty,"A GPU-Accelerated terminal emulator that comes with sensible defaults, but allows for extensive configuration"
 terminal,kitty,https://sw.kovidgoyal.net/kitty/,https://github.com/kovidgoyal/kitty,"A fast, feature-rich, GPU based terminal emulator"
+terminal,extraterm,https://extraterm.org/,https://github.com/sedwards2009/extraterm,"The swiss army chainsaw of terminal emulators"
