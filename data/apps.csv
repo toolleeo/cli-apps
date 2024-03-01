@@ -1425,3 +1425,4 @@ devops,bocker,,https://github.com/p8952/bocker,Docker implemented in around 100 
 devops,podman,https://podman.io/,https://github.com/containers/podman,"Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images."
 system,quickemu,,https://github.com/quickemu-project/quickemu,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines."
 terminal,abduco,https://www.brain-dump.org/projects/abduco,https://github.com/martanne/abduco/,"abduco provides session management i.e. it allows programs to be run independently from their controlling terminal."
+terminal,dvtm,https://www.brain-dump.org/projects/dvtm,https://github.com/martanne/dvtm/,Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
