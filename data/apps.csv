@@ -1424,3 +1424,15 @@ networking,Kapow!,,https://github.com/BBVA/kapow,"Say we have a nice cozy shell 
 devops,bocker,,https://github.com/p8952/bocker,Docker implemented in around 100 lines of bash.
 devops,podman,https://podman.io/,https://github.com/containers/podman,"Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images."
 system,quickemu,,https://github.com/quickemu-project/quickemu,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines."
+shells,es,https://wryun.github.io/es-shell/,https://wryun.github.io/es-shell/,"(extensible shell) shell with first class functions, lexical scope, exceptions, and rich return values, based on Plan9's rc."
+shells,ksh93,,https://github.com/ksh93/ksh,"(KornShell) a shell programming language that is compatible with the Bourne Shell in addition and has the major command-entry features of the BSD shell csh."
+shells,Tcsh,https://www.tcsh.org,https://github.com/tcsh-org/tcsh,C shell with file name completion and command line editing.
+shells,Yash,https://magicant.github.io/yash,https://github.com/magicant/yash,Yash,(yet another shell) a POSIX-compliant command line shell written in C99.
+shells,Oils,https://github.com/oilshell/oil,https://www.oilshell.org/,"From their README: ""Oils is our upgrade path from bash to a better language and runtime!"" "
+shells,mksh,http://www.mirbsd.org/mksh.htm,https://github.com/MirBSD/mksh,(MirBSD Korn Shell) an actively developed free implementation of the Korn Shell programming language and a successor to the Public Domain Korn Shell (pdksh).
+shells,murex,https://murex.rocks,https://github.com/lmorg/murex,"An intuitive, typed and content aware shell for the 2020s and beyond."
+shells,dune,,https://github.com/adam-mcdaniel/dune,A customizable shell that aims to be cozy.
+shells,PowerShell,https://microsoft.com/PowerShell,https://github.com/PowerShell/PowerShell,"An automation and configuration tool/framework optimized for dealing with structured data, REST APIs, and object models."
+shells,oksh,,https://github.com/ibara/oksh,Portable OpenBSD ksh
+shells,Rash,https://rash-lang.org,https://github.com/willghatch/racket-rash,"A shell language, library, and REPL for Racket."
+shells,arsh,,https://github.com/sekiguchi-nagisa/arsh,A statically typed scripting language with shell-like features.
