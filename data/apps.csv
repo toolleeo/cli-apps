@@ -1426,3 +1426,4 @@ devops,podman,https://podman.io/,https://github.com/containers/podman,"Podman is
 system,quickemu,,https://github.com/quickemu-project/quickemu,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines."
 terminal,abduco,https://www.brain-dump.org/projects/abduco,https://github.com/martanne/abduco/,"abduco provides session management i.e. it allows programs to be run independently from their controlling terminal."
 terminal,dvtm,https://www.brain-dump.org/projects/dvtm,https://github.com/martanne/dvtm/,Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
+terminal,alacritty,https://alacritty.org,https://github.com/alacritty/alacritty,"A GPU-Accelerated terminal emulator that comes with sensible defaults, but allows for extensive configuration"
