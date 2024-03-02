@@ -1436,3 +1436,11 @@ shells,PowerShell,https://microsoft.com/PowerShell,https://github.com/PowerShell
 shells,oksh,,https://github.com/ibara/oksh,Portable OpenBSD ksh
 shells,Rash,https://rash-lang.org,https://github.com/willghatch/racket-rash,"A shell language, library, and REPL for Racket."
 shells,arsh,,https://github.com/sekiguchi-nagisa/arsh,A statically typed scripting language with shell-like features.
+terminal,abduco,https://www.brain-dump.org/projects/abduco,https://github.com/martanne/abduco/,"abduco provides session management i.e. it allows programs to be run independently from their controlling terminal."
+terminal,dvtm,https://www.brain-dump.org/projects/dvtm,https://github.com/martanne/dvtm/,Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
+terminal,alacritty,https://alacritty.org,https://github.com/alacritty/alacritty,"A GPU-Accelerated terminal emulator that comes with sensible defaults, but allows for extensive configuration."
+terminal,kitty,https://sw.kovidgoyal.net/kitty/,https://github.com/kovidgoyal/kitty,"A fast, feature-rich, GPU based terminal emulator."
+terminal,extraterm,https://extraterm.org/,https://github.com/sedwards2009/extraterm,"The swiss army chainsaw of terminal emulators."
+terminal,st,https://st.suckless.org/,https://git.suckless.org/st/,A simple terminal implementation for X.
+terminal,wterm,,https://github.com/TornadoCookie/wterm,A native Wayland terminal emulator based on an st fork using wld.
+terminal,mlterm,https://mlterm.sourceforge.net/,https://github.com/arakiken/mlterm,"A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency."
