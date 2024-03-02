@@ -1448,3 +1448,4 @@ games,sshattrick,,https://github.com/ricott1/sshattrick,Play Hattrick in your te
 git,mkgit,,https://github.com/cosmicwanderer7/mkgit,"This Bash script automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository. The script prompts the user for a repository name and utilizes the GitHub API to create a new public repository."
 networking,icy_term,,https://github.com/mkrueger/icy_term,Old school ANSI/AVT terminal program for modern systems for connecting to BBS systems.
 text-processing,toolong,,https://github.com/Textualize/toolong,"A terminal application to view, tail, merge, and search log files (plus JSONL)."
+torrent,toru,,https://github.com/sweetbbak/toru,Bittorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads. 
