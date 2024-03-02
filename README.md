@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1445**
+* Apps/tools: **1446**
 * Categories: **76**
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (20), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
-* [Games](#games) (49), [Git and accessories](#git) (50), [Graphics](#graphics) (37)
+* [Games](#games) (50), [Git and accessories](#git) (50), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (60), [Note taking](#note-taking) (22)
@@ -787,6 +787,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [sku](https://github.com/fedeztk/sku) - Simple TUI written in go to play sudoku in the terminal.
 * [Slash'EM](http://slashem.sourceforge.net/) - Rogue-like game derived from `nethack` offering extra features, monsters, and items; includes a GUI version.
 * [Solitaire TUI](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal.
+* [sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
 * [sssnake](https://github.com/AngelJumbo/sssnake) - (Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.
 * [terdle](https://github.com/neelkarma/terdle) - Wordle implemented in Rust.
 * [Terminal Phase](https://dustycloud.org/blog/terminal-phase-1.0/) - A space shooter game you can play in your terminal.
