@@ -8,12 +8,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1454**
+* Apps/tools: **1455**
 * Categories: **76**
 
 # Index
 
-* [AI / ChatGPT](#ai) (19), [Anki, decks and flashcards](#flashcard) (7)
+* [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (20), [Disk usage analyzers](#disk-analyzer) (12)
@@ -46,6 +46,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
 * [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
+* [gemini-cli](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini.
 * [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line chat GPT frontend written in Rust.
 * [HAL 2023](https://github.com/Brutuski/hal2023-cli) - Inspired by the infamous HAL9000, it is a simple script to chat with OpenAI's ChatGPT.
 * [ht](https://github.com/catallo/ht) - A shell command that answers your questions about shell commands using OpenAI GPT.
