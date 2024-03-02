@@ -1451,3 +1451,4 @@ text-processing,toolong,,https://github.com/Textualize/toolong,"A terminal appli
 torrent,toru,,https://github.com/sweetbbak/toru,Bittorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
 option-picker,fuzzysh,,https://github.com/yazgoo/fuzzysh,"Minimalist selector in shell, inspired by fzf."
 networking,TReq,,https://github.com/talis-fb/TReq,A CLI tool for effortless HTTP requests.
+git,gacp,,https://github.com/anhsirk0/gacp,"git add, commit and push in one go."
