@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1457**
+* Apps/tools: **1458**
 * Categories: **76**
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (26), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (26)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
-* [Utilities](#utility) (40)
+* [Utilities](#utility) (41)
 * [Versioning](#versioning) (9), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
@@ -1708,6 +1708,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
 * [gentoo-install](https://github.com/oddlama/gentoo-install) - This project aspires to be your favourite way to install gentoo. It aims to provide a smooth installation experience, both for beginners and experts. You may configure it by using a menuconfig-inspired interface or simply via a config file.
+* [glyphs](https://github.com/maaslalani/glyphs) - Unicode symbols on the command line.
 * [GoTTY](https://github.com/yudai/gotty) - A program to turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
 * [guesswidth](https://github.com/noborus/guesswidth) - Guess the width output without delimiters in commands that output to the terminal.
 * [Keep](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
