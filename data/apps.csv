@@ -1450,3 +1450,4 @@ networking,icy_term,,https://github.com/mkrueger/icy_term,Old school ANSI/AVT te
 text-processing,toolong,,https://github.com/Textualize/toolong,"A terminal application to view, tail, merge, and search log files (plus JSONL)."
 torrent,toru,,https://github.com/sweetbbak/toru,Bittorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
 option-picker,fuzzysh,,https://github.com/yazgoo/fuzzysh,"Minimalist selector in shell, inspired by fzf."
+networking,TReq,,https://github.com/talis-fb/TReq,A CLI tool for effortless HTTP requests.
