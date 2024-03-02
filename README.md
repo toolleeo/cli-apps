@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1459**
+* Apps/tools: **1460**
 * Categories: **76**
 
 # Index
@@ -16,7 +16,7 @@ Some links are available to [related resources](#resources).
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (20), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (50), [Git and accessories](#git) (52), [Graphics](#graphics) (37)
@@ -452,6 +452,7 @@ Programs for improving the efficiency of directory traversal by remembering comm
 * [SmartCd](https://github.com/CodesOfRishi/smartcd) - A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.
 * [z](https://github.com/rupa/z) - Directory changer based on aging and frecency.
 * [z.lua](https://github.com/skywind3000/z.lua) - Directory changer that learns your habits.
+* [zm](https://github.com/benrutter/zm) - Improved cd.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - It remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes.
 
 ## <a name="disk-analyzer"></a>Disk usage analyzers
