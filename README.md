@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1437**
+* Apps/tools: **1445**
 * Categories: **76**
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (37), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (19), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (26), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (26)
-* [Terminals](#terminal) (14), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (7), [Typing test and practice](#typing) (9)
+* [Terminals](#terminal) (22), [Text processing](#text-processing) (34), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (7), [Typing test and practice](#typing) (9)
 * [Utilities](#utility) (40)
 * [Versioning](#versioning) (9), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
@@ -1509,12 +1509,19 @@ System management tools, such as for brightness control, dotfile and environment
 
 Terminal and terminal multiplexers.
 
+* [abduco](https://www.brain-dump.org/projects/abduco) - abduco provides session management i.e. it allows programs to be run independently from their controlling terminal.
+* [alacritty](https://alacritty.org) - A GPU-Accelerated terminal emulator that comes with sensible defaults, but allows for extensive configuration.
 * [byobu](http://byobu.co/) - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 * [dtach](https://github.com/crigler/dtach) - A program written in C that emulates the detach feature of screen.
+* [dvtm](https://www.brain-dump.org/projects/dvtm) - Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
+* [extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators.
+* [kitty](https://sw.kovidgoyal.net/kitty/) - A fast, feature-rich, GPU based terminal emulator.
+* [mlterm](https://mlterm.sourceforge.net/) - A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency.
 * [mtm](https://github.com/deadpixi/mtm) - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.
 * [mx](https://gitlab.com/lpireyn/mx) - A tmux session manager written as a single Bash script.
 * [peaches](https://github.com/KCaverly/peaches) - A smart switcher for the terminal. Based on tmux.
 * [screen](https://www.gnu.org/software/screen/) - Terminal multiplexer that split a physical terminal between several processes, typically interactive shells.
+* [st](https://st.suckless.org/) - A simple terminal implementation for X.
 * [Tmate](https://tmate.io/) - A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more.
 * [tmux-nested](https://github.com/niqodea/tmux-nested) - Plugin for nested tmux workflows.
@@ -1522,6 +1529,7 @@ Terminal and terminal multiplexers.
 * [vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing.
 * [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.  
 * [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust with tons of features.
+* [wterm](https://github.com/TornadoCookie/wterm) - A native Wayland terminal emulator based on an st fork using wld.
 * [Zellij](https://github.com/zellij-org/zellij) - A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer.
 
 ## <a name="text-processing"></a>Text processing
