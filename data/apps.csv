@@ -1348,7 +1348,7 @@ find,rawhide,,https://github.com/raforg/rawhide,Find files using pretty C expres
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plaintext YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
-ai,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
+copilot,aider,,https://github.com/paul-gauthier/aider,aider is AI pair programming in your terminal.
 networking,asn,,https://github.com/nitefood/asn,"Server for the following services: ASN, RPKI validity, BGP stats, IPv4v6, Prefix, URL, ASPath, Organization, IP reputation, IP geolocation, IP fingerprinting, Network recon, lookup API server, Web traceroute server."
 viewers,bbcli,,https://github.com/hako/bbcli,Browse BBC News like a hacker.
 monitor-top,bottom,,https://github.com/ClementTsang/bottom,Yet another cross-platform graphical process/system monitor.
