@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1450**
+* Apps/tools: **1451**
 * Categories: **76**
 
 # Index
@@ -18,7 +18,7 @@ Some links are available to [related resources](#resources).
 * [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (11), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (20), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
-* [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (13)
+* [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (50), [Git and accessories](#git) (51), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -734,6 +734,7 @@ Fuzzy finders and generic option pickers in lists of strings.
 * [choose](https://github.com/jagprog5/choose) - NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.
 * [cmenu](https://github.com/10xJSChad/cmenu) - Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout.
 * [fss](https://github.com/5n00py/fss) - User-friendly command-line search scripts combining find and grep utilities with fzf previewing and direct actions on specific file types.
+* [fuzzysh](https://github.com/yazgoo/fuzzysh) - Minimalist selector in shell, inspired by fzf.
 * [fzf](https://github.com/junegunn/fzf) - (FuZzy Finder) is a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.
 * [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
 * [lSel](https://github.com/unsigned-enby/lSel) - Simple no-fuss TUI selection menu for use in scripts.
@@ -1668,7 +1669,7 @@ Clients and download managers using the BitTorrent protocol.
 * [rtorrent](https://github.com/rakshasa/rtorrent) - Bittorrent client uses ncurses and is ideal for use with tmux, screen or dtach.
 * [Stig](https://github.com/rndusr/stig) - Stig is a client application to connect and control the BitTorrent Transmission client app.
 * [torrentCLI](https://github.com/amogusussy/torrentCLI) - Get torrents from the Terminal.
-* [toru](https://github.com/sweetbbak/toru) - Bittorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads. 
+* [toru](https://github.com/sweetbbak/toru) - Bittorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
 * [Transgression TUI](https://github.com/PanAeon/transg-tui) - A remote TUI client for the Transmission bittorrent program.
 * [Transmission](https://transmissionbt.com/) - Fast, easy and free bittorrent client.
 
