@@ -1447,3 +1447,4 @@ terminal,mlterm,https://mlterm.sourceforge.net/,https://github.com/arakiken/mlte
 rm,extundelete,https://extundelete.sourceforge.net/,https://sourceforge.net/p/extundelete/code/ci/master/tree/,Recover deleted files from an ext3 or ext4 partition through its journal.
 rm,undelete-btrfs,,https://github.com/danthem/undelete-btrfs,"Automate the generation of path regex for BTRFS restore and attempt the restore for you in 3 levels. The longer a file has existed prior to being deleted, the more likely it is to be recovered."
 rm,testdisk,https://www.cgsecurity.org/wiki/TestDisk,https://git.cgsecurity.org/cgit/testdisk/tree/,"Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions."
+rm,del,https://fex.belwue.de/fstools/del.html,,Save deleted files to a .del/ subdirectory in the same directory.
