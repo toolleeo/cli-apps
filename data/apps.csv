@@ -1213,7 +1213,7 @@ science,BibMan,https://ductri.github.io/note/2023/09/27/bibman.html,https://gith
 music,radio-beats,,https://github.com/quangnguyen30192/radio-beats,Rofi-like menu for playing radio stations.
 graphics,haylxon,,https://github.com/pwnwriter/haylxon,Blazing-fast tool to grab screenshots of your domain list right from terminal.
 programming,DEM,https://www.axemsolutions.io/dem_doc/index.html,https://github.com/axem-solutions/dem,Containerized Development Environment Manager for embedded development.
-file-handling,rm-trash,,https://github.com/nateshmbhat/rm-trash,"A ""rm-trash"" is meant to be used in place of rm system command in linux . This script will safely delete your files and put them in the trash for later retrieval."
+rm,rm-trash,,https://github.com/nateshmbhat/rm-trash,"A ""rm-trash"" is meant to be used in place of rm system command in linux . This script will safely delete your files and put them in the trash for later retrieval."
 shells,Nushell,,https://github.com/nushell/nushell,"A modern shell written in Rust, where all data is structured."
 shells,Elvish,,https://github.com/elves/elvish,"Elvish is a versatile interactive shell and expressive programming language, combined into one seamless package."
 shells,Ion,,https://github.com/redox-os/ion,"Ion is a modern system shell that features a simple, yet powerful, syntax."
