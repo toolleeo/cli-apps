@@ -8,15 +8,15 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1461**
-* Categories: **76**
+* Apps/tools: **1467**
+* Categories: **77**
 
 # Index
 
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Conversion](#conversion) (13)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (18), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
+* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (13)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (51), [Git and accessories](#git) (52), [Graphics](#graphics) (37)
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (37), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (26), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (26)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (26), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
 * [Utilities](#utility) (41)
 * [Versioning](#versioning) (9), [Video](#video) (11), [Viewers](#viewers) (26)
@@ -226,6 +226,31 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [topalias](https://github.com/meteoritt/topalias) - Linux alias generator from bash/zsh command history with statistics, written on Python.
 * [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
+## <a name="vm"></a>Containerization and virtualization
+
+Tools to manage virtual machines and/or containers and related utilities.
+
+* [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
+* [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
+* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
+* [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
+* [distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal as docker or podman containers.
+* [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
+* [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
+* [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for Docker.
+* [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers, services and images.
+* [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
+* [Incus](https://linuxcontainers.org/lxc) - A manager/hypervisor for containers (via LXC) and virtual-machines (via QEMU).
+* [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+* [lxc](https://linuxcontainers.org/lxc) - A userspace interface for the Linux kernel containment features.
+* [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU.
+* [podman](https://podman.io/) - Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
+* [QEMU](https://qemu.org) - A generic machine & userspace emulator and virtualizer.
+* [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+* [toolbox](https://containertoolbx.org) - Use conteinerized environments where development tools and libraries can be easily installed and used.
+* [virsh](https://libvirt.org/index.html) - An interactive shell, and batch scriptable tool for performing management tasks on all libvirt managed domains, networks and storage. A part of the libvirt core distribution.
+* [Waydroid](https://waydro.id) - A container-based approach to boot a full Android system on a regular Linux distribution.
+
 ## <a name="conversion"></a>Conversion
 
 File format converters.
@@ -395,23 +420,11 @@ Programs for transferring files and data between different machines.
 
 Applications for supporting DevOps tasks, such as containers or cloud systems management.
 
-* [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
-* [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - An SSH Server that Launches Containers in Kubernetes and Docker on demand.
-* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
-* [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
 * [Devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
-* [distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal as docker or podman containers.
-* [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
-* [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
-* [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for Docker.
-* [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers, services and images.
-* [dry](https://github.com/moncho/dry) - A Docker manager for the terminal.
 * [k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
-* [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Super small and powerful framework for build CI pipeline, scripted with Makefile and isolated with docker.
 * [OPS](https://github.com/nanovms/ops) - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
 * [planor](https://github.com/mrusme/planor) - The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...).
-* [podman](https://podman.io/) - Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images.
 * [SAWS](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 
 ## <a name="diff"></a>Diff
@@ -1504,9 +1517,7 @@ System management tools, such as for brightness control, dotfile and environment
 * [killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 * [lshw](http://www.ezix.org/project/wiki/HardwareLiSter) - A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc.
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
-* [nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU.
 * [Ntfy](https://github.com/dschep/ntfy) - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
-* [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [rfsh](https://github.com/docsion/rfsh) - Run shell scripts in batch, concurrently, fully customized with variable.
 * [rs-env](https://github.com/sysid/rs-env) - Hierarchical environment variable management, compiling the resulting set of from a hierarchical list of `<name>.env` files.
 * [Rumos](https://github.com/octagony/rumos) - CLI utility for controlling screen brightness.
