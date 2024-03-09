@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1467**
+* Apps/tools: **1471**
 * Categories: **77**
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (37), [Prompts](#prompt) (4)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (26), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (27), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
 * [Utilities](#utility) (41)
 * [Versioning](#versioning) (9), [Video](#video) (11), [Viewers](#viewers) (26)
@@ -1403,7 +1403,7 @@ Shell programs that enable the interaction through the terminal.
 * [N-Commodore](https://github.com/psprint/n-commodore) - A novel file manager/shell/command-line, where everything is panelized, greppable and remembered.
 * [Nushell](https://github.com/nushell/nushell) - A modern shell written in Rust, where all data is structured.
 * [Oils](https://github.com/oilshell/oil) - From their README: "Oils is our upgrade path from bash to a better language and runtime!" 
-* [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+* [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh.
 * [PowerShell](https://microsoft.com/PowerShell) - An automation and configuration tool/framework optimized for dealing with structured data, REST APIs, and object models.
 * [Rash](https://rash-lang.org) - A shell language, library, and REPL for Racket.
 * [Reptyl](https://github.com/0ut0flin3/Reptyl) - A cross-platform command line shell that supports execution of commands in natural language.
@@ -1411,7 +1411,8 @@ Shell programs that enable the interaction through the terminal.
 * [Tcsh](https://www.tcsh.org) - C shell with file name completion and command line editing.
 * [Twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server.
 * [xonsh](https://xon.sh/) - The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
-* [Yash](https://magicant.github.io/yash) - Yash
+* [Yash](https://magicant.github.io/yash) - Yash (yet another shell) a POSIX-compliant command line shell written in C99.
+* [Yash](https://magicant.github.io/yash) - (yet another shell) a POSIX-compliant command line shell written in C99.
 * [Zsh](http://www.zsh.org/) - Alternative shell designed for interactive use.  
 
 ## <a name="music"></a>Sound and music
