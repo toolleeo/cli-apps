@@ -4,7 +4,7 @@ calc,Calculators,"Calculators for mathematical operations among numbers, dates, 
 chat,Chat and instant messaging,"Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Mattermost, Matrix, Slack, Telegram, Reddit"
 cheatsheet,Commands cheatsheet and snippets,"Tools to manage often used commands, code snippets, and alternative manual pages"
 conversion,Conversion,File format converters
-containerization-virtualization,Containerization and virtualization,Tools to manage virtual machines and/or containers and related utilities
+vm,Containerization and virtualization,Tools to manage virtual machines and/or containers and related utilities
 data-management,Data management,Tools to manage data files
 data-management-json,Data management - JSON/YAML/etc.,"Tools to manage data files, dedicated to JSON, YAML and other similar formats"
 data-management-tabular,Data management - Tabular data,"Tools to manage tabular data files, such as CSV, spreadsheets, and database tables"
