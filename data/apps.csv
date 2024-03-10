@@ -444,7 +444,7 @@ note-taking,eureka,,https://github.com/simeg/eureka,Store your ideas without lea
 todo-manager,taskell,,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
 todo-manager,taskbook,,https://github.com/klaudiosinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 science,papis,,https://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
-chat,TUIR,,https://gitlab.com/ajak/tuir,"Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and thems."
+chat,TUIR,,https://gitlab.com/ajak/tuir,"Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and themes."
 networking,xxh,,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.
 browser,browsh,https://www.brow.sh/,https://github.com/browsh-org/browsh,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."
 data-management-json,jless,https://pauljuliusmartinez.github.io/,https://github.com/PaulJuliusMartinez/jless,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data."

@@ -139,7 +139,7 @@ Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Matt
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI & TUI.
 * [toxic](https://github.com/Jfreegman/toxic) - A Tox-based instant messaging and video chat client.
 * [ttchat](https://github.com/atye/ttchat) - Twitch chats in the terminal.
-* [TUIR](https://gitlab.com/ajak/tuir) - Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and thems.
+* [TUIR](https://gitlab.com/ajak/tuir) - Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and themes.
 * [tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys.
 * [tweets](https://github.com/diracdeltas/tweets) - Decentralized alternative to twitter that uses git as support tool to manage the tweets.
 * [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
