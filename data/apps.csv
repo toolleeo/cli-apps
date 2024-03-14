@@ -1469,3 +1469,4 @@ vm,virsh,https://libvirt.org/index.html,https://gitlab.com/libvirt/libvirt,"An i
 prompt,synth-shell-prompt,,https://github.com/andresgongora/synth-shell-prompt,"A small eye-candy shell prompt with Git status displaying, a clock, intelligent $PWD shortening, and much more."
 prompt,Liquid Prompt,,https://github.com/liquidprompt/liquidprompt,"Carefully designed prompt with useful information to show changes when it changes, saving time and frustration, and to show meaninful information with minimal visual clutter."
 prompt,Pure,,https://github.com/sindresorhus/pure,"Pretty, minimal and fast ZSH prompt."
+prompt,Polyglot Prompt,,https://github.com/agkozak/polyglot,"A dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `oksh`, `dash`, `yash`, `busybox ash`, and `osh` that uses basic ASCII symbols (and color, when possible)."
