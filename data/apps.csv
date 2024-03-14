@@ -1467,3 +1467,4 @@ vm,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
 vm,Waydroid,https://waydro.id,https://github.com/waydroid/waydroid,A container-based approach to boot a full Android system on a regular Linux distribution.
 vm,virsh,https://libvirt.org/index.html,https://gitlab.com/libvirt/libvirt,"An interactive shell, and batch scriptable tool for performing management tasks on all libvirt managed domains, networks and storage. A part of the libvirt core distribution."
 prompt,synth-shell-prompt,,https://github.com/andresgongora/synth-shell-prompt,"A small eye-candy shell prompt with Git status displaying, a clock, intelligent $PWD shortening, and much more."
+prompt,Liquid Prompt,,https://github.com/liquidprompt/liquidprompt,"Carefully designed prompt with useful information to show changes when it changes, saving time and frustration, and to show meaninful information with minimal visual clutter."
