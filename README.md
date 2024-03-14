@@ -969,6 +969,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [mitmproxy](https://mitmproxy.org/) - An interactive HTTPS proxy.
 * [mosh](https://mosh.org/) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * [mtr](https://github.com/traviscross/mtr) - mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+* [netscanner](https://github.com/Chleba/netscanner) - TUI All-in-one Network scanner
 * [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics with a Terminal UI.
 * [oha](https://github.com/hatoo/oha) - oha is a tiny program that sends some load to a web application and show realtime tui.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
