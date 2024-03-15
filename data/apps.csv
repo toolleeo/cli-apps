@@ -190,7 +190,7 @@ chat,RainbowStream,http://www.rainbowstream.org/,,Twitter client for the termina
 chat,WeeChat,http://weechat.org/,https://github.com/weechat/weechat,"WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins."
 chat,ssh-chat,,https://github.com/shazow/ssh-chat,"Custom SSH server written in Go. Instead of a shell, you get a chat prompt."
 organizers,goobook,,https://gitlab.com/goobook/goobook,The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
-utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.com/sunaku/dasht,"Search API docs offline, in your terminal or browser."
+programming,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.com/sunaku/dasht,"Search in 200+ offline documentation sets API docs offline, in your terminal or browser."
 online,arch-wiki,,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
 online,googler,,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
 text-processing,lolcat,,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
