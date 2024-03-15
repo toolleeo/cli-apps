@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1467**
+* Apps/tools: **1475**
 * Categories: **77**
 
 # Index
@@ -24,11 +24,11 @@ Some links are available to [related resources](#resources).
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (62), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (37), [Prompts](#prompt) (4)
+* [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (38), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (26), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (25), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
-* [Utilities](#utility) (41)
+* [Utilities](#utility) (40)
 * [Versioning](#versioning) (9), [Video](#video) (11), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
@@ -1235,6 +1235,7 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 * [cloc](https://github.com/AlDanial/cloc) - Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.
 * [CodeMark CLI](https://github.com/rootCircle/codemark-cli) - Helps you manage coding assignments and tests; easily initialize the configuration, list assignments, fetch and check your code, submit your code for grading, and get AI-powered error recommendations.
 * [Cppcheck](http://cppcheck.net/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
+* [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search in 200+ offline documentation sets API docs offline, in your terminal or browser.
 * [DEM](https://www.axemsolutions.io/dem_doc/index.html) - Containerized Development Environment Manager for embedded development.
 * [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
 * [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
@@ -1270,8 +1271,17 @@ Tools for developers, including debuggers, testing, line counters, boilerplate a
 Prompts and welcome messages at the command line.
 
 * [Basta!](https://www.kylheku.com/cgit/basta/about/) - A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
+* [geometry](https://github.com/geometry-zsh/geometry) - A minimalistic, fully customizable Zsh prompt theme with support for asynchronous functions.
+* [Liquid Prompt](https://github.com/liquidprompt/liquidprompt) - Carefully designed prompt with useful information to show changes when it changes, saving time and frustration, and to show meaninful information with minimal visual clutter.
+* [Oh My Posh](https://ohmyposh.dev) - From their README: "The most customisable and low-latency cross platform/shell prompt renderer" 
+* [Polus](https://github.com/rashed145/polus-bash-theme) - A fast, lightweight and modern Bash prompt theme written in 100 lines of Bash code.
+* [Polyglot Prompt](https://github.com/agkozak/polyglot) - A dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `oksh`, `dash`, `yash`, `busybox ash`, and `osh` that uses basic ASCII symbols (and color, when possible).
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+* [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
+* [Spaceship](https://spaceship-prompt.sh/) - Minimalistic, powerful and extremely customizable Zsh prompt.
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
+* [synth-shell-prompt](https://github.com/andresgongora/synth-shell-prompt) - A small eye-candy shell prompt with Git status displaying, a clock, intelligent $PWD shortening, and much more.
 * [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
 
 ## <a name="rss"></a>RSS
@@ -1407,7 +1417,6 @@ Shell programs that enable the interaction through the terminal.
 * [PowerShell](https://microsoft.com/PowerShell) - An automation and configuration tool/framework optimized for dealing with structured data, REST APIs, and object models.
 * [Rash](https://rash-lang.org) - A shell language, library, and REPL for Racket.
 * [Reptyl](https://github.com/0ut0flin3/Reptyl) - A cross-platform command line shell that supports execution of commands in natural language.
-* [Spaceship](https://spaceship-prompt.sh/) - Minimalistic, powerful and extremely customizable Zsh prompt.
 * [Tcsh](https://www.tcsh.org) - C shell with file name completion and command line editing.
 * [Twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server.
 * [xonsh](https://xon.sh/) - The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
@@ -1717,7 +1726,6 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
 * [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
-* [dasht](http://sunaku.github.io/dasht/man/man0/README.html) - Search API docs offline, in your terminal or browser.
 * [envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
 * [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 * [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf.
