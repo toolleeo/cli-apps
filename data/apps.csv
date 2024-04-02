@@ -190,7 +190,7 @@ chat,RainbowStream,http://www.rainbowstream.org/,,Twitter client for the termina
 chat,WeeChat,http://weechat.org/,https://github.com/weechat/weechat,"WeeChat is a fast, light and extensible chat client, with a text-based user interface, designed to be light and extensible: a lightweight core with optional plugins."
 chat,ssh-chat,,https://github.com/shazow/ssh-chat,"Custom SSH server written in Go. Instead of a shell, you get a chat prompt."
 organizers,goobook,,https://gitlab.com/goobook/goobook,The purpose of GooBook is to make it possible to use your Google Contacts from the command-line and from MUAs such as Mutt.  It can be used from Mutt the same way as abook.
-utility,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.com/sunaku/dasht,"Search API docs offline, in your terminal or browser."
+programming,dasht,http://sunaku.github.io/dasht/man/man0/README.html,https://github.com/sunaku/dasht,"Search in 200+ offline documentation sets API docs offline, in your terminal or browser."
 online,arch-wiki,,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.  
 online,googler,,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal."
 text-processing,lolcat,,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.
@@ -379,7 +379,6 @@ cd,pazi,,https://github.com/euank/pazi,Fast autojump helper.
 file-manager,hunter,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.
 monitor-top,ytop,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.
 monitor,noti,,https://github.com/variadico/noti,Monitor a process and trigger a notification.
-devops,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
 find,friendly-find,,https://github.com/sjl/friendly-find,Usable replacement for find.
 option-picker,fzy,,https://github.com/jhawthorn/fzy,Better fuzzy finder.
 graphics,GraphicsMagick,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick,Swiss army knife of image processing.
@@ -445,7 +444,7 @@ note-taking,eureka,,https://github.com/simeg/eureka,Store your ideas without lea
 todo-manager,taskell,,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.
 todo-manager,taskbook,,https://github.com/klaudiosinani/taskbook,"Tasks, boards & notes for the command-line habitat."
 science,papis,,https://github.com/alejandrogallo/papis,Extensible document and bibliography manager.
-chat,tuir,,https://gitlab.com/ajak/tuir,Reddit TUI.
+chat,TUIR,,https://gitlab.com/ajak/tuir,"Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and themes."
 networking,xxh,,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.
 browser,browsh,https://www.brow.sh/,https://github.com/browsh-org/browsh,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs."
 data-management-json,jless,https://pauljuliusmartinez.github.io/,https://github.com/PaulJuliusMartinez/jless,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data."
@@ -574,7 +573,7 @@ financial,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spend
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
 rm,Brash,,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
 torrent,torrentCLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
-shells,Spaceship,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt."
+prompt,Spaceship,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt."
 programming,cloc,,https://github.com/AlDanial/cloc,"Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages."
 programming,Tokei,,https://github.com/XAMPPRocky/tokei,"Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language."
 programming,scc,,https://github.com/boyter/scc,"Sloc Cloc and Code (scc) is a codebase statistics counter. Goal is to be the fastest code counter possible, but also perform COCOMO calculation like sloccount and to estimate code complexity similar to cyclomatic complexity calculators. In short one tool to rule them all."
@@ -582,7 +581,6 @@ programming,Cppcheck,http://cppcheck.net/,https://github.com/danmar/cppcheck,Sta
 programming,Frama-C,https://frama-c.com/,https://git.frama-c.com/pub/frama-c,Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
 games,terdle,,https://github.com/neelkarma/terdle,Wordle implemented in Rust.
 music,MusicPlayerPlus,,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more."
-devops,ContainerSSH,,https://github.com/ContainerSSH/ContainerSSH,An SSH Server that Launches Containers in Kubernetes and Docker on demand.
 funny,Limoji,,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.
 games,Minesweeper Game,,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.
 editors,Tilde,https://os.ghalkes.nl/tilde/,https://github.com/gphalkes/tilde,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc."
@@ -993,7 +991,6 @@ copilot,aish,,https://github.com/chr15m/aish,"A program that retrieve shell scri
 git,Lazygit,,https://github.com/jesseduffield/lazygit,A simple terminal UI for git commands that simplify the execution of many operations making them interactive.
 games,guess-word-cli,,https://github.com/akgondber/guess-word-cli,Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
 cd,slingshot,,https://github.com/caio-ishikawa/slingshot,Lightweight command line tool to quickly navigate across folders.
-devops,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for docker environments.
 copilot,Llama Terminal Completion,,https://github.com/adammpkins/llama-terminal-completion,"Application that interacts with the llama.cpp library to provide virtual assistant capabilities through the command line. It allows you to ask questions and receive intelligent responses, as well as generate Linux commands based on your prompts."
 graphics,img2ascii,,https://github.com/JosefVesely/Image-to-ASCII,Convert images to ASCII art.
 writing,write good,,https://github.com/btford/write-good,Naive linter for English prose.
@@ -1089,9 +1086,6 @@ launcher,shell2http,,https://github.com/msoap/shell2http,Executing shell command
 devops,OPS,,https://github.com/nanovms/ops,"Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance."
 devops,SAWS,,https://github.com/donnemartin/saws,A supercharged AWS command line interface (CLI).
 devops,k9s,,https://github.com/derailed/k9s,Kubernetes CLI To Manage Your Clusters In Style!
-devops,Dockly,,https://github.com/lirantal/dockly,"Immersive terminal interface for managing docker containers, services and images."
-devops,lazydocker,,https://github.com/jesseduffield/lazydocker,"The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library."
-devops,docker-shell,,https://github.com/Trendyol/docker-shell,A simple interactive prompt for Docker.
 programming,np,,https://github.com/sindresorhus/np,A better `npm publish`.
 programming,semantic-release,,https://github.com/semantic-release/semantic-release,"Automates the whole node.js package release workflow including: determining the next version number, generating the release notes, and publishing the package."
 ai,clevercli,,https://github.com/clevercli/clevercli,ChatGPT powered CLI utilities. Easily add new prompt types.
@@ -1249,8 +1243,6 @@ networking,wuzz,,https://github.com/asciimoo/wuzz,Interactive cli tool for HTTP 
 security,vet,,https://github.com/safedep/vet,Tool for identifying risks in open source software supply chain.
 graphics,Diagon,,https://github.com/ArthurSonzogni/Diagon,"Diagon is an interactive interpreter, that transforms markdown-style expression into an ascii-art representation."
 graphics,colout,,https://github.com/nojhan/colout,colout read lines of text stream on the standard input and output characters matching a given regular expression pattern in given color and style.
-devops,ctop,,https://github.com/bcicen/ctop,Top-like interface for container metrics.
-devops,distrobox,,https://github.com/89luca89/distrobox,Use any Linux distribution inside your terminal as docker or podman containers.
 monitor-top,gputop,,https://github.com/wookayin/gpustat,A simple command-line utility for querying and monitoring GPU status.
 monitor-top,amdgpu-top,,https://github.com/Umio-Yasuno/amdgpu_top,"A tool that display AMD GPU utilization and information, gathered from performance counters (GRBM, GRBM2), sensors, fdinfo, and AMDGPU driver."
 monitor-top,nvtop,,https://github.com/Syllo/nvtop,"A top like task monitor for AMD, Intel and NVIDIA GPUs, that can handle multiple GPUs and print information about them in a htop-familiar way."
@@ -1356,8 +1348,6 @@ viewers,brows,,https://github.com/rubysolo/brows,CLI GitHub release browser.
 programming,cgdb,,https://github.com/cgdb/cgdb,Console front-end to the GNU debugger.
 data-management-tabular,daff,,https://github.com/paulfitz/daff,"Efficient table comparison and alignment, supporting formats like CSV and SQLite, useful for data analysis and synchronization tasks."
 chat,devzat,,https://github.com/quackduck/devzat,Custom SSH server that takes you to a chat instead of a shell prompt.
-devops,dive,,https://github.com/wagoodman/dive,A tool for exploring each layer in a docker image.
-devops,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
 networking,dug,,https://github.com/unfrl/dug,A global DNS propagation checker that gives pretty output.
 git,dunk,,https://github.com/darrenburns/dunk,Prettier git diffs in the terminal.
 package-manager,eget,,https://github.com/zyedidia/eget,Easily install prebuilt binaries from GitHub.
@@ -1378,7 +1368,6 @@ online,jira-cli,,https://github.com/ankitpokhrel/jira-cli,Feature-rich interacti
 file-explorer,kupo,,https://github.com/darrenburns/kupo,"A terminal file browser, kupo!"
 text-processing,logshark,,https://github.com/ugosan/logshark,Logshark is a debugger CLI for JSON logs written in Go.
 email,meli,,https://github.com/meli/meli,Terminal mail client.
-system,nemu,,https://github.com/nemuTUI/nemu,Ncurses UI for QEMU.
 networking,liboping,,https://github.com/octo/liboping,Protocol independent ANSI-C ping library and command line utility.
 file-handling,ouch,,https://github.com/ouch-org/ouch,Painless compression and decompression in the terminal.
 editors,ox,,https://github.com/curlpipe/ox,An independent Rust text editor.
@@ -1420,32 +1409,79 @@ calc,maxima,,https://maxima.sourceforge.io/,"Maxima is a manipulation system for
 calc,genius,,https://github.com/GNOME/genius,Genius calculator is a general purpose calculator and mathematics tool with many features.
 calc,AngouriMathCLI,,https://github.com/asc-community/AngouriMathCLI,CLI calculator based on AngouriMath.
 devops,mkdkr,,https://github.com/rosineygp/mkdkr,"Super small and powerful framework for build CI pipeline, scripted with Makefile and isolated with docker."
-networking,Kapow!,,https://github.com/BBVA/kapow,"Say we have a nice cozy shell command that solves our problem. Kapow! lets us easily turn that into an HTTP API."
-devops,bocker,,https://github.com/p8952/bocker,Docker implemented in around 100 lines of bash.
-devops,podman,https://podman.io/,https://github.com/containers/podman,"Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images."
-system,quickemu,,https://github.com/quickemu-project/quickemu,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines."
+networking,Kapow!,,https://github.com/BBVA/kapow,Say we have a nice cozy shell command that solves our problem. Kapow! lets us easily turn that into an HTTP API.
 shells,es,https://wryun.github.io/es-shell/,https://wryun.github.io/es-shell/,"(extensible shell) shell with first class functions, lexical scope, exceptions, and rich return values, based on Plan9's rc."
-shells,ksh93,,https://github.com/ksh93/ksh,"(KornShell) a shell programming language that is compatible with the Bourne Shell in addition and has the major command-entry features of the BSD shell csh."
+shells,ksh93,,https://github.com/ksh93/ksh,(KornShell) a shell programming language that is compatible with the Bourne Shell in addition and has the major command-entry features of the BSD shell csh.
 shells,Tcsh,https://www.tcsh.org,https://github.com/tcsh-org/tcsh,C shell with file name completion and command line editing.
-shells,Yash,https://magicant.github.io/yash,https://github.com/magicant/yash,Yash,(yet another shell) a POSIX-compliant command line shell written in C99.
+shells,Yash,https://magicant.github.io/yash,https://github.com/magicant/yash,Yash (yet another shell) a POSIX-compliant command line shell written in C99.
 shells,Oils,https://github.com/oilshell/oil,https://www.oilshell.org/,"From their README: ""Oils is our upgrade path from bash to a better language and runtime!"" "
 shells,mksh,http://www.mirbsd.org/mksh.htm,https://github.com/MirBSD/mksh,(MirBSD Korn Shell) an actively developed free implementation of the Korn Shell programming language and a successor to the Public Domain Korn Shell (pdksh).
 shells,murex,https://murex.rocks,https://github.com/lmorg/murex,"An intuitive, typed and content aware shell for the 2020s and beyond."
 shells,dune,,https://github.com/adam-mcdaniel/dune,A customizable shell that aims to be cozy.
 shells,PowerShell,https://microsoft.com/PowerShell,https://github.com/PowerShell/PowerShell,"An automation and configuration tool/framework optimized for dealing with structured data, REST APIs, and object models."
-shells,oksh,,https://github.com/ibara/oksh,Portable OpenBSD ksh
+shells,oksh,,https://github.com/ibara/oksh,Portable OpenBSD ksh.
 shells,Rash,https://rash-lang.org,https://github.com/willghatch/racket-rash,"A shell language, library, and REPL for Racket."
 shells,arsh,,https://github.com/sekiguchi-nagisa/arsh,A statically typed scripting language with shell-like features.
-terminal,abduco,https://www.brain-dump.org/projects/abduco,https://github.com/martanne/abduco/,"abduco provides session management i.e. it allows programs to be run independently from their controlling terminal."
+terminal,abduco,https://www.brain-dump.org/projects/abduco,https://github.com/martanne/abduco/,abduco provides session management i.e. it allows programs to be run independently from their controlling terminal.
 terminal,dvtm,https://www.brain-dump.org/projects/dvtm,https://github.com/martanne/dvtm/,Dynamic console window manager that enables dynamic tiling window management for multiple terminal applications.
 terminal,alacritty,https://alacritty.org,https://github.com/alacritty/alacritty,"A GPU-Accelerated terminal emulator that comes with sensible defaults, but allows for extensive configuration."
 terminal,kitty,https://sw.kovidgoyal.net/kitty/,https://github.com/kovidgoyal/kitty,"A fast, feature-rich, GPU based terminal emulator."
-terminal,extraterm,https://extraterm.org/,https://github.com/sedwards2009/extraterm,"The swiss army chainsaw of terminal emulators."
+terminal,extraterm,https://extraterm.org/,https://github.com/sedwards2009/extraterm,The swiss army chainsaw of terminal emulators.
 terminal,st,https://st.suckless.org/,https://git.suckless.org/st/,A simple terminal implementation for X.
 terminal,wterm,,https://github.com/TornadoCookie/wterm,A native Wayland terminal emulator based on an st fork using wld.
 terminal,mlterm,https://mlterm.sourceforge.net/,https://github.com/arakiken/mlterm,"A very fast low latency terminal emulator with features such as rendering variable width fonts, proper bidirectional support out of the box, a daemon mode, multiple XIM, and true background transparency."
+git,mkgit,,https://github.com/cosmicwanderer7/mkgit,"This Bash script automates the process of creating a new GitHub repository, initializing it with a README file, and pushing the initial commit to the remote repository. The script prompts the user for a repository name and utilizes the GitHub API to create a new public repository."
+networking,icy_term,,https://github.com/mkrueger/icy_term,Old school ANSI/AVT terminal program for modern systems for connecting to BBS systems.
+text-processing,toolong,,https://github.com/Textualize/toolong,"A terminal application to view, tail, merge, and search log files (plus JSONL)."
+torrent,toru,,https://github.com/sweetbbak/toru,Bittorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
+option-picker,fuzzysh,,https://github.com/yazgoo/fuzzysh,"Minimalist selector in shell, inspired by fzf."
+networking,TReq,,https://github.com/talis-fb/TReq,A CLI tool for effortless HTTP requests.
+git,gacp,,https://github.com/anhsirk0/gacp,"git add, commit and push in one go."
+science,periodic-table-cli-py,,https://github.com/spirometaxas/periodic-table-cli-py,An interactive Periodic Table of Elements app for the console.
+ai,gemini-cli,,https://github.com/reugn/gemini-cli,A command-line interface (CLI) for Google Gemini.
+typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli,Command line game to practice your typing speed.
+note-taking,tdo,,https://github.com/2KAbhishek/tdo,Fast & Simple Note Taking!
+utility,glyphs,,https://github.com/maaslalani/glyphs,Unicode symbols on the command line.
+file-dir-cleanup,smash,,https://github.com/thushan/smash,Smash through to find duplicate files super fast by slicing files intelligently.
+cd,zm,,https://github.com/benrutter/zm,Improved cd.
+games,rebels-in-the-sky,,https://github.com/ricott1/rebels-in-the-sky,P2P terminal game about spacepirates playing basketball across the galaxy.
+vm,docker,https://docs.docker.com/,https://github.com/docker/docs,Self-sufficient runtime for containers.
+vm,distrobox,,https://github.com/89luca89/distrobox,Use any Linux distribution inside your terminal as docker or podman containers.
+vm,bocker,,https://github.com/p8952/bocker,Docker implemented in around 100 lines of bash.
+vm,podman,https://podman.io/,https://github.com/containers/podman,"Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using OCI Containers and Container Images."
+vm,ContainerSSH,,https://github.com/ContainerSSH/ContainerSSH,An SSH Server that Launches Containers in Kubernetes and Docker on demand.
+vm,ctop,,https://github.com/bcicen/ctop,Top-like interface for container metrics.
+vm,Dockly,,https://github.com/lirantal/dockly,"Immersive terminal interface for managing docker containers, services and images."
+vm,lazydocker,,https://github.com/jesseduffield/lazydocker,"The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library."
+vm,docker-shell,,https://github.com/Trendyol/docker-shell,A simple interactive prompt for Docker.
+vm,dive,,https://github.com/wagoodman/dive,A tool for exploring each layer in a docker image.
+vm,quickemu,,https://github.com/quickemu-project/quickemu,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines."
+vm,toolbox,https://containertoolbx.org,https://github.com/containers/toolbox,Use conteinerized environments where development tools and libraries can be easily installed and used.
+vm,nemu,,https://github.com/nemuTUI/nemu,Ncurses UI for QEMU.
+vm,QEMU,https://qemu.org,https://gitlab.com/qemu-project/qemu,A generic machine & userspace emulator and virtualizer.
+vm,lxc,https://linuxcontainers.org/lxc,https://github.com/lxc/lxc,A userspace interface for the Linux kernel containment features.
+vm,Incus,https://linuxcontainers.org/lxc,https://github.com/lxc/incus,A manager/hypervisor for containers (via LXC) and virtual-machines (via QEMU).
+vm,decompose,,https://github.com/s0rg/decompose,Reverse-engineering tool for docker environments.
+vm,dry,,https://github.com/moncho/dry,A Docker manager for the terminal.
+vm,Waydroid,https://waydro.id,https://github.com/waydroid/waydroid,A container-based approach to boot a full Android system on a regular Linux distribution.
+vm,virsh,https://libvirt.org/index.html,https://gitlab.com/libvirt/libvirt,"An interactive shell, and batch scriptable tool for performing management tasks on all libvirt managed domains, networks and storage. A part of the libvirt core distribution."
+prompt,synth-shell-prompt,,https://github.com/andresgongora/synth-shell-prompt,"A small eye-candy shell prompt with Git status displaying, a clock, intelligent $PWD shortening, and much more."
+prompt,Liquid Prompt,,https://github.com/liquidprompt/liquidprompt,"Carefully designed prompt with useful information to show changes when it changes, saving time and frustration, and to show meaninful information with minimal visual clutter."
+prompt,Pure,,https://github.com/sindresorhus/pure,"Pretty, minimal and fast ZSH prompt."
+prompt,Polyglot Prompt,,https://github.com/agkozak/polyglot,"A dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `oksh`, `dash`, `yash`, `busybox ash`, and `osh` that uses basic ASCII symbols (and color, when possible)."
+prompt,Powerlevel10k,,https://github.com/romkatv/powerlevel10k,"A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience."
+prompt,geometry,,https://github.com/geometry-zsh/geometry,"A minimalistic, fully customizable Zsh prompt theme with support for asynchronous functions."
+prompt,Polus,,https://github.com/rashed145/polus-bash-theme,"A fast, lightweight and modern Bash prompt theme written in 100 lines of Bash code."
+prompt,Oh My Posh,https://ohmyposh.dev,https://github.com/jandedobbeleer/oh-my-posh,"From their README: ""The most customisable and low-latency cross platform/shell prompt renderer"" "
+conversion,scss-to-css,https://github.com/adamlui/js-utils/tree/main/scss-to-css#readme,https://github.com/adamlui/js-utils,"Recursively compile all SCSS files into minified CSS."
 rm,extundelete,https://extundelete.sourceforge.net/,https://sourceforge.net/p/extundelete/code/ci/master/tree/,Recover deleted files from an ext3 or ext4 partition through its journal.
+
 rm,undelete-btrfs,,https://github.com/danthem/undelete-btrfs,"Automate the generation of path regex for BTRFS restore and attempt the restore for you in 3 levels. The longer a file has existed prior to being deleted, the more likely it is to be recovered."
+
 rm,testdisk,https://www.cgsecurity.org/wiki/TestDisk,https://git.cgsecurity.org/cgit/testdisk/tree/,"Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions."
+
 rm,del,https://fex.belwue.de/fstools/del.html,,Save deleted files to a .del/ subdirectory in the same directory.
+
 rm,trasher,,https://github.com/clementnerma/trasher,Delete files to a trash directory instead of deleting them immediatly. Uses its own trash instead of the XDG one.
+
+
