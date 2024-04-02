@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1476**
+* Apps/tools: **1477**
 * Categories: **77**
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (62), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (16), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (38), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (17), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (38), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (25), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
@@ -1123,6 +1123,7 @@ Package managers to manage/install/uninstall software packages, as source code o
 * [hysp](https://github.com/pwnwriter/hysp) - An independent package manager that every hacker deserves.
 * [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
+* [pmt](https://github.com/olexij-christian/pmt) - Translator of package names between different package managers of Linux distributions
 * [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
 * [Shell Bling Ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
 * [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
