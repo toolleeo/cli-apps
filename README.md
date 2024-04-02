@@ -1129,7 +1129,7 @@ Package managers to manage/install/uninstall software packages, as source code o
 * [hysp](https://github.com/pwnwriter/hysp) - An independent package manager that every hacker deserves.
 * [JAPM](https://github.com/TheAlexDev23/japm) - A package manager that uses curses to provide a friendly UI
 * [nala](https://gitlab.com/volian/nala) - apt package manager front-end with cleaner interface.
-* [pmt](https://github.com/olexij-christian/pmt) - Translator of package names between different package managers of Linux distributions
+* [pmt](https://github.com/olexij-christian/pmt) - Translator of package names between different package managers of Linux distributions.
 * [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
 * [Shell Bling Ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
 * [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
@@ -1281,7 +1281,7 @@ Prompts and welcome messages at the command line.
 * [Basta!](https://www.kylheku.com/cgit/basta/about/) - A small amount of GNU Bash code that maintains a scroll-protected status line at the bottom of the terminal.
 * [geometry](https://github.com/geometry-zsh/geometry) - A minimalistic, fully customizable Zsh prompt theme with support for asynchronous functions.
 * [Liquid Prompt](https://github.com/liquidprompt/liquidprompt) - Carefully designed prompt with useful information to show changes when it changes, saving time and frustration, and to show meaninful information with minimal visual clutter.
-* [Oh My Posh](https://ohmyposh.dev) - From their README: "The most customisable and low-latency cross platform/shell prompt renderer" 
+* [Oh My Posh](https://ohmyposh.dev) - From their README: "The most customisable and low-latency cross platform/shell prompt renderer".
 * [Polus](https://github.com/rashed145/polus-bash-theme) - A fast, lightweight and modern Bash prompt theme written in 100 lines of Bash code.
 * [Polyglot Prompt](https://github.com/agkozak/polyglot) - A dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `oksh`, `dash`, `yash`, `busybox ash`, and `osh` that uses basic ASCII symbols (and color, when possible).
 * [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
