@@ -8,14 +8,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1477**
+* Apps/tools: **1478**
 * Categories: **77**
 
 # Index
 
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
+* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (15)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (6), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
@@ -261,6 +261,7 @@ File format converters.
 * [hecat](https://gitlab.com/nodiscc/hecat) - A generic automation tool around data stored as plaintext YAML files.
 * [hget](https://github.com/bevacqua/hget) - A CLI to convert HTML into plain text. Can be used to fetch a site's HTML version and convert it into plain text, or to deliver plain text versions of your site dynamically.
 * [jsonify-resume](https://github.com/ashishbinu/jsonify-resume) - A cli that converts resumes into JSON Resume schema.
+* [minify.js](https://js-utils.com/minify.js) - Recursively minify all JavaScript files.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, docx, odt, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
 * [scss-to-css](https://github.com/adamlui/js-utils/tree/main/scss-to-css#readme) - Recursively compile all SCSS files into minified CSS.
