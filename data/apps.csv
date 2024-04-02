@@ -1475,3 +1475,4 @@ prompt,geometry,,https://github.com/geometry-zsh/geometry,"A minimalistic, fully
 prompt,Polus,,https://github.com/rashed145/polus-bash-theme,"A fast, lightweight and modern Bash prompt theme written in 100 lines of Bash code."
 prompt,Oh My Posh,https://ohmyposh.dev,https://github.com/jandedobbeleer/oh-my-posh,"From their README: ""The most customisable and low-latency cross platform/shell prompt renderer"" "
 conversion,scss-to-css,https://github.com/adamlui/js-utils/tree/main/scss-to-css#readme,https://github.com/adamlui/js-utils,"Recursively compile all SCSS files into minified CSS."
+package-manager,pmt,,https://github.com/olexij-christian/pmt,"Translator of package names between different package managers of Linux distributions"
