@@ -347,6 +347,7 @@ Tools to manage tabular data files, such as CSV, spreadsheets, and database tabl
 
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
 * [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
+* [csvlens](https://github.com/YS-L/csvlens) - Command line CSV file viewer; like `less` but made for CSV.
 * [csvtk](https://bioinf.shenwei.me/csvtk/) - A cross-platform, efficient and practical CSV/TSV toolkit written in Go.
 * [daff](https://github.com/paulfitz/daff) - Efficient table comparison and alignment, supporting formats like CSV and SQLite, useful for data analysis and synchronization tasks.
 * [Dolt](https://github.com/dolthub/dolt) - Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
