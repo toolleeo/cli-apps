@@ -571,7 +571,7 @@ video,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which 
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 financial,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
-rm,Brash,,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
+rm,Brash,,https://github.com/zakariagatter/brash,Move and restore items from the XDG trash. Written in pure Bash.
 torrent,torrentCLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
 prompt,Spaceship,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt."
 programming,cloc,,https://github.com/AlDanial/cloc,"Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages."
