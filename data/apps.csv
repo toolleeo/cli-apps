@@ -422,7 +422,7 @@ file-watch,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time ma
 calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management-tabular,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
-rm,rip,,https://github.com/nivekuil/rip,Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)
+rm,rip,,https://github.com/nivekuil/rip,"Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)"
 text-search,vgrep,,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
 webdev,urlhunter,,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
 webdev,lychee,,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust."
