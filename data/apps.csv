@@ -422,7 +422,7 @@ file-watch,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time ma
 calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management-tabular,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
-rm,rip,,https://github.com/nivekuil/rip,Safe and ergonomic alternative to rm.
+rm,rip,,https://github.com/nivekuil/rip,Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)
 text-search,vgrep,,https://github.com/vrothberg/vgrep,User-friendly pager for grep.
 webdev,urlhunter,,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.
 webdev,lychee,,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust."
@@ -490,9 +490,9 @@ typing,toipe,,https://github.com/Samyak2/toipe,"Yet another typing test, but cra
 networking,bore,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.
 editors,zee,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental."
 file-watch,watcher,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
-rm,RecoverPy,,https://github.com/PabloLec/RecoverPy,"RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data."
+rm,RecoverPy,,https://github.com/PabloLec/RecoverPy,"Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files."
 file-handling,file-type-cli,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
-rm,trash-cli,,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash.
+rm,trash-cli,,https://github.com/sindresorhus/trash-cli,"Move files and folders to the trash on Linux (XDG trash), macOS (`macos-trash` library) and Windows (`recycle-bin` library)."
 text-processing,Ultimate Plumber,,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop."
 system,fkill-cli,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.
 system,has,,https://github.com/kdabir/has,Checks presence of various command line tools on the PATH and reports their installed version.
@@ -571,7 +571,7 @@ video,invidtui,,https://github.com/darkhz/invidtui,"Invidious TUI client, which 
 networking,redive,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.
 financial,Cloudcash,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!"
 networking,bluetuith,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman."
-rm,Brash,,https://github.com/zakariagatter/brash,CLI Trash Manager in Pure Bash.
+rm,Brash,,https://github.com/zakariagatter/brash,Move and restore items from the XDG trash. Written in pure Bash.
 torrent,torrentCLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.
 prompt,Spaceship,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt."
 programming,cloc,,https://github.com/AlDanial/cloc,"Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages."
@@ -1207,7 +1207,7 @@ science,BibMan,https://ductri.github.io/note/2023/09/27/bibman.html,https://gith
 music,radio-beats,,https://github.com/quangnguyen30192/radio-beats,Rofi-like menu for playing radio stations.
 graphics,haylxon,,https://github.com/pwnwriter/haylxon,Blazing-fast tool to grab screenshots of your domain list right from terminal.
 programming,DEM,https://www.axemsolutions.io/dem_doc/index.html,https://github.com/axem-solutions/dem,Containerized Development Environment Manager for embedded development.
-rm,rm-trash,,https://github.com/nateshmbhat/rm-trash,"A ""rm-trash"" is meant to be used in place of rm system command in linux . This script will safely delete your files and put them in the trash for later retrieval."
+rm,rm-trash,,https://github.com/nateshmbhat/rm-trash,"Meant to be used in place of `rm` in Linux, supporting all its arguments. It can move and restore the files from the XDG trash."
 shells,Nushell,,https://github.com/nushell/nushell,"A modern shell written in Rust, where all data is structured."
 shells,Elvish,,https://github.com/elves/elvish,"Elvish is a versatile interactive shell and expressive programming language, combined into one seamless package."
 shells,Ion,,https://github.com/redox-os/ion,"Ion is a modern system shell that features a simple, yet powerful, syntax."
@@ -1294,7 +1294,7 @@ system,bashmount,,https://github.com/jamielinux/bashmount,Tool to mount and unmo
 music,discodos,,https://github.com/JOJ0/discodos,A CLI tool for DJ's and record collectors based on the discogs.com collection feature that allows to analyze and organize DJ sets.
 pastebin,paste69,,https://github.com/watzon/paste69,Simple CURL-able pastebin.
 file-handling,gcstree,,https://github.com/owlinux1000/gcstree,Tree command for GCS (Google Cloud Storage).
-rm,gtrash,,https://github.com/umlx5h/gtrash,Modern Trash CLI manager for Linux system trash written in Go.
+rm,gtrash,,https://github.com/umlx5h/gtrash,TUI for moving and restoring items from the XDG trash. Fully compliant with the FreeDesktop.org specification.
 rss,TermFeed,,https://github.com/iamaziz/TermFeed,A simple terminal feed reader.
 office,qpdf,,https://github.com/qpdf/qpdf,"QPDF: A content-preserving PDF document transformer that allows to perform several types of operations on PDF files, such as splitting, merging, etc."
 option-picker,cmenu,,https://github.com/10xJSChad/cmenu,"Vaguely dmenu-like minimal TUI menu utility, it reads entries from stdin, creates a selection menu, and writes the selected entry to stdout."
