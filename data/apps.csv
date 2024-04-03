@@ -492,7 +492,7 @@ editors,zee,,https://github.com/zee-editor/zee,"Zee is a modern editor for the t
 file-watch,watcher,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
 rm,RecoverPy,,https://github.com/PabloLec/RecoverPy,"Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files."
 file-handling,file-type-cli,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
-rm,trash-cli,,https://github.com/sindresorhus/trash-cli,Move files and folders to the trash on Linux (XDG trash), macOS (`macos-trash` library) and Windows (`recycle-bin` library).
+rm,trash-cli,,https://github.com/sindresorhus/trash-cli,"Move files and folders to the trash on Linux (XDG trash), macOS (`macos-trash` library) and Windows (`recycle-bin` library)."
 text-processing,Ultimate Plumber,,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop."
 system,fkill-cli,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.
 system,has,,https://github.com/kdabir/has,Checks presence of various command line tools on the PATH and reports their installed version.
