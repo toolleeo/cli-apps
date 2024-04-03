@@ -1482,3 +1482,4 @@ rm,undelete-btrfs,,https://github.com/danthem/undelete-btrfs,"Automate the gener
 rm,testdisk,https://www.cgsecurity.org/wiki/TestDisk,https://git.cgsecurity.org/cgit/testdisk/tree/,"Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions."
 rm,del,https://fex.belwue.de/fstools/del.html,,Save deleted files to a .del/ subdirectory in the same directory.
 rm,trasher,,https://github.com/clementnerma/trasher,Delete files to a trash directory instead of deleting them immediatly. Uses its own trash instead of the XDG one.
+networking,generate-ip,https://js-utils.com/generate-ip,https://github.com/adamlui/js-utils,Randomly generate, format, and validate IPv4/IPv6 addresses.
