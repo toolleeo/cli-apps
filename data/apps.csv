@@ -1482,3 +1482,5 @@ rm,undelete-btrfs,,https://github.com/danthem/undelete-btrfs,"Automate the gener
 rm,testdisk,https://www.cgsecurity.org/wiki/TestDisk,https://git.cgsecurity.org/cgit/testdisk/tree/,"Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions."
 rm,del,https://fex.belwue.de/fstools/del.html,,Save deleted files to a .del/ subdirectory in the same directory.
 rm,trasher,,https://github.com/clementnerma/trasher,Delete files to a trash directory instead of deleting them immediatly. Uses its own trash instead of the XDG one.
+data-management-tabular,csvlens,,https://github.com/YS-L/csvlens,"CSV file viewer; like `less` but made for CSV."
+financial,budget-cli,https://www.joshcanhelp.com/budget-cli/,https://github.com/joshcanhelp/budget-cli,"Import, de-dupe, categorize, and report on financial transactions"
