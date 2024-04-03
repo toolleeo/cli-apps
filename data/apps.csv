@@ -909,7 +909,7 @@ viewers,baca,,https://github.com/wustho/baca,Lets you indulge in your favorite e
 time-tracker,Productivity Timer,,https://github.com/h-sifat/productivity-timer,A CLI/TUI Pomodoro timer and todo (coming soon) application for keyboard addicts and terminal fans that makes you more productive.
 science,ptable,,https://github.com/velorek1/ptable,A beautiful TUI periodic table for GNU/linux terminals.
 ls,colorls,,https://github.com/athityakumar/colorls,A Ruby script that colorizes the `ls` output with color and icons.
-typing,termtyper,,https://github.com/kraanzu/termtyper,A typing application to level up your fingers!
+typing,Smassh,,https://github.com/kraanzu/smassh,A typing application to level up your fingers!
 git,Export Pull Requests,,https://github.com/sshaw/export-pull-requests,"Export pull requests and/or issues to a CSV file. Supports GitHub, GitLab, and Bitbucket."
 text-processing,Output as Format ,,https://github.com/sshaw/output-as-format,"Output stdin as GitHub/Slack/Jira etc... formatted code, lists, or quotes."
 text-processing,Normalize Country,,https://github.com/sshaw/normalize_country,Convert country names and codes to a standard.
