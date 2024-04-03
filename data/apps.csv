@@ -419,7 +419,7 @@ text-processing,anew,,https://github.com/tomnomnom/anew,"Tool for adding new lin
 data-management-tabular,TV,,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.
 programming,hors,,https://github.com/WindSoilder/hors,Instant coding answers via the command line.
 file-watch,Viddy,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.
-calc,kalk,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
+calc,kalker,,https://github.com/PaddiM8/kalker,"Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers."
 online,so,,https://github.com/samtay/so,Terminal interface for Stack Overflow.
 data-management-tabular,sq,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel."
 rm,rip,,https://github.com/nivekuil/rip,"Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)"
