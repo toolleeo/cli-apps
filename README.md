@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1483**
+* Apps/tools: **1486**
 * Categories: **77**
 
 # Index
@@ -16,13 +16,13 @@ Some links are available to [related resources](#resources).
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (26), [Data transfer](#transfer) (41), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (41), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (12), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (13), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (51), [Git and accessories](#git) (52), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (62), [Note taking](#note-taking) (23)
+* [Networking](#networking) (63), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (17), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (13)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -345,6 +345,7 @@ Tools to manage data files, dedicated to JSON, YAML and other similar formats.
 Tools to manage tabular data files, such as CSV, spreadsheets, and database tables.
 
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
+* [csvlens](https://github.com/YS-L/csvlens) - CSV file viewer; like `less` but made for CSV.
 * [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
 * [csvtk](https://bioinf.shenwei.me/csvtk/) - A cross-platform, efficient and practical CSV/TSV toolkit written in Go.
 * [daff](https://github.com/paulfitz/daff) - Efficient table comparison and alignment, supporting formats like CSV and SQLite, useful for data analysis and synchronization tasks.
@@ -566,16 +567,16 @@ Tools for managing files and directories (copy, move, extraction from compressed
 
 Tools to manage the deletion of files/directories, often with the support of a trash can, i.e., the ability to restore deleted items.
 
-* [Brash](https://github.com/zakariagatter/brash) - CLI Trash Manager in Pure Bash.
+* [Brash](https://github.com/zakariagatter/brash) - Move and restore items from the XDG trash. Written in pure Bash.
 * [del](https://fex.belwue.de/fstools/del.html) - Save deleted files to a .del/ subdirectory in the same directory.
 * [extundelete](https://extundelete.sourceforge.net/) - Recover deleted files from an ext3 or ext4 partition through its journal.
-* [gtrash](https://github.com/umlx5h/gtrash) - Modern Trash CLI manager for Linux system trash written in Go.
-* [RecoverPy](https://github.com/PabloLec/RecoverPy) - RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. Unlike others, you can not only recover deleted files but also overwritten data.
-* [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
-* [rm-trash](https://github.com/nateshmbhat/rm-trash) - A "rm-trash" is meant to be used in place of rm system command in linux . This script will safely delete your files and put them in the trash for later retrieval.
+* [gtrash](https://github.com/umlx5h/gtrash) - TUI for moving and restoring items from the XDG trash. Fully compliant with the FreeDesktop.org specification.
+* [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.
+* [rip](https://github.com/nivekuil/rip) - Move and restore items from the graveyard (by default
+* [rm-trash](https://github.com/nateshmbhat/rm-trash) - Meant to be used in place of `rm` in Linux, supporting all its arguments. It can move and restore the files from the XDG trash.
 * [rmw](https://remove-to-waste.info/) - (ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 * [testdisk](https://www.cgsecurity.org/wiki/TestDisk) - Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions.
-* [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash.
+* [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash on Linux (XDG trash), macOS (`macos-trash` library) and Windows (`recycle-bin` library).
 * [trasher](https://github.com/clementnerma/trasher) - Delete files to a trash directory instead of deleting them immediatly. Uses its own trash instead of the XDG one.
 * [undelete-btrfs](https://github.com/danthem/undelete-btrfs) - Automate the generation of path regex for BTRFS restore and attempt the restore for you in 3 levels. The longer a file has existed prior to being deleted, the more likely it is to be recovered.
 
@@ -691,6 +692,7 @@ Services that watch files for changes and perform actions when something happens
 Personal ledger trackers, currency converters, and tools to manage and track cryptocurrencies.
 
 * [bits](https://github.com/jtraub91/bits) - CLI tool and pure Python library for Bitcoin.
+* [budget-cli](https://www.joshcanhelp.com/budget-cli/) - Import, de-dupe, categorize, and report on financial transactions
 * [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 * [Cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 * [cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
@@ -961,6 +963,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output.
 * [echo](https://github.com/devem-tech/echo) - Speedy API emulation facilitated by a reverse proxy and mock json server.
 * [ejabberd](https://www.ejabberd.im/) - ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language.
+* [generate-ip](https://js-utils.com/generate-ip) - Randomly generate, format, and validate IPv4/IPv6 addresses.
 * [geoiplookup](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
 * [gg](https://github.com/mzz2017/gg) - A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics.
