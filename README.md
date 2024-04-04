@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1486**
+* Apps/tools: **1489**
 * Categories: **77**
 
 # Index
@@ -16,15 +16,15 @@ Some links are available to [related resources](#resources).
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (41), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (14)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (13), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (19), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (14), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (51), [Git and accessories](#git) (52), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (63), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
-* [Package managers](#package-manager) (17), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (13)
+* [Package managers](#package-manager) (17), [Password managers](#password-manager) (20), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (31), [Shells](#shells) (25), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (24)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (35), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
@@ -100,7 +100,7 @@ Calculators for mathematical operations among numbers, dates, base conversions, 
 * [genius](https://github.com/GNOME/genius) - Genius calculator is a general purpose calculator and mathematics tool with many features.
 * [HIP35](https://github.com/leonmavr/HIP35) - HP-35 RPN calculator emulator in C++17 with a terminal user interface.
 * [kalc](https://github.com/bgkillas/kalc) - A complex numbers, 2d/3d graphing, arbitrary precision, vector, cli calculator with real-time output.
-* [kalk](https://github.com/PaddiM8/kalker) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
+* [kalker](https://github.com/PaddiM8/kalker) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.
 * [maxima](https://maxima.sourceforge.io/) - Maxima is a manipulation system for symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, polynomials, sets, lists, vectors, matrices and tensors.
 * [mdlt](https://github.com/metadelta/mdlt) - A lightweight command line tool that lets you perform arithmetic and symbolic math operations right from the terminal.
 * [Nota](https://kary.us/nota/) - Terminal calculator with rich notation.
@@ -391,6 +391,7 @@ Programs for transferring files and data between different machines.
 * [newsboat_video_downloader](https://github.com/Jocomol/newsboat_video_downloader) - Downloads content from youtube and have them sorted into different folders depending on the channel.
 * [Nextcloud share URL downloader](https://github.com/aertslab/nextcloud_share_url_downloader) - Download files from and list content of NextCloud (password protected) share directly from the command line without needing a webbrowser.
 * [OnionShare](https://onionshare.org/) - "An open source tool that lets you securely and anonymously share a file of any size." 
+* [osync](http://www.netpower.fr/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 * [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices.
 * [pbproxy](https://github.com/nikvdp/pbproxy) - Send your clipboard anywhere you can ssh to.
 * [portal](https://github.com/SpatiumPortae/portal) - A quick and easy command-line file transfer utility from any computer to another.
@@ -572,7 +573,7 @@ Tools to manage the deletion of files/directories, often with the support of a t
 * [extundelete](https://extundelete.sourceforge.net/) - Recover deleted files from an ext3 or ext4 partition through its journal.
 * [gtrash](https://github.com/umlx5h/gtrash) - TUI for moving and restoring items from the XDG trash. Fully compliant with the FreeDesktop.org specification.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.
-* [rip](https://github.com/nivekuil/rip) - Move and restore items from the graveyard (by default
+* [rip](https://github.com/nivekuil/rip) - Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)
 * [rm-trash](https://github.com/nateshmbhat/rm-trash) - Meant to be used in place of `rm` in Linux, supporting all its arguments. It can move and restore the files from the XDG trash.
 * [rmw](https://remove-to-waste.info/) - (ReMove to Waste) is a trashcan/recycle bin utility for the command line. It can move and restore files to and from directories specified in a configuration file.
 * [testdisk](https://www.cgsecurity.org/wiki/TestDisk) - Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions.
@@ -691,6 +692,7 @@ Services that watch files for changes and perform actions when something happens
 
 Personal ledger trackers, currency converters, and tools to manage and track cryptocurrencies.
 
+* [abandon](https://github.com/hrj/abandon) - A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI.
 * [bits](https://github.com/jtraub91/bits) - CLI tool and pure Python library for Bitcoin.
 * [budget-cli](https://www.joshcanhelp.com/budget-cli/) - Import, de-dupe, categorize, and report on financial transactions
 * [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
@@ -1289,6 +1291,7 @@ Prompts and welcome messages at the command line.
 * [Polyglot Prompt](https://github.com/agkozak/polyglot) - A dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `oksh`, `dash`, `yash`, `busybox ash`, and `osh` that uses basic ASCII symbols (and color, when possible).
 * [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 * [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+* [promptless](https://github.com/dylanaraps/promptless) - A suckless and super fast shell prompt written in 1 line of POSIX sh, only configurable via re-installation / script edition.
 * [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
 * [Spaceship](https://spaceship-prompt.sh/) - Minimalistic, powerful and extremely customizable Zsh prompt.
 * [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
@@ -1718,7 +1721,7 @@ Games and utilities to measure and/or improve the typing ability.
 
 * [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
 * [kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing.
-* [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
+* [Smassh](https://github.com/kraanzu/smassh) - A TUI based typing test app inspired by MonkeyType.
 * [thokr](https://github.com/jrnxf/thokr) - Sleek typing tui with visualized results and historical logging.
 * [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavoured.
 * [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
