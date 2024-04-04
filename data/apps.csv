@@ -1485,4 +1485,4 @@ rm,trasher,,https://github.com/clementnerma/trasher,Delete files to a trash dire
 data-management-tabular,csvlens,,https://github.com/YS-L/csvlens,"CSV file viewer; like `less` but made for CSV."
 financial,budget-cli,https://www.joshcanhelp.com/budget-cli/,https://github.com/joshcanhelp/budget-cli,"Import, de-dupe, categorize, and report on financial transactions"
 networking,generate-ip,https://js-utils.com/generate-ip,https://github.com/adamlui/js-utils,"Randomly generate, format, and validate IPv4/IPv6 addresses."
-utilities,generate-pw,https://js-utils.com/generate-pw,https://github.com/adamlui/js-utils,Randomly generate cryptographically-secure passwords.
+password-manager,generate-pw,https://js-utils.com/generate-pw,https://github.com/adamlui/js-utils,Randomly generate cryptographically-secure passwords.
