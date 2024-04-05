@@ -16,7 +16,7 @@ summary_template = """
 resources_template = """
 # <a name="resources"></a>Related resources
 
-A list of some online resoures that contribute interesting links to apps and info.
+A list of some online resources that contribute interesting links to apps and info.
 
 {}
 """
