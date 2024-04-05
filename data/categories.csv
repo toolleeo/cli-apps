@@ -18,7 +18,7 @@ disk-analyzer,Disk usage analyzers,"Programs to analyze and summarize the usage 
 editors,Editors,Text editors
 email,Email,"Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search"
 file-dir-cleanup,Clean up of files and directories,"Find/remove duplicate files, automatically organize files, etc."
-file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full featured file managers)
+file-explorer,File explorer and tree visualization,Show directory trees and navigate through the file system (but not full-featured file managers)
 find,File finding (alternatives to find),"Search the filesystem looking for files with specific characteristics, e.g., names; alternatives to `find`"
 file-handling,File and file system handling,"Tools for managing files and directories (copy, move, extraction from compressed archives, change permissions, etc.)"
 file-watch,File watching for changes,Services that watch files for changes and perform actions when something happens
@@ -33,7 +33,7 @@ funny,Funny tools,"Miscellaneous of tools that provide some funny/aesthetical fu
 option-picker,Fuzzy finders and option pickers,Fuzzy finders and generic option pickers in lists of strings
 games,Games,"Board games, puzzles, roguelikes, role-play, adventures, card games, etc."
 git,Git and accessories,Tools to support and extend the functionalities of the `git` version tracker
-graphics,Graphics,"Applications to process images, colors and ASCII art"
+graphics,Graphics,"Applications to process images, colors, and ASCII art"
 history,History management,Programs to replace or improve the management of command line history
 launcher,Command launchers,"Applications to launch/execute programs, either interactively, automatically, in parallel, etc."
 markdown,Markdown,"Utilities to display, convert and reformat Markdown files"
@@ -44,14 +44,14 @@ office,Office tools,Programs to manage spreadsheets and to make presentations
 organizers,Organizers and calendars,Calendar and appointment managers
 online,Online search and resources,"Tools that interact with online resources to provide their services, e.g., searches, wiki, etc."
 package-manager,Package managers,"Package managers to manage/install/uninstall software packages, as source code or binaries"
-password-manager,Password managers,Programs to store and manage collections of password and other login/authentication information
+password-manager,Password managers,Programs to store and manage collections of passwords and other login/authentication information
 pastebin,Pastebin,Services that allows online sharing of text and other content
 productivity,Productivity,"Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps"
 programming,Programming,"Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc."
 programming-boilerplate,Program templates and boilerplate,"Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects"
 prompt,Prompts,Prompts and welcome messages at the command line
 religion,Religion,"Tools to handle religious material, e.g. reading the Holy Bible"
-rss,RSS,"RSS feed visualizers, converters and managers"
+rss,RSS,"RSS feed visualizers, converters, and managers"
 science,Science,"Packages for scientific research and science applications, e.g., bibliography and publication management"
 security,Security and encryption,"Cryptography, ciphered archive managers, encrypted file-systems"
 shells,Shells,Shell programs that enable the interaction through the terminal
