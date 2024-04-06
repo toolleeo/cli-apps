@@ -1488,3 +1488,4 @@ password-manager,generate-pw,https://js-utils.com/generate-pw,https://github.com
 prompt,promptless,,https://github.com/dylanaraps/promptless,"A suckless and super fast shell prompt written in 1 line of POSIX sh, only configurable via re-installation / script edition."
 financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI."
 transfer,osync,http://www.netpower.fr/osync,https://github.com/deajan/osync,"A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync."
+email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
