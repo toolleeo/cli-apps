@@ -1148,7 +1148,7 @@ Programs to store and manage collections of passwords and other login/authentica
 * [Bitwarden CLI](https://bitwarden.com/help/cli/) - Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises.
 * [cpass](https://github.com/xlucn/cpass) - Another console UI for pass.
 * dpg - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
-* [generate-pw](https://js-utils.com/generate-pw) - Randomly generate cryptographically-secure passwords.
+* [generate-pw](https://generatepw.com) - Randomly generate cryptographically-secure passwords.
 * [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 * [hide](https://github.com/whatl3y/hide) - AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 * [keydex](https://github.com/shikaan/keydex) - Manage KeePass databases from your terminal.
