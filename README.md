@@ -8,14 +8,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1491**
+* Apps/tools: **1492**
 * Categories: **77**
 
 # Index
 
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (18), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
+* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (19), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (6), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (15)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (14), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
@@ -207,6 +207,7 @@ Applications to launch/execute programs, either interactively, automatically, in
 
 Tools to manage often used commands, code snippets, and alternative manual pages.
 
+* [asciit](https://github.com/Q1CHENL/asciit) - A more compact and intuitive ASCII table in your terminal: an alternative to "man 7 ascii" and "ascii".
 * [carapace](https://github.com/rsteube/carapace-bin) - Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells.
 * [docfd](https://github.com/darrenldl/docfd) - TUI fuzzy document finder that looks for documentation files in Markdown and txt format in the directory tree.
 * [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
@@ -696,7 +697,7 @@ Personal ledger trackers, currency converters, and tools to manage and track cry
 
 * [abandon](https://github.com/hrj/abandon) - A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI.
 * [bits](https://github.com/jtraub91/bits) - CLI tool and pure Python library for Bitcoin.
-* [budget-cli](https://www.joshcanhelp.com/budget-cli/) - Import, de-dupe, categorize, and report on financial transactions
+* [budget-cli](https://www.joshcanhelp.com/budget-cli/) - Import, de-dupe, categorize, and report on financial transactions.
 * [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 * [Cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 * [cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.
@@ -923,7 +924,7 @@ Applications to process images, colors, and ASCII art.
 * [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 * [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
-* [scrot](https://github.com/dreamer/scrot) - SCReenshot - simple screenshot tool. Main features: window and retangular area capturing
+* [scrot](https://github.com/dreamer/scrot) - SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
 * [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 * [TermImg](https://github.com/srlehn/termimg) - termimg tries to draw images into terminals. The rectangular drawing area is given in cell coordinates (not pixels). Origin is the upper-left corner.
@@ -951,7 +952,7 @@ Utilities to display, convert and reformat Markdown files.
 * [mdcat](https://github.com/swsnr/mdcat) - cat for Markdown
 * [mdformat](https://github.com/executablebooks/mdformat) - Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 * [mdt](https://github.com/robolab-pavia/mdt) - MarkDown in the Terminal. A Markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.
-* [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer with themes
+* [Terminal Markdown Viewer](https://github.com/axiros/terminal_markdown_viewer) - Python based Markdown viewer with themes source code highlighting and a directory change monitor.
 * [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Experimental "Markdown browser" for the terminal, built with Textual.
 
 ## <a name="networking"></a>Networking
@@ -1046,7 +1047,7 @@ Tools to take, organize and manage notes.
 * [posce](https://github.com/vdt/posce) - A note-taking toolkit for your command line.
 * [sncli](https://github.com/insanum/sncli) - A Python application that gives you access to your Simplenote account via the command line.
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
-* [tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking!
+* [tdo](https://github.com/2KAbhishek/tdo) - Fast and Simple Note Taking.
 * [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast, cross-platform note-taking application for the UNIX terminal.
 * [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) - Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
 * [zk](https://github.com/mickael-menu/zk) - zk is a command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.

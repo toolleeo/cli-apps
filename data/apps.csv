@@ -8,10 +8,10 @@ networking,quickserve,,https://github.com/haileys/quickserve,"Very simple HTTP s
 text-search,ack,http://beyondgrep.com/,https://github.com/beyondgrep/ack3,"A tool like `grep` optimized for programmers; written in Perl, it speeds up searches thanks to skipping non-interesting directories, such as `.git`."
 text-search,ag,,https://github.com/ggreer/the_silver_searcher,"(The silver searcher) - a text search utility targeted to source code; it skips versioning systems data directories; it is inspired by `ack`, but faster."
 text-search,paragrep,http://software.clapper.org/paragrep/,https://github.com/bmc/paragrep,"Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions, a paragraph is defined as a block of text delimited by an empty or blank line, fully customizable via command line parameters."
-text-search,sift,https://sift-tool.org/,https://github.com/svent/sift,"Fast and powerful alternative to `grep`; it targets flexibility and performance: can be as fast as `grep` and allows specifying complex expressions to find text."
+text-search,sift,https://sift-tool.org/,https://github.com/svent/sift,Fast and powerful alternative to `grep`; it targets flexibility and performance: can be as fast as `grep` and allows specifying complex expressions to find text.
 viewers,ccat,,https://github.com/owenthereal/ccat,`cat` with colorized output.
 option-picker,fzf,,https://github.com/junegunn/fzf,"(FuZzy Finder) - a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`."
-text-processing,grc,,https://github.com/pengwynn/grc,"(Generic Colourizer) - parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types."
+text-processing,grc,,https://github.com/pengwynn/grc,(Generic Colourizer) - parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.
 data-management-json,jq,https://stedolan.github.io/jq/,https://github.com/stedolan/jq,"(JSON Query?) - sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files."
 option-picker,percol,,https://github.com/mooz/percol,"A Python script that ""1) receives input lines from `stdin` or a file, 2) lists the input lines and waits for input that filter/select the line(s), 3) outputs the selected line(s) to `stdout`""; can be used to add interactivity to many regular shell commands."
 option-picker,pick,,https://github.com/mptre/pick,Choose one option from a set of choices using an interface with fuzzy search functionality.
@@ -70,8 +70,8 @@ office,Teapot,https://www.syntax-k.de/projekte/teapot/,,"Compact ncurses-based s
 office,sc-im,,https://github.com/andmarti1424/sc-im,"(Spreadsheet Calculator Improvised) - an `ncurses` spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to ""re-cycle"" existing knowledge on these programs to work proficiently with sc-im. Nevertheless, a nice piece of software."""
 office,tpp,http://www.ngolde.de/tpp.html,https://github.com/Kerrick/tpp,(text presentation program) - a ncurses Ruby program that allows producing nice text-based presentation with simple markup language.
 organizers,gcalcli,,https://github.com/insanum/gcalcli,"Access Google Calendars; supports the main tasks: create, delete, and list events."
-organizers,khal,,https://github.com/pimutils/khal,"Calendar that can synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer)."
-organizers,ppl addressbook,http://ppladdressbook.org/,https://github.com/henrycatalinismith/ppl,"Address book tool that uses the vCard format. Built on top of Ruby and Git"
+organizers,khal,,https://github.com/pimutils/khal,Calendar that can synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
+organizers,ppl addressbook,http://ppladdressbook.org/,https://github.com/henrycatalinismith/ppl,Address book tool that uses the vCard format. Built on top of Ruby and Git
 note-taking,kb,,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 organizers,khard,,https://github.com/lucc/khard,vCard address book written in Python. Supports CardDAV.
 todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,https://github.com/boyska/ikog,"A fully-featured task manager encapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
@@ -88,7 +88,7 @@ calc,Qalculate,https://qalculate.github.io/,https://github.com/Qalculate/libqalc
 writing,Translate Shell,https://www.soimort.org/translate-shell/,https://github.com/soimort/translate-shell,"Translator using Google Translate, Bing Translator, Yandex.Translate, etc."
 viewers,cacaview,http://caca.zoy.org/wiki/libcaca,https://github.com/cacalabs/libcaca,"A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters."
 markdown,glow,,https://github.com/charmbracelet/glow,"TUI that renders Markdown files, with keybindings similar to `less` and support for styles and cloud encrypted storing"
-markdown,Terminal Markdown Viewer,,https://github.com/axiros/terminal_markdown_viewer,Python based Markdown viewer with themes, source code highlighting and a directory change monitor.
+markdown,Terminal Markdown Viewer,,https://github.com/axiros/terminal_markdown_viewer,Python based Markdown viewer with themes source code highlighting and a directory change monitor.
 viewers,mplayer,http://www.mplayerhq.hu/design7/news.html,,"One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization."
 viewers,mpv,https://mpv.io/,https://github.com/mpv-player/mpv,"A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources."
 music,ncmpcpp,https://rybczak.net/ncmpcpp/,https://github.com/ncmpcpp/ncmpcpp,"NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory."
@@ -100,7 +100,7 @@ music,mpg123,http://mpg123.org/,https://sourceforge.net/projects/mpg123,"Quick `
 music,mps-youtube,,https://github.com/mps-youtube/yewtube,"A curses player for music tracks from YouTube; it allows searching for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters."
 music,ogg123,https://www.xiph.org/downloads/,https://gitlab.xiph.org/xiph/ogg.git,"Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open `ogg` file format."
 graphics,ImageMagick,http://www.imagemagick.org/script/index.php,https://github.com/ImageMagick/ImageMagick,"Software suite to create, edit, compose, or convert bitmap images; it handles many file formats (including PDF and SVG) and provides processing tools to ""resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves""."
-graphics,scrot,,https://github.com/dreamer/scrot,SCReenshot - simple screenshot tool. Main features: window and retangular area capturing, export to PNG, JPG, GIF and others.
+graphics,scrot,,https://github.com/dreamer/scrot,SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
 git,git,https://git-scm.com/,https://github.com/git/git,"The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend."
 git,git-annex,https://git-annex.branchable.com/,git://git-annex.branchable.com/ git-annex,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files."
 git,git-stats,,https://github.com/IonicaBizau/git-stats,Local git statistics including GitHub-like contributions calendars.
@@ -112,9 +112,9 @@ file-manager,lfm,https://inigo.katxi.org/devel/lfm/,https://github.com/langner/l
 file-manager,Midnight Commander,http://www.midnight-commander.org/,https://github.com/MidnightCommander/mc,"A visual file manager, full-screen text mode application that allows you to copy, move and delete files and whole directory trees and search for files; includes an internal viewer and editor."
 file-manager,ncursesFM,,https://github.com/FedeDP/ncursesFM,"File manager written in C, rather complete in terms of features, especially lightweight and responsive."
 file-manager,ranger,https://ranger.github.io/,https://github.com/ranger/ranger,"File manager with vi key bindings, curses interface with a view on the directory hierarchy, comes with a file launcher that automatically determines which program to use for opening a given file type."
-file-manager,superfile,,https://github.com/MHNightCat/superfile,"Pretty fancy and modern file manager."
+file-manager,superfile,,https://github.com/MHNightCat/superfile,Pretty fancy and modern file manager.
 file-manager,vifm,https://vifm.info/,https://github.com/vifm/vifm,"""ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt"" (cit.)."
-conversion,catdoc,http://www.wagner.pp.ru/~vitus/software/catdoc/,http://www.wagner.pp.ru/git/oss/catdoc.git,"Convert Microsoft Word files to plain text; output is sent to the standard output."
+conversion,catdoc,http://www.wagner.pp.ru/~vitus/software/catdoc/,http://www.wagner.pp.ru/git/oss/catdoc.git,Convert Microsoft Word files to plain text; output is sent to the standard output.
 conversion,Pandoc,http://pandoc.org/,https://github.com/jgm/pandoc,"Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, DOCX, ODT, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats."
 backup,borg,https://www.borgbackup.org/,https://github.com/borgbackup/borg,"Encrypted backups with a clean and simple interface, easy to use and set up, possibility to mount the backup archive with FUSE and inspect it as a regular file system."
 backup,duplicity,http://duplicity.nongnu.org/,https://gitlab.com/duplicity/duplicity,"Creates GPG encrypted, compressed backups; client-side encryption allows uploading the backup onto untrusted servers."
@@ -127,7 +127,7 @@ disk-analyzer,cdu,http://arsunik.free.fr/prog/cdu.html,,(colored `du`) - a Perl 
 disk-analyzer,dfc,,https://github.com/rolinh/dfc,Report file system space usage information with style.
 disk-analyzer,ncdu,https://dev.yorhel.nl/ncdu,https://code.blicky.net/yorhel/ncdu,"""A disk usage analyzer with a ncurses interface. It is designed to find space hogs on a remote server where you don't have an entire graphical setup available."""
 file-dir-cleanup,classifier,,https://github.com/bhrigu123/classifier,"Organize files in your current directory, by classifying them into folders of music, PDFs, images, etc."
-file-dir-cleanup,detox,http://detox.sourceforge.net/,https://sourceforge.net/projects/detox,"Easily clean up filenames; it replaces characters like spaces with standard equivalents and UTF-8 or Latin-1 (or CP 1252) characters with more handy ones."
+file-dir-cleanup,detox,http://detox.sourceforge.net/,https://sourceforge.net/projects/detox,Easily clean up filenames; it replaces characters like spaces with standard equivalents and UTF-8 or Latin-1 (or CP 1252) characters with more handy ones.
 file-handling,dtrx,https://brettcsmith.org/2007/dtrx/,https://github.com/dtrx-py/dtrx,"(Do The Right eXtraction) aims at taking ""all the hassle out of extracting archives""; allows using one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories."
 ls,exa,https://the.exa.website/,https://github.com/ogham/exa,"Replacement for 'ls' written in Rust, with colors and several additional ""views"". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. "
 ls,lsd,,https://github.com/lsd-rs/lsd,"This project is a rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project."
@@ -136,7 +136,7 @@ find,fd,,https://github.com/sharkdp/fd,"A simple, fast, and user-friendly altern
 find,plocate,https://plocate.sesse.net/,https://git.sesse.net/plocate,"A much faster locate; plocate is a locate based on posting lists, completely replacing mlocate with a much faster (and smaller) index."
 file-renamer,rename,https://www.kernel.org/pub/linux/utils/util-linux/,,"Included in `util-linux`, allows bulk rename of files with regex support."
 file-renamer,renameutils,http://www.nongnu.org/renameutils/,,"A set of programs to change file and directory names by editing them in-place, I find `imv` especially useful to edit a filename at the program prompt."
-file-dir-cleanup,rmlint,,https://github.com/sahib/rmlint,"Recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format and produces a shell script that can be inspected before running it to delete the desire files."
+file-dir-cleanup,rmlint,,https://github.com/sahib/rmlint,Recursively scan a directory tree looking for duplicate and broken files; it outputs statistics and save the list of files in JSON format and produces a shell script that can be inspected before running it to delete the desire files.
 file-handling,gcp,,https://github.com/aelafifi/gcp,"(Goffi's cp) - an advanced file copier tool, heavily inspired from the traditional `cp` command, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
 file-manager,nnn,,https://github.com/jarun/nnn,"""The unorthodox terminal file manager"" - a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories."
 file-handling,PathPicker,https://facebook.github.io/PathPicker/,https://github.com/facebook/pathpicker,"A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories."
@@ -490,7 +490,7 @@ typing,toipe,,https://github.com/Samyak2/toipe,"Yet another typing test, but cra
 networking,bore,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.
 editors,zee,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental."
 file-watch,watcher,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command."
-rm,RecoverPy,,https://github.com/PabloLec/RecoverPy,"Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files."
+rm,RecoverPy,,https://github.com/PabloLec/RecoverPy,Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.
 file-handling,file-type-cli,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.
 rm,trash-cli,,https://github.com/sindresorhus/trash-cli,"Move files and folders to the trash on Linux (XDG trash), macOS (`macOS-trash` library) and Windows (`recycle-bin` library)."
 text-processing,Ultimate Plumber,,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop."
@@ -1221,7 +1221,7 @@ launcher,pueue,,https://github.com/Nukesor/pueue,Pueue is a command-line task ma
 funny,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from ""The Matrix"". Streams of random characters will endlessly scroll down your terminal screen."
 funny,boxes,,https://github.com/ascii-boxes/boxes,Boxes is a command line filter program which draws ASCII art boxes around your input text.
 data-management-json,jaq,,https://github.com/01mf02/jaq,"jaq is a clone of the JSON data processing tool jq, that aims to support a large subset of jq's syntax and operations."
-cheatsheet,asciit,,https://github.com/Q1CHENL/asciit,A more compact and intuitive ASCII table in your terminal: an alternative to "man 7 ascii" and "ascii"
+cheatsheet,asciit,,https://github.com/Q1CHENL/asciit,"A more compact and intuitive ASCII table in your terminal: an alternative to ""man 7 ascii"" and ""ascii""."
 cheatsheet,pet,,https://github.com/knqyf263/pet,"Pet is a simple command-line snippet manager, written in Go."
 cheatsheet,halp,,https://github.com/orhun/halp,halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags.
 cheatsheet,carapace,,https://github.com/rsteube/carapace-bin,Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells.
@@ -1442,7 +1442,7 @@ git,gacp,,https://github.com/anhsirk0/gacp,"git add, commit and push in one go."
 science,periodic-table-cli-py,,https://github.com/spirometaxas/periodic-table-cli-py,An interactive Periodic Table of Elements app for the console.
 ai,gemini-cli,,https://github.com/reugn/gemini-cli,A command-line interface (CLI) for Google Gemini.
 typing,typing-game-cli,,https://github.com/akgondber/typing-game-cli,Command line game to practice your typing speed.
-note-taking,tdo,,https://github.com/2KAbhishek/tdo,Fast & Simple Note Taking!
+note-taking,tdo,,https://github.com/2KAbhishek/tdo,Fast and Simple Note Taking.
 utility,glyphs,,https://github.com/maaslalani/glyphs,Unicode symbols on the command line.
 file-dir-cleanup,smash,,https://github.com/thushan/smash,Smash through to find duplicate files super fast by slicing files intelligently.
 cd,zm,,https://github.com/benrutter/zm,Improved cd.
@@ -1483,8 +1483,8 @@ rm,undelete-btrfs,,https://github.com/danthem/undelete-btrfs,"Automate the gener
 rm,testdisk,https://www.cgsecurity.org/wiki/TestDisk,https://git.cgsecurity.org/cgit/testdisk/tree/,"Lets you undelete files from FAT, exFAT, NTFS, and ext2 filesystems and do many other things, e.g., fix partition tables and recover deleted partitions."
 rm,del,https://fex.belwue.de/fstools/del.html,,Save deleted files to a .del/ subdirectory in the same directory.
 rm,trasher,,https://github.com/clementnerma/trasher,Delete files to a trash directory instead of deleting them immediately. Uses its own trash instead of the XDG one.
-data-management-tabular,csvlens,,https://github.com/YS-L/csvlens,"CSV file viewer; like `less` but made for CSV."
-financial,budget-cli,https://www.joshcanhelp.com/budget-cli/,https://github.com/joshcanhelp/budget-cli,"Import, de-dupe, categorize, and report on financial transactions"
+data-management-tabular,csvlens,,https://github.com/YS-L/csvlens,CSV file viewer; like `less` but made for CSV.
+financial,budget-cli,https://www.joshcanhelp.com/budget-cli/,https://github.com/joshcanhelp/budget-cli,"Import, de-dupe, categorize, and report on financial transactions."
 networking,generate-ip,https://js-utils.com/generate-ip,https://github.com/adamlui/js-utils,"Randomly generate, format, and validate IPv4/IPv6 addresses."
 password-manager,generate-pw,https://generatepw.com,https://github.com/adamlui/js-utils,Randomly generate cryptographically-secure passwords.
 prompt,promptless,,https://github.com/dylanaraps/promptless,"A suckless and super fast shell prompt written in 1 line of POSIX sh, only configurable via re-installation / script edition."
