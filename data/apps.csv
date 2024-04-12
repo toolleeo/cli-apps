@@ -1221,6 +1221,7 @@ launcher,pueue,,https://github.com/Nukesor/pueue,Pueue is a command-line task ma
 funny,neo,,https://github.com/st3w/neo,"Recreates the digital rain effect from ""The Matrix"". Streams of random characters will endlessly scroll down your terminal screen."
 funny,boxes,,https://github.com/ascii-boxes/boxes,Boxes is a command line filter program which draws ASCII art boxes around your input text.
 data-management-json,jaq,,https://github.com/01mf02/jaq,"jaq is a clone of the JSON data processing tool jq, that aims to support a large subset of jq's syntax and operations."
+cheatsheet,asciit,,https://github.com/Q1CHENL/asciit,A more compact and intuitive ASCII table in your terminal: an alternative to "man 7 ascii" and "ascii"
 cheatsheet,pet,,https://github.com/knqyf263/pet,"Pet is a simple command-line snippet manager, written in Go."
 cheatsheet,halp,,https://github.com/orhun/halp,halp aims to help find the correct arguments for command-line tools by checking the predefined list of commonly used options/flags.
 cheatsheet,carapace,,https://github.com/rsteube/carapace-bin,Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells.
