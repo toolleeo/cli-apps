@@ -1490,3 +1490,4 @@ prompt,promptless,,https://github.com/dylanaraps/promptless,"A suckless and supe
 financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI."
 transfer,osync,http://www.netpower.fr/osync,https://github.com/deajan/osync,"A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync."
 email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
+security,age,https://age-encryption.org/,https://github.com/FiloSottile/age,"A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability."
