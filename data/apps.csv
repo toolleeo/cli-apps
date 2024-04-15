@@ -1495,3 +1495,4 @@ system,chezmoi,https://www.chezmoi.io/,https://github.com/twpayne/chezmoi,"Manag
 text-processing,choose,,https://github.com/theryangeary/choose,A human-friendly and fast alternative to cut and (sometimes) awk.
 system,direnv,https://direnv.net/,https://github.com/direnv/direnv,Loads and unloads environment variables depending on the current directory.
 networking,doggo,https://doggo.mrkaran.dev/,https://github.com/mr-karan/doggo,"DNS client for humans. Features include: colors, tabular and JSON formats, and reverse DNS lookup."
+package-manager,krew,https://krew.sigs.k8s.io/,https://github.com/kubernetes-sigs/krew,Find and install kubectl plugins.
