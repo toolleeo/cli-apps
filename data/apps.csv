@@ -1497,3 +1497,4 @@ system,direnv,https://direnv.net/,https://github.com/direnv/direnv,Loads and unl
 networking,doggo,https://doggo.mrkaran.dev/,https://github.com/mr-karan/doggo,"DNS client for humans. Features include: colors, tabular and JSON formats, and reverse DNS lookup."
 package-manager,krew,https://krew.sigs.k8s.io/,https://github.com/kubernetes-sigs/krew,Find and install kubectl plugins.
 devops,kubectx,https://kubectx.dev/,https://github.com/ahmetb/kubectx,Quickly switch between clusters and namespaces in kubectl.
+package-manager,mise,https://mise.jdx.dev/,https://github.com/jdx/mise,"A development environment setup tool: dev tools, env vars, and task runner. Like `asdf` + `direnv` + `make`."
