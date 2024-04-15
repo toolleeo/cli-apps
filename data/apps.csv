@@ -1491,3 +1491,4 @@ financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry ac
 transfer,osync,http://www.netpower.fr/osync,https://github.com/deajan/osync,"A robust two-way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near real-time sync."
 email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable emails in the CLI through [mail.tm](https://mail.tm).
 security,age,https://age-encryption.org/,https://github.com/FiloSottile/age,"A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability."
+system,chezmoi,https://www.chezmoi.io/,https://github.com/twpayne/chezmoi,"Manage your dotfiles across multiple diverse machines, securely."
