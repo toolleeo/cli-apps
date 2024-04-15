@@ -1493,3 +1493,4 @@ email,mailsy,,https://github.com/BalliAsghar/Mailsy.git,Generates disposable ema
 security,age,https://age-encryption.org/,https://github.com/FiloSottile/age,"A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability."
 system,chezmoi,https://www.chezmoi.io/,https://github.com/twpayne/chezmoi,"Manage your dotfiles across multiple diverse machines, securely."
 text-processing,choose,,https://github.com/theryangeary/choose,A human-friendly and fast alternative to cut and (sometimes) awk.
+system,direnv,https://direnv.net/,https://github.com/direnv/direnv,Loads and unloads environment variables depending on the current directory.
