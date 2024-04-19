@@ -1501,5 +1501,5 @@ package-manager,mise,https://mise.jdx.dev/,https://github.com/jdx/mise,"A develo
 devops,stern,,https://github.com/stern/stern,Multi pod and container log tailing for Kubernetes.
 git,gh,https://cli.github.com/,https://github.com/cli/cli,"GitHub's official tool to manage repos, issues, projects, gists and much more."
 cheatsheet,tlrc,https://tldr.sh/tlrc/,https://github.com/tldr-pages/tlrc,Official tldr client written in Rust.
-networking,netscanner,,https://github.com/Chleba/netscanner,"All-in-one network scanning tool."
-video,Pyutube,,https://github.com/Hetari/pyutube,"pyutube is a simple cli tool to download YouTube video shorts and playlist in just one click"
+networking,netscanner,,https://github.com/Chleba/netscanner,All-in-one network scanning tool.
+video,Pyutube,,https://github.com/Hetari/pyutube,A simple tool to download YouTube video shorts and playlist in just one click.
