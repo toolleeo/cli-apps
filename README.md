@@ -1880,7 +1880,6 @@ Web browsers with textual interface.
 Web development tools, including load test tools, API clients and managers, link checkers and extractors, etc..
 
 * [ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal.
-* [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 * [Ballast](https://github.com/synoet/ballast) - A simple API load testing tool that lets you compare performance snapshots of your API.
 * [beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your everyday web browser.
 * [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler: crawls web pages and prints any link it can find.
