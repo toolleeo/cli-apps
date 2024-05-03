@@ -1484,7 +1484,7 @@ rm,del,https://fex.belwue.de/fstools/del.html,,Save deleted files to a .del/ sub
 rm,trasher,,https://github.com/clementnerma/trasher,Delete files to a trash directory instead of deleting them immediately. Uses its own trash instead of the XDG one.
 data-management-tabular,csvlens,,https://github.com/YS-L/csvlens,CSV file viewer; like `less` but made for CSV.
 financial,budget-cli,https://www.joshcanhelp.com/budget-cli/,https://github.com/joshcanhelp/budget-cli,"Import, de-dupe, categorize, and report on financial transactions."
-networking,generate-ip,https://generate-ip.org,https://github.com/adamlui/js-utils,"Randomly generate, format, and validate IPv4/IPv6 addresses."
+networking,generate-ip,https://generate-ip.org,https://github.com/adamlui/js-utils,"Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses."
 password-manager,generate-pw,https://generatepw.com,https://github.com/adamlui/js-utils,Randomly generate cryptographically-secure passwords.
 prompt,promptless,,https://github.com/dylanaraps/promptless,"A suckless and super fast shell prompt written in 1 line of POSIX sh, only configurable via re-installation / script edition."
 financial,abandon,,https://github.com/hrj/abandon,"A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI."
