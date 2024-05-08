@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1505**
+* Apps/tools: **1506**
 * Categories: **77**
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (51), [Git and accessories](#git) (53), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (67), [Note taking](#note-taking) (23)
+* [Networking](#networking) (68), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -265,7 +265,7 @@ File format converters.
 * [jsonify-resume](https://github.com/ashishbinu/jsonify-resume) - A CLI that converts resumes into JSON Resume schema.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) - CLI to convert between NestedText and JSON, YAML, or TOML.
 * [Pandoc](http://pandoc.org/) - Universal document file converter; handles input output from/to a number of formats: HTML, PDF, LaTeX, DOCX, ODT, AsciiDoc, Markdown, Textile, just to mention a few; the quality of conversion strongly depends on the combination of input/output formats.
-* [scss-to-css](https://github.com/adamlui/js-utils/tree/main/scss-to-css#readme) - Recursively compile all SCSS files into minified CSS.
+* [scss-to-css](https://scsstocss.org) - Recursively compile all SCSS files into minified CSS.
 * [simtex](https://github.com/simtex-dev/engine) - simtex (simplified LaTeX) allows you to convert your Markdown or text lectures into LaTeX file with one command, configured with simple .json file.
 * [transflac](https://bitbucket.org/gbcox/transflac.git/) - A repository containing a series of utilities to assist in the maintenance and organization of FLAC based music collections.
 * [unoserver](https://github.com/unoconv/unoserver) - Using LibreOffice as a server for converting documents, it allows converting multiple documents without loading libreoffice into memory every time.
@@ -974,8 +974,9 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output.
 * [echo](https://github.com/devem-tech/echo) - Speedy API emulation facilitated by a reverse proxy and mock JSON server.
 * [ejabberd](https://www.ejabberd.im/) - ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language.
-* [generate-ip](https://js-utils.com/generate-ip) - Randomly generate, format, and validate IPv4/IPv6 addresses.
+* [generate-ip](https://generate-ip.org) - Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses.
 * [geoiplookup](https://github.com/maxmind/geoip-api-c) - A little application to find geographical and network information of an IP address based no the geoip C API.
+* [geolocate](https://geolocatejs.org) - Fetch IP geolocation data.
 * [gg](https://github.com/mzz2017/gg) - A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
 * [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics.
 * [GoTTY](https://github.com/yudai/gotty) - Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
@@ -1160,7 +1161,7 @@ Programs to store and manage collections of passwords and other login/authentica
 * [Bitwarden CLI](https://bitwarden.com/help/cli/) - Command-line interface for Bitwarden, a multi-platform password manager targeted to companies and enterprises.
 * [cpass](https://github.com/xlucn/cpass) - Another console UI for pass.
 * dpg - The Deterministic Password Generator - Generates passwords based on a master password and the indication of the website/service/username, without the need of storing anything.
-* [generate-pw](https://generatepw.com) - Randomly generate cryptographically-secure passwords.
+* [generate-pw](https://generatepw.org) - Randomly generate cryptographically-secure passwords.
 * [gopass](https://www.gopass.pw/) - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
 * [hide](https://github.com/whatl3y/hide) - AES-256 bit encrypted password manager with all encrypted passwords stored locally on your machine
 * [keydex](https://github.com/shikaan/keydex) - Manage KeePass databases from your terminal.
