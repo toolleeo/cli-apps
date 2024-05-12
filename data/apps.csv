@@ -1507,3 +1507,4 @@ networking,ATAC,,https://github.com/Julien-cpsn/ATAC,"Arguably a Terminal API�
 networking,geolocate,https://geolocatejs.org,https://github.com/adamlui/js-utils,Fetch IP geolocation data.
 system,auto-cpufreq,,https://github.com/AdnanHodzic/auto-cpufreq,"Automatic CPU speed and power optimizer for Linux, which allows to dynamically change the settings of the CPU to save energy and extend the battery life on laptops."
 networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
+typing,neotype,,https://github.com/tteeoo/neotype,A terminal-based typing game powered by classic ANSI escape codes.
