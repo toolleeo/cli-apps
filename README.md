@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1506**
+* Apps/tools: **1507**
 * Categories: **77**
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (32), [Shells](#shells) (25), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (26)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (32), [Shells](#shells) (25), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (27)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (10)
 * [Utilities](#utility) (38)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
@@ -1544,6 +1544,7 @@ System management tools, such as for brightness control, dotfile and environment
 
 * [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 * [argc-completions](https://github.com/sigoden/argc-completions) - Autocompletion for any shell and any command.
+* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed and power optimizer for Linux, which allows to dynamically change the settings of the CPU to save energy and extend the battery life on laptops.
 * [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line with a nice interface to list the available options..
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 * [checksum.sh](https://checksum.sh/) - Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.
