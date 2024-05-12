@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1507**
+* Apps/tools: **1508**
 * Categories: **77**
 
 # Index
@@ -22,7 +22,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (51), [Git and accessories](#git) (53), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (68), [Note taking](#note-taking) (23)
+* [Networking](#networking) (69), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -995,6 +995,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [netscanner](https://github.com/Chleba/netscanner) - All-in-one network scanning tool.
 * [oha](https://github.com/hatoo/oha) - oha is a tiny program that sends some load to a web application and show real-time TUI.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
+* [packemon](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 * [Prosody](https://prosody.im/) - Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources.
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 * [quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.

@@ -1506,3 +1506,4 @@ video,Pyutube,,https://github.com/Hetari/pyutube,A simple tool to download YouTu
 networking,ATAC,,https://github.com/Julien-cpsn/ATAC,"Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever."
 networking,geolocate,https://geolocatejs.org,https://github.com/adamlui/js-utils,Fetch IP geolocation data.
 system,auto-cpufreq,,https://github.com/AdnanHodzic/auto-cpufreq,"Automatic CPU speed and power optimizer for Linux, which allows to dynamically change the settings of the CPU to save energy and extend the battery life on laptops."
+networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
