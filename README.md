@@ -227,6 +227,7 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [tlrc](https://tldr.sh/tlrc/) - Official tldr client written in Rust.
 * [topalias](https://github.com/meteoritt/topalias) - Linux alias generator from bash/zsh command history with statistics, written on Python.
 * [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+* [cheatshh](https://github.com/AnirudhG07/cheatshh/tree/v1.0.4) - A fzf based cheatsheet with your commands and their groups, previewing tldr(+man).
 
 ## <a name="vm"></a>Containerization and virtualization
 
