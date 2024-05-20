@@ -1509,3 +1509,4 @@ system,auto-cpufreq,,https://github.com/AdnanHodzic/auto-cpufreq,"Automatic CPU 
 networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 typing,neotype,,https://github.com/tteeoo/neotype,A terminal-based typing game powered by classic ANSI escape codes.
 typing,Typon,,https://github.com/ihsuy/Typon,A multi-featured typing practice tool which can turn any text file into a typing game.
+cheatsheet,cheatshh,,https://github.com/AnirudhG07/cheatshh,"A fzf based cheatsheet with your commands and their groups, previewing tldr(+man)".
