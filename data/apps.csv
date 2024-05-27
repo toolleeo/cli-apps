@@ -1516,3 +1516,4 @@ music,jammer,,https://github.com/jooapa/jammer,"Multiplatform light-weight TUI m
 security,flawz,,https://github.com/orhun/flawz,A Terminal UI for browsing security vulnerabilities (CVEs).
 email,paws,,https://github.com/tomhrr/paws,sendmail/maildir interface to Slack.
 time-tracker,pom,,https://github.com/maaslalani/pom,Pomodoro timer for the terminal.
+time-tracker,yacht,,https://github.com/tracyspacy/yacht,Yet another command line habit tracker written in Rust.
