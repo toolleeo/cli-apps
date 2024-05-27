@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1511**
+* Apps/tools: **1512**
 * Categories: **77**
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (32), [Shells](#shells) (25), [Sound and music](#music) (46), [System monitoring](#monitor) (29), [System tools](#system) (27)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (32), [Shells](#shells) (25), [Sound and music](#music) (47), [System monitoring](#monitor) (29), [System tools](#system) (27)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (12)
 * [Utilities](#utility) (38)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
@@ -1475,6 +1475,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 * [kew](https://github.com/ravachol/kew) - A command-line music player with gapless playback and simple playlist management.
 * [kord](https://github.com/synestematic/kord) - A Python framework that provides programmers with a simple API for the creation of music-based applications.
 * [line](https://github.com/pd3v/line) - Tiny command-line midi sequencer and language for live coding.
+* [lowfi](https://github.com/remvze/lowfi) - A music player through your terminal, with the option to open YouTube in the browser.
 * [maestro-cli](https://github.com/PrajwalVandana/maestro-cli) - A command-line tool to play songs (or any audio, really) in the terminal.
 * [mfp](https://github.com/guptarohit/mfp) - A command-line utility for playing music mixes for programming & focus (from [musicforprogramming.net](musicforprogramming.net)), unlocking the flow state.
 * [MOC](https://moc.daper.net/) - (music on console) - a powerful and easy to use console audio player, user interface a la Midnight Commander, plenty of features, fully controllable from the keyboard.
