@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1512**
+* Apps/tools: **1513**
 * Categories: **77**
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (32), [Shells](#shells) (25), [Sound and music](#music) (47), [System monitoring](#monitor) (29), [System tools](#system) (27)
-* [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (31), [Torrent](#torrent) (8), [Typing test and practice](#typing) (12)
+* [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (32), [Torrent](#torrent) (8), [Typing test and practice](#typing) (12)
 * [Utilities](#utility) (38)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
@@ -1715,6 +1715,7 @@ Todo list and task managers.
 * [td](https://github.com/wolandark/td) - Simple & elegant To Do list manager written In Bash.
 * [td-cli](https://github.com/darrikonn/td-cli) - A command line todo manager, where you can organize and manage your todos across multiple projects.
 * [todo.txt](http://todotxt.org/) - Minimalistic todo manager that uses a simple plain text file to keep track of items, implemented as a shell script.
+* [todoclist](https://github.com/RuslanGagushin/todoclist) - Simple CLI app for check your tasks from todoist.
 * [Todoman](https://github.com/pimutils/todoman) - A simple, standards-based, CLI todo (aka: task) manager.
 * [todotxt-machine](https://pypi.org/project/todotxt-machine/) - Interface for todo.txt.
 * [topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
