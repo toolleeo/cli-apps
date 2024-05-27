@@ -1515,3 +1515,4 @@ todo-manager,todoclist,,https://github.com/RuslanGagushin/todoclist,Simple CLI a
 music,jammer,,https://github.com/jooapa/jammer,"Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects."
 security,flawz,,https://github.com/orhun/flawz,A Terminal UI for browsing security vulnerabilities (CVEs).
 email,paws,,https://github.com/tomhrr/paws,sendmail/maildir interface to Slack.
+time-tracker,pom,,https://github.com/maaslalani/pom,Pomodoro timer for the terminal.
