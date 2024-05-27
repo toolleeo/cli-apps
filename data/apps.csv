@@ -1512,3 +1512,4 @@ typing,Typon,,https://github.com/ihsuy/Typon,A multi-featured typing practice to
 cheatsheet,cheatshh,,https://github.com/AnirudhG07/cheatshh,A fzf based cheatsheet to store commands and their descriptions in a place you can look into so you dont have to remember them.
 music,lowfi,,https://github.com/remvze/lowfi,"A music player through your terminal, with the option to open YouTube in the browser."
 todo-manager,todoclist,,https://github.com/RuslanGagushin/todoclist,Simple CLI app for check your tasks from todoist.
+music,jammer,,https://github.com/jooapa/jammer,"Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects."
