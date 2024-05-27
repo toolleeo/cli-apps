@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1514**
+* Apps/tools: **1515**
 * Categories: **77**
 
 # Index
@@ -26,7 +26,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (32), [Shells](#shells) (25), [Sound and music](#music) (48), [System monitoring](#monitor) (29), [System tools](#system) (27)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (48), [System monitoring](#monitor) (29), [System tools](#system) (27)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (16), [Todo managers](#todo-manager) (32), [Torrent](#torrent) (8), [Typing test and practice](#typing) (12)
 * [Utilities](#utility) (38)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
@@ -1402,6 +1402,7 @@ Cryptography, ciphered archive managers, encrypted file-systems.
 * [encfs](http://www.arg0.net/#!encfs/c1awt) - Encrypted filesystem in user-space based on [FUSE](https://it.wikipedia.org/wiki/FUSE), mounts an encrypted directory into a clear one.
 * [feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 * [Firejail](https://firejail.wordpress.com/) - A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+* [flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs).
 * [GnuPG](https://gnupg.org/) - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
 * [gocryptfs](https://nuetzlich.net/gocryptfs) - An encrypted overlay filesystem written in Go.
 * [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!
