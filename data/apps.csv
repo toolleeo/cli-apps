@@ -1510,3 +1510,4 @@ networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library
 typing,neotype,,https://github.com/tteeoo/neotype,A terminal-based typing game powered by classic ANSI escape codes.
 typing,Typon,,https://github.com/ihsuy/Typon,A multi-featured typing practice tool which can turn any text file into a typing game.
 cheatsheet,cheatshh,,https://github.com/AnirudhG07/cheatshh,A fzf based cheatsheet to store commands and their descriptions in a place you can look into so you dont have to remember them.
+typing,typeinc,,https://github.com/AnirudhG07/Typeinc,An ncurses based terminal typing speed test, with different difficulty levels and cool typing UI.
