@@ -1510,6 +1510,7 @@ networking,packemon,,https://github.com/ddddddO/packemon,TUI tool and Go library
 typing,neotype,,https://github.com/tteeoo/neotype,A terminal-based typing game powered by classic ANSI escape codes.
 typing,Typon,,https://github.com/ihsuy/Typon,A multi-featured typing practice tool which can turn any text file into a typing game.
 cheatsheet,cheatshh,,https://github.com/AnirudhG07/cheatshh,A fzf based cheatsheet to store commands and their descriptions in a place you can look into so you dont have to remember them.
+<<<<<<< HEAD
 music,lowfi,,https://github.com/remvze/lowfi,"A music player through your terminal, with the option to open YouTube in the browser."
 todo-manager,todoclist,,https://github.com/RuslanGagushin/todoclist,Simple CLI app for check your tasks from todoist.
 music,jammer,,https://github.com/jooapa/jammer,"Multiplatform light-weight TUI music player with Soundcloud & Youtube support, with effects."
@@ -1517,3 +1518,6 @@ security,flawz,,https://github.com/orhun/flawz,A Terminal UI for browsing securi
 email,paws,,https://github.com/tomhrr/paws,sendmail/maildir interface to Slack.
 time-tracker,pom,,https://github.com/maaslalani/pom,Pomodoro timer for the terminal.
 time-tracker,yacht,,https://github.com/tracyspacy/yacht,Yet another command line habit tracker written in Rust.
+=======
+typing,typeinc,,https://github.com/AnirudhG07/Typeinc,An ncurses based terminal typing speed test, with different difficulty levels and cool typing UI.
+>>>>>>> b08dd595eef8d46b51660c20095abd2aeba85438
