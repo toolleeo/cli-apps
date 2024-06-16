@@ -1794,6 +1794,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [sizeof](https://github.com/zackproser/sizeof) - Experimental CLI, written alongside ChatGPT4 and GitHub Copilot.
 * [Skylab](https://github.com/SerhiiStets/skylab) - A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
 * [sprinkles](https://github.com/KhalilOuali/sprinkles) - Randomly colors input text and outputs it to the terminal.
+* [tab-pal](https://github.com/ben-n93/tab-pal) - a CLI for adding and editing custom colour palettes in Tableau.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 * [tickrs](https://github.com/tarkah/tickrs) - Real-time ticker data in your terminal.
