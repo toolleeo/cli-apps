@@ -8,7 +8,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1522**
+* Apps/tools: **1520**
 * Categories: **77**
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (48), [System monitoring](#monitor) (29), [System tools](#system) (27)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (18), [Todo managers](#todo-manager) (32), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
-* [Utilities](#utility) (38)
+* [Utilities](#utility) (39)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
 
@@ -1755,7 +1755,7 @@ Games and utilities to measure and/or improve the typing ability.
 * [thokr](https://github.com/jrnxf/thokr) - Sleek typing TUI with visualized results and historical logging.
 * [toipe](https://github.com/Samyak2/toipe) - Yet another typing test, but crab flavored.
 * [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
-* [typeinc](https://github.com/AnirudhG07/Typeinc) - An ncurses based terminal typing speed test
+* [typeinc](https://github.com/AnirudhG07/Typeinc) - An ncurses based terminal typing speed test with different difficulty levels and cool typing UI.
 * [Typespeed](http://typespeed.sourceforge.net/) - Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words.
 * [typetype](https://github.com/ahmet8zer/typetype) - Minimalistic command line typing game.
 * [typing-game-cli](https://github.com/akgondber/typing-game-cli) - Command line game to practice your typing speed.
@@ -1794,6 +1794,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [sizeof](https://github.com/zackproser/sizeof) - Experimental CLI, written alongside ChatGPT4 and GitHub Copilot.
 * [Skylab](https://github.com/SerhiiStets/skylab) - A text user interface (TUI) tool that displays upcoming space launches in a user-friendly way.
 * [sprinkles](https://github.com/KhalilOuali/sprinkles) - Randomly colors input text and outputs it to the terminal.
+* [tab-pal](https://github.com/ben-n93/tab-pal) - A command-line app that makes it easier to add and edit custom colour palettes in Tableau.
 * [teetail](https://github.com/sl236/teetail) - Like tee, but only the tail goes in the file.
 * [tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 * [tickrs](https://github.com/tarkah/tickrs) - Real-time ticker data in your terminal.
