@@ -1519,3 +1519,5 @@ time-tracker,pom,,https://github.com/maaslalani/pom,Pomodoro timer for the termi
 time-tracker,yacht,,https://github.com/tracyspacy/yacht,Yet another command line habit tracker written in Rust.
 typing,typeinc,,https://github.com/AnirudhG07/Typeinc,An ncurses based terminal typing speed test with different difficulty levels and cool typing UI.
 utility,tab-pal,,https://github.com/ben-n93/tab-pal,A command-line app that makes it easier to add and edit custom colour palettes in Tableau.
+system,x-cmd,https://www.x-cmd.com/,https://github.com/x-cmd/x-cmd,x-cmd is a toolset implemented using posix shell and awk. It is very small in size and offers many interesting features.
+
