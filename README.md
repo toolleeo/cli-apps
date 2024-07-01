@@ -1575,6 +1575,7 @@ System management tools, such as for brightness control, dotfile and environment
 * [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 * [YAS-BDSM](https://github.com/sebastiancarlos/yas-bdsm) - YAS-BDSM (Yet Another Stow-Based Dotfiles System Manager): a minimal, UNIX-based, cross-platform, hierarchical dotfiles manager.
 * [ydf](https://github.com/yunielrc/ydf) - A disruptive dotfiles manager+. Be ready to work in just a few minutes on your Fresh OS.
+* [x-cmd](https://github.com/x-cmd/x-cmd) - A toolset implemented using posix shell and awk. It is very small in size and offers many interesting features. 
 
 ## <a name="terminal"></a>Terminals
 
