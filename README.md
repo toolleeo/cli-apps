@@ -8,14 +8,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1521**
+* Apps/tools: **1522**
 * Categories: **77**
 
 # Index
 
 * [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (14), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
+* [Calculators](#calc) (15), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (20), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (16)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (14), [Font management](#font) (4), [Funny tools](#funny) (32), [Fuzzy finders and option pickers](#option-picker) (14)
@@ -97,6 +97,7 @@ Calculators for mathematical operations among numbers, dates, base conversions, 
 * [AngouriMathCLI](https://github.com/asc-community/AngouriMathCLI) - CLI calculator based on AngouriMath.
 * [bcal](https://github.com/jarun/bcal) - Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.
 * [Bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
+* [CalcPy](https://github.com/idanpa/calcpy) - Terminal calculator and advanced math solver using Python, IPython and SymPy.
 * [genius](https://github.com/GNOME/genius) - Genius calculator is a general purpose calculator and mathematics tool with many features.
 * [HIP35](https://github.com/leonmavr/HIP35) - HP-35 RPN calculator emulator in C++17 with a terminal user interface.
 * [kalc](https://github.com/bgkillas/kalc) - A complex numbers, 2D/3D graphing, arbitrary precision, vector, CLI calculator with real-time output.
