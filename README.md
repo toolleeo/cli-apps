@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1532**
+* Apps/tools: **1533**
 * Categories: **77**
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (52), [Git and accessories](#git) (53), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (72), [Note taking](#note-taking) (23)
+* [Networking](#networking) (73), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1037,6 +1037,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 * [tunblkctl](https://github.com/azhuchkov/tunblkctl) - Command-line frontend for Tunnelblick.
 * [Tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
+* [turl](https://github.com/yilmaz08/turl) - tURL is a command-line tool to make plain TCP-based requests.
 * [websocat](https://github.com/vi/websocat) - Netcat, curl and socat for WebSockets.
 * [Wishlist](https://github.com/charmbracelet/wishlist) - With Wishlist you can have a single entrypoint for multiple SSH endpoints.
 * [wuzz](https://github.com/asciimoo/wuzz) - Interactive CLI tool for HTTP inspection.
