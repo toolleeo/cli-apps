@@ -1538,3 +1538,4 @@ email,quackalias-cli,,https://github.com/Megane0103/quackalias-cli,Scripts to ge
 networking,chiko,,https://github.com/felangga/chiko,The ultimate beauty gRPC Client on your Terminal: a simple tool to interact with gRPC services using a beautiful terminal interface.
 funny,console-fun,,https://github.com/akgondber/console-fun,"Some console stuff to have a fun and watch some animations with texts, figures, etc."
 prompt,blaze,,https://github.com/danieltodor/blaze,"A customizable and informative prompt for bash, zsh, fish, on linux distributions."
+note-taking,rucola,,https://github.com/Linus-Mussmaecher/rucola,Terminal-based markdown note manager.

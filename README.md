@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1539**
+* Apps/tools: **1540**
 * Categories: **77**
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (52), [Git and accessories](#git) (53), [Graphics](#graphics) (38)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (74), [Note taking](#note-taking) (23)
+* [Networking](#networking) (74), [Note taking](#note-taking) (24)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1070,6 +1070,7 @@ Tools to take, organize and manage notes.
 * [Noted](https://github.com/torbratsberg/noted) - Notes library, with viewer and shortcuts to add, delete and edit notes.
 * [NoteSH](https://github.com/Cvaniak/NoteSH) - Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!
 * [posce](https://github.com/vdt/posce) - A note-taking toolkit for your command line.
+* [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 * [sncli](https://github.com/insanum/sncli) - A Python application that gives you access to your Simplenote account via the command line.
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
 * [tdo](https://github.com/2KAbhishek/tdo) - Fast and Simple Note Taking.
