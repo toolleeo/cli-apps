@@ -1530,3 +1530,4 @@ networking,trzsz-ssh,,https://github.com/trzsz/trzsz-ssh,"An ssh client designed
 games,tetrs,,https://github.com/Strophox/tetrs,"Tetromino game engine and terminal application to play Tetris, written in Rust."
 calc,DateTimeMate,,https://github.com/jftuga/DateTimeMate,"Golang package and CLI to compute the difference between date, time or duration."
 todo-manager,omm,,https://github.com/dhth/omm,"""on-my-mind"" is a keyboard-driven task manager for the command line."
+networking,impala,,https://github.com/pythops/impala,TUI for managing wifi networks and connections on Linux.
