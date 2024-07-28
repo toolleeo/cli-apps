@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1523**
+* Apps/tools: **1524**
 * Categories: **77**
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (48), [System monitoring](#monitor) (29), [System tools](#system) (28)
-* [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (18), [Todo managers](#todo-manager) (32), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
+* [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (18), [Todo managers](#todo-manager) (33), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
 * [Utilities](#utility) (39)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
@@ -1702,6 +1702,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 
 Todo list and task managers.
 
+* [agile-planner](https://github.com/AndrewRoe34/agile-planner) - Streamline your study schedule with our unique scripting language and CLI, designed for efficient planning and task management.
 * [boards](https://github.com/benrutter/boards) - Recursive kanban boards based around the filesystem.
 * [CLI-Manager](https://github.com/MikyStar/CLI-Manager) - Command Line Interface for managing tasks locally on the fly.
 * [devtodo](https://swapoff.org/devtodo.html) - A hierarchical command-line task manager, with data storage in JSON format.
