@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1567**
+* Apps/tools: **1568**
 * Categories: **77**
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (40), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (49), [System monitoring](#monitor) (31), [System tools](#system) (29)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (50), [System monitoring](#monitor) (31), [System tools](#system) (29)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (40)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (27)
@@ -1498,6 +1498,7 @@ Music players, podcast, synthesizers, downloaders, online radios.
 
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) - ALSA mixer with curses interfaces.
 * [BadaBoomBooks](https://github.com/WirlyWirly/BadaBoomBooks) - Quickly organize audiobooks using a terminal and web-browser.
+* [bash_radio_player](https://github.com/gokayburuc/bash_radio_player) - Terminal Radio Player using mpv and fzf.
 * [beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.
 * [castero](https://github.com/xgi/castero) - A TUI podcast client for the terminal.
 * [cmus](https://cmus.github.io/) - A fast and lightweight audio player with configurable keybindings and playlist support.

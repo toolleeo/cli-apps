@@ -1566,3 +1566,4 @@ programming-boilerplate,contributing-generator,,https://github.com/friedrith/con
 funny,HARRY_POTTER_ALIASES,,https://github.com/P-Y-R-O-B-O-T/HARRY_POTTER_ALIASES,Harry Potter-themed aliases a magical journey through the wizarding world of terminal commands.
 rm,trashbhuwan,,https://github.com/tribhuwan-kumar/trashbhuwan,"Trashing CLI application for Linux distros, written in C."
 package-manager,pm-jesus,,https://github.com/sebastiancarlos/pm-jesus,Package manager front-end.
+music,bash_radio_player,,https://github.com/gokayburuc/bash_radio_player,Terminal Radio Player using mpv and fzf.
