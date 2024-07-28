@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1544**
+* Apps/tools: **1545**
 * Categories: **77**
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (17)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (14), [Font management](#font) (4), [Funny tools](#funny) (34), [Fuzzy finders and option pickers](#option-picker) (14)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (34), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (52), [Git and accessories](#git) (53), [Graphics](#graphics) (38)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -717,6 +717,7 @@ Personal ledger trackers, currency converters, and tools to manage and track cry
 * [Lakshmi](https://github.com/sarvjeets/lakshmi) - Investing library and command-line interface inspired by the Bogleheads philosophy.
 * [ledger](http://ledger-cli.org/) - A powerful, double-entry accounting system; it uses a simple yet powerful text syntax to specify the items to account.
 * [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using the command line.
+* [mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
 * [paycon](https://github.com/arcorion/paycon) - Converts pay amounts between different time units.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
