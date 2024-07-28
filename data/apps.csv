@@ -1553,3 +1553,4 @@ git,prs,,https://github.com/dhth/prs,Stay updated on PRs without leaving the ter
 file-manager,walk,,https://github.com/antonmedv/walk,Terminal file manager.
 git,git-bug,,https://github.com/MichaelMure/git-bug,"Distributed, offline-first bug tracker embedded in git, with bridges."
 utility,ProgressLine,,https://github.com/kattouf/ProgressLine,Track commands progress in a compact one-line format.
+data-management-tabular,tabiew,,https://github.com/shshemi/tabiew,"A lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files."
