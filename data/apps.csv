@@ -1529,3 +1529,4 @@ networking,tsshd,,https://github.com/trzsz/tsshd,"The tsshd works like mosh-serv
 networking,trzsz-ssh,,https://github.com/trzsz/trzsz-ssh,"An ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc."
 games,tetrs,,https://github.com/Strophox/tetrs,"Tetromino game engine and terminal application to play Tetris, written in Rust."
 calc,DateTimeMate,,https://github.com/jftuga/DateTimeMate,"Golang package and CLI to compute the difference between date, time or duration."
+todo-manager,omm,,https://github.com/dhth/omm,"""on-my-mind"" is a keyboard-driven task manager for the command line."
