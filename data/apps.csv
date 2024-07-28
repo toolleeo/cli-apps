@@ -1540,3 +1540,4 @@ funny,console-fun,,https://github.com/akgondber/console-fun,"Some console stuff 
 prompt,blaze,,https://github.com/danieltodor/blaze,"A customizable and informative prompt for bash, zsh, fish, on linux distributions."
 note-taking,rucola,,https://github.com/Linus-Mussmaecher/rucola,Terminal-based markdown note manager.
 time-tracker,cations,,https://github.com/Alcryst/cations,"Lightweight, user-friendly habit tracker and productivity tool; terminal-based CLI application."
+system,dtui,,https://github.com/Troels51/dtui,Small TUI for introspecting the state of the system/session dbus.
