@@ -1560,3 +1560,4 @@ time-tracker,hours,,https://github.com/dhth/hours,A no-frills time tracking tool
 graphics,rimage,,https://github.com/SalOne22/rimage,A powerful Rust image optimization CLI tool.
 ai,cha,,https://github.com/MehmetMHY/cha,A simple CLI chat tool to easily interface with OpenAI's models.
 games,cheezee,,https://github.com/detectivekaktus/cheezee,Chess TUI client built for Linux.
+vm,Pocker,,https://github.com/pommee/Pocker,"Pocker is a TUI tool to help with docker related tasks, such as view containers/images, manage status of containers, see logs, attributes, environment variables and container statistics, filter logs based on keywords, start shell inside a container."
