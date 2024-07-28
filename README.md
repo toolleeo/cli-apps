@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1533**
+* Apps/tools: **1534**
 * Categories: **77**
 
 # Index
@@ -20,7 +20,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (26), [Email](#email) (16)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (14), [Font management](#font) (4), [Funny tools](#funny) (33), [Fuzzy finders and option pickers](#option-picker) (14)
-* [Games](#games) (52), [Git and accessories](#git) (53), [Graphics](#graphics) (37)
+* [Games](#games) (52), [Git and accessories](#git) (53), [Graphics](#graphics) (38)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (73), [Note taking](#note-taking) (23)
@@ -934,6 +934,7 @@ Applications to process images, colors, and ASCII art.
 * [MapSCII](https://github.com/rastapasta/mapscii) - A Braille & ASCII world map renderer for your console
 * [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program.
 * [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+* [pik](https://github.com/immanelg/pik) - Color picker for terminal.
 * [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
 * [scrot](https://github.com/dreamer/scrot) - SCReenshot - simple screenshot tool. Main features: window and retangular area capturing export to PNG JPG GIF and others.
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.

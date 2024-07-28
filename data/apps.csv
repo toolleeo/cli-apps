@@ -1532,3 +1532,4 @@ calc,DateTimeMate,,https://github.com/jftuga/DateTimeMate,"Golang package and CL
 todo-manager,omm,,https://github.com/dhth/omm,"""on-my-mind"" is a keyboard-driven task manager for the command line."
 networking,impala,,https://github.com/pythops/impala,TUI for managing wifi networks and connections on Linux.
 networking,turl,,https://github.com/yilmaz08/turl,tURL is a command-line tool to make plain TCP-based requests.
+graphics,pik,,https://github.com/immanelg/pik,Color picker for terminal.
