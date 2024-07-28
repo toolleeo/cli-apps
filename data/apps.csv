@@ -1524,3 +1524,4 @@ calc,CalcPy,,https://github.com/idanpa/calcpy,"Terminal calculator and advanced 
 funny,ccube,,https://github.com/hamza512b/ccube,Rotating 3d cube in terminal; written in C.
 todo-manager,agile-planner,,https://github.com/AndrewRoe34/agile-planner,"Streamline your study schedule with our unique scripting language and CLI, designed for efficient planning and task management."
 music,sonicradio,,https://github.com/dancnb/sonicradio,A TUI radio player making use of Radio Browser API and Bubbletea.
+viewers,moulti,,https://github.com/xavierog/moulti,"Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps."

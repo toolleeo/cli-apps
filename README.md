@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1525**
+* Apps/tools: **1526**
 * Categories: **77**
 
 # Index
@@ -30,7 +30,7 @@ Some links are available to [related resources](#resources).
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (49), [System monitoring](#monitor) (29), [System tools](#system) (28)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (18), [Todo managers](#todo-manager) (33), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
 * [Utilities](#utility) (39)
-* [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (26)
+* [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (27)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -1861,6 +1861,7 @@ File viewers for images and other formats (e.g., e-books).
 * [hnterm](https://github.com/ggerganov/hnterm) - Hacker News in the terminal.
 * [Lob TUI](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 * [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - Read [medium.com](https://medium.com/) stories in the terminal.
+* [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
 * [mplayer](http://www.mplayerhq.hu/design7/news.html) - One of the most popular video/audio players around, plays most audio and video formats (using ASCII characters) in the shell, provides a GUI for graphical visualization.
 * [mpv](https://mpv.io/) - A cross-platform media player with many features such as frame timing, MKV chapters and subtitles. It is a responsive video player with minimal layout customizable with themes. A good alternative media player to VLC since it can handle almost all the media formats as VLC, but using much less resources.
 * [ov](https://github.com/noborus/ov) - Feature-rich terminal-based text viewer.
