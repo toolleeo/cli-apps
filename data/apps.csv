@@ -1544,3 +1544,4 @@ system,dtui,,https://github.com/Troels51/dtui,Small TUI for introspecting the st
 webdev,posting,,https://github.com/darrenburns/posting,"The modern API client that lives in your terminal, not unlike Postman and Insomnia."
 ai,parllama,,https://github.com/paulrobello/parllama,TUI designed for easy management and use of Ollama based LLMs.
 financial,mop,,https://github.com/mop-tracker/mop,Stock market tracker for hackers.
+ai,cai,,https://github.com/ad-si/cai,The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
