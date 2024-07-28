@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1560**
+* Apps/tools: **1561**
 * Categories: **77**
 
 # Index
@@ -20,7 +20,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (34), [Fuzzy finders and option pickers](#option-picker) (14)
-* [Games](#games) (52), [Git and accessories](#git) (55), [Graphics](#graphics) (40)
+* [Games](#games) (53), [Git and accessories](#git) (55), [Graphics](#graphics) (40)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (74), [Note taking](#note-taking) (24)
@@ -806,6 +806,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [blackjack](https://github.com/acidvegas/blackjack) - IRC bot to play blackjack.
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Open source turn-based survival RPG development project.
 * [Cemetery Escape](https://github.com/tom-on-the-internet/cemetery-escape) - A game in which you must escape the cemetery. Search tombstones to find the key. Then head for the door, but watch out for ghosts.
+* [cheezee](https://github.com/detectivekaktus/cheezee) - Chess TUI client built for Linux.
 * [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
 * [cli-chess](https://github.com/trevorbayless/cli-chess) - A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 * [clidle](https://github.com/ajeetdsouza/clidle) - Wordle, now over SSH.

@@ -1559,3 +1559,4 @@ graphics,LinuxSSTool,,https://github.com/DatCodeMania/LinuxSSTool,A simple scrip
 time-tracker,hours,,https://github.com/dhth/hours,A no-frills time tracking toolkit for command line nerds.
 graphics,rimage,,https://github.com/SalOne22/rimage,A powerful Rust image optimization CLI tool.
 ai,cha,,https://github.com/MehmetMHY/cha,A simple CLI chat tool to easily interface with OpenAI's models.
+games,cheezee,,https://github.com/detectivekaktus/cheezee,Chess TUI client built for Linux.
