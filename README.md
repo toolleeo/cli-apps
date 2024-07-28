@@ -9,12 +9,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1543**
+* Apps/tools: **1544**
 * Categories: **77**
 
 # Index
 
-* [AI / ChatGPT](#ai) (20), [Anki, decks and flashcards](#flashcard) (7)
+* [AI / ChatGPT](#ai) (21), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
@@ -56,6 +56,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [Mods!](https://github.com/charmbracelet/mods) - AI for the command line, built for pipelines.
 * [ollama](https://ollama.com/) - Get up and running with large language models locally.
 * [osh](https://github.com/charyan/osh) - Ollama Shell Helper (osh): English to Unix-like Shell Commands translation using Local LLMs with Ollama.
+* [parllama](https://github.com/paulrobello/parllama) - TUI designed for easy management and use of Ollama based LLMs.
 * [safespace](https://github.com/danlou/safespace) - Your local AI counselor. LLM app that runs offline from a single binary.
 
 ## <a name="flashcard"></a>Anki, decks and flashcards

@@ -1542,3 +1542,4 @@ note-taking,rucola,,https://github.com/Linus-Mussmaecher/rucola,Terminal-based m
 time-tracker,cations,,https://github.com/Alcryst/cations,"Lightweight, user-friendly habit tracker and productivity tool; terminal-based CLI application."
 system,dtui,,https://github.com/Troels51/dtui,Small TUI for introspecting the state of the system/session dbus.
 webdev,posting,,https://github.com/darrenburns/posting,"The modern API client that lives in your terminal, not unlike Postman and Insomnia."
+ai,parllama,,https://github.com/paulrobello/parllama,TUI designed for easy management and use of Ollama based LLMs.
