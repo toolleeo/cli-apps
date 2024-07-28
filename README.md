@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1540**
+* Apps/tools: **1541**
 * Categories: **77**
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (49), [System monitoring](#monitor) (29), [System tools](#system) (28)
-* [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (18), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
+* [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (19), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
 * [Utilities](#utility) (39)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (27)
 * [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
@@ -1695,6 +1695,7 @@ Time and habit trackers to measure the amount of time spent on different activit
 
 * [arbtt](http://arbtt.nomeata.de/) - (automatic, rule-based time tracker) runs in the background, collecting information regarding open windows, focused ones, etc.; it can be configured to display statistics on the collected data, e.g., figuring out the time spent on one specific window.
 * [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line. It saves a log of all tracked activities as a plain-text file and allows you to create flexible reports.
+* [cations](https://github.com/Alcryst/cations) - Lightweight, user-friendly habit tracker and productivity tool; terminal-based CLI application.
 * [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 * [doing](https://github.com/ttscoff/doing) - A command line tool for remembering what you were doing and tracking what you've done.
 * [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
