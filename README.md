@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1542**
+* Apps/tools: **1543**
 * Categories: **77**
 
 # Index
@@ -31,7 +31,7 @@ Some links are available to [related resources](#resources).
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (19), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
 * [Utilities](#utility) (39)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (27)
-* [Web browser](#browser) (18), [Web development](#webdev) (27), [Writing](#writing) (9)
+* [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -1937,6 +1937,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - A lightweight file-system wiki engine that uses Git for keeping history.
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content.
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
+* [posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal, not unlike Postman and Insomnia.
 * [Reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
 * [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - Tools to assist with the development and/or maintenance of Shopify apps and stores.
