@@ -1550,3 +1550,4 @@ monitor,nitchplusplus,,https://github.com/clamsfeel2/nitchplusplus,A fast system
 ai,GPTparser,,https://github.com/dtflare/GPTparser,Use GPTparser with your OpenAI API to scrape & parse files into structured JSON files.
 monitor,tinyfetch,,https://github.com/beucismis/tinyfetch,Python and system information command-line fetch tool.
 git,prs,,https://github.com/dhth/prs,Stay updated on PRs without leaving the terminal.
+file-manager,walk,,https://github.com/antonmedv/walk,Terminal file manager.
