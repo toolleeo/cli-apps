@@ -1557,3 +1557,4 @@ data-management-tabular,tabiew,,https://github.com/shshemi/tabiew,"A lightweight
 typing,tt,,https://github.com/lemnos/tt,A terminal based typing test.
 graphics,LinuxSSTool,,https://github.com/DatCodeMania/LinuxSSTool,A simple script that takes a screenshot and adds a gradated border using ImageMagick.
 time-tracker,hours,,https://github.com/dhth/hours,A no-frills time tracking toolkit for command line nerds.
+graphics,rimage,,https://github.com/SalOne22/rimage,A powerful Rust image optimization CLI tool.
