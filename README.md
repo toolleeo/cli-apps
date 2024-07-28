@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1564**
+* Apps/tools: **1565**
 * Categories: **77**
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (34), [Fuzzy finders and option pickers](#option-picker) (14)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (53), [Git and accessories](#git) (55), [Graphics](#graphics) (40)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -758,6 +758,7 @@ Miscellaneous of tools that provide some funny/aesthetical functionality (animat
 * [daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter adding sounds at each keystroke.
 * [Draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * [fortune](http://software.clapper.org/fortune/) - Generates random messages fetched from a quotation database.
+* [HARRY_POTTER_ALIASES](https://github.com/P-Y-R-O-B-O-T/HARRY_POTTER_ALIASES) - Harry Potter-themed aliases a magical journey through the wizarding world of terminal commands.
 * [hollywood](https://github.com/dustinkirkland/hollywood) - Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
 * [kyun](https://github.com/file-acomplaint/kyun) - Kyun is a low productivity, low fidelity, low customizablity text editor that has its focus firm on user discomfort.
 * [Limoji](https://github.com/GEROGIANNIS/Limoji) - Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.

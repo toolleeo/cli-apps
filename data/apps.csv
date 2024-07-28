@@ -1563,3 +1563,4 @@ games,cheezee,,https://github.com/detectivekaktus/cheezee,Chess TUI client built
 vm,Pocker,,https://github.com/pommee/Pocker,"Pocker is a TUI tool to help with docker related tasks, such as view containers/images, manage status of containers, see logs, attributes, environment variables and container statistics, filter logs based on keywords, start shell inside a container."
 programming,nsh,,https://github.com/theHamdiz/nsh,"A powerful renaming utility for developers, used to rename Symbols, Phrases in File contents, file names, directory names, recursively, useful specially when you find a better name for your app."
 programming-boilerplate,contributing-generator,,https://github.com/friedrith/contributing-generator,"A generator for the CONTRIBUTING.md, README.md, LICENSE, etc."
+funny,HARRY_POTTER_ALIASES,,https://github.com/P-Y-R-O-B-O-T/HARRY_POTTER_ALIASES,Harry Potter-themed aliases a magical journey through the wizarding world of terminal commands.
