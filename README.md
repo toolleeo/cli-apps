@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1553**
+* Apps/tools: **1554**
 * Categories: **77**
 
 # Index
@@ -29,7 +29,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (49), [System monitoring](#monitor) (31), [System tools](#system) (29)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (19), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (13)
-* [Utilities](#utility) (39)
+* [Utilities](#utility) (40)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (27)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
@@ -1819,6 +1819,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [pangran](https://github.com/BimoT/pangran) - A simple TUI program that checks if you've typed a pangram.
 * [plzz](https://github.com/deep5050/plzz) - A Python CLI to automate daily tasks of both common and advanced users. It allows easily launching common and different types of operations such as creating random files or check hashes.
 * [Polykill](https://github.com/Bdeering1/polykill) - Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
+* [ProgressLine](https://github.com/kattouf/ProgressLine) - Track commands progress in a compact one-line format.
 * [ps1palette](https://github.com/WDoyle123/ps1palette) - Streamline Bash PS1 customization through script automation for prompt color coding and .bashrc integration.
 * [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions there are more than 100 exercises covering both the builtin re and third-party regex module.
 * [sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command.
