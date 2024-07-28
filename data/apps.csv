@@ -1535,3 +1535,4 @@ networking,turl,,https://github.com/yilmaz08/turl,tURL is a command-line tool to
 graphics,pik,,https://github.com/immanelg/pik,Color picker for terminal.
 launcher,mk,,https://github.com/orangekame3/mk,"Interactive task runner for Makefile or Taskfile.yml, designed to interactively execute make commands. It provides a user-friendly interface to select and run predefined commands, making it easier to manage and execute build tasks."
 email,quackalias-cli,,https://github.com/Megane0103/quackalias-cli,Scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
+networking,chiko,,https://github.com/felangga/chiko,The ultimate beauty gRPC Client on your Terminal: a simple tool to interact with gRPC services using a beautiful terminal interface.
