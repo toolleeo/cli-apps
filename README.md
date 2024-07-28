@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1556**
+* Apps/tools: **1557**
 * Categories: **77**
 
 # Index
@@ -20,7 +20,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (34), [Fuzzy finders and option pickers](#option-picker) (14)
-* [Games](#games) (52), [Git and accessories](#git) (55), [Graphics](#graphics) (38)
+* [Games](#games) (52), [Git and accessories](#git) (55), [Graphics](#graphics) (39)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (74), [Note taking](#note-taking) (24)
@@ -942,6 +942,7 @@ Applications to process images, colors, and ASCII art.
 * [kakikun](https://github.com/file-acomplaint/kakikun) - Kakikun is a tool to paint, draw and create ASCII art in your terminal using Unicode characters.
 * [Korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing with the following functions: optimize, convert, crop, resize, rotate, watermark, flip.
 * [LinuxLogo](https://sourceforge.net/projects/linuxlogo/) - Display the Linux distribution logo in ASCII format.
+* [LinuxSSTool](https://github.com/DatCodeMania/LinuxSSTool) - A simple script that takes a screenshot and adds a gradated border using ImageMagick.
 * [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer.
 * [MapSCII](https://github.com/rastapasta/mapscii) - A Braille & ASCII world map renderer for your console
 * [Mercator](https://github.com/mrusme/mercator) - OpenStreetMap but as terminal user interface (TUI) program.
