@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1535**
+* Apps/tools: **1536**
 * Categories: **77**
 
 # Index
@@ -18,7 +18,7 @@ Some links are available to [related resources](#resources).
 * [Backup](#backup) (16)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (20), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (27), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
-* [Editors](#editors) (26), [Email](#email) (16)
+* [Editors](#editors) (26), [Email](#email) (17)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (12), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (20), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (14), [Font management](#font) (4), [Funny tools](#funny) (33), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (52), [Git and accessories](#git) (53), [Graphics](#graphics) (38)
 * [History management](#history) (4)
@@ -546,6 +546,7 @@ Email clients (MUA - Mail User Agents), mail synchronization, generation indexin
 * [paws](https://github.com/tomhrr/paws) - sendmail/maildir interface to Slack.
 * [pop](https://github.com/charmbracelet/pop) - Send emails from your terminal; it uses the API at [https://resend.com/](resend.com).
 * [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
+* [quackalias-cli](https://github.com/Megane0103/quackalias-cli) - Scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
 * [sup](http://sup-heliotrope.github.io/) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 * [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
