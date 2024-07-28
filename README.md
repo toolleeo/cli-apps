@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1527**
+* Apps/tools: **1528**
 * Categories: **77**
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (51), [Git and accessories](#git) (53), [Graphics](#graphics) (37)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (70), [Note taking](#note-taking) (23)
+* [Networking](#networking) (71), [Note taking](#note-taking) (23)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (19), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (11), [Programming](#programming) (39), [Prompts](#prompt) (14)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1027,6 +1027,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [tproxy](https://github.com/kevwan/tproxy) - A CLI tool to proxy and analyze TCP connections.
 * [TReq](https://github.com/talis-fb/TReq) - A CLI tool for effortless HTTP requests.
 * [trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool.
+* [trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - An ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
 * [tsshd](https://github.com/trzsz/tsshd) - The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 * [TStream](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
 * [ttfb](https://github.com/phip1611/ttfb) - ttfb is a CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.

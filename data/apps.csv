@@ -1526,3 +1526,4 @@ todo-manager,agile-planner,,https://github.com/AndrewRoe34/agile-planner,"Stream
 music,sonicradio,,https://github.com/dancnb/sonicradio,A TUI radio player making use of Radio Browser API and Bubbletea.
 viewers,moulti,,https://github.com/xavierog/moulti,"Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps."
 networking,tsshd,,https://github.com/trzsz/tsshd,"The tsshd works like mosh-server, while the ""tssh --udp"" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding."
+networking,trzsz-ssh,,https://github.com/trzsz/trzsz-ssh,"An ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc."
