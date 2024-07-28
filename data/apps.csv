@@ -1546,3 +1546,4 @@ ai,parllama,,https://github.com/paulrobello/parllama,TUI designed for easy manag
 financial,mop,,https://github.com/mop-tracker/mop,Stock market tracker for hackers.
 ai,cai,,https://github.com/ad-si/cai,The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 editors,aretext,,https://github.com/aretext/aretext,Minimalist text editor with vim-compatible key bindings.
+monitor,nitchplusplus,,https://github.com/clamsfeel2/nitchplusplus,A fast system information fetch tool.
