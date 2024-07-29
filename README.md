@@ -9,14 +9,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1569**
+* Apps/tools: **1570**
 * Categories: **77**
 
 # Index
 
 * [AI / ChatGPT](#ai) (25), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (21), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
+* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (22), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (14)
@@ -219,6 +219,7 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [asciit](https://github.com/Q1CHENL/asciit) - A more compact and intuitive ASCII table in your terminal: an alternative to "man 7 ascii" and "ascii".
 * [carapace](https://github.com/rsteube/carapace-bin) - Carapace provides argument completion for multiple CLI commands and works across multiple POSIX and non-POSIX shells.
 * [cheatshh](https://github.com/AnirudhG07/cheatshh) - A fzf based cheatsheet to store commands and their descriptions in a place you can look into so you dont have to remember them.
+* [cmdCompass](https://github.com/johnwangwyx/cmdCompass) - Cross-platform terminal command manager/notebook with features like custom collections, tagging, variable substitution, and integrated man page with option highlighting.
 * [docfd](https://github.com/darrenldl/docfd) - TUI fuzzy document finder that looks for documentation files in Markdown and txt format in the directory tree.
 * [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 * [ehh](https://github.com/lennardv2/ehh) - Command-line tool for remembering Linux/terminal commands.
