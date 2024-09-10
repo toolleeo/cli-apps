@@ -1580,3 +1580,4 @@ music,podbit,,https://github.com/ejv2/podbit,"Podbit is a replacement for newsbo
 chat,iamb,https://iamb.chat/,https://github.com/ulyssa/iamb,"iamb is a Matrix client for the terminal that uses Vim keybindings."
 networking,bmon,,https://github.com/tgraf/bmon,bmon is a monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.
 graphics,zbar,https://zbar.sourceforge.net/,https://github.com/mchehab/zbar,"ZBar reads bar codes from various sources, such as video streams and image files. It supports many popular ypes of bar codes including QR Codes."
+networking,wavemon,,https://github.com/uoaerg/wavemon,wavemon is an ncurses-based monitoring application for wireless network devices on Linux. 
