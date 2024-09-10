@@ -1586,3 +1586,4 @@ text-processing,lingua-cli,,https://github.com/proycon/lingua-cli,"This is a sma
 text-processing,analiticcl,,https://github.com/proycon/analiticcl,"An approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction."
 text-processing,lexmatch,,https://github.com/proycon/lexmatch,"This is a simple lexicon matching tool that, given a lexicon of words or phrases, identifies all matches in a given target text, returning their exact positions. It can be used compute a frequency list for a lexicon, on a target corpus."
 text-processing,stam-tools,,https://github.com/annotation/stam-tools,"A collection of command-line tools for working with STAM, a data-model for stand-off annotations on text."
+text-processing,charfreq,,https://github.com/proycon/charfreq,"Very simple command-line tool that counts (unicode) character frequency from standard input"
