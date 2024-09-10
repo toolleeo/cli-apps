@@ -1588,3 +1588,4 @@ text-processing,lexmatch,,https://github.com/proycon/lexmatch,"This is a simple 
 text-processing,stam-tools,,https://github.com/annotation/stam-tools,"A collection of command-line tools for working with STAM, a data-model for stand-off annotations on text."
 text-processing,charfreq,,https://github.com/proycon/charfreq,"Very simple command-line tool that counts (unicode) character frequency from standard input"
 diff,sesdiff,,https://github.com/proycon/sesdiff,"Generates a shortest edit script (Myers' diff algorithm) to indicate how to get from the strings in column A to the strings in column B. Also provides the edit distance (levenshtein)."
+text-processing,ucto,https://languagemachines.github.io/ucto/,https://github.com/LanguageMachines/ucto,"Ucto tokenizes text files: it separates words from punctuation, and splits sentences. It has rules (regular-expression based) for several languages."
