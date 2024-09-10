@@ -1575,3 +1575,4 @@ viewers,nbpreview,https://github.com/paw-lu/nbpreview,https://github.com/paw-lu/
 chat,senpai,,https://git.sr.ht/~delthas/senpai/,"A modern terminal IRC client."
 flashcard,vocage,,https://git.sr.ht/~proycon/vocage/,"Vocage is a minimalistic terminal-based vocabulary-learning tool. It presents flashcards using a spaced-repetition algorithm (e.g. Leitner). Data is stored in a simple plain-text tab-separated values format (TSV)."
 todo-manager,todo.txt-more,,https://git.sr.ht/~proycon/todotxt-more,"Extensions for todo.txt: interactive rofi/fzf control, sync github issues, better colors, time tracking... and more!"
+music,podboat,https://newsboat.org/,https://github.com/newsboat/newsboat,"A podcast download manager for text terminals, a companion for the newsboat RSS-reader."
