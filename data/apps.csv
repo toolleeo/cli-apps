@@ -1577,3 +1577,4 @@ flashcard,vocage,,https://git.sr.ht/~proycon/vocage/,"Vocage is a minimalistic t
 todo-manager,todo.txt-more,,https://git.sr.ht/~proycon/todotxt-more,"Extensions for todo.txt: interactive rofi/fzf control, sync github issues, better colors, time tracking... and more!"
 music,podboat,https://newsboat.org/,https://github.com/newsboat/newsboat,"A podcast download manager for text terminals, a companion for the newsboat RSS-reader."
 music,podbit,,https://github.com/ejv2/podbit,"Podbit is a replacement for newsboat's standard podboat tool for listening to podcasts. It is minimal, performant and tries to focus just on being a podcast client, rather than an RSS reader."
+chat,iamb,https://iamb.chat/,https://github.com/ulyssa/iamb,"iamb is a Matrix client for the terminal that uses Vim keybindings."
