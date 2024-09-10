@@ -1584,3 +1584,4 @@ networking,wavemon,,https://github.com/uoaerg/wavemon,wavemon is an ncurses-base
 git,hut,,https://git.sr.ht/~xenrox/hut,A CLI tool for sr.ht.
 text-processing,lingua-cli,,https://github.com/proycon/lingua-cli,"This is a small command-line tool for language detection, it is a simple wrapper around the lingua-rs library for Rust"
 text-processing,analiticcl,,https://github.com/proycon/analiticcl,"An approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction."
+text-processing,lexmatch,,https://github.com/proycon/lexmatch,"This is a simple lexicon matching tool that, given a lexicon of words or phrases, identifies all matches in a given target text, returning their exact positions. It can be used compute a frequency list for a lexicon, on a target corpus."
