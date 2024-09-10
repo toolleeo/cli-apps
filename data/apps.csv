@@ -1583,3 +1583,4 @@ graphics,zbar,https://zbar.sourceforge.net/,https://github.com/mchehab/zbar,"ZBa
 networking,wavemon,,https://github.com/uoaerg/wavemon,wavemon is an ncurses-based monitoring application for wireless network devices on Linux. 
 git,hut,,https://git.sr.ht/~xenrox/hut,A CLI tool for sr.ht.
 text-processing,lingua-cli,,https://github.com/proycon/lingua-cli,"This is a small command-line tool for language detection, it is a simple wrapper around the lingua-rs library for Rust"
+text-processing,analiticcl,,https://github.com/proycon/analiticcl,"An approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction."
