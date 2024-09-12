@@ -1586,3 +1586,4 @@ screensaver,conway-screensaver,,https://github.com/cdkw2/conway-screensaver,A Co
 option-picker,tp,,https://github.com/minefuto/tp,Display the result of the commands at every keystroke.
 networking,kftray,,https://github.com/hcavarsan/kftray,"kubectl port-forward on steroids, manage and share multiple k8s port forwards, with support for UDP, proxy through the k8s cluster, and github state sync."
 cheatsheet,snip,,https://github.com/marcopaganini/snip,"A snippet manager for bash, mostly written in pure bash."
+graphics,svgshift,,https://github.com/10xJSChad/svgshift,Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
