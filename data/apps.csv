@@ -1588,3 +1588,4 @@ networking,kftray,,https://github.com/hcavarsan/kftray,"kubectl port-forward on 
 cheatsheet,snip,,https://github.com/marcopaganini/snip,"A snippet manager for bash, mostly written in pure bash."
 graphics,svgshift,,https://github.com/10xJSChad/svgshift,Command-line utility to quickly adjust the colors in an svg file. Allows for quick and easy color manipulation of svg files by adjusting RGB and HSL values.
 file-handling,dlorg,,https://github.com/deepspeccode/dlorg,Powerful and intuitive that automatically organizes your cluttered Downloads folder into a neatly structured directory system.
+utility,bashtutor,,https://github.com/agvxov/bashtutor,"Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself."
