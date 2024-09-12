@@ -1597,3 +1597,4 @@ online,subs,,https://github.com/0x4f53/subs,"Grab valid subdomains, resolve them
 data-management-json,jnv,,https://github.com/ynqa/jnv,Interactive JSON filter using jq.
 ai,chat.sh,,https://github.com/basherbots/chat.sh,Pipeable LLM wrapper with code execution (OpenRouter).
 security,sshamble,,https://github.com/runZeroInc/sshamble,Unexpected exposures in SSH; the tool checks for several common weaknesses in SSH security issues.
+screensaver,lifecycler,,https://github.com/cxreiff/lifecycler,An aquarium that runs in your terminal.
