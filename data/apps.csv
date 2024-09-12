@@ -1604,3 +1604,4 @@ programming,devbox,,https://github.com/jetify-com/devbox,"Instant, easy, and pre
 text-search,semantic-grep,,https://github.com/arunsupe/semantic-grep,grep for words with similar meaning to the query.
 networking,nics,,https://github.com/jftuga/nics,Display information about Network Interface Cards (NICs); the same output is presented across platforms.
 note-taking,tb.go,,https://github.com/araaha/tb.go,"Tasks, boards & notes for the command-line habitat."
+graphics,PyBonsai,,https://github.com/Ben-Edwards44/PyBonsai,Generate procedural ASCII art trees in the terminal.
