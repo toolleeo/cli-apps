@@ -1600,3 +1600,4 @@ security,sshamble,,https://github.com/runZeroInc/sshamble,Unexpected exposures i
 screensaver,lifecycler,,https://github.com/cxreiff/lifecycler,An aquarium that runs in your terminal.
 games,terminal-doom,,https://github.com/cryptocode/terminal-doom,Play DOOM in modern terminals.
 text-processing,logu,,https://github.com/ynqa/logu,Extract patterns from (streaming) unstructured log messages.
+programming,devbox,,https://github.com/jetify-com/devbox,"Instant, easy, and predictable development environments."
