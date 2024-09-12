@@ -9,12 +9,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1580**
+* Apps/tools: **1581**
 * Categories: **77**
 
 # Index
 
-* [AI / ChatGPT](#ai) (26), [Anki, decks and flashcards](#flashcard) (7)
+* [AI / ChatGPT](#ai) (27), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (22), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
@@ -49,6 +49,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types.
 * [cligpt](https://github.com/paij0se/cligpt) - ChatGPT but in the terminal.
 * [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
+* [fabric](https://github.com/danielmiessler/fabric) - An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * [gemini-cli](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini.
 * [gpterm](https://github.com/MakisChristou/gpterm) - Yet another command-line ChatGPT frontend written in Rust.
 * [GPTparser](https://github.com/dtflare/GPTparser) - Use GPTparser with your OpenAI API to scrape & parse files into structured JSON files.

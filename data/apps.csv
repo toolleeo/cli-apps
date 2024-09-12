@@ -1579,3 +1579,4 @@ transfer,github-dlr,,https://github.com/rocktimsaikia/github-dlr,Download indivi
 online,dawson,,https://github.com/will-moss/dawson,"Track your project's statistics on Hacker News and Github, and get notified on every new interaction."
 viewers,see,,https://github.com/guilhermeprokisch/see,"A cute cat for the terminal with advanced code viewing, Markdown rendering, tree-sitter syntax highlighting, images view and more."
 ai,llm-term,,https://github.com/dh1011/llm-term,A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
+ai,fabric,,https://github.com/danielmiessler/fabric,"An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
