@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1573**
+* Apps/tools: **1574**
 * Categories: **77**
 
 # Index
@@ -27,7 +27,7 @@ Some links are available to [related resources](#resources).
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (41), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
-* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (50), [System monitoring](#monitor) (31), [System tools](#system) (30)
+* [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (50), [System monitoring](#monitor) (32), [System tools](#system) (30)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (40)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (28)
@@ -1558,6 +1558,7 @@ Applications to display the usage of system resources: network, memory, power, e
 * [dmidecode](https://www.nongnu.org/dmidecode/) - System information utility.
 * [dysk](https://dystroy.org/dysk) - A thing to get information on your mounted disks
 * [Fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like Neofetch, but much faster because written in C.
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 * [GFetch](https://github.com/tanaybhomia/GFetch) - A simple fetch script written in Python.
 * [glances](https://nicolargo.github.io/glances/) - A comprehensive and detailed system monitor; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
 * [HyFetch](https://github.com/hykilpikonna/hyfetch) - A fork of the abandoned [Neofetch](https://github.com/dylanaraps/neofetch), HyFetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice.
