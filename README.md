@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1591**
+* Apps/tools: **1592**
 * Categories: **77**
 
 # Index
@@ -30,7 +30,7 @@ Some links are available to [related resources](#resources).
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (5), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (50), [System monitoring](#monitor) (32), [System tools](#system) (31)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (36), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (41)
-* [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (29)
+* [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
@@ -1913,6 +1913,7 @@ File viewers for images and other formats (e.g., e-books).
 * [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
 * [bbcli](https://github.com/hako/bbcli) - Browse BBC News like a hacker.
 * [brows](https://github.com/rubysolo/brows) - CLI GitHub release browser.
+* [btail](https://github.com/galalen/btail) - Interactive file tail viewer.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
 * [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 * [ccat](https://github.com/owenthereal/ccat) - `cat` with colorized output.
