@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1582**
+* Apps/tools: **1583**
 * Categories: **77**
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (75), [Note taking](#note-taking) (24)
-* [Office tools](#office) (15), [Online search and resources](#online) (19), [Organizers and calendars](#organizers) (22)
+* [Office tools](#office) (15), [Online search and resources](#online) (20), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (41), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (4), [Security and encryption](#security) (33), [Shells](#shells) (25), [Sound and music](#music) (50), [System monitoring](#monitor) (32), [System tools](#system) (30)
@@ -1142,6 +1142,7 @@ Tools that interact with online resources to provide their services, e.g., searc
 * [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
 * [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
 * [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
+* [tuir](https://gitlab.com/Chocimier/tuir) - Browse Reddit from your terminal.
 * [wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface.
 * [wikit](https://github.com/KorySchneider/wikit) - A command line program for getting Wikipedia summaries easily.
 
