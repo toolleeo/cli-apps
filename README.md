@@ -9,12 +9,12 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1596**
+* Apps/tools: **1597**
 * Categories: **77**
 
 # Index
 
-* [AI / ChatGPT](#ai) (30), [Anki, decks and flashcards](#flashcard) (7)
+* [AI / ChatGPT](#ai) (31), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (23), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
@@ -43,6 +43,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything: OpenAI GPT in the terminal.
 * [cai](https://github.com/ad-si/cai) - The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 * [cha](https://github.com/MehmetMHY/cha) - A simple CLI chat tool to easily interface with OpenAI's models.
+* [chat.sh](https://github.com/basherbots/chat.sh) - Pipeable LLM wrapper with code execution (OpenRouter).
 * [Chatblade](https://github.com/npiv/chatblade) - Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT.
 * [chatgpt](https://github.com/mglantz/chatgpt) - Simple command line integration to ChatGPT.
 * [ChatGPTerminator](https://github.com/AineeJames/ChatGPTerminator) - GPTerminator provides a convenient way to interact with OpenAI's chat completion and image generation API's using your command line interface.
