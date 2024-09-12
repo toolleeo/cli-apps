@@ -1573,3 +1573,4 @@ programming,bencher,,https://github.com/bencherdev/bencher,"Continuous benchmark
 system,ntfyme,,https://github.com/AnirudhG07/ntfyme,"Simple to use, cross platform notification tool which sends you local, gmail, telegram, etc notification when a long running process ends with detailed diagnostics, along with features like tracking for suspended process and terminate them automatically."
 viewers,nbpreview,https://github.com/paw-lu/nbpreview,https://github.com/paw-lu/nbpreview,A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 monitor,fastfetch,,https://github.com/fastfetch-cli/fastfetch,"An actively maintained, feature-rich and performance oriented, neofetch like system information tool."
+networking,oryx,,https://github.com/pythops/oryx,TUI for sniffing network traffic using eBPF on Linux

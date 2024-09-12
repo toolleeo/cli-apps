@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1574**
+* Apps/tools: **1575**
 * Categories: **77**
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (53), [Git and accessories](#git) (55), [Graphics](#graphics) (40)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (74), [Note taking](#note-taking) (24)
+* [Networking](#networking) (75), [Note taking](#note-taking) (24)
 * [Office tools](#office) (15), [Online search and resources](#online) (18), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (21), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (41), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1026,6 +1026,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [netscanner](https://github.com/Chleba/netscanner) - All-in-one network scanning tool.
 * [oha](https://github.com/hatoo/oha) - oha is a tiny program that sends some load to a web application and show real-time TUI.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
+* [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux
 * [packemon](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 * [Prosody](https://prosody.im/) - Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources.
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
