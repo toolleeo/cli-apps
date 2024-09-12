@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1603**
+* Apps/tools: **1604**
 * Categories: **77**
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (54), [Git and accessories](#git) (55), [Graphics](#graphics) (41)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (76), [Note taking](#note-taking) (24)
+* [Networking](#networking) (77), [Note taking](#note-taking) (24)
 * [Office tools](#office) (15), [Online search and resources](#online) (21), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (42), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1038,6 +1038,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [mtr](https://github.com/traviscross/mtr) - mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics with a Terminal UI.
 * [netscanner](https://github.com/Chleba/netscanner) - All-in-one network scanning tool.
+* [nics](https://github.com/jftuga/nics) - Display information about Network Interface Cards (NICs); the same output is presented across platforms.
 * [oha](https://github.com/hatoo/oha) - oha is a tiny program that sends some load to a web application and show real-time TUI.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
 * [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux.

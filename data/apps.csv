@@ -1602,3 +1602,4 @@ games,terminal-doom,,https://github.com/cryptocode/terminal-doom,Play DOOM in mo
 text-processing,logu,,https://github.com/ynqa/logu,Extract patterns from (streaming) unstructured log messages.
 programming,devbox,,https://github.com/jetify-com/devbox,"Instant, easy, and predictable development environments."
 text-search,semantic-grep,,https://github.com/arunsupe/semantic-grep,grep for words with similar meaning to the query.
+networking,nics,,https://github.com/jftuga/nics,Display information about Network Interface Cards (NICs); the same output is presented across platforms.
