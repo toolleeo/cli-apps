@@ -1594,3 +1594,4 @@ viewers,btail,,https://github.com/galalen/btail,Interactive file tail viewer.
 ai,savvy-cli,,https://github.com/getsavvyinc/savvy-cli,Automatically capture and surface your team's tribal knowledge.
 ai,Alibaba-CLI-Scraper,,https://github.com/poneoneo/Alibaba-CLI-Scraper,Create your own Alibaba dataset and interact with it in plain English.
 online,subs,,https://github.com/0x4f53/subs,"Grab valid subdomains, resolve them, split them and more."
+data-management-json,jnv,,https://github.com/ynqa/jnv,Interactive JSON filter using jq.
