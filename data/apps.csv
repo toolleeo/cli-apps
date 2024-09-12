@@ -1578,3 +1578,4 @@ password-manager,teller,,https://github.com/tellerops/teller,Cloud native secret
 transfer,github-dlr,,https://github.com/rocktimsaikia/github-dlr,Download individual files and folders from Github recursively.
 online,dawson,,https://github.com/will-moss/dawson,"Track your project's statistics on Hacker News and Github, and get notified on every new interaction."
 viewers,see,,https://github.com/guilhermeprokisch/see,"A cute cat for the terminal with advanced code viewing, Markdown rendering, tree-sitter syntax highlighting, images view and more."
+ai,llm-term,,https://github.com/dh1011/llm-term,A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models.
