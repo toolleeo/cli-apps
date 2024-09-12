@@ -1584,3 +1584,4 @@ ai,genie,,https://github.com/harshalranjhani/genie,"Personal assistant for the C
 online,tuir,,https://gitlab.com/Chocimier/tuir,Browse Reddit from your terminal.
 screensaver,conway-screensaver,,https://github.com/cdkw2/conway-screensaver,A Conways game of life screensaver for the terminal.
 option-picker,tp,,https://github.com/minefuto/tp,Display the result of the commands at every keystroke.
+networking,kftray,,https://github.com/hcavarsan/kftray,"kubectl port-forward on steroids, manage and share multiple k8s port forwards, with support for UDP, proxy through the k8s cluster, and github state sync."
