@@ -1582,3 +1582,4 @@ ai,llm-term,,https://github.com/dh1011/llm-term,A Rust-based CLI tool that gener
 ai,fabric,,https://github.com/danielmiessler/fabric,"An open-source framework for augmenting humans using AI, providing a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
 ai,genie,,https://github.com/harshalranjhani/genie,"Personal assistant for the CLI that helps in tasks such as running commands, generating images and music, summarizing comments."
 online,tuir,,https://gitlab.com/Chocimier/tuir,Browse Reddit from your terminal.
+screensaver,conway-screensaver,,https://github.com/cdkw2/conway-screensaver,A Conways game of life screensaver for the terminal.
