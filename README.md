@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1604**
+* Apps/tools: **1605**
 * Categories: **77**
 
 # Index
@@ -23,7 +23,7 @@ Some links are available to [related resources](#resources).
 * [Games](#games) (54), [Git and accessories](#git) (55), [Graphics](#graphics) (41)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (77), [Note taking](#note-taking) (24)
+* [Networking](#networking) (77), [Note taking](#note-taking) (25)
 * [Office tools](#office) (15), [Online search and resources](#online) (21), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (42), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1107,6 +1107,7 @@ Tools to take, organize and manage notes.
 * [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 * [sncli](https://github.com/insanum/sncli) - A Python application that gives you access to your Simplenote account via the command line.
 * [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux.
+* [tb.go](https://github.com/araaha/tb.go) - Tasks, boards & notes for the command-line habitat.
 * [tdo](https://github.com/2KAbhishek/tdo) - Fast and Simple Note Taking.
 * [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast, cross-platform note-taking application for the UNIX terminal.
 * [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) - Terminal-based application written in Rust that allows you to write and manage your journal/notes with a nice user interface.
