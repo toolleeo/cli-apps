@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1602**
+* Apps/tools: **1603**
 * Categories: **77**
 
 # Index
@@ -28,7 +28,7 @@ Some links are available to [related resources](#resources).
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (42), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (34), [Shells](#shells) (25), [Sound and music](#music) (50), [System monitoring](#monitor) (32), [System tools](#system) (31)
-* [Terminals](#terminal) (22), [Text processing](#text-processing) (37), [Text search (alternatives to grep)](#text-search) (11), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
+* [Terminals](#terminal) (22), [Text processing](#text-processing) (37), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (34), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (41)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
@@ -1727,6 +1727,7 @@ Search files and exploring directory trees to look for text or patterns (RegEx) 
 * [paragrep](http://software.clapper.org/paragrep/) - Greps regular expressions in a text file(s) and prints out the paragraphs containing those expressions, a paragraph is defined as a block of text delimited by an empty or blank line, fully customizable via command line parameters.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern.
 * [ripgrep-all](https://github.com/phiresky/ripgrep-all) - grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.
+* [semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query.
 * [sift](https://sift-tool.org/) - Fast and powerful alternative to `grep`; it targets flexibility and performance: can be as fast as `grep` and allows specifying complex expressions to find text.
 * [ugrep](https://github.com/Genivia/ugrep) - Ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more.
 * [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
