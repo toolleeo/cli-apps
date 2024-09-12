@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1599**
+* Apps/tools: **1600**
 * Categories: **77**
 
 # Index
@@ -20,7 +20,7 @@ Some links are available to [related resources](#resources).
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (15)
-* [Games](#games) (53), [Git and accessories](#git) (55), [Graphics](#graphics) (41)
+* [Games](#games) (54), [Git and accessories](#git) (55), [Graphics](#graphics) (41)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (76), [Note taking](#note-taking) (24)
@@ -860,6 +860,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [terdle](https://github.com/neelkarma/terdle) - Wordle implemented in Rust.
 * [Terminal Phase](https://dustycloud.org/blog/terminal-phase-1.0/) - A space shooter game you can play in your terminal.
 * [Terminal Roulette](https://github.com/levkush/TerminalRoulette) - Your own roulette table in the terminal.
+* [terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals.
 * [terminal_board_games](https://github.com/salt-die/terminally_bored_terminal_board_games) - Board games for the terminal.
 * [terminordle](https://github.com/HP4k1h5/terminordle) - Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.
 * [tetrs](https://github.com/Strophox/tetrs) - Tetromino game engine and terminal application to play Tetris, written in Rust.
