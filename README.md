@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1584**
+* Apps/tools: **1585**
 * Categories: **77**
 
 # Index
@@ -19,7 +19,7 @@ Some links are available to [related resources](#resources).
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (22), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
-* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (14)
+* [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (15)
 * [Games](#games) (53), [Git and accessories](#git) (55), [Graphics](#graphics) (40)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
@@ -803,6 +803,7 @@ Fuzzy finders and generic option pickers in lists of strings.
 * [shmenu](https://github.com/duclos-cavalcanti/shmenu) - Menu TUI tool written solely in bash.
 * [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
 * [smenu](https://github.com/p-gen/smenu) - Started as a lightweight and flexible terminal menu generator, it evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
+* [tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
 
 ## <a name="games"></a>Games
 
