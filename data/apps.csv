@@ -1575,3 +1575,4 @@ viewers,nbpreview,https://github.com/paw-lu/nbpreview,https://github.com/paw-lu/
 monitor,fastfetch,,https://github.com/fastfetch-cli/fastfetch,"An actively maintained, feature-rich and performance oriented, neofetch like system information tool."
 networking,oryx,,https://github.com/pythops/oryx,TUI for sniffing network traffic using eBPF on Linux.
 password-manager,teller,,https://github.com/tellerops/teller,Cloud native secrets management for developers - never leave your command line for secrets.
+transfer,github-dlr,,https://github.com/rocktimsaikia/github-dlr,Download individual files and folders from Github recursively.

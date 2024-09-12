@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1576**
+* Apps/tools: **1577**
 * Categories: **77**
 
 # Index
@@ -17,7 +17,7 @@ Some links are available to [related resources](#resources).
 * [AI / ChatGPT](#ai) (25), [Anki, decks and flashcards](#flashcard) (7)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (32), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (22), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (42), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (43), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (43), [DevOps](#devops) (8), [Diff](#diff) (10), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (21), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (14)
 * [Games](#games) (53), [Git and accessories](#git) (55), [Graphics](#graphics) (40)
@@ -399,6 +399,7 @@ Programs for transferring files and data between different machines.
 * [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progress bar.
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Gallery-dl is a command-line program to download image galleries and collections from several image hosting sites.
+* [github-dlr](https://github.com/rocktimsaikia/github-dlr) - Download individual files and folders from Github recursively.
 * [Jitter](https://github.com/kevspau/jitter) - A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets.
 * [lftp](https://lftp.yar.ru/) - "Sophisticated FTP/HTTP client, and a file transfer program supporting a number of network protocols"; support for bookmarks and mirroring features.
 * [lux](https://github.com/iawia002/lux) - Lux is a fast and simple video downloader built with Go.
@@ -1026,7 +1027,7 @@ Networks and communication tools: bandwidth monitoring, packet inspection, remot
 * [netscanner](https://github.com/Chleba/netscanner) - All-in-one network scanning tool.
 * [oha](https://github.com/hatoo/oha) - oha is a tiny program that sends some load to a web application and show real-time TUI.
 * [Optic](https://www.useoptic.com/) - Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.
-* [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux
+* [oryx](https://github.com/pythops/oryx) - TUI for sniffing network traffic using eBPF on Linux.
 * [packemon](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 * [Prosody](https://prosody.im/) - Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources.
 * [PSSH](https://code.google.com/archive/p/parallel-ssh/) - Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
