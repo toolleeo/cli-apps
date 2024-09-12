@@ -1599,3 +1599,4 @@ ai,chat.sh,,https://github.com/basherbots/chat.sh,Pipeable LLM wrapper with code
 security,sshamble,,https://github.com/runZeroInc/sshamble,Unexpected exposures in SSH; the tool checks for several common weaknesses in SSH security issues.
 screensaver,lifecycler,,https://github.com/cxreiff/lifecycler,An aquarium that runs in your terminal.
 games,terminal-doom,,https://github.com/cryptocode/terminal-doom,Play DOOM in modern terminals.
+text-processing,logu,,https://github.com/ynqa/logu,Extract patterns from (streaming) unstructured log messages.
