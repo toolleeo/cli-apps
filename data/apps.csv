@@ -1577,3 +1577,4 @@ networking,oryx,,https://github.com/pythops/oryx,TUI for sniffing network traffi
 password-manager,teller,,https://github.com/tellerops/teller,Cloud native secrets management for developers - never leave your command line for secrets.
 transfer,github-dlr,,https://github.com/rocktimsaikia/github-dlr,Download individual files and folders from Github recursively.
 online,dawson,,https://github.com/will-moss/dawson,"Track your project's statistics on Hacker News and Github, and get notified on every new interaction."
+viewers,see,,https://github.com/guilhermeprokisch/see,"A cute cat for the terminal with advanced code viewing, Markdown rendering, tree-sitter syntax highlighting, images view and more."
