@@ -1625,3 +1625,4 @@ text-processing,ucto,https://languagemachines.github.io/ucto/,https://github.com
 text-processing,ssam,,https://github.com/proycon/ssam,"Ssam, short for split sampler, splits one or more text-based input files into multiple sets using random sampling. This is useful for splitting data into a training, test and development sets."
 text-processing,Colibri Core,https://proycon.github.io/colibri-core/,https://github.com/proycon/colibri-core,"A software to quickly and efficiently count and extract patterns (n-grams and more) from large corpus data, to extract various statistics on the extracted patterns, and to compute relations between the extracted patterns."
 text-processing,hyphertool,,https://github.com/proycon/hyphertool/,Command-line tool for syllabification and hyphenisation for multiple languages.
+transfer,Froop,,https://github.com/happer64bit/froop,Share file across network seamlessly and securely.
