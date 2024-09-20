@@ -954,6 +954,7 @@ Applications to process images, colors, and ASCII art.
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 * [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 * [givegif](https://github.com/passy/givegif) - GIFs on the command line.
+* [gowall](https://github.com/Achno/gowall) - Wallpaper Theme converter, color palette extraction & more
 * [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
 * [Graphviz](https://graphviz.org/) - Graphviz is open source graph visualization software. It contains several command line tools to generate and manipulate graphs.
 * [haylxon](https://github.com/pwnwriter/haylxon) - Blazing-fast tool to grab screenshots of your domain list right from terminal.
