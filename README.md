@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1630**
+* Apps/tools: **1631**
 * Categories: **77**
 
 # Index
@@ -31,7 +31,7 @@ Some links are available to [related resources](#resources).
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
 * [Utilities](#utility) (41)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
-* [Web browser](#browser) (18), [Web development](#webdev) (28), [Writing](#writing) (9)
+* [Web browser](#browser) (18), [Web development](#webdev) (29), [Writing](#writing) (9)
 
 ## <a name="ai"></a>AI / ChatGPT
 
@@ -2020,6 +2020,7 @@ Web development tools, including load test tools, API clients and managers, link
 * [kanha](https://github.com/pwnwriter/kanha) - A web-app pentesting suite written in Rust.
 * [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
 * [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
+* [maelstrom](https://github.com/twentyone24/maelstrom) - stress-test your API reliability on concurrent threads, with latency metrics.
 * [Metalsmith](http://www.metalsmith.io/) - An extremely simple static site generator, all functionalities are provided by plugins that can be combined and chained, written and extendable in JavaScript.
 * [Mycorrhiza Wiki](https://mycorrhiza.wiki/) - A lightweight file-system wiki engine that uses Git for keeping history.
 * [nanoc](http://nanoc.ws/) - Static site generator written in Ruby, extremely powerful and customizable, support many formats to generate HTML content.
