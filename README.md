@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1628**
+* Apps/tools: **1629**
 * Categories: **77**
 
 # Index
@@ -24,7 +24,7 @@ Some links are available to [related resources](#resources).
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
 * [Networking](#networking) (79), [Note taking](#note-taking) (25)
-* [Office tools](#office) (15), [Online search and resources](#online) (21), [Organizers and calendars](#organizers) (22)
+* [Office tools](#office) (15), [Online search and resources](#online) (22), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (42), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (34), [Shells](#shells) (25), [Sound and music](#music) (52), [System monitoring](#monitor) (32), [System tools](#system) (31)
@@ -1149,6 +1149,7 @@ Programs to manage spreadsheets and to make presentations.
 Tools that interact with online resources to provide their services, e.g., searches, wiki, etc..
 
 * [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.
+* [av](https://github.com/aviator-co/av) - A command line tool to manage stacked PRs with Aviator.
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 * [Awesome Finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
 * [dawson](https://github.com/will-moss/dawson) - Track your project's statistics on Hacker News and Github, and get notified on every new interaction.
