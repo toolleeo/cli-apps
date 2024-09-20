@@ -9,14 +9,14 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1627**
+* Apps/tools: **1628**
 * Categories: **77**
 
 # Index
 
 * [AI / ChatGPT](#ai) (31), [Anki, decks and flashcards](#flashcard) (8)
 * [Backup](#backup) (16)
-* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (23), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
+* [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (21), [Conversion](#conversion) (14)
 * [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (15)
@@ -241,6 +241,7 @@ Tools to manage often used commands, code snippets, and alternative manual pages
 * [Nap](https://github.com/maaslalani/nap) - Code snippet manager that allows creating and access new snippets quickly with the command-line interface or browse, manage, and organize them with the text-user interface.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [pet](https://github.com/knqyf263/pet) - Pet is a simple command-line snippet manager, written in Go.
+* [Runme](https://runme.dev/) - DevOps notebooks built with Markdown.
 * [snip](https://github.com/marcopaganini/snip) - A snippet manager for bash, mostly written in pure bash.
 * [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
 * [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (although I would be extra-cautious at making a program to automatically infer what I was intending).
