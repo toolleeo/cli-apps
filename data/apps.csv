@@ -1605,23 +1605,23 @@ text-search,semantic-grep,,https://github.com/arunsupe/semantic-grep,grep for wo
 networking,nics,,https://github.com/jftuga/nics,Display information about Network Interface Cards (NICs); the same output is presented across platforms.
 note-taking,tb.go,,https://github.com/araaha/tb.go,"Tasks, boards & notes for the command-line habitat."
 graphics,PyBonsai,,https://github.com/Ben-Edwards44/PyBonsai,Generate procedural ASCII art trees in the terminal.
-chat,senpai,,https://git.sr.ht/~delthas/senpai/,"A modern terminal IRC client."
-flashcard,vocage,,https://git.sr.ht/~proycon/vocage/,"Vocage is a minimalistic terminal-based vocabulary-learning tool. It presents flashcards using a spaced-repetition algorithm (e.g. Leitner). Data is stored in a simple plain-text tab-separated values format (TSV)."
+chat,senpai,,https://git.sr.ht/~delthas/senpai/,A modern terminal IRC client.
+flashcard,vocage,,https://git.sr.ht/~proycon/vocage/,Vocage is a minimalistic terminal-based vocabulary-learning tool. It presents flashcards using a spaced-repetition algorithm (e.g. Leitner). Data is stored in a simple plain-text tab-separated values format (TSV).
 todo-manager,todo.txt-more,,https://git.sr.ht/~proycon/todotxt-more,"Extensions for todo.txt: interactive rofi/fzf control, sync github issues, better colors, time tracking... and more!"
 music,podboat,https://newsboat.org/,https://github.com/newsboat/newsboat,"A podcast download manager for text terminals, a companion for the newsboat RSS-reader."
 music,podbit,,https://github.com/ejv2/podbit,"Podbit is a replacement for newsboat's standard podboat tool for listening to podcasts. It is minimal, performant and tries to focus just on being a podcast client, rather than an RSS reader."
-chat,iamb,https://iamb.chat/,https://github.com/ulyssa/iamb,"iamb is a Matrix client for the terminal that uses Vim keybindings."
-networking,bmon,,https://github.com/tgraf/bmon,bmon is a monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.
+chat,iamb,https://iamb.chat/,https://github.com/ulyssa/iamb,A Matrix client for the terminal that uses Vim keybindings.
+networking,bmon,,https://github.com/tgraf/bmon,A monitoring and debugging tool to capture networking related statistics and prepare them visually in a human friendly way.
 graphics,zbar,https://zbar.sourceforge.net/,https://github.com/mchehab/zbar,"ZBar reads bar codes from various sources, such as video streams and image files. It supports many popular ypes of bar codes including QR Codes."
 networking,wavemon,,https://github.com/uoaerg/wavemon,wavemon is an ncurses-based monitoring application for wireless network devices on Linux.
 git,hut,,https://git.sr.ht/~xenrox/hut,A CLI tool for sr.ht.
-text-processing,lingua-cli,,https://github.com/proycon/lingua-cli,"This is a small command-line tool for language detection, it is a simple wrapper around the lingua-rs library for Rust"
+text-processing,lingua-cli,,https://github.com/proycon/lingua-cli,"This is a small command-line tool for language detection, it is a simple wrapper around the lingua-rs library for Rust."
 text-processing,analiticcl,,https://github.com/proycon/analiticcl,"An approximate string matching or fuzzy-matching system for spelling correction, normalisation or post-OCR correction."
 text-processing,lexmatch,,https://github.com/proycon/lexmatch,"This is a simple lexicon matching tool that, given a lexicon of words or phrases, identifies all matches in a given target text, returning their exact positions. It can be used compute a frequency list for a lexicon, on a target corpus."
 text-processing,stam-tools,,https://github.com/annotation/stam-tools,"A collection of command-line tools for working with STAM, a data-model for stand-off annotations on text."
-text-processing,charfreq,,https://github.com/proycon/charfreq,"Very simple command-line tool that counts (unicode) character frequency from standard input"
-diff,sesdiff,,https://github.com/proycon/sesdiff,"Generates a shortest edit script (Myers' diff algorithm) to indicate how to get from the strings in column A to the strings in column B. Also provides the edit distance (levenshtein)."
+text-processing,charfreq,,https://github.com/proycon/charfreq,Very simple command-line tool that counts (unicode) character frequency from standard input.
+diff,sesdiff,,https://github.com/proycon/sesdiff,Generates a shortest edit script (Myers' diff algorithm) to indicate how to get from the strings in column A to the strings in column B. Also provides the edit distance (levenshtein).
 text-processing,ucto,https://languagemachines.github.io/ucto/,https://github.com/LanguageMachines/ucto,"Ucto tokenizes text files: it separates words from punctuation, and splits sentences. It has rules (regular-expression based) for several languages."
 text-processing,ssam,,https://github.com/proycon/ssam,"Ssam, short for split sampler, splits one or more text-based input files into multiple sets using random sampling. This is useful for splitting data into a training, test and development sets."
-text-processing,Colibri Core,https://proycon.github.io/colibri-core/,https://github.com/proycon/colibri-core,"Colibri Core is software to quickly and efficiently count and extract patterns (n-grams and more) from large corpus data, to extract various statistics on the extracted patterns, and to compute relations between the extracted patterns."
+text-processing,Colibri Core,https://proycon.github.io/colibri-core/,https://github.com/proycon/colibri-core,"A software to quickly and efficiently count and extract patterns (n-grams and more) from large corpus data, to extract various statistics on the extracted patterns, and to compute relations between the extracted patterns."
 text-processing,hyphertool,,https://github.com/proycon/hyphertool/,Command-line tool for syllabification and hyphenisation for multiple languages.
