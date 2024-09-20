@@ -1628,3 +1628,4 @@ text-processing,hyphertool,,https://github.com/proycon/hyphertool/,Command-line 
 transfer,Froop,,https://github.com/happer64bit/froop,Share file across network seamlessly and securely.
 cheatsheet,Runme,https://runme.dev/,https://github.com/stateful/runme,DevOps notebooks built with Markdown.
 online,av,,https://github.com/aviator-co/av,A command line tool to manage stacked PRs with Aviator.
+vm,oxker,,https://github.com/mrjackwills/oxker,A simple TUI to view & control docker containers.
