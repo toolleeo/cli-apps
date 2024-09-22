@@ -17,7 +17,7 @@ Some links are available to [related resources](#resources).
 * [AI / ChatGPT](#ai) (31), [Anki, decks and flashcards](#flashcard) (8)
 * [Backup](#backup) (16)
 * [Calculators](#calc) (16), [Chat and instant messaging](#chat) (34), [Clean up of files and directories](#file-dir-cleanup) (12), [Co-pilot](#copilot) (10), [Command launchers](#launcher) (21), [Commands cheatsheet and snippets](#cheatsheet) (24), [Containerization and virtualization](#vm) (22), [Conversion](#conversion) (14)
-* [Data management](#data-management) (17), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
+* [Data management](#data-management) (16), [Data management - JSON/YAML/etc.](#data-management-json) (44), [Data management - Tabular data](#data-management-tabular) (28), [Data transfer](#transfer) (44), [DevOps](#devops) (8), [Diff](#diff) (11), [Directory changers (alternatives to cd)](#cd) (21), [Disk usage analyzers](#disk-analyzer) (12)
 * [Editors](#editors) (27), [Email](#email) (17)
 * [File and file system handling](#file-handling) (22), [File deletion and trash bin (alternatives to rm)](#rm) (13), [File explorer and tree visualization](#file-explorer) (11), [File finding (alternatives to find)](#find) (8), [File listing (alternatives to ls)](#ls) (9), [File manager](#file-manager) (21), [File renamers](#file-renamer) (14), [File systems](#file-system) (4), [File watching for changes](#file-watch) (7), [Financial tools](#financial) (15), [Font management](#font) (4), [Funny tools](#funny) (35), [Fuzzy finders and option pickers](#option-picker) (15)
 * [Games](#games) (54), [Git and accessories](#git) (56), [Graphics](#graphics) (43)
@@ -29,7 +29,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (34), [Shells](#shells) (25), [Sound and music](#music) (52), [System monitoring](#monitor) (32), [System tools](#system) (31)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
-* [Utilities](#utility) (41)
+* [Utilities](#utility) (42)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (29), [Writing](#writing) (9)
 
@@ -309,7 +309,6 @@ Tools to manage data files.
 * [IRedis](https://github.com/laixintao/iredis) - Interactive Redis: A CLI for Redis with autocompletion and Syntax Highlighting.
 * [lowcharts](https://github.com/juan-leon/lowcharts) - lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.
 * [osmf](https://github.com/codesoap/osmar) - OpenStreetMap find - A simple command line tool to explore OSM data.
-* [play](https://github.com/paololazzari/play) - TUI playground for your favorite programs, such as grep, sed and awk.
 * [ramda-cli](https://github.com/raine/ramda-cli) - A tool for processing data with functional pipelines.
 * [Redis Viewer](https://github.com/SaltFishPr/redis-viewer) - A tool to view Redis data in terminal.
 * [redis_tui](https://github.com/mat2cc/redis_tui) - Redis terminal browser application.
@@ -1891,6 +1890,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [oji](https://github.com/xxczaki/oji) - Interactive text emoji creator.
 * [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 * [pangran](https://github.com/BimoT/pangran) - A simple TUI program that checks if you've typed a pangram.
+* [play](https://github.com/paololazzari/play) - TUI playground for your favorite programs, such as grep, sed and awk.
 * [plzz](https://github.com/deep5050/plzz) - A Python CLI to automate daily tasks of both common and advanced users. It allows easily launching common and different types of operations such as creating random files or check hashes.
 * [Polykill](https://github.com/Bdeering1/polykill) - Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
 * [ProgressLine](https://github.com/kattouf/ProgressLine) - Track commands progress in a compact one-line format.
