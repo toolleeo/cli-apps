@@ -18,7 +18,7 @@ option-picker,pick,,https://github.com/mptre/pick,Choose one option from a set o
 data-management-tabular,q,http://harelba.github.io/q/,https://github.com/harelba/q,"Execute SQL-like queries on CSVs/TSVs tabular data files; each tabular file is treated as a database table; supports all SQL constructs (`WHERE`, `GROUP BY`, `JOIN`)."
 font,FIGlet,http://www.figlet.org/,https://github.com/cmatsuoka/figlet,"Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available."
 font,toilet,http://caca.zoy.org/wiki/toilet,https://github.com/cacalabs/toilet,"Tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, color fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects."
-editors,Emacs,https://www.gnu.org/software/emacs/,https://git.savannah.gnu.org/git/emacs.git,"One of the godfathers of text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp."
+editors,Emacs,https://www.gnu.org/software/emacs/,https://git.savannah.gnu.org/git/emacs.git,"One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp."
 editors,jed,http://www.jedsoft.org/jed/index.html,https://github.com/jedsoft/jed,A text editor with a drop-down menu facility that make it especially user-friendly.
 editors,joe,http://joe-editor.sourceforge.net/,https://sourceforge.net/projects/joe-editor/,"(Joe's Own Editor) - a compact text editor written in C, a detailed list of features and missing ones is explicitly reported on the website. This editor is mentioned in several web sources for its capability in handling large files."
 editors,nano,https://www.nano-editor.org/,https://git.savannah.gnu.org/git/nano.git,"Easy to use, lightweight text editor; no complex keybindings to remember; the main ones are shown in the main menu."
@@ -56,7 +56,7 @@ system,conspy,http://conspy.sourceforge.net/,https://sourceforge.net/p/conspy/co
 system,lshw,http://www.ezix.org/project/wiki/HardwareLiSter,https://ezix.org/src/pkg/lshw,"A small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc."
 system,Ntfy,,https://github.com/dschep/ntfy,Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long-running commands complete. It can as well send push notifications to your phone once a particular command completes.
 launcher,task-spooler,http://vicerveza.homeunix.net/~viric/soft/ts/,,"A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lot of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities."
-monitor,ttyload,http://www.daveltd.com/src/util/ttyload/,https://github.com/lindes/ttyload,"A lightweight utility that offers a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal (""tty"")."
+monitor,ttyload,http://www.daveltd.com/src/util/ttyload/,https://github.com/lindes/ttyload,"Lightweight utility that offers a color-coded graph of load averages over time, enabling a graphical tracking of system average load."
 history,hstr,,https://github.com/dvorka/hstr,"Manage the shell history. It has a powerful visual search and execution of previous commands, and history editing capabilities."
 launcher,parallel,https://www.gnu.org/software/parallel/,https://git.savannah.gnu.org/git/parallel.git,"A shell tool from GNU for executing jobs in parallel using one or more computers, it can split the input and pipe it into commands in parallel."
 security,cipher,,https://github.com/ash-shell/cipher,An Ash module that makes it easy to perform aes-256-cbc encryption for files and directories.
@@ -77,7 +77,7 @@ organizers,khard,,https://github.com/lucc/khard,vCard address book written in Py
 todo-manager,iKog,https://sites.google.com/site/henspace/ikog/,https://github.com/boyska/ikog,"A fully-featured task manager encapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
 todo-manager,Yokadi,https://yokadi.github.io/,https://github.com/agateau/yokadi,Project-based todo manager: every task must be specified with a mandatory project indication. Tasks are stored within a SQLlite DB. Written in Python.
 organizers,pal,http://palcal.sourceforge.net/,https://sourceforge.net/p/palcal/code/HEAD/tree,"Calendar for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional."
-organizers,Remind,https://dianne.skoll.ca/projects/remind/,https://git.skoll.ca/Skollsoft-Public/Remind.git,"Calendar that supports set complex rules to define events; custom, powerful text-based storage format."
+organizers,Remind,https://dianne.skoll.ca/projects/remind/,https://git.skoll.ca/Skollsoft-Public/Remind.git,"Calendar that supports complex rules to define events and used a custom, powerful text-based storage format."
 todo-manager,TaskWarrior,https://taskwarrior.org/,https://github.com/GothenburgBitFactory/taskwarrior,"Todo manager with advanced features, dedicated synchronization server available, many plugins and related tools, healthy software project."
 todo-manager,todo.txt,http://todotxt.org/,https://github.com/todotxt/todo.txt-cli,"Minimalistic todo manager that uses a simple plain text file to keep track of items, implemented as a shell script."
 todo-manager,TuDu,https://code.meskio.net/tudu/,https://github.com/meskio/tudu,"Manage hierarchical todos. Each task has a title, a long text description, a deadline (tudu warns you when the date is close), and a scheduled date. There are categories and priorities."
@@ -140,7 +140,7 @@ file-dir-cleanup,rmlint,,https://github.com/sahib/rmlint,Recursively scan a dire
 file-handling,gcp,,https://github.com/aelafifi/gcp,"(Goffi's cp) - an advanced file copier tool, heavily inspired from the traditional `cp` command, but with some additional features: Displays the copy progress indicator, with estimated time, current file speed; logs of all actions; resume of interrupted copy processes."
 file-manager,nnn,,https://github.com/jarun/nnn,"""The unorthodox terminal file manager"" - a tiny, nearly 0-config and fast file manager supporting all the operations on files and directories."
 file-handling,PathPicker,https://facebook.github.io/PathPicker/,https://github.com/facebook/pathpicker,"A tool from Facebook that parses the output from a command and presents a UI to select files and directories, can be used to apply a command of a interactively selected files or to move across directories."
-file-explorer,tree,http://mama.indstate.edu/users/ice/tree/,https://gitlab.com/OldManProgrammer/unix-tree,"""Recursive directory listing command that produces a depth indented listing of files""."
+file-explorer,tree,http://mama.indstate.edu/users/ice/tree/,https://gitlab.com/OldManProgrammer/unix-tree,Recursive directory listing command that produces a depth indented list of files.
 funny,asciicquarium,http://www.robobunny.com/projects/asciiquarium/html/,https://github.com/rgoring/asciiquarium,Enjoy the mysteries of the sea from the safety of your own terminal!
 funny,cmatrix,http://www.asty.org/cmatrix/,https://github.com/abishekvashok/cmatrix,ncurses program that display the scrolling lines found in the movie `The matrix`.
 funny,cowsay,https://en.wikipedia.org/wiki/Cowsay,https://github.com/tnalpgge/rank-amateur-cowsay,Generate an ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
@@ -179,7 +179,7 @@ transfer,lftp,https://lftp.yar.ru/,https://github.com/lavv17/lftp,"""Sophisticat
 transfer,Magic Wormhole,,https://github.com/magic-wormhole/magic-wormhole,The program allows transfer arbitrary-sized files and directories (or short pieces of text) from one computer to another The two endpoints are identified by using identical human-readable codes.
 transfer,OnionShare,https://onionshare.org/,https://github.com/onionshare/onionshare,"""An open source tool that lets you securely and anonymously share a file of any size."" "
 transfer,qrcp,https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html,https://github.com/claudiodangelis/qrcp,Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
-transfer,rsync,https://download.samba.org/pub/rsync/rsync.html,https://github.com/WayneD/rsync,"Mirror directories across networked machines, handles diffs/changed files, works across SSH, plenty of parameters."
+transfer,rsync,https://download.samba.org/pub/rsync/rsync.html,https://github.com/WayneD/rsync,"A tool that mirrors directories across networked machines, handling changes to files, working across SSH, with plenty of parameters for configuration."
 transfer,sitecopy,http://www.manyfish.co.uk/sitecopy/,,"Synchronizes a local copy of a website with a remote copy on a server, does not use SSH/`scp` but FTP for file copy, useful when the remote server does not support secure copy."
 transfer,stftp,http://stftp.sourceforge.net/,https://sourceforge.net/projects/stftp,"(simple terminal FTP) aims to be an ""easy-to-use and unbloated client for the UNIX (and UNIX-like) console""."
 transfer,Woof,http://www.home.unix-ag.org/simon/woof.html,https://github.com/simon-budig/woof,(Web Offer One File) sets up an HTTP webserver to serve files from a given local directory all the users connected to the network can see and download the files.
@@ -648,7 +648,7 @@ data-management,ROAPI,,https://github.com/roapi/roapi,ROAPI automatically spins 
 git,git-secret,,https://github.com/sobolevn/git-secret,"A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using PGP and their secret keys."
 git,gita,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repositories.
 games,anonymine,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine,Curses mode minesweeper without guessing and other original features.
-games,greed,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game of consumption. Eat as much as you can before munching yourself into a corner.
+games,greed,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game in which the goal is to move and consume all the numbers in a table.
 launcher,Mxflow-cli,,https://github.com/metaory/mxflow-cli,"A modern, general purpose CLI task runner with human-readable YAML config file."
 screen-recorder,vhs,,https://github.com/charmbracelet/vhs,Write terminal GIFs as code for integration testing and demoing your CLI tools.
 system,checksum.sh,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh,"Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere."
@@ -1336,7 +1336,7 @@ utility,envio,,https://github.com/envio-cli/envio,Envio is a command-line tool t
 viewers,epy,,https://github.com/wustho/epy,"CLI Ebook (epub2, epub3, fb2, mobi) Reader."
 networking,gg,,https://github.com/mzz2017/gg,A command-line tool for one-click proxy in your research and development without installing v2ray or anything else.
 note-taking,mn,,https://github.com/misopog/mn,A dead simple note-taking script.
-find,rawhide,,https://github.com/raforg/rawhide,Find files using pretty C expressions.
+find,rawhide,,https://github.com/raforg/rawhide,File finder that uses C expressions to specify the filenames.
 utility,sasqwatch,,https://github.com/fabio42/sasqwatch,A modern take on the classic watch command.
 conversion,hecat,,https://gitlab.com/nodiscc/hecat,A generic automation tool around data stored as plain-text YAML files.
 funny,hollywood,,https://github.com/dustinkirkland/hollywood,Runs a script turning your Linux terminal into a Hollywood style real-time hacking terminal.
@@ -1412,7 +1412,7 @@ devops,mkdkr,,https://github.com/rosineygp/mkdkr,"Super small and powerful frame
 networking,Kapow!,,https://github.com/BBVA/kapow,Say we have a nice cozy shell command that solves our problem. Kapow! lets us easily turn that into an HTTP API.
 shells,es,https://wryun.github.io/es-shell/,https://wryun.github.io/es-shell/,"(extensible shell) shell with first class functions, lexical scope, exceptions, and rich return values, based on Plan9's rc."
 shells,ksh93,,https://github.com/ksh93/ksh,(KornShell) a shell programming language that is compatible with the Bourne Shell in addition and has the major command-entry features of the BSD shell csh.
-shells,Tcsh,https://www.tcsh.org,https://github.com/tcsh-org/tcsh,C shell with file name completion and command line editing.
+shells,Tcsh,https://www.tcsh.org,https://github.com/tcsh-org/tcsh,"A shell that, at the time of creation, introduced command completion and command line editing."
 shells,Yash,https://magicant.github.io/yash,https://github.com/magicant/yash,Yash (yet another shell) a POSIX-compliant command line shell written in C99.
 shells,Oils,https://github.com/oilshell/oil,https://www.oilshell.org/,"From their README: ""Oils is our upgrade path from bash to a better language and runtime!"" "
 shells,mksh,http://www.mirbsd.org/mksh.htm,https://github.com/MirBSD/mksh,(MirBSD Korn Shell) an actively developed free implementation of the Korn Shell programming language and a successor to the Public Domain Korn Shell (pdksh).

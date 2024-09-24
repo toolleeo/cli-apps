@@ -428,7 +428,7 @@ Programs for transferring files and data between different machines.
 * [qrcp](https://www.linuxuprising.com/2020/07/qrcp-transfer-files-between-desktop-and.html) - Transfer Files Between Desktop And Mobile Devices Over Wi-Fi By Scanning A QR Code.
 * [rclone](https://rclone.org/) - Manage file synchronization on cloud storage.
 * [rclone-tui](https://github.com/darkhz/rclone-tui) - Cross-platform manager for rclone, which aims to be on-par with the web GUI.
-* [rsync](https://download.samba.org/pub/rsync/rsync.html) - Mirror directories across networked machines, handles diffs/changed files, works across SSH, plenty of parameters.
+* [rsync](https://download.samba.org/pub/rsync/rsync.html) - A tool that mirrors directories across networked machines, handling changes to files, working across SSH, with plenty of parameters for configuration.
 * [sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.
 * [shbin](https://github.com/Shiphero/shbin) - Upload code snippets, notebooks, images or any other content to a GitHub repository that acts as your internal pastebin, and returns the URL to share it with your team.
 * [shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
@@ -529,7 +529,7 @@ Text editors.
 * [Bob](https://github.com/MordechaiHadad/bob) - Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions.
 * [Diakonos](https://github.com/Pistos/diakonos) - A powerful editor with “standard" keybindings and several advanced features; written in Ruby.
 * [ed](https://www.gnu.org/software/ed/) - GNU ed is a line-oriented text editor. It is used to create, display, modify and otherwise manipulate text files, both interactively and via shell scripts.
-* [Emacs](https://www.gnu.org/software/emacs/) - One of the godfathers of text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
+* [Emacs](https://www.gnu.org/software/emacs/) - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
 * [Feather](https://www.feathereditor.com/) - The only terminal based text editor designed to work with BIG files.
 * [Helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.
@@ -631,7 +631,7 @@ Show directory trees and navigate through the file system (but not full-featured
 * [Rust-Traverse](https://github.com/dmcg310/Rust-Traverse) - Rust traverse is a terminal based file explorer. It is inspired by the NNN file manager. It uses Ratatui for the terminal UI, with Crossterm for the terminal backend.
 * [tere](https://github.com/mgunyho/tere) - Terminal file explorer that is a faster alternative to using cd and ls to browse folders in your terminal.
 * [tre](https://github.com/dduan/tre) - `tree` command improved with git awareness, editor aliasing, and colors.
-* [tree](http://mama.indstate.edu/users/ice/tree/) - "Recursive directory listing command that produces a depth indented listing of files".
+* [tree](http://mama.indstate.edu/users/ice/tree/) - Recursive directory listing command that produces a depth indented list of files.
 * [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer.
 * [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 
@@ -646,7 +646,7 @@ Search the filesystem looking for files with specific characteristics, e.g., nam
 * [gret](https://github.com/4imothy/gret) - A command-line utility designed to search through directories and files for a regex expression that matches.
 * [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 * [plocate](https://plocate.sesse.net/) - A much faster locate; plocate is a locate based on posting lists, completely replacing mlocate with a much faster (and smaller) index.
-* [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
+* [rawhide](https://github.com/raforg/rawhide) - File finder that uses C expressions to specify the filenames.
 
 ## <a name="ls"></a>File listing (alternatives to ls)
 
@@ -843,7 +843,7 @@ Board games, puzzles, roguelikes, role-play, adventures, card games, etc..
 * [gambit](https://github.com/maaslalani/gambit) - Chess board in your terminal.
 * [GameShell](https://github.com/phyver/GameShell) - GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.
 * [go-sweep](https://github.com/maxpaulus43/go-sweep) - Minesweeper game in the command line programmed in Go.
-* [greed](http://www.catb.org/~esr/greed/) - A game of consumption. Eat as much as you can before munching yourself into a corner.
+* [greed](http://www.catb.org/~esr/greed/) - A game in which the goal is to move and consume all the numbers in a table.
 * [guess-word-cli](https://github.com/akgondber/guess-word-cli) - Find out a source word which characters was shuffled and moreover an extra character was added to bring some complexity.
 * [hangman](https://github.com/braheezy/hangman) - A Go TUI Hangman game built with the lovely BubbleTea framework.
 * [Language-games](https://github.com/Hellisotherpeople/Language-games) - Dead simple games made with word vectors.
@@ -1192,7 +1192,7 @@ Calendar and appointment managers.
 * [peroutine](https://github.com/UlyssesZh/peroutine) - Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime.
 * [plann](https://github.com/tobixen/plann) - Command-line interface to online calendars.
 * [ppl addressbook](http://ppladdressbook.org/) - Address book tool that uses the vCard format. Built on top of Ruby and Git
-* [Remind](https://dianne.skoll.ca/projects/remind/) - Calendar that supports set complex rules to define events; custom, powerful text-based storage format.
+* [Remind](https://dianne.skoll.ca/projects/remind/) - Calendar that supports complex rules to define events and used a custom, powerful text-based storage format.
 * [remint](https://sr.ht/~mlaparie/remint/) - A simple terminal UI wrapper for D. Skoll's Remind calendar program
 * [tz](https://github.com/oz/tz) - tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.
 * [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV synchronization program.
@@ -1527,7 +1527,7 @@ Shell programs that enable the interaction through the terminal.
 * [PowerShell](https://microsoft.com/PowerShell) - An automation and configuration tool/framework optimized for dealing with structured data, REST APIs, and object models.
 * [Rash](https://rash-lang.org) - A shell language, library, and REPL for Racket.
 * [Reptyl](https://github.com/0ut0flin3/Reptyl) - A cross-platform command line shell that supports execution of commands in natural language.
-* [Tcsh](https://www.tcsh.org) - C shell with file name completion and command line editing.
+* [Tcsh](https://www.tcsh.org) - A shell that, at the time of creation, introduced command completion and command line editing.
 * [Twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server.
 * [xonsh](https://xon.sh/) - The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.
 * [Yash](https://magicant.github.io/yash) - Yash (yet another shell) a POSIX-compliant command line shell written in C99.
@@ -1622,7 +1622,7 @@ Applications to display the usage of system resources: network, memory, power, e
 * [The Logfile Navigator](https://lnav.org/) - An advanced and colorful log file viewer with TUI interface.
 * [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool.
 * [tmon](https://github.com/pondda/tmon) - A tiny system monitor for Linux.
-* [ttyload](http://www.daveltd.com/src/util/ttyload/) - A lightweight utility that offers a color-coded graph of load averages over time on Linux and other Unix-like systems. It enables a graphical tracking of system load average in a terminal ("tty").
+* [ttyload](http://www.daveltd.com/src/util/ttyload/) - Lightweight utility that offers a color-coded graph of load averages over time, enabling a graphical tracking of system average load.
 * [updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings.
 * [whowatch](https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/) - Monitor Linux Users and Processes in Real Time.
 * [zfxtop](https://github.com/ssleert/zfxtop) - Self described as “fetch top written by bubbletea enjoyer”.
