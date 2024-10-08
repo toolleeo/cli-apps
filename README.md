@@ -9,7 +9,7 @@ Some links are available to [related resources](#resources).
 
 # Summary
 
-* Apps/tools: **1632**
+* Apps/tools: **1633**
 * Categories: **77**
 
 # Index
@@ -29,7 +29,7 @@ Some links are available to [related resources](#resources).
 * [RSS](#rss) (10), [Religion](#religion) (4)
 * [Science](#science) (20), [Screen recorder](#screen-recorder) (10), [Screen savers](#screensaver) (6), [Security and encryption](#security) (34), [Shells](#shells) (25), [Sound and music](#music) (52), [System monitoring](#monitor) (32), [System tools](#system) (31)
 * [Terminals](#terminal) (22), [Text processing](#text-processing) (46), [Text search (alternatives to grep)](#text-search) (12), [Text search and replace (alternatives to sed)](#text-search-replace) (6), [Time trackers](#time-tracker) (20), [Todo managers](#todo-manager) (35), [Torrent](#torrent) (8), [Typing test and practice](#typing) (14)
-* [Utilities](#utility) (42)
+* [Utilities](#utility) (43)
 * [Versioning](#versioning) (9), [Video](#video) (12), [Viewers](#viewers) (30)
 * [Web browser](#browser) (18), [Web development](#webdev) (29), [Writing](#writing) (9)
 
@@ -1874,6 +1874,7 @@ Miscellaneous utilities that are not do not fit in other categories and they are
 * [bash-cache](https://github.com/dimo414/bash-cache) - A function memoization / caching library for bash scripts and shells
 * [bashtutor](https://github.com/agvxov/bashtutor) - Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself.
 * [bkt](https://bkt.rs) - bkt is a subprocess caching utility that makes it easy to reuse past invocations of slow commands
+* [calm-garden-cli](https://github.com/jaroslaw-weber/calm-garden-cli) - A small, discreet terminal tool for breath exercises with progression: earn coins, buy plants, and upgrade your garden.
 * [chet-client](https://github.com/Hillside-Labs/chet-client) - Measure your commands to speed up your development.
 * [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 * [envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment.
