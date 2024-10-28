@@ -3,12 +3,12 @@ import string
 
 
 summary_template = """
-# Summary
+Summary:
 
 * Apps/tools: **{n_apps}**
 * Categories: **{n_cats}**
 
-# Index
+# Contents
 
 {cats}
 """

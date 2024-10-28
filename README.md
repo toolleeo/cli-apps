@@ -8,12 +8,12 @@ Read the instructions before rushing at changing the README file: you must edit 
 
 Some links are available to [related resources](#resources).
 
-# Summary
+Summary:
 
 * Apps/tools: **1635**
 * Categories: **77**
 
-# Index
+# Contents
 
 * [AI / ChatGPT](#ai) (31), [Anki, decks and flashcards](#flashcard) (8)
 * [Backup](#backup) (16)
