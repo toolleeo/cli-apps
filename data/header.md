@@ -1,4 +1,4 @@
-# The largest Awesome List of command line (CLI/TUI) programs
+# Awesome Command Line (CLI/TUI) Programs
 
 This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
 With source information maintained in a handy CSV file.
