@@ -1,9 +1,10 @@
 # The largest Awesome List of command line (CLI/TUI) programs
 
 This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
+With source information maintained in a handy CSV file.
 
 To contribute, see the [contribution section](#contribute).
-As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
+Read the instructions before rushing at changing the README file: you must edit the CSV files, not the README!
 
 Some links are available to [related resources](#resources).
 
@@ -2097,6 +2098,8 @@ A list of some online resources that contribute interesting links to apps and in
 # <a name="contribute"></a>How to contribute
 
 If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
+
+As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
 
 ## Open an issue
 
