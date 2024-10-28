@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **1635**
+* Apps/tools: **1636**
 * Categories: **77**
 
 # Contents
@@ -24,7 +24,7 @@ Summary:
 * [Games](#games) (54), [Git and accessories](#git) (56), [Graphics](#graphics) (43)
 * [History management](#history) (4)
 * [Markdown](#markdown) (11)
-* [Networking](#networking) (79), [Note taking](#note-taking) (25)
+* [Networking](#networking) (79), [Note taking](#note-taking) (26)
 * [Office tools](#office) (15), [Online search and resources](#online) (22), [Organizers and calendars](#organizers) (22)
 * [Package managers](#package-manager) (20), [Password managers](#password-manager) (22), [Pastebin](#pastebin) (3), [Process viewers and monitoring (alternatives to top)](#monitor-top) (26), [Productivity](#productivity) (10), [Program templates and boilerplate](#programming-boilerplate) (12), [Programming](#programming) (43), [Prompts](#prompt) (15)
 * [RSS](#rss) (10), [Religion](#religion) (4)
@@ -1113,6 +1113,7 @@ Tools to take, organize and manage notes.
 * [meudeus](https://github.com/dj8yfo/meudeus) - A skim-based `*.md` explore and surf tool.
 * [mn](https://github.com/misopog/mn) - A dead simple note-taking script.
 * [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application.
+* [note](https://github.com/bdazl/note) - Minimalistic note taking.
 * [Noted](https://github.com/torbratsberg/noted) - Notes library, with viewer and shortcuts to add, delete and edit notes.
 * [NoteSH](https://github.com/Cvaniak/NoteSH) - Sticky notes App in the Terminal, built with Textual, an amazing TUI framework!
 * [posce](https://github.com/vdt/posce) - A note-taking toolkit for your command line.
